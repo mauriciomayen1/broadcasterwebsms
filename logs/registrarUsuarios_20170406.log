@@ -1,0 +1,92 @@
+2017-04-06T15:23:14-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-04-06T15:23:14-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-04-06T15:23:14-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-04-06T15:23:14-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>INICIO REGISTRO DE USUARIOS: 2017/04/06 15:23:14
+2017-04-06T15:23:14-05:00 INFO (6): REQUESTArray
+(
+    [usuarioURL] => 
+    [accion] => guardar
+    [PHPSESSID] => omj399hbfsilsfdp9qk5vsojk2
+)
+
+2017-04-06T15:23:14-05:00 INFO (6): NOMBRE: MAYENA
+2017-04-06T15:23:14-05:00 INFO (6): DESCRIPCION:  
+2017-04-06T15:23:14-05:00 INFO (6): USUARIOMAYENA
+2017-04-06T15:23:14-05:00 INFO (6): USUARIO FORMADO: MAYENA
+2017-04-06T15:23:14-05:00 INFO (6): URL GENERADA: http://broadcaster.cm-operations.com/dashboard/broadcasterwebsms/bin/tu_empresa.php?msisdn=XXXXXXXXXX&message=MESSAGE&tag=EXAMPLE&idu=58e6a3b22257c&user=MAYENA
+2017-04-06T15:23:14-05:00 INFO (6): DATOS A INSERTAR EN LA BASE CLIENTES DEMO: Array
+(
+    [cliente_nombre] => MAYENA
+    [cliente_descripcion] =>  
+    [cliente_url] => http://broadcaster.cm-operations.com/dashboard/broadcasterwebsms/bin/tu_empresa.php?msisdn=XXXXXXXXXX&message=MESSAGE&tag=EXAMPLE&idu=58e6a3b22257c&user=MAYENA
+    [cliente_usuario] => MAYENA
+    [cliente_agente] => MAYENA
+    [cliente_fecha] => 2017/04/06 15:23:14
+    [cliente_activo] => 1
+)
+
+2017-04-06T15:23:14-05:00 INFO (6): SE INSERTO: 1
+2017-04-06T15:23:14-05:00 INFO (6): Fin: 2017/04/06 15:23:14
+2017-04-06T16:51:17-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-04-06T16:51:17-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-04-06T16:51:17-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-04-06T16:51:17-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>INICIO REGISTRO DE USUARIOS: 2017/04/06 16:51:17
+2017-04-06T16:51:17-05:00 INFO (6): REQUESTArray
+(
+    [usuarioURL] => 
+    [accion] => guardar
+    [PHPSESSID] => isoj1vndlaflfnu14l941hmon1
+)
+
+2017-04-06T16:51:17-05:00 INFO (6): NOMBRE: mike
+2017-04-06T16:51:17-05:00 INFO (6): DESCRIPCION:  
+2017-04-06T16:51:17-05:00 INFO (6): USUARIOmike
+2017-04-06T16:51:17-05:00 INFO (6): USUARIO FORMADO: mike
+2017-04-06T16:51:17-05:00 INFO (6): URL GENERADA: http://broadcaster.cm-operations.com/dashboard/broadcasterwebsms/bin/tu_empresa.php?msisdn=XXXXXXXXXX&message=MESSAGE&tag=EXAMPLE&idu=58e6b8551661e&user=mike
+2017-04-06T16:51:17-05:00 INFO (6): DATOS A INSERTAR EN LA BASE CLIENTES DEMO: Array
+(
+    [cliente_nombre] => mike
+    [cliente_descripcion] =>  
+    [cliente_url] => http://broadcaster.cm-operations.com/dashboard/broadcasterwebsms/bin/tu_empresa.php?msisdn=XXXXXXXXXX&message=MESSAGE&tag=EXAMPLE&idu=58e6b8551661e&user=mike
+    [cliente_usuario] => mike
+    [cliente_agente] => mike
+    [cliente_fecha] => 2017/04/06 16:51:17
+    [cliente_activo] => 1
+)
+
+2017-04-06T16:51:17-05:00 INFO (6): SE INSERTO: 1
+2017-04-06T16:51:17-05:00 INFO (6): Fin: 2017/04/06 16:51:17
+2017-04-06T17:04:36-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-04-06T17:04:36-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-04-06T17:04:36-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-04-06T17:04:36-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>INICIO REGISTRO DE USUARIOS: 2017/04/06 17:04:36
+2017-04-06T17:04:36-05:00 INFO (6): REQUESTArray
+(
+    [usuarioURL] => 
+    [accion] => guardar
+    [PHPSESSID] => isoj1vndlaflfnu14l941hmon1
+)
+
+2017-04-06T17:04:36-05:00 INFO (6): NOMBRE: mike
+2017-04-06T17:04:36-05:00 INFO (6): DESCRIPCION:  
+2017-04-06T17:04:36-05:00 INFO (6): USUARIOmike
+2017-04-06T17:04:36-05:00 INFO (6): USUARIO FORMADO: mike
+2017-04-06T17:04:36-05:00 INFO (6): URL GENERADA: http://broadcaster.cm-operations.com/dashboard/broadcasterwebsms/bin/tu_empresa.php?msisdn=XXXXXXXXXX&message=MESSAGE&tag=EXAMPLE&idu=58e6bb748e23a&user=mike
+2017-04-06T17:04:36-05:00 INFO (6): Fin: 2017/04/06 17:04:36
+2017-04-06T17:04:42-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-04-06T17:04:42-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-04-06T17:04:42-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-04-06T17:04:42-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>INICIO REGISTRO DE USUARIOS: 2017/04/06 17:04:42
+2017-04-06T17:04:42-05:00 INFO (6): REQUESTArray
+(
+    [usuarioURL] => 
+    [accion] => guardar
+    [PHPSESSID] => isoj1vndlaflfnu14l941hmon1
+)
+
+2017-04-06T17:04:42-05:00 INFO (6): NOMBRE: mike
+2017-04-06T17:04:42-05:00 INFO (6): DESCRIPCION:  
+2017-04-06T17:04:42-05:00 INFO (6): USUARIOmike
+2017-04-06T17:04:42-05:00 INFO (6): USUARIO FORMADO: mike
+2017-04-06T17:04:42-05:00 INFO (6): URL GENERADA: http://broadcaster.cm-operations.com/dashboard/broadcasterwebsms/bin/tu_empresa.php?msisdn=XXXXXXXXXX&message=MESSAGE&tag=EXAMPLE&idu=58e6bb7aa6c9f&user=mike
+2017-04-06T17:04:42-05:00 INFO (6): Fin: 2017/04/06 17:04:42

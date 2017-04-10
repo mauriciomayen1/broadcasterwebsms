@@ -1,0 +1,132 @@
+2017-03-26T20:17:08-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-26T20:17:08-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-26T20:17:08-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-26T20:17:08-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>FUNCION CODERE: 2017/03/26 20:17:08
+2017-03-26T20:17:08-06:00 INFO (6): _REQUEST::Array
+(
+    [PHPSESSID] => p0slapa788hhmufv4uqpuskk14
+)
+
+2017-03-26T20:17:08-06:00 INFO (6): HOSTNAME: {imap.gmail.com:993/ssl/novalidate-cert}INBOX
+2017-03-26T20:17:08-06:00 INFO (6): USERNAME: sms@conceptomovil.com
+2017-03-26T20:17:08-06:00 INFO (6): EMAILS: 
+2017-03-26T20:17:25-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-26T20:17:25-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-26T20:17:25-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-26T20:17:25-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>FUNCION CODERE: 2017/03/26 20:17:25
+2017-03-26T20:17:25-06:00 INFO (6): _REQUEST::Array
+(
+    [PHPSESSID] => p0slapa788hhmufv4uqpuskk14
+)
+
+2017-03-26T20:17:25-06:00 INFO (6): HOSTNAME: {imap.gmail.com:993/ssl/novalidate-cert}INBOX
+2017-03-26T20:17:25-06:00 INFO (6): USERNAME: sms@conceptomovil.com
+2017-03-26T20:17:26-06:00 INFO (6): EMAILS: 
+2017-03-26T20:17:33-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-26T20:17:33-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-26T20:17:33-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-26T20:17:33-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>FUNCION CODERE: 2017/03/26 20:17:33
+2017-03-26T20:17:33-06:00 INFO (6): _REQUEST::Array
+(
+    [PHPSESSID] => p0slapa788hhmufv4uqpuskk14
+)
+
+2017-03-26T20:17:33-06:00 INFO (6): HOSTNAME: {imap.gmail.com:993/ssl/novalidate-cert}INBOX
+2017-03-26T20:17:33-06:00 INFO (6): USERNAME: sms@conceptomovil.com
+2017-03-26T20:17:34-06:00 INFO (6): EMAILS: Array
+(
+    [0] => 10485
+)
+
+2017-03-26T20:17:34-06:00 INFO (6): OVERVIEW : Array
+(
+    [0] => stdClass Object
+        (
+            [subject] => 5549444527;
+            [from] => =?UTF-8?Q?Mauricio_May=C3=A9n?= <mayenmadero@gmail.com>
+            [to] => sms@conceptomovil.com
+            [date] => Sun, 26 Mar 2017 20:16:50 -0600
+            [message_id] => <CAOevBdGF0KUhh68yZvefs6EgovLm=u1a5CquR9-TVQqJVj4brQ@mail.gmail.com>
+            [size] => 3726
+            [uid] => 10919
+            [msgno] => 10485
+            [recent] => 0
+            [flagged] => 0
+            [answered] => 0
+            [deleted] => 0
+            [seen] => 0
+            [draft] => 0
+        )
+
+)
+
+2017-03-26T20:17:34-06:00 INFO (6): OVERVIEW SUBJECT MSISDN : 5549444527;
+2017-03-26T20:17:34-06:00 INFO (6): MESAGE DECODE: 14-qsiwqjsoiwqmsoiqwmsomqwsowqmewb vceqnvuireqh v reqhjiuv hrqeouv hrequi
+cheru chueqr hcuyreh fiuoreq fhuoqrei vcui rqebcvuir
+eqbviuceqrbvqrivqrevygeqrhiveiqruyh vuieqrhfuverq fuyrehfuqr ehf
+
+2017-03-26T20:17:34-06:00 INFO (6): MESAGE ENCODE: 14-qsiwqjsoiwqmsoiqwmsomqwsowqmewb vceqnvuireqh v reqhjiuv hrqeouv hrequi
+cheru chueqr hcuyreh fiuoreq fhuoqrei vcui rqebcvuir
+eqbviuceqrbvqrivqrevygeqrhiveiqruyh vuieqrhfuverq fuyrehfuqr ehf
+
+2017-03-26T20:17:34-06:00 INFO (6): MESAGE DECODE 2: qsiwqjsoiwqmsoiqwmsomqwsowqmewb vceqnvuireqh v reqhjiuv hrqeouv hrequi
+cheru chueqr hcuyreh fiuoreq fhuoqrei vcui rqebcvuir
+eqbviuceqrbvqrivqrevygeqrhiveiqruyh vuieqrhfuverq fuyrehfuqr ehf
+
+2017-03-26T20:17:34-06:00 INFO (6): LONGITUD DE MSISDN: 10
+2017-03-26T20:17:34-06:00 INFO (6): ES UN MSISDN VALIDO.
+2017-03-26T20:17:34-06:00 INFO (6): NO TRAE OPERADOR.
+2017-03-26T20:17:34-06:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN LA BASE mt_sms FUERON::: 787
+2017-03-26T20:17:34-06:00 INFO (6): SI SE ENCONTRO EN BASE::..
+2017-03-26T20:17:34-06:00 INFO (6): LAS COINCIDENCIAS  FUERON::: Array
+(
+    [0] => Array
+        (
+            [mt_id] => 51
+            [mt_medio] => BaseMadre
+            [mt_servicio] => 
+            [mt_marcacion] => 26262
+            [mt_operador] => Telcel
+            [mt_complejo] => 
+            [mt_folio] => 4589a57169f45f9
+            [mt_msisdn] => 5549444527
+            [mt_contenido] => pruebas
+            [mt_fecha] => 2017-02-07 17:24:06
+            [mt_tag] => UNICO
+            [usuario_id] => 1
+            [mt_categoria] => 
+        )
+
+)
+
+2017-03-26T20:17:34-06:00 INFO (6): EL OPERADOR QUE ARROJO LA BASE DE DATOS ES::: Telcel
+2017-03-26T20:17:34-06:00 INFO (6): CARRIER  ::Telcel
+2017-03-26T20:17:34-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=qsiwqjsoiwqmsoiqwmsomqwsowqmewb+vceqnvuireqh+v+reqhjiuv+hrqeouv+hrequi%0D%0Acheru+chueqr+hcuyreh+fiuoreq+fhuoqrei+vcui+rqebcvuir%0D%0Aeqbviuceqrbvqrivqrevygeqrhiveiqruyh+vuieqrhfuverq+fuyrehfuqr+ehf%0D%0A
+2017-03-26T20:17:34-06:00 INFO (6): LONGITUD DE MSISDN: 0
+2017-03-26T20:17:34-06:00 INFO (6): ES UN MSISDN NO VALIDO MENOR DE 10.
+2017-03-26T20:17:39-06:00 INFO (6): response:: 0: Accepted for delivery
+2017-03-26T20:17:39-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-26T20:17:39-06:00 INFO (6): Array data_mt:: Array
+(
+    [mt_medio] => Base
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_folio] => 158d87643aecac8
+    [mt_msisdn] => 5549444527
+    [mt_contenido] => qsiwqjsoiwqmsoiqwmsomqwsowqmewb vceqnvuireqh v reqhjiuv hrqeouv hrequi
+cheru chueqr hcuyreh fiuoreq fhuoqrei vcui rqebcvuir
+eqbviuceqrbvqrivqrevygeqrhiveiqruyh vuieqrhfuverq fuyrehfuqr ehf
+
+    [mt_fecha] => 2017-03-26 20:17:39
+    [mt_tag] => mail
+    [mt_categoria] => SIN CATEGORIA
+    [usuario_id] => 14
+)
+
+2017-03-26T20:17:39-06:00 INFO (6): SE INSERTO:: 1
+2017-03-26T20:17:39-06:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 1114,3
+)
+
+2017-03-26T20:17:39-06:00 INFO (6): SE ACTUALIZO:: 1

@@ -1,0 +1,82 @@
+2017-03-26T20:02:26-06:00 INFO (6): ------------------------------------------------
+2017-03-26T20:02:26-06:00 INFO (6): ------------------------------------------------
+2017-03-26T20:02:26-06:00 INFO (6): ------------------------------------------------
+2017-03-26T20:02:26-06:00 INFO (6): ---- ENVIO PROGRAMADOS - FN GUARDAR ------------
+2017-03-26T20:02:26-06:00 INFO (6): REQUESTArray
+(
+    [categoria] => PRUEBACASA
+    [fechaenvio] => 2017-03-26
+    [horaenvio] => 22de77ffb0f2995
+    [msgtxt] => dewdewdewdewdewdewdw
+    [caracteres] => 20
+    [accion] => guardar
+    [PHPSESSID] => p0slapa788hhmufv4uqpuskk14
+)
+
+2017-03-26T20:02:26-06:00 INFO (6): CATEGORIA: PRUEBACASA
+2017-03-26T20:02:26-06:00 INFO (6): HORA DE ENVIO: 22de77ffb0f2995
+2017-03-26T20:02:26-06:00 INFO (6): FECHA DE ENVIO: 2017-03-26
+2017-03-26T20:02:26-06:00 INFO (6): MENSAJE: dewdewdewdewdewdewdw
+2017-03-26T20:02:26-06:00 INFO (6): CAMPANIA: Administrador
+2017-03-26T20:02:26-06:00 INFO (6): SI REQUESITO TODOS LOS CAMPOS
+2017-03-26T20:02:26-06:00 INFO (6): DIFERENCIA: 0
+2017-03-26T20:02:26-06:00 INFO (6): ES UNA FECHA VALIDAD, AUN NO HA PASADO
+2017-03-26T20:02:26-06:00 INFO (6): DATOS A INSERTAR EN LA BASE MENSAJES PROGRAMADOS: Array
+(
+    [mensaje_horario] => 22de77ffb0f2995
+    [mensaje_horarionombre] => 20:30:00
+    [mensaje_mensaje] => dewdewdewdewdewdewdw
+    [mensaje_nombre] => Administrador
+    [mensaje_fechaenvio] => 2017-03-26
+    [mensaje_descripcion] => Administrador
+    [mensaje_fechaalta] => 2017/03/26 20:02:26
+    [mensaje_activo] => 1
+    [mensaje_region] => PRUEBACASA
+    [mensaje_ocupacion] => PRUEBACASA
+    [mensaje_procesado] => 1
+    [mensaje_usuario] => 1
+)
+
+2017-03-26T20:02:26-06:00 INFO (6): SE INSERTO: 1
+2017-03-26T20:02:26-06:00 INFO (6): FIN:::...
+2017-03-26T20:34:15-06:00 INFO (6): ------------------------------------------------
+2017-03-26T20:34:15-06:00 INFO (6): ------------------------------------------------
+2017-03-26T20:34:15-06:00 INFO (6): ------------------------------------------------
+2017-03-26T20:34:15-06:00 INFO (6): ---- ENVIO PROGRAMADOS - FN GUARDAR ------------
+2017-03-26T20:34:15-06:00 INFO (6): REQUESTArray
+(
+    [categoria] => PRUEBACASA
+    [fechaenvio] => 2017-03-26
+    [horaenvio] => 11de33ffb0f9995
+    [msgtxt] => eqwewqefwff
+    [caracteres] => 11
+    [accion] => guardar
+    [PHPSESSID] => p0slapa788hhmufv4uqpuskk14
+)
+
+2017-03-26T20:34:15-06:00 INFO (6): CATEGORIA: PRUEBACASA
+2017-03-26T20:34:15-06:00 INFO (6): HORA DE ENVIO: 11de33ffb0f9995
+2017-03-26T20:34:15-06:00 INFO (6): FECHA DE ENVIO: 2017-03-26
+2017-03-26T20:34:15-06:00 INFO (6): MENSAJE: eqwewqefwff
+2017-03-26T20:34:15-06:00 INFO (6): CAMPANIA: Administrador
+2017-03-26T20:34:15-06:00 INFO (6): SI REQUESITO TODOS LOS CAMPOS
+2017-03-26T20:34:15-06:00 INFO (6): DIFERENCIA: 0
+2017-03-26T20:34:15-06:00 INFO (6): ES UNA FECHA VALIDAD, AUN NO HA PASADO
+2017-03-26T20:34:15-06:00 INFO (6): DATOS A INSERTAR EN LA BASE MENSAJES PROGRAMADOS: Array
+(
+    [mensaje_horario] => 11de33ffb0f9995
+    [mensaje_horarionombre] => 21:00:00
+    [mensaje_mensaje] => eqwewqefwff
+    [mensaje_nombre] => Administrador
+    [mensaje_fechaenvio] => 2017-03-26
+    [mensaje_descripcion] => Administrador
+    [mensaje_fechaalta] => 2017/03/26 20:34:15
+    [mensaje_activo] => 1
+    [mensaje_region] => PRUEBACASA
+    [mensaje_ocupacion] => PRUEBACASA
+    [mensaje_procesado] => 1
+    [mensaje_usuario] => 1
+)
+
+2017-03-26T20:34:15-06:00 INFO (6): SE INSERTO: 1
+2017-03-26T20:34:15-06:00 INFO (6): FIN:::...

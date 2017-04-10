@@ -1,0 +1,846 @@
+2017-04-04T09:47:21-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T09:47:21-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T09:47:21-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T09:47:21-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-04T09:47:21-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5549444527
+    [message] => jefiwjfio djqw dqkwj dkq j djkq djwq djqw djqw djqw djwq djqw djw qkjd jwq djwq djkwq dj wqjd jwqndsjwqsjwqndwqjndkqndwjqndkjwqndkjqwndjkwqndkjqwnd jwkqndjkqwnd
+    [caracteres] => 160
+    [accion] => enviar
+    [PHPSESSID] => b8gpmclkc7l4rjs4jfsv1rhau0
+)
+
+2017-04-04T09:47:21-05:00 INFO (6): MSISDN: 5549444527
+2017-04-04T09:47:21-05:00 INFO (6): SMS: jefiwjfio djqw dqkwj dkq j djkq djwq djqw djqw djqw djwq djqw djw qkjd jwq djwq djkwq dj wqjd jwqndsjwqsjwqndwqjndkqndwjqndkjwqndkjqwndjkwqndkjqwnd jwkqndjkqwnd
+2017-04-04T09:47:21-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-04T09:47:21-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-04T09:47:21-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-04T09:47:21-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: jefiwjfio djqw dqkwj dkq j djkq djwq djqw djqw djqw djwq djqw djw qkjd jwq djwq djkwq dj wqjd jwqndsjwqsjwqndwqjndkqndwjqndkjwqndkjqwndjkwqndkjqwnd jwkqndjkqwnd
+2017-04-04T09:47:21-05:00 INFO (6): .
+2017-04-04T09:47:21-05:00 INFO (6): .
+2017-04-04T09:47:21-05:00 INFO (6): .
+2017-04-04T09:47:21-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: jefiwjfio djqw dqkwj dkq j djkq djwq djqw djqw djqw djwq djqw djw qkjd jwq djwq djkwq dj wqjd jwqndsjwqsjwqndwqjndkqndwjqndkjwqndkjqwndjkwqndkjqwnd jwkqndjkqwnd
+2017-04-04T09:47:21-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: jefiwjfio+djqw+dqkwj+dkq+j+djkq+djwq+djqw+djqw+djqw+djwq+djqw+djw+qkjd+jwq+djwq+djkwq+dj+wqjd+jwqndsjwqsjwqndwqjndkqndwjqndkjwqndkjqwndjkwqndkjqwnd+jwkqndjkqwnd
+2017-04-04T09:47:21-05:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=jefiwjfio+djqw+dqkwj+dkq+j+djkq+djwq+djqw+djqw+djqw+djwq+djqw+djw+qkjd+jwq+djwq+djkwq+dj+wqjd+jwqndsjwqsjwqndwqjndkqndwjqndkjwqndkjqwndjkwqndkjqwnd+jwkqndjkqwnd
+2017-04-04T09:47:21-05:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-04-04T09:47:21-05:00 INFO (6): response:: 0: Accepted for delivery
+2017-04-04T09:47:21-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-04T09:47:21-05:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-04-04T09:47:21-05:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 258e3b1f9b0b904
+    [mt_contenido] => jefiwjfio djqw dqkwj dkq j djkq djwq djqw djqw djqw djwq djqw djw qkjd jwq djwq djkwq dj wqjd jwqndsjwqsjwqndwqjndkqndwjqndkjwqndkjqwndjkwqndkjqwnd jwkqndjkqwnd
+    [mt_fecha] => 2017-04-04 09:47:21
+    [mt_tag] => UNICO
+    [usuario_id] => 1
+)
+
+2017-04-04T09:47:21-05:00 INFO (6): SE INSERTO:: 1
+2017-04-04T09:47:21-05:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-04-04T09:47:21-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 121,22
+)
+
+2017-04-04T09:47:21-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-04T09:47:28-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T09:47:28-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T09:47:28-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T09:47:28-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-04T09:47:28-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5549444527
+    [message] => jefiwjfio djqw dqkwj dkq j djkq djwq djqw djqw djqw djwq djqw djw qkjd jwq djwq djkwq dj wqjd jwqndsjwqsjwqndwqjndkqndwjqndkjwqndkjqwndjkwqndkjqwnd jwkqndjkqwnd
+    [caracteres] => 160
+    [accion] => enviar
+    [PHPSESSID] => b8gpmclkc7l4rjs4jfsv1rhau0
+)
+
+2017-04-04T09:47:28-05:00 INFO (6): MSISDN: 5549444527
+2017-04-04T09:47:28-05:00 INFO (6): SMS: jefiwjfio djqw dqkwj dkq j djkq djwq djqw djqw djqw djwq djqw djw qkjd jwq djwq djkwq dj wqjd jwqndsjwqsjwqndwqjndkqndwjqndkjwqndkjqwndjkwqndkjqwnd jwkqndjkqwnd
+2017-04-04T09:47:28-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-04T09:47:28-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-04T09:47:28-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-04T09:47:28-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: jefiwjfio djqw dqkwj dkq j djkq djwq djqw djqw djqw djwq djqw djw qkjd jwq djwq djkwq dj wqjd jwqndsjwqsjwqndwqjndkqndwjqndkjwqndkjqwndjkwqndkjqwnd jwkqndjkqwnd
+2017-04-04T09:47:28-05:00 INFO (6): .
+2017-04-04T09:47:28-05:00 INFO (6): .
+2017-04-04T09:47:28-05:00 INFO (6): .
+2017-04-04T09:47:28-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: jefiwjfio djqw dqkwj dkq j djkq djwq djqw djqw djqw djwq djqw djw qkjd jwq djwq djkwq dj wqjd jwqndsjwqsjwqndwqjndkqndwjqndkjwqndkjqwndjkwqndkjqwnd jwkqndjkqwnd
+2017-04-04T09:47:28-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: jefiwjfio+djqw+dqkwj+dkq+j+djkq+djwq+djqw+djqw+djqw+djwq+djqw+djw+qkjd+jwq+djwq+djkwq+dj+wqjd+jwqndsjwqsjwqndwqjndkqndwjqndkjwqndkjqwndjkwqndkjqwnd+jwkqndjkqwnd
+2017-04-04T09:47:28-05:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=jefiwjfio+djqw+dqkwj+dkq+j+djkq+djwq+djqw+djqw+djqw+djwq+djqw+djw+qkjd+jwq+djwq+djkwq+dj+wqjd+jwqndsjwqsjwqndwqjndkqndwjqndkjwqndkjqwndjkwqndkjqwnd+jwkqndjkqwnd
+2017-04-04T09:47:28-05:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-04-04T09:47:36-05:00 INFO (6): response:: 0: Accepted for delivery
+2017-04-04T09:47:36-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-04T09:47:36-05:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-04-04T09:47:36-05:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 158e3b208beeeb5
+    [mt_contenido] => jefiwjfio djqw dqkwj dkq j djkq djwq djqw djqw djqw djwq djqw djw qkjd jwq djwq djkwq dj wqjd jwqndsjwqsjwqndwqjndkqndwjqndkjwqndkjqwndjkwqndkjqwnd jwkqndjkqwnd
+    [mt_fecha] => 2017-04-04 09:47:36
+    [mt_tag] => UNICO
+    [usuario_id] => 1
+)
+
+2017-04-04T09:47:36-05:00 INFO (6): SE INSERTO:: 1
+2017-04-04T09:47:36-05:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-04-04T09:47:36-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 120,64
+)
+
+2017-04-04T09:47:36-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-04T09:47:42-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T09:47:42-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T09:47:42-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T09:47:42-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-04T09:47:42-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5549444527
+    [message] => jefiwjfio djqw dqkwj dkq j djkq djwq djqw djqw djqw djwq djqw djw qkjd jwq djwq djkwq dj wqjd jwqndsjwqsjwqndwqjndkqndwjqndkjwqndkjqwndjkwqndkjqwnd jwkqndjkqwnd
+    [caracteres] => 160
+    [accion] => enviar
+    [PHPSESSID] => b8gpmclkc7l4rjs4jfsv1rhau0
+)
+
+2017-04-04T09:47:42-05:00 INFO (6): MSISDN: 5549444527
+2017-04-04T09:47:42-05:00 INFO (6): SMS: jefiwjfio djqw dqkwj dkq j djkq djwq djqw djqw djqw djwq djqw djw qkjd jwq djwq djkwq dj wqjd jwqndsjwqsjwqndwqjndkqndwjqndkjwqndkjqwndjkwqndkjqwnd jwkqndjkqwnd
+2017-04-04T09:47:42-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-04T09:47:42-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-04T09:47:42-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-04T09:47:42-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: jefiwjfio djqw dqkwj dkq j djkq djwq djqw djqw djqw djwq djqw djw qkjd jwq djwq djkwq dj wqjd jwqndsjwqsjwqndwqjndkqndwjqndkjwqndkjqwndjkwqndkjqwnd jwkqndjkqwnd
+2017-04-04T09:47:42-05:00 INFO (6): .
+2017-04-04T09:47:42-05:00 INFO (6): .
+2017-04-04T09:47:42-05:00 INFO (6): .
+2017-04-04T09:47:42-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: jefiwjfio djqw dqkwj dkq j djkq djwq djqw djqw djqw djwq djqw djw qkjd jwq djwq djkwq dj wqjd jwqndsjwqsjwqndwqjndkqndwjqndkjwqndkjqwndjkwqndkjqwnd jwkqndjkqwnd
+2017-04-04T09:47:42-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: jefiwjfio+djqw+dqkwj+dkq+j+djkq+djwq+djqw+djqw+djqw+djwq+djqw+djw+qkjd+jwq+djwq+djkwq+dj+wqjd+jwqndsjwqsjwqndwqjndkqndwjqndkjwqndkjqwndjkwqndkjqwnd+jwkqndjkqwnd
+2017-04-04T09:47:42-05:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=jefiwjfio+djqw+dqkwj+dkq+j+djkq+djwq+djqw+djqw+djqw+djwq+djqw+djw+qkjd+jwq+djwq+djkwq+dj+wqjd+jwqndsjwqsjwqndwqjndkqndwjqndkjwqndkjqwndjkwqndkjqwnd+jwkqndjkqwnd
+2017-04-04T09:47:42-05:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-04-04T09:47:42-05:00 INFO (6): response:: 0: Accepted for delivery
+2017-04-04T09:47:42-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-04T09:47:42-05:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-04-04T09:47:42-05:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 758e3b20ebf8015
+    [mt_contenido] => jefiwjfio djqw dqkwj dkq j djkq djwq djqw djqw djqw djwq djqw djw qkjd jwq djwq djkwq dj wqjd jwqndsjwqsjwqndwqjndkqndwjqndkjwqndkjqwndjkwqndkjqwnd jwkqndjkqwnd
+    [mt_fecha] => 2017-04-04 09:47:42
+    [mt_tag] => UNICO
+    [usuario_id] => 1
+)
+
+2017-04-04T09:47:42-05:00 INFO (6): SE INSERTO:: 1
+2017-04-04T09:47:42-05:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-04-04T09:47:42-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 120,06
+)
+
+2017-04-04T09:47:42-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-04T09:47:49-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T09:47:49-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T09:47:49-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T09:47:49-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-04T09:47:49-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5549444527
+    [message] => jefiwjfio djqw dqkwj dkq j djkq djwq djqw djqw djqw djwq djqw djw qkjd jwq djwq djkwq dj wqjd jwqndsjwqsjwqndwqjndkqndwjqndkjwqndkjqwndjkwqndkjqwnd jwkqndjkqwnd
+    [caracteres] => 160
+    [accion] => enviar
+    [PHPSESSID] => b8gpmclkc7l4rjs4jfsv1rhau0
+)
+
+2017-04-04T09:47:49-05:00 INFO (6): MSISDN: 5549444527
+2017-04-04T09:47:49-05:00 INFO (6): SMS: jefiwjfio djqw dqkwj dkq j djkq djwq djqw djqw djqw djwq djqw djw qkjd jwq djwq djkwq dj wqjd jwqndsjwqsjwqndwqjndkqndwjqndkjwqndkjqwndjkwqndkjqwnd jwkqndjkqwnd
+2017-04-04T09:47:49-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-04T09:47:49-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-04T09:47:49-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-04T09:47:49-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: jefiwjfio djqw dqkwj dkq j djkq djwq djqw djqw djqw djwq djqw djw qkjd jwq djwq djkwq dj wqjd jwqndsjwqsjwqndwqjndkqndwjqndkjwqndkjqwndjkwqndkjqwnd jwkqndjkqwnd
+2017-04-04T09:47:49-05:00 INFO (6): .
+2017-04-04T09:47:49-05:00 INFO (6): .
+2017-04-04T09:47:49-05:00 INFO (6): .
+2017-04-04T09:47:49-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: jefiwjfio djqw dqkwj dkq j djkq djwq djqw djqw djqw djwq djqw djw qkjd jwq djwq djkwq dj wqjd jwqndsjwqsjwqndwqjndkqndwjqndkjwqndkjqwndjkwqndkjqwnd jwkqndjkqwnd
+2017-04-04T09:47:49-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: jefiwjfio+djqw+dqkwj+dkq+j+djkq+djwq+djqw+djqw+djqw+djwq+djqw+djw+qkjd+jwq+djwq+djkwq+dj+wqjd+jwqndsjwqsjwqndwqjndkqndwjqndkjwqndkjqwndjkwqndkjqwnd+jwkqndjkqwnd
+2017-04-04T09:47:49-05:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=jefiwjfio+djqw+dqkwj+dkq+j+djkq+djwq+djqw+djqw+djqw+djwq+djqw+djw+qkjd+jwq+djwq+djkwq+dj+wqjd+jwqndsjwqsjwqndwqjndkqndwjqndkjwqndkjqwndjkwqndkjqwnd+jwkqndjkqwnd
+2017-04-04T09:47:49-05:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-04-04T09:47:49-05:00 INFO (6): response:: 0: Accepted for delivery
+2017-04-04T09:47:49-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-04T09:47:49-05:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-04-04T09:47:49-05:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 458e3b21553d624
+    [mt_contenido] => jefiwjfio djqw dqkwj dkq j djkq djwq djqw djqw djqw djwq djqw djw qkjd jwq djwq djkwq dj wqjd jwqndsjwqsjwqndwqjndkqndwjqndkjwqndkjqwndjkwqndkjqwnd jwkqndjkqwnd
+    [mt_fecha] => 2017-04-04 09:47:49
+    [mt_tag] => UNICO
+    [usuario_id] => 1
+)
+
+2017-04-04T09:47:49-05:00 INFO (6): SE INSERTO:: 1
+2017-04-04T09:47:49-05:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-04-04T09:47:49-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 119,48
+)
+
+2017-04-04T09:47:49-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-04T09:47:58-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T09:47:58-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T09:47:58-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T09:47:58-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-04T09:47:58-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5549444527
+    [message] => jefiwjfio djqw dqkwj dkq j djkq djwq djqw djqw djqw djwq djqw djw qkjd jwq djwq djkwq dj wqjd jwqndsjwqsjwqndwqjndkqndwjqndkjwqndkjqwndjkwqndkjqwnd jwkqndjkqwnd
+    [caracteres] => 160
+    [accion] => enviar
+    [PHPSESSID] => b8gpmclkc7l4rjs4jfsv1rhau0
+)
+
+2017-04-04T09:47:58-05:00 INFO (6): MSISDN: 5549444527
+2017-04-04T09:47:58-05:00 INFO (6): SMS: jefiwjfio djqw dqkwj dkq j djkq djwq djqw djqw djqw djwq djqw djw qkjd jwq djwq djkwq dj wqjd jwqndsjwqsjwqndwqjndkqndwjqndkjwqndkjqwndjkwqndkjqwnd jwkqndjkqwnd
+2017-04-04T09:47:58-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-04T09:47:58-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-04T09:47:58-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-04T09:47:58-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: jefiwjfio djqw dqkwj dkq j djkq djwq djqw djqw djqw djwq djqw djw qkjd jwq djwq djkwq dj wqjd jwqndsjwqsjwqndwqjndkqndwjqndkjwqndkjqwndjkwqndkjqwnd jwkqndjkqwnd
+2017-04-04T09:47:58-05:00 INFO (6): .
+2017-04-04T09:47:58-05:00 INFO (6): .
+2017-04-04T09:47:58-05:00 INFO (6): .
+2017-04-04T09:47:58-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: jefiwjfio djqw dqkwj dkq j djkq djwq djqw djqw djqw djwq djqw djw qkjd jwq djwq djkwq dj wqjd jwqndsjwqsjwqndwqjndkqndwjqndkjwqndkjqwndjkwqndkjqwnd jwkqndjkqwnd
+2017-04-04T09:47:58-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: jefiwjfio+djqw+dqkwj+dkq+j+djkq+djwq+djqw+djqw+djqw+djwq+djqw+djw+qkjd+jwq+djwq+djkwq+dj+wqjd+jwqndsjwqsjwqndwqjndkqndwjqndkjwqndkjqwndjkwqndkjqwnd+jwkqndjkqwnd
+2017-04-04T09:47:58-05:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=jefiwjfio+djqw+dqkwj+dkq+j+djkq+djwq+djqw+djqw+djqw+djwq+djqw+djw+qkjd+jwq+djwq+djkwq+dj+wqjd+jwqndsjwqsjwqndwqjndkqndwjqndkjwqndkjqwndjkwqndkjqwnd+jwkqndjkqwnd
+2017-04-04T09:47:58-05:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-04-04T09:48:06-05:00 INFO (6): response:: 0: Accepted for delivery
+2017-04-04T09:48:06-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-04T09:48:06-05:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-04-04T09:48:06-05:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 758e3b226eaad77
+    [mt_contenido] => jefiwjfio djqw dqkwj dkq j djkq djwq djqw djqw djqw djwq djqw djw qkjd jwq djwq djkwq dj wqjd jwqndsjwqsjwqndwqjndkqndwjqndkjwqndkjqwndjkwqndkjqwnd jwkqndjkqwnd
+    [mt_fecha] => 2017-04-04 09:48:06
+    [mt_tag] => UNICO
+    [usuario_id] => 1
+)
+
+2017-04-04T09:48:06-05:00 INFO (6): SE INSERTO:: 1
+2017-04-04T09:48:06-05:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-04-04T09:48:06-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 118,9
+)
+
+2017-04-04T09:48:06-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-04T09:48:15-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T09:48:15-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T09:48:15-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T09:48:15-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-04T09:48:15-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5549444527
+    [message] => jefiwjfio djqw dqkwj dkq j djkq djwq djqw djqw djqw djwq djqw djw qkjd jwq djwq djkwq dj wqjd jwqndsjwqsjwqndwqjndkqndwjqndkjwqndkjqwndjkwqndkjqwnd jwkqndjkqwnd
+    [caracteres] => 160
+    [accion] => enviar
+    [PHPSESSID] => b8gpmclkc7l4rjs4jfsv1rhau0
+)
+
+2017-04-04T09:48:15-05:00 INFO (6): MSISDN: 5549444527
+2017-04-04T09:48:15-05:00 INFO (6): SMS: jefiwjfio djqw dqkwj dkq j djkq djwq djqw djqw djqw djwq djqw djw qkjd jwq djwq djkwq dj wqjd jwqndsjwqsjwqndwqjndkqndwjqndkjwqndkjqwndjkwqndkjqwnd jwkqndjkqwnd
+2017-04-04T09:48:15-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-04T09:48:15-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-04T09:48:15-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-04T09:48:15-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: jefiwjfio djqw dqkwj dkq j djkq djwq djqw djqw djqw djwq djqw djw qkjd jwq djwq djkwq dj wqjd jwqndsjwqsjwqndwqjndkqndwjqndkjwqndkjqwndjkwqndkjqwnd jwkqndjkqwnd
+2017-04-04T09:48:15-05:00 INFO (6): .
+2017-04-04T09:48:15-05:00 INFO (6): .
+2017-04-04T09:48:15-05:00 INFO (6): .
+2017-04-04T09:48:15-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: jefiwjfio djqw dqkwj dkq j djkq djwq djqw djqw djqw djwq djqw djw qkjd jwq djwq djkwq dj wqjd jwqndsjwqsjwqndwqjndkqndwjqndkjwqndkjqwndjkwqndkjqwnd jwkqndjkqwnd
+2017-04-04T09:48:15-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: jefiwjfio+djqw+dqkwj+dkq+j+djkq+djwq+djqw+djqw+djqw+djwq+djqw+djw+qkjd+jwq+djwq+djkwq+dj+wqjd+jwqndsjwqsjwqndwqjndkqndwjqndkjwqndkjqwndjkwqndkjqwnd+jwkqndjkqwnd
+2017-04-04T09:48:15-05:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=jefiwjfio+djqw+dqkwj+dkq+j+djkq+djwq+djqw+djqw+djqw+djwq+djqw+djw+qkjd+jwq+djwq+djkwq+dj+wqjd+jwqndsjwqsjwqndwqjndkqndwjqndkjwqndkjqwndjkwqndkjqwnd+jwkqndjkqwnd
+2017-04-04T09:48:15-05:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-04-04T09:48:15-05:00 INFO (6): response:: 0: Accepted for delivery
+2017-04-04T09:48:15-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-04T09:48:15-05:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-04-04T09:48:15-05:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 058e3b22fb9e128
+    [mt_contenido] => jefiwjfio djqw dqkwj dkq j djkq djwq djqw djqw djqw djwq djqw djw qkjd jwq djwq djkwq dj wqjd jwqndsjwqsjwqndwqjndkqndwjqndkjwqndkjqwndjkwqndkjqwnd jwkqndjkqwnd
+    [mt_fecha] => 2017-04-04 09:48:15
+    [mt_tag] => UNICO
+    [usuario_id] => 1
+)
+
+2017-04-04T09:48:15-05:00 INFO (6): SE INSERTO:: 1
+2017-04-04T09:48:15-05:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-04-04T09:48:15-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 118,32
+)
+
+2017-04-04T09:48:15-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-04T16:01:12-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T16:01:12-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T16:01:12-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T16:01:12-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-04T16:01:12-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5549444527
+    [message] => EN SCORPION EL AUTOSERVICIO CON PRECIOS DE MAYOREO  ABRIL ES EL MES COLGATE! APROVECHA LAS GRANDES OFERTAS QUE TENEMOS PARA TI VISITA TU TIENDA MAS CERCANA.
+    [caracteres] => 156
+    [accion] => enviar
+    [PHPSESSID] => b8gpmclkc7l4rjs4jfsv1rhau0
+)
+
+2017-04-04T16:01:12-05:00 INFO (6): MSISDN: 5549444527
+2017-04-04T16:01:12-05:00 INFO (6): SMS: EN SCORPION EL AUTOSERVICIO CON PRECIOS DE MAYOREO  ABRIL ES EL MES COLGATE! APROVECHA LAS GRANDES OFERTAS QUE TENEMOS PARA TI VISITA TU TIENDA MAS CERCANA.
+2017-04-04T16:01:12-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-04T16:01:12-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-04T16:01:12-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-04T16:01:12-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: EN SCORPION EL AUTOSERVICIO CON PRECIOS DE MAYOREO  ABRIL ES EL MES COLGATE! APROVECHA LAS GRANDES OFERTAS QUE TENEMOS PARA TI VISITA TU TIENDA MAS CERCANA.
+2017-04-04T16:01:12-05:00 INFO (6): .
+2017-04-04T16:01:12-05:00 INFO (6): .
+2017-04-04T16:01:12-05:00 INFO (6): .
+2017-04-04T16:01:12-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: EN SCORPION EL AUTOSERVICIO CON PRECIOS DE MAYOREO  ABRIL ES EL MES COLGATE! APROVECHA LAS GRANDES OFERTAS QUE TENEMOS PARA TI VISITA TU TIENDA MAS CERCANA.
+2017-04-04T16:01:12-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: EN+SCORPION+EL+AUTOSERVICIO+CON+PRECIOS+DE+MAYOREO++ABRIL+ES+EL+MES+COLGATE%21+APROVECHA+LAS+GRANDES+OFERTAS+QUE+TENEMOS+PARA+TI+VISITA+TU+TIENDA+MAS+CERCANA.
+2017-04-04T16:01:12-05:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=EN+SCORPION+EL+AUTOSERVICIO+CON+PRECIOS+DE+MAYOREO++ABRIL+ES+EL+MES+COLGATE%21+APROVECHA+LAS+GRANDES+OFERTAS+QUE+TENEMOS+PARA+TI+VISITA+TU+TIENDA+MAS+CERCANA.
+2017-04-04T16:01:12-05:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-04-04T16:01:12-05:00 INFO (6): response:: 0: Accepted for delivery
+2017-04-04T16:01:12-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-04T16:01:12-05:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-04-04T16:01:12-05:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 558e40998306687
+    [mt_contenido] => EN SCORPION EL AUTOSERVICIO CON PRECIOS DE MAYOREO  ABRIL ES EL MES COLGATE! APROVECHA LAS GRANDES OFERTAS QUE TENEMOS PARA TI VISITA TU TIENDA MAS CERCANA.
+    [mt_fecha] => 2017-04-04 16:01:12
+    [mt_tag] => UNICO
+    [usuario_id] => 1
+)
+
+2017-04-04T16:01:12-05:00 INFO (6): SE INSERTO:: 1
+2017-04-04T16:01:12-05:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-04-04T16:01:12-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 99999,42
+)
+
+2017-04-04T16:01:12-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-04T16:02:12-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T16:02:12-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T16:02:12-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T16:02:12-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-04T16:02:12-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5549444527
+    [message] => EN SCORPION EL AUTOSERVICIO CON PRECIOS DE MAYOREO  Â¡ABRIL ES EL MES COLGATE! APROVECHA LAS GRANDES OFERTAS QUE TENEMOS PARA TI VISITA TU TIENDA MAS CERCANA. 
+    [caracteres] => 158
+    [accion] => enviar
+    [PHPSESSID] => b8gpmclkc7l4rjs4jfsv1rhau0
+)
+
+2017-04-04T16:02:12-05:00 INFO (6): MSISDN: 5549444527
+2017-04-04T16:02:12-05:00 INFO (6): SMS: EN SCORPION EL AUTOSERVICIO CON PRECIOS DE MAYOREO  ¡ABRIL ES EL MES COLGATE! APROVECHA LAS GRANDES OFERTAS QUE TENEMOS PARA TI VISITA TU TIENDA MAS CERCANA. 
+2017-04-04T16:02:12-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-04T16:02:12-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-04T16:02:12-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-04T16:02:12-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: EN SCORPION EL AUTOSERVICIO CON PRECIOS DE MAYOREO  ¡ABRIL ES EL MES COLGATE! APROVECHA LAS GRANDES OFERTAS QUE TENEMOS PARA TI VISITA TU TIENDA MAS CERCANA. 
+2017-04-04T16:02:12-05:00 INFO (6): .
+2017-04-04T16:02:12-05:00 INFO (6): .
+2017-04-04T16:02:12-05:00 INFO (6): .
+2017-04-04T16:02:12-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: EN SCORPION EL AUTOSERVICIO CON PRECIOS DE MAYOREO  ¡ABRIL ES EL MES COLGATE! APROVECHA LAS GRANDES OFERTAS QUE TENEMOS PARA TI VISITA TU TIENDA MAS CERCANA. 
+2017-04-04T16:02:12-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: EN+SCORPION+EL+AUTOSERVICIO+CON+PRECIOS+DE+MAYOREO++%A1ABRIL+ES+EL+MES+COLGATE%21+APROVECHA+LAS+GRANDES+OFERTAS+QUE+TENEMOS+PARA+TI+VISITA+TU+TIENDA+MAS+CERCANA.+
+2017-04-04T16:02:12-05:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=EN+SCORPION+EL+AUTOSERVICIO+CON+PRECIOS+DE+MAYOREO++%A1ABRIL+ES+EL+MES+COLGATE%21+APROVECHA+LAS+GRANDES+OFERTAS+QUE+TENEMOS+PARA+TI+VISITA+TU+TIENDA+MAS+CERCANA.+
+2017-04-04T16:02:12-05:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-04-04T16:02:12-05:00 INFO (6): response:: 0: Accepted for delivery
+2017-04-04T16:02:12-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-04T16:02:12-05:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-04-04T16:02:12-05:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 458e409d4e8a590
+    [mt_contenido] => EN SCORPION EL AUTOSERVICIO CON PRECIOS DE MAYOREO  ¡ABRIL ES EL MES COLGATE! APROVECHA LAS GRANDES OFERTAS QUE TENEMOS PARA TI VISITA TU TIENDA MAS CERCANA. 
+    [mt_fecha] => 2017-04-04 16:02:12
+    [mt_tag] => UNICO
+    [usuario_id] => 1
+)
+
+2017-04-04T16:02:12-05:00 INFO (6): SE INSERTO:: 1
+2017-04-04T16:02:12-05:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-04-04T16:02:12-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 99998,84
+)
+
+2017-04-04T16:02:12-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-04T16:02:42-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T16:02:42-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T16:02:42-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T16:02:42-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-04T16:02:42-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5519701250
+    [message] => EN SCORPION EL AUTOSERVICIO CON PRECIOS DE MAYOREO  Â¡ABRIL ES EL MES COLGATE! APROVECHA LAS GRANDES OFERTAS QUE TENEMOS PARA TI VISITA TU TIENDA MAS CERCANA. 
+    [caracteres] => 158
+    [accion] => enviar
+    [PHPSESSID] => b8gpmclkc7l4rjs4jfsv1rhau0
+)
+
+2017-04-04T16:02:42-05:00 INFO (6): MSISDN: 5519701250
+2017-04-04T16:02:42-05:00 INFO (6): SMS: EN SCORPION EL AUTOSERVICIO CON PRECIOS DE MAYOREO  ¡ABRIL ES EL MES COLGATE! APROVECHA LAS GRANDES OFERTAS QUE TENEMOS PARA TI VISITA TU TIENDA MAS CERCANA. 
+2017-04-04T16:02:42-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-04T16:02:42-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-04T16:02:42-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-04T16:02:42-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: EN SCORPION EL AUTOSERVICIO CON PRECIOS DE MAYOREO  ¡ABRIL ES EL MES COLGATE! APROVECHA LAS GRANDES OFERTAS QUE TENEMOS PARA TI VISITA TU TIENDA MAS CERCANA. 
+2017-04-04T16:02:42-05:00 INFO (6): .
+2017-04-04T16:02:42-05:00 INFO (6): .
+2017-04-04T16:02:42-05:00 INFO (6): .
+2017-04-04T16:02:42-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: EN SCORPION EL AUTOSERVICIO CON PRECIOS DE MAYOREO  ¡ABRIL ES EL MES COLGATE! APROVECHA LAS GRANDES OFERTAS QUE TENEMOS PARA TI VISITA TU TIENDA MAS CERCANA. 
+2017-04-04T16:02:42-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: EN+SCORPION+EL+AUTOSERVICIO+CON+PRECIOS+DE+MAYOREO++%A1ABRIL+ES+EL+MES+COLGATE%21+APROVECHA+LAS+GRANDES+OFERTAS+QUE+TENEMOS+PARA+TI+VISITA+TU+TIENDA+MAS+CERCANA.+
+2017-04-04T16:02:42-05:00 INFO (6): URL: http://administrador.cm-operations.com/iusacell/router/router_mt.php?SOA=5519701250&dial=26262&message=EN+SCORPION+EL+AUTOSERVICIO+CON+PRECIOS+DE+MAYOREO++%A1ABRIL+ES+EL+MES+COLGATE%21+APROVECHA+LAS+GRANDES+OFERTAS+QUE+TENEMOS+PARA+TI+VISITA+TU+TIENDA+MAS+CERCANA.+&service=EMAILTOSMSUNICO&subservice=UNICO&username=sendsmsatt_26262
+2017-04-04T16:02:42-05:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-04-04T16:02:44-05:00 INFO (6): response:: 0: Accepted for delivery
+2017-04-04T16:02:44-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-04T16:02:44-05:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-04-04T16:02:44-05:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Iusacell
+    [mt_msisdn] => 5519701250
+    [mt_medio] => Base
+    [mt_folio] => 558e409f41bc404
+    [mt_contenido] => EN SCORPION EL AUTOSERVICIO CON PRECIOS DE MAYOREO  ¡ABRIL ES EL MES COLGATE! APROVECHA LAS GRANDES OFERTAS QUE TENEMOS PARA TI VISITA TU TIENDA MAS CERCANA. 
+    [mt_fecha] => 2017-04-04 16:02:44
+    [mt_tag] => UNICO
+    [usuario_id] => 1
+)
+
+2017-04-04T16:02:44-05:00 INFO (6): SE INSERTO:: 1
+2017-04-04T16:02:44-05:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-04-04T16:02:44-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 99998,26
+)
+
+2017-04-04T16:02:44-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-04T16:04:59-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T16:04:59-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T16:04:59-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T16:04:59-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-04T16:04:59-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5560290698
+    [message] => EN SCORPION EL AUTOSERVICIO CON PRECIOS DE MAYOREO Â¡ABRIL ES EL MES COLGATE! APROVECHA LAS GRANDES OFERTAS QUE TENEMOS PARA TI VISITA TU TIENDA MAS CERCANA.
+    [caracteres] => 156
+    [accion] => enviar
+    [PHPSESSID] => b8gpmclkc7l4rjs4jfsv1rhau0
+)
+
+2017-04-04T16:04:59-05:00 INFO (6): MSISDN: 5560290698
+2017-04-04T16:04:59-05:00 INFO (6): SMS: EN SCORPION EL AUTOSERVICIO CON PRECIOS DE MAYOREO ¡ABRIL ES EL MES COLGATE! APROVECHA LAS GRANDES OFERTAS QUE TENEMOS PARA TI VISITA TU TIENDA MAS CERCANA.
+2017-04-04T16:04:59-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-04T16:04:59-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-04T16:04:59-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-04T16:04:59-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: EN SCORPION EL AUTOSERVICIO CON PRECIOS DE MAYOREO ¡ABRIL ES EL MES COLGATE! APROVECHA LAS GRANDES OFERTAS QUE TENEMOS PARA TI VISITA TU TIENDA MAS CERCANA.
+2017-04-04T16:04:59-05:00 INFO (6): .
+2017-04-04T16:04:59-05:00 INFO (6): .
+2017-04-04T16:04:59-05:00 INFO (6): .
+2017-04-04T16:04:59-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: EN SCORPION EL AUTOSERVICIO CON PRECIOS DE MAYOREO ¡ABRIL ES EL MES COLGATE! APROVECHA LAS GRANDES OFERTAS QUE TENEMOS PARA TI VISITA TU TIENDA MAS CERCANA.
+2017-04-04T16:04:59-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: EN+SCORPION+EL+AUTOSERVICIO+CON+PRECIOS+DE+MAYOREO+%A1ABRIL+ES+EL+MES+COLGATE%21+APROVECHA+LAS+GRANDES+OFERTAS+QUE+TENEMOS+PARA+TI+VISITA+TU+TIENDA+MAS+CERCANA.
+2017-04-04T16:04:59-05:00 INFO (6): URL: http://administrador.cm-operations.com/movistar/router/router_mt.php?username=sendsmsmovistar_26262&message=EN+SCORPION+EL+AUTOSERVICIO+CON+PRECIOS+DE+MAYOREO+%A1ABRIL+ES+EL+MES+COLGATE%21+APROVECHA+LAS+GRANDES+OFERTAS+QUE+TENEMOS+PARA+TI+VISITA+TU+TIENDA+MAS+CERCANA.&dial=26262&SOA=5560290698&service=EMAILTOSMSUNICO
+2017-04-04T16:04:59-05:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-04-04T16:04:59-05:00 INFO (6): response:: 0: Accepted for delivery
+2017-04-04T16:04:59-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-04T16:04:59-05:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-04-04T16:04:59-05:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Movistar
+    [mt_msisdn] => 5560290698
+    [mt_medio] => Base
+    [mt_folio] => 858e40a7bb52a58
+    [mt_contenido] => EN SCORPION EL AUTOSERVICIO CON PRECIOS DE MAYOREO ¡ABRIL ES EL MES COLGATE! APROVECHA LAS GRANDES OFERTAS QUE TENEMOS PARA TI VISITA TU TIENDA MAS CERCANA.
+    [mt_fecha] => 2017-04-04 16:04:59
+    [mt_tag] => UNICO
+    [usuario_id] => 1
+)
+
+2017-04-04T16:04:59-05:00 INFO (6): SE INSERTO:: 1
+2017-04-04T16:04:59-05:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-04-04T16:04:59-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 99997,68
+)
+
+2017-04-04T16:04:59-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-04T16:19:08-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T16:19:08-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T16:19:08-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T16:19:08-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-04T16:19:08-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5549444527
+    [message] => kghkjbkjgjgkjgkugiugu ygugfiugfiuffiufgiuuiguigiugiu guigiu ui iu gui giug iu
+    [caracteres] => 77
+    [accion] => enviar
+    [PHPSESSID] => b8gpmclkc7l4rjs4jfsv1rhau0
+)
+
+2017-04-04T16:19:08-05:00 INFO (6): MSISDN: 5549444527
+2017-04-04T16:19:08-05:00 INFO (6): SMS: kghkjbkjgjgkjgkugiugu ygugfiugfiuffiufgiuuiguigiugiu guigiu ui iu gui giug iu
+2017-04-04T16:19:08-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-04T16:19:08-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-04T16:19:08-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-04T16:19:08-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: kghkjbkjgjgkjgkugiugu ygugfiugfiuffiufgiuuiguigiugiu guigiu ui iu gui giug iu
+2017-04-04T16:19:08-05:00 INFO (6): .
+2017-04-04T16:19:08-05:00 INFO (6): .
+2017-04-04T16:19:08-05:00 INFO (6): .
+2017-04-04T16:19:08-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: kghkjbkjgjgkjgkugiugu ygugfiugfiuffiufgiuuiguigiugiu guigiu ui iu gui giug iu
+2017-04-04T16:19:08-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: kghkjbkjgjgkjgkugiugu+ygugfiugfiuffiufgiuuiguigiugiu+guigiu+ui+iu+gui+giug+iu
+2017-04-04T16:19:08-05:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=5549444527&text=kghkjbkjgjgkjgkugiugu+ygugfiugfiuffiufgiuuiguigiugiu+guigiu+ui+iu+gui+giug+iu
+2017-04-04T16:19:08-05:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-04-04T16:19:08-05:00 INFO (6): response:: 0: Accepted for delivery
+2017-04-04T16:19:08-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-04T16:19:08-05:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-04-04T16:19:08-05:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 058e40dcc1cf2c4
+    [mt_contenido] => kghkjbkjgjgkjgkugiugu ygugfiugfiuffiufgiuuiguigiugiu guigiu ui iu gui giug iu
+    [mt_fecha] => 2017-04-04 16:19:08
+    [mt_tag] => UNICO
+    [usuario_id] => 1
+)
+
+2017-04-04T16:19:08-05:00 INFO (6): SE INSERTO:: 1
+2017-04-04T16:19:08-05:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-04-04T16:19:08-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 95157
+)
+
+2017-04-04T16:19:08-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-04T16:33:24-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T16:33:24-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T16:33:24-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T16:33:24-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-04T16:33:24-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5520324932
+    [message] => Hola
+    [caracteres] => 4
+    [accion] => enviar
+    [PHPSESSID] => b8gpmclkc7l4rjs4jfsv1rhau0
+)
+
+2017-04-04T16:33:24-05:00 INFO (6): MSISDN: 5520324932
+2017-04-04T16:33:24-05:00 INFO (6): SMS: Hola
+2017-04-04T16:33:24-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-04T16:33:24-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-04T16:33:24-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-04T16:33:24-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: Hola
+2017-04-04T16:33:24-05:00 INFO (6): .
+2017-04-04T16:33:24-05:00 INFO (6): .
+2017-04-04T16:33:24-05:00 INFO (6): .
+2017-04-04T16:33:24-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: Hola
+2017-04-04T16:33:24-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: Hola
+2017-04-04T17:18:04-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T17:18:04-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T17:18:04-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T17:18:04-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-04T17:18:04-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5512457109
+    [message] => WEDEWD
+    [caracteres] => 6
+    [accion] => enviar
+    [PHPSESSID] => b8gpmclkc7l4rjs4jfsv1rhau0
+)
+
+2017-04-04T17:18:04-05:00 INFO (6): MSISDN: 5512457109
+2017-04-04T17:18:04-05:00 INFO (6): SMS: WEDEWD
+2017-04-04T17:18:04-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-04T17:18:04-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-04T17:18:04-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-04T17:18:04-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: WEDEWD
+2017-04-04T17:18:04-05:00 INFO (6): .
+2017-04-04T17:18:04-05:00 INFO (6): .
+2017-04-04T17:18:04-05:00 INFO (6): .
+2017-04-04T17:18:04-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: WEDEWD
+2017-04-04T17:18:04-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: WEDEWD
+2017-04-04T17:18:52-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T17:18:52-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T17:18:52-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T17:18:52-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-04T17:18:52-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5512457109
+    [message] => WEDEWD
+    [caracteres] => 6
+    [accion] => enviar
+    [PHPSESSID] => b8gpmclkc7l4rjs4jfsv1rhau0
+)
+
+2017-04-04T17:18:52-05:00 INFO (6): MSISDN: 5512457109
+2017-04-04T17:18:52-05:00 INFO (6): SMS: WEDEWD
+2017-04-04T17:18:52-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-04T17:18:52-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-04T17:18:52-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-04T17:18:52-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: WEDEWD
+2017-04-04T17:18:52-05:00 INFO (6): .
+2017-04-04T17:18:52-05:00 INFO (6): .
+2017-04-04T17:18:52-05:00 INFO (6): .
+2017-04-04T17:18:52-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: WEDEWD
+2017-04-04T17:18:52-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: WEDEWD
+2017-04-04T17:18:52-05:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=5512457109&text=WEDEWD
+2017-04-04T17:18:52-05:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-04-04T17:18:53-05:00 INFO (6): response:: 0: Accepted for delivery
+2017-04-04T17:18:53-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-04T17:18:53-05:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-04-04T17:18:53-05:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5512457109
+    [mt_medio] => BaseMadre
+    [mt_folio] => 758e41bcd899928
+    [mt_contenido] => WEDEWD
+    [mt_fecha] => 2017-04-04 17:18:53
+    [mt_tag] => UNICO
+    [usuario_id] => 1
+)
+
+2017-04-04T17:18:53-05:00 INFO (6): SE INSERTO:: 1
+2017-04-04T17:18:53-05:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-04-04T17:18:53-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 95041,48
+)
+
+2017-04-04T17:18:53-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-04T17:19:42-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T17:19:42-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T17:19:42-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T17:19:42-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-04T17:19:42-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5521076728
+    [message] => BVJHBJH
+    [caracteres] => 7
+    [accion] => enviar
+    [PHPSESSID] => b8gpmclkc7l4rjs4jfsv1rhau0
+)
+
+2017-04-04T17:19:42-05:00 INFO (6): MSISDN: 5521076728
+2017-04-04T17:19:42-05:00 INFO (6): SMS: BVJHBJH
+2017-04-04T17:19:42-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-04T17:19:42-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-04T17:19:42-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-04T17:19:42-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: BVJHBJH
+2017-04-04T17:19:42-05:00 INFO (6): .
+2017-04-04T17:19:42-05:00 INFO (6): .
+2017-04-04T17:19:42-05:00 INFO (6): .
+2017-04-04T17:19:42-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: BVJHBJH
+2017-04-04T17:19:42-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: BVJHBJH
+2017-04-04T17:19:42-05:00 INFO (6): URL: http://administrador.cm-operations.com/iusacell/router/router_mt.php?SOA=5521076728&dial=26262&message=BVJHBJH&service=EMAILTOSMSUNICO&subservice=UNICO&username=sendsmsatt_26262
+2017-04-04T17:19:42-05:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-04-04T17:19:42-05:00 INFO (6): response:: 0: Accepted for delivery
+2017-04-04T17:19:42-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-04T17:19:42-05:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-04-04T17:19:42-05:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Att
+    [mt_msisdn] => 5521076728
+    [mt_medio] => BaseMadre
+    [mt_folio] => 158e41bfea468b0
+    [mt_contenido] => BVJHBJH
+    [mt_fecha] => 2017-04-04 17:19:42
+    [mt_tag] => UNICO
+    [usuario_id] => 1
+)
+
+2017-04-04T17:19:42-05:00 INFO (6): SE INSERTO:: 1
+2017-04-04T17:19:42-05:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-04-04T17:19:42-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 95040,9
+)
+
+2017-04-04T17:19:42-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-04T17:20:28-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T17:20:28-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T17:20:28-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T17:20:28-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-04T17:20:28-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 3338082453
+    [message] => WE
+    [caracteres] => 2
+    [accion] => enviar
+    [PHPSESSID] => b8gpmclkc7l4rjs4jfsv1rhau0
+)
+
+2017-04-04T17:20:28-05:00 INFO (6): MSISDN: 3338082453
+2017-04-04T17:20:28-05:00 INFO (6): SMS: WE
+2017-04-04T17:20:28-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-04T17:20:28-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-04T17:20:28-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-04T17:20:28-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: WE
+2017-04-04T17:20:28-05:00 INFO (6): .
+2017-04-04T17:20:28-05:00 INFO (6): .
+2017-04-04T17:20:28-05:00 INFO (6): .
+2017-04-04T17:20:28-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: WE
+2017-04-04T17:20:28-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: WE
+2017-04-04T17:24:54-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T17:24:54-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T17:24:54-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T17:24:54-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-04T17:24:54-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 3338082453
+    [message] => WE
+    [caracteres] => 2
+    [accion] => enviar
+    [PHPSESSID] => b8gpmclkc7l4rjs4jfsv1rhau0
+)
+
+2017-04-04T17:24:54-05:00 INFO (6): MSISDN: 3338082453
+2017-04-04T17:24:54-05:00 INFO (6): SMS: WE
+2017-04-04T17:24:54-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-04T17:24:54-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-04T17:24:54-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-04T17:24:54-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: WE
+2017-04-04T17:24:54-05:00 INFO (6): .
+2017-04-04T17:24:54-05:00 INFO (6): .
+2017-04-04T17:24:54-05:00 INFO (6): .
+2017-04-04T17:24:54-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: WE
+2017-04-04T17:24:54-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: WE
+2017-04-04T17:24:54-05:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=3338082453&text=WE
+2017-04-04T17:24:54-05:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-04-04T17:24:54-05:00 INFO (6): response:: 0: Accepted for delivery
+2017-04-04T17:24:54-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-04T17:24:54-05:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-04-04T17:24:54-05:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 3338082453
+    [mt_medio] => BaseMadre
+    [mt_folio] => 958e41d36d7b714
+    [mt_contenido] => WE
+    [mt_fecha] => 2017-04-04 17:24:54
+    [mt_tag] => UNICO
+    [usuario_id] => 1
+)
+
+2017-04-04T17:24:54-05:00 INFO (6): SE INSERTO:: 1
+2017-04-04T17:24:54-05:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-04-04T17:24:54-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 95040,22
+)
+
+2017-04-04T17:24:54-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-04T17:25:39-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T17:25:39-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T17:25:39-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T17:25:39-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-04T17:25:39-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5576383762
+    [message] => nkjnjnkj
+    [caracteres] => 8
+    [accion] => enviar
+    [PHPSESSID] => b8gpmclkc7l4rjs4jfsv1rhau0
+)
+
+2017-04-04T17:25:39-05:00 INFO (6): MSISDN: 5576383762
+2017-04-04T17:25:39-05:00 INFO (6): SMS: nkjnjnkj
+2017-04-04T17:25:40-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-04T17:25:40-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-04T17:25:40-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-04T17:25:40-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: nkjnjnkj
+2017-04-04T17:25:40-05:00 INFO (6): .
+2017-04-04T17:25:40-05:00 INFO (6): .
+2017-04-04T17:25:40-05:00 INFO (6): .
+2017-04-04T17:25:40-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: nkjnjnkj
+2017-04-04T17:25:40-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: nkjnjnkj
+2017-04-04T17:33:51-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T17:33:51-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T17:33:51-05:00 INFO (6): ----------------------------------------------------
+2017-04-04T17:33:51-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-04T17:33:51-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5549444527
+    [message] => asdasdsadsadsadasdasdasdasdasdasdasdasdasdasd
+    [caracteres] => 45
+    [accion] => enviar
+    [PHPSESSID] => b8gpmclkc7l4rjs4jfsv1rhau0
+)
+
+2017-04-04T17:33:51-05:00 INFO (6): MSISDN: 5549444527
+2017-04-04T17:33:51-05:00 INFO (6): SMS: asdasdsadsadsadasdasdasdasdasdasdasdasdasdasd
+2017-04-04T17:33:51-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-04T17:33:51-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-04T17:33:51-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-04T17:33:51-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: asdasdsadsadsadasdasdasdasdasdasdasdasdasdasd
+2017-04-04T17:33:51-05:00 INFO (6): .
+2017-04-04T17:33:51-05:00 INFO (6): .
+2017-04-04T17:33:51-05:00 INFO (6): .
+2017-04-04T17:33:51-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: asdasdsadsadsadasdasdasdasdasdasdasdasdasdasd
+2017-04-04T17:33:51-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: asdasdsadsadsadasdasdasdasdasdasdasdasdasdasd
+2017-04-04T17:33:51-05:00 INFO (6): URL: http://administrador.cm-operations.com/telcel/router/router_mt.php?SOA=5549444527&dial=26262&message=asdasdsadsadsadasdasdasdasdasdasdasdasdasdasd&service=EMAILTOSMSUNICO&subservice=UNICO&username=sendsmsmt_26262
+2017-04-04T17:33:51-05:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-04-04T17:33:51-05:00 INFO (6): response:: 0: Accepted for delivery
+2017-04-04T17:33:51-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-04T17:33:51-05:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-04-04T17:33:51-05:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => BaseMadre
+    [mt_folio] => 858e41f4f7de389
+    [mt_contenido] => asdasdsadsadsadasdasdasdasdasdasdasdasdasdasd
+    [mt_fecha] => 2017-04-04 17:33:51
+    [mt_tag] => UNICO
+    [usuario_id] => 1
+)
+
+2017-04-04T17:33:51-05:00 INFO (6): SE INSERTO:: 1
+2017-04-04T17:33:51-05:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-04-04T17:33:51-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 95039,54
+)
+
+2017-04-04T17:33:51-05:00 INFO (6): SE ACTUALIZO:: 1

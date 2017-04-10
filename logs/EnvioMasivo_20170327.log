@@ -1,0 +1,154 @@
+2017-03-27T15:22:17-06:00 INFO (6): ------------------------------------------------
+2017-03-27T15:22:17-06:00 INFO (6): ------------------------------------------------
+2017-03-27T15:22:17-06:00 INFO (6): ------------------------------------------------
+2017-03-27T15:22:17-06:00 INFO (6): ---- ENVIO MASIVO ENVIAR - FN ENVIAR -----------
+2017-03-27T15:22:17-06:00 INFO (6): REQUEST: Array
+(
+    [selectCategoria] => ddd
+    [sms] => FEWFEWFEW
+    [caracteres] => 9
+    [accion] => enviar
+    [PHPSESSID] => p0slapa788hhmufv4uqpuskk14
+)
+
+2017-03-27T15:22:17-06:00 INFO (6): CATEGORIA:: ddd
+2017-03-27T15:22:17-06:00 INFO (6): MENSAJE:: FEWFEWFEW
+2017-03-27T15:22:17-06:00 INFO (6): SI SELECCIONO CATEGORIA Y ESCRIBIO UN MENSAJE
+2017-03-27T15:22:17-06:00 INFO (6): QUERY :: SELECT COUNT(usuario_msisdn) AS numtel FROM fuentes_usuarios_toolbox WHERE usuario_enviado = 0 AND usuario_activo = 1 AND usuario_categoria='ddd' AND usuario_id_fk='1'
+2017-03-27T15:22:17-06:00 INFO (6): CANTIDAD DE ENVIOS QUE SE REALIZARAN: 1
+2017-03-27T15:22:17-06:00 INFO (6): SI SE ENCONTRARON NUMEROS PARA REALIZAR EL ENVIO
+2017-03-27T15:22:17-06:00 INFO (6): QUERY 2: SELECT * FROM fuentes_usuarios_toolbox WHERE usuario_enviado = 0 AND usuario_activo = 1 AND usuario_categoria='ddd' AND usuario_id_fk='1'
+2017-03-27T15:22:17-06:00 INFO (6): RESULTADO DE LA CONSULTA A USUARIOS  FILTRADO POR CATEGORIA, ENVIADO 0 Y ACTIVO 1: Array
+(
+    [0] => Array
+        (
+            [usuario_id] => 78087
+            [usuario_msisdn] => 5549444527
+            [usuario_operador] => Telcel
+            [usuario_categoria] => ddd
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-27 14:32:51
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+)
+
+2017-03-27T15:22:17-06:00 INFO (6): -------------------------------------->
+2017-03-27T15:22:17-06:00 INFO (6): CONTADOR i: 0
+2017-03-27T15:22:17-06:00 INFO (6): ID:: 78087
+2017-03-27T15:22:17-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-27T15:22:17-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-27T15:22:17-06:00 INFO (6): MENSAJE A ENVIAR::..FEWFEWFEW
+2017-03-27T15:22:17-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=FEWFEWFEW
+2017-03-27T15:22:17-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-27T15:22:17-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-27T15:22:17-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-27T15:22:17-06:00 INFO (6): SE ENVIO
+2017-03-27T15:22:17-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 258d982895ad489
+    [mt_contenido] => FEWFEWFEW
+    [mt_fecha] => 2017-03-27 15:22:17
+    [mt_tag] => MASIVO
+    [mt_categoria] => ddd
+    [usuario_id] => 1
+)
+
+2017-03-27T15:22:17-06:00 INFO (6): SE INSERTO: 1
+2017-03-27T15:22:19-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-27T15:22:19-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-27T15:22:19-06:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 874,82
+)
+
+2017-03-27T15:22:19-06:00 INFO (6): SE ACTUALIZO:: 1
+2017-03-27T15:22:19-06:00 INFO (6): FIN::::::::........
+2017-03-27T15:25:24-06:00 INFO (6): ------------------------------------------------
+2017-03-27T15:25:24-06:00 INFO (6): ------------------------------------------------
+2017-03-27T15:25:24-06:00 INFO (6): ------------------------------------------------
+2017-03-27T15:25:24-06:00 INFO (6): ---- ENVIO MASIVO ENVIAR - FN ENVIAR -----------
+2017-03-27T15:25:24-06:00 INFO (6): REQUEST: Array
+(
+    [selectCategoria] => ddd
+    [sms] => KJNKJNJK
+    [caracteres] => 8
+    [accion] => enviar
+    [PHPSESSID] => p0slapa788hhmufv4uqpuskk14
+)
+
+2017-03-27T15:25:24-06:00 INFO (6): CATEGORIA:: ddd
+2017-03-27T15:25:24-06:00 INFO (6): MENSAJE:: KJNKJNJK
+2017-03-27T15:25:24-06:00 INFO (6): SI SELECCIONO CATEGORIA Y ESCRIBIO UN MENSAJE
+2017-03-27T15:25:24-06:00 INFO (6): QUERY :: SELECT COUNT(usuario_msisdn) AS numtel FROM fuentes_usuarios_toolbox WHERE usuario_enviado = 0 AND usuario_activo = 1 AND usuario_categoria='ddd' AND usuario_id_fk='1'
+2017-03-27T15:25:24-06:00 INFO (6): CANTIDAD DE ENVIOS QUE SE REALIZARAN: 1
+2017-03-27T15:25:24-06:00 INFO (6): SI SE ENCONTRARON NUMEROS PARA REALIZAR EL ENVIO
+2017-03-27T15:25:24-06:00 INFO (6): QUERY 2: SELECT * FROM fuentes_usuarios_toolbox WHERE usuario_enviado = 0 AND usuario_activo = 1 AND usuario_categoria='ddd' AND usuario_id_fk='1'
+2017-03-27T15:25:24-06:00 INFO (6): RESULTADO DE LA CONSULTA A USUARIOS  FILTRADO POR CATEGORIA, ENVIADO 0 Y ACTIVO 1: Array
+(
+    [0] => Array
+        (
+            [usuario_id] => 78087
+            [usuario_msisdn] => 5549444527
+            [usuario_operador] => Telcel
+            [usuario_categoria] => ddd
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-27 14:32:51
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+)
+
+2017-03-27T15:25:24-06:00 INFO (6): -------------------------------------->
+2017-03-27T15:25:24-06:00 INFO (6): CONTADOR i: 0
+2017-03-27T15:25:24-06:00 INFO (6): ID:: 78087
+2017-03-27T15:25:24-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-27T15:25:24-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-27T15:25:24-06:00 INFO (6): MENSAJE A ENVIAR::..KJNKJNJK
+2017-03-27T15:25:24-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=KJNKJNJK
+2017-03-27T15:25:24-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-27T15:25:24-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-27T15:25:24-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-27T15:25:24-06:00 INFO (6): SE ENVIO
+2017-03-27T15:25:24-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 358d983448e2114
+    [mt_contenido] => KJNKJNJK
+    [mt_fecha] => 2017-03-27 15:25:24
+    [mt_tag] => MASIVO
+    [mt_categoria] => ddd
+    [usuario_id] => 1
+)
+
+2017-03-27T15:25:24-06:00 INFO (6): SE INSERTO: 1
+2017-03-27T15:25:25-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-27T15:25:25-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-27T15:25:25-06:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 874,24
+)
+
+2017-03-27T15:25:25-06:00 INFO (6): SE ACTUALIZO:: 1
+2017-03-27T15:25:25-06:00 INFO (6): FIN::::::::........

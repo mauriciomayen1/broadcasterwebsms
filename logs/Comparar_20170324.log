@@ -1,0 +1,51 @@
+2017-03-24T10:30:14-06:00 INFO (6): ------------------------------------------------
+2017-03-24T10:30:14-06:00 INFO (6): ------------------------------------------------
+2017-03-24T10:30:14-06:00 INFO (6): ------------------------------------------------
+2017-03-24T10:30:14-06:00 INFO (6): ---- ENVIO PROGRAMADOS - FN COMPARAR FECHAS ----
+2017-03-24T10:30:14-06:00 INFO (6): REQUESTArray
+(
+    [categoria] => prueba1
+    [fechaenvio] => 2017-03-24
+    [horaenvio] => 24c03b5364d69a4
+    [msgtxt] => hola
+    [caracteres] => 4
+    [accion] => guardar
+    [PHPSESSID] => q06abqoelqg9sj1qv4fu30dt40
+)
+
+2017-03-24T10:30:14-06:00 INFO (6): PRIMERA FECHA:: 2017-03-24
+2017-03-24T10:30:14-06:00 INFO (6): SEGUNDA FECHA:: 2017-03-24
+2017-03-24T12:26:55-06:00 INFO (6): ------------------------------------------------
+2017-03-24T12:26:55-06:00 INFO (6): ------------------------------------------------
+2017-03-24T12:26:55-06:00 INFO (6): ------------------------------------------------
+2017-03-24T12:26:55-06:00 INFO (6): ---- ENVIO PROGRAMADOS - FN COMPARAR FECHAS ----
+2017-03-24T12:26:55-06:00 INFO (6): REQUESTArray
+(
+    [categoria] => yes
+    [fechaenvio] => 2017-03-24
+    [horaenvio] => 34c03b5b1d80906
+    [msgtxt] => fewfewfewfewfewfewfewfewferwfrwfrwfrfwrfwrf
+    [caracteres] => 43
+    [accion] => guardar
+    [PHPSESSID] => je1vgcb0h0qj8lkpdoegoi3o90
+)
+
+2017-03-24T12:26:55-06:00 INFO (6): PRIMERA FECHA:: 2017-03-24
+2017-03-24T12:26:55-06:00 INFO (6): SEGUNDA FECHA:: 2017-03-24
+2017-03-24T12:42:50-06:00 INFO (6): ------------------------------------------------
+2017-03-24T12:42:50-06:00 INFO (6): ------------------------------------------------
+2017-03-24T12:42:50-06:00 INFO (6): ------------------------------------------------
+2017-03-24T12:42:50-06:00 INFO (6): ---- ENVIO PROGRAMADOS - FN COMPARAR FECHAS ----
+2017-03-24T12:42:50-06:00 INFO (6): REQUESTArray
+(
+    [categoria] => yes
+    [fechaenvio] => 2017-03-24
+    [horaenvio] => 44c056202798260
+    [msgtxt] => bjbbjbbbjjb
+    [caracteres] => 11
+    [accion] => guardar
+    [PHPSESSID] => je1vgcb0h0qj8lkpdoegoi3o90
+)
+
+2017-03-24T12:42:50-06:00 INFO (6): PRIMERA FECHA:: 2017-03-24
+2017-03-24T12:42:50-06:00 INFO (6): SEGUNDA FECHA:: 2017-03-24

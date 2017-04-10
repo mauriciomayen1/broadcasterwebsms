@@ -1,0 +1,78 @@
+2017-04-06T16:14:18-05:00 INFO (6): ------------------------------------------------
+2017-04-06T16:14:18-05:00 INFO (6): ------------------------------------------------
+2017-04-06T16:14:18-05:00 INFO (6): ------------------------------------------------
+2017-04-06T16:14:18-05:00 INFO (6): ---- ENVIO MASIVO - FN GUARDAR ------------
+2017-04-06T16:14:18-05:00 INFO (6): REQUESTArray
+(
+    [selectCategoria] => cemex
+    [sms] => EXTRA EXTRA CEMEX MULTIPRODUCTOS INFORMA EN LA COMPRA DE UN PAQUETE BASICO DE ESCALERAS CUPRUM RECIBE 4 PLAYERAS POLO Y 4 BOLSAS ECOLOGICAS
+    [caracteres] => 139
+    [accion] => enviar
+    [retenido] => 90.48
+    [PHPSESSID] => omj399hbfsilsfdp9qk5vsojk2
+)
+
+2017-04-06T16:14:18-05:00 INFO (6): CATEGORIA: cemex
+2017-04-06T16:14:18-05:00 INFO (6): HORA DE ENVIO: 16:14:18
+2017-04-06T16:14:18-05:00 INFO (6): FECHA DE ENVIO: 2017-04-06 16:14:18
+2017-04-06T16:14:18-05:00 INFO (6): MENSAJE: EXTRA EXTRA CEMEX MULTIPRODUCTOS INFORMA EN LA COMPRA DE UN PAQUETE BASICO DE ESCALERAS CUPRUM RECIBE 4 PLAYERAS POLO Y 4 BOLSAS ECOLOGICAS
+2017-04-06T16:14:18-05:00 INFO (6): CAMPANIA: MAYENA
+2017-04-06T16:14:18-05:00 INFO (6): SI REQUESITO TODOS LOS CAMPOS
+2017-04-06T16:14:18-05:00 INFO (6): DATOS A INSERTAR EN LA BASE MENSAJES PROGRAMADOS: Array
+(
+    [mensaje_horario] => 3e9dc381fec17a764842fc4b9aa3f9e6
+    [mensaje_horarionombre] => 16:14:18
+    [mensaje_mensaje] => EXTRA EXTRA CEMEX MULTIPRODUCTOS INFORMA EN LA COMPRA DE UN PAQUETE BASICO DE ESCALERAS CUPRUM RECIBE 4 PLAYERAS POLO Y 4 BOLSAS ECOLOGICAS
+    [mensaje_nombre] => MAYENA
+    [mensaje_fechaenvio] => 2017-04-06 16:14:18
+    [mensaje_descripcion] => MAYENA
+    [mensaje_fechaalta] => 2017/04/06 16:14:18
+    [mensaje_activo] => 1
+    [mensaje_region] => cemex
+    [mensaje_ocupacion] => cemex
+    [mensaje_procesado] => 1
+    [bandera_masivo] => 0
+    [mensaje_usuario] => 60
+)
+
+2017-04-06T16:14:18-05:00 INFO (6): SE INSERTO: 1
+2017-04-06T16:14:18-05:00 INFO (6): FIN:::...
+2017-04-06T18:00:32-05:00 INFO (6): ------------------------------------------------
+2017-04-06T18:00:32-05:00 INFO (6): ------------------------------------------------
+2017-04-06T18:00:32-05:00 INFO (6): ------------------------------------------------
+2017-04-06T18:00:32-05:00 INFO (6): ---- ENVIO MASIVO - FN GUARDAR ------------
+2017-04-06T18:00:32-05:00 INFO (6): REQUESTArray
+(
+    [selectCategoria] => real
+    [sms] => sfsdfdsfsd
+    [caracteres] => 10
+    [accion] => enviar
+    [retenido] => 1.74
+    [PHPSESSID] => omj399hbfsilsfdp9qk5vsojk2
+)
+
+2017-04-06T18:00:32-05:00 INFO (6): CATEGORIA: real
+2017-04-06T18:00:32-05:00 INFO (6): HORA DE ENVIO: 18:00:32
+2017-04-06T18:00:32-05:00 INFO (6): FECHA DE ENVIO: 2017-04-06 18:00:32
+2017-04-06T18:00:32-05:00 INFO (6): MENSAJE: sfsdfdsfsd
+2017-04-06T18:00:32-05:00 INFO (6): CAMPANIA: Administrador
+2017-04-06T18:00:32-05:00 INFO (6): SI REQUESITO TODOS LOS CAMPOS
+2017-04-06T18:00:32-05:00 INFO (6): DATOS A INSERTAR EN LA BASE MENSAJES PROGRAMADOS: Array
+(
+    [mensaje_horario] => 0b680e1168636fa2755e5cc0d73b1aba
+    [mensaje_horarionombre] => 18:00:32
+    [mensaje_mensaje] => sfsdfdsfsd
+    [mensaje_nombre] => Administrador
+    [mensaje_fechaenvio] => 2017-04-06 18:00:32
+    [mensaje_descripcion] => Administrador
+    [mensaje_fechaalta] => 2017/04/06 18:00:32
+    [mensaje_activo] => 1
+    [mensaje_region] => real
+    [mensaje_ocupacion] => real
+    [mensaje_procesado] => 1
+    [bandera_masivo] => 0
+    [mensaje_usuario] => 1
+)
+
+2017-04-06T18:00:32-05:00 INFO (6): SE INSERTO: 1
+2017-04-06T18:00:32-05:00 INFO (6): FIN:::...

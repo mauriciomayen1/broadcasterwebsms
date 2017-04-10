@@ -1,0 +1,189 @@
+2017-04-05T16:47:26-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-04-05T16:47:26-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-04-05T16:47:26-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-04-05T16:47:26-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>FUNCION CODERE: 2017/04/05 16:47:26
+2017-04-05T16:47:26-05:00 INFO (6): _REQUEST::Array
+(
+    [PHPSESSID] => omj399hbfsilsfdp9qk5vsojk2
+)
+
+2017-04-05T16:47:26-05:00 INFO (6): HOSTNAME: {imap.gmail.com:993/ssl/novalidate-cert}INBOX
+2017-04-05T16:47:26-05:00 INFO (6): USERNAME: sms@conceptomovil.com
+2017-04-05T16:47:26-05:00 INFO (6): EMAILS: Array
+(
+    [0] => 11216
+    [1] => 11217
+)
+
+2017-04-05T16:47:26-05:00 INFO (6): OVERVIEW : Array
+(
+    [0] => stdClass Object
+        (
+            [subject] => 5561898472;5535049503
+            [from] => AlertaSMAR-MAQ@cns.gob.mx
+            [to] => sms@conceptomovil.com
+            [date] => Wed, 5 Apr 2017 16:13:12 -0500
+            [message_id] => <3b415beb-598f-4139-b61a-a58efdeece2e@CTYE2K7HT01.ssp.gob.mx>
+            [size] => 2200
+            [uid] => 11651
+            [msgno] => 11217
+            [recent] => 0
+            [flagged] => 0
+            [answered] => 0
+            [deleted] => 0
+            [seen] => 0
+            [draft] => 0
+        )
+
+)
+
+2017-04-05T16:47:26-05:00 INFO (6): OVERVIEW SUBJECT MSISDN : 5561898472;5535049503
+2017-04-05T16:47:27-05:00 INFO (6): MESAGE DECODE: 56-Acceso no autorizado este e-mail fue generado de manera automatica sms=
+=2E
+AlertID: 775562
+Severity: Low
+Status: Open
+Occurtime: Wed, 5, Apr 16:12:58 2017
+Location: Default Location (Puerta CECOM)
+Alarm Description:
+Admitted 'Jaimes, Leobardo' at 'Puerta CECOM' (IN) ([System.String[]]) (I=
+nside Area).
+
+
+Instruction: SC_AdmitStatus(Admit)
+
+
+
+Correo Analizado por McAfee Email Gateway =0D
+Copyright 1993-2014 McAfee, Inc.=0D
+Reservados todos los derechos..=0D
+http://www.mcafee.com
+
+2017-04-05T16:47:27-05:00 INFO (6): MESAGE ENCODE: 56-Acceso no autorizado este e-mail fue generado de manera automatica sms=
+=2E
+AlertID: 775562
+Severity: Low
+Status: Open
+Occurtime: Wed, 5, Apr 16:12:58 2017
+Location: Default Location (Puerta CECOM)
+Alarm Description:
+Admitted 'Jaimes, Leobardo' at 'Puerta CECOM' (IN) ([System.String[]]) (I=
+nside Area).
+
+
+Instruction: SC_AdmitStatus(Admit)
+
+
+
+Correo Analizado por McAfee Email Gateway =0D
+Copyright 1993-2014 McAfee, Inc.=0D
+Reservados todos los derechos..=0D
+http://www.mcafee.com
+
+2017-04-05T16:47:27-05:00 INFO (6): MESAGE DECODE 2: Acceso no autorizado este e-mail fue generado de manera automatica sms=
+=2E
+AlertID: 775562
+Severity: Low
+Status: Open
+Occurtime: Wed, 5, Apr 16:12:58 2017
+Location: Default Location (Puerta CECOM)
+Alarm Description:
+Admitted 'Jaimes, Leobardo' at 'Puerta CECOM' (IN) ([System.String[]]) (I=
+nside Area).
+
+
+Instruction: SC_AdmitStatus(Admit)
+
+
+
+Correo Analizado por McAfee Email Gateway =0D
+Copyright 1993-2014 McAfee, Inc.=0D
+Reservados todos los derechos..=0D
+http://www.mcafee.com
+
+2017-04-05T16:47:27-05:00 INFO (6): OVERVIEW : Array
+(
+    [0] => stdClass Object
+        (
+            [subject] => 5561898472;5535049503
+            [from] => AlertaSMAR-MAQ@cns.gob.mx
+            [to] => sms@conceptomovil.com
+            [date] => Wed, 5 Apr 2017 16:13:12 -0500
+            [message_id] => <24d32ed9-062e-4652-9568-2291c184b01c@CTYE2K7HT01.ssp.gob.mx>
+            [size] => 2199
+            [uid] => 11650
+            [msgno] => 11216
+            [recent] => 0
+            [flagged] => 0
+            [answered] => 0
+            [deleted] => 0
+            [seen] => 0
+            [draft] => 0
+        )
+
+)
+
+2017-04-05T16:47:27-05:00 INFO (6): OVERVIEW SUBJECT MSISDN : 5561898472;5535049503
+2017-04-05T16:47:27-05:00 INFO (6): MESAGE DECODE: 56-Acceso no autorizado este e-mail fue generado de manera automatica sms=
+=2E
+AlertID: 775563
+Severity: Low
+Status: Open
+Occurtime: Wed, 5, Apr 16:12:58 2017
+Location: Default Location (Puerta CECOM)
+Alarm Description:
+Admitted 'Jaimes, Leobardo' at 'Puerta CECOM' (IN) ([System.String[]]) (I=
+nside Area).
+
+
+Instruction: SC_AdmitStatus(Admit)
+
+
+
+Correo Analizado por McAfee Email Gateway =0D
+Copyright 1993-2014 McAfee, Inc.=0D
+Reservados todos los derechos..=0D
+http://www.mcafee.com
+
+2017-04-05T16:47:27-05:00 INFO (6): MESAGE ENCODE: 56-Acceso no autorizado este e-mail fue generado de manera automatica sms=
+=2E
+AlertID: 775563
+Severity: Low
+Status: Open
+Occurtime: Wed, 5, Apr 16:12:58 2017
+Location: Default Location (Puerta CECOM)
+Alarm Description:
+Admitted 'Jaimes, Leobardo' at 'Puerta CECOM' (IN) ([System.String[]]) (I=
+nside Area).
+
+
+Instruction: SC_AdmitStatus(Admit)
+
+
+
+Correo Analizado por McAfee Email Gateway =0D
+Copyright 1993-2014 McAfee, Inc.=0D
+Reservados todos los derechos..=0D
+http://www.mcafee.com
+
+2017-04-05T16:47:27-05:00 INFO (6): MESAGE DECODE 2: Acceso no autorizado este e-mail fue generado de manera automatica sms=
+=2E
+AlertID: 775563
+Severity: Low
+Status: Open
+Occurtime: Wed, 5, Apr 16:12:58 2017
+Location: Default Location (Puerta CECOM)
+Alarm Description:
+Admitted 'Jaimes, Leobardo' at 'Puerta CECOM' (IN) ([System.String[]]) (I=
+nside Area).
+
+
+Instruction: SC_AdmitStatus(Admit)
+
+
+
+Correo Analizado por McAfee Email Gateway =0D
+Copyright 1993-2014 McAfee, Inc.=0D
+Reservados todos los derechos..=0D
+http://www.mcafee.com
+

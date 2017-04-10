@@ -1,0 +1,106 @@
+<style type="text/css">
+    #tabla1_paginate{
+        margin-left: 550px;
+        position: absolute;
+    }
+</style>
+            <div class="right_col" role="main">
+
+                <div class="">
+                    <div class="clearfix"></div>
+
+
+
+
+
+                    <div class="col-md-12  row2">
+            <div class="col-md-12 up">
+                <div class="page-title">
+                                    <div class="title_left">
+                                        <h1>
+                                            <b>Envíos Programados</b>
+                                        </h1>
+                                        <hr>
+                                         <br>
+                                    </div>
+                            </div>
+                <div class="col-md-12">
+                    <div class="x_panel up2">
+                        <div class="x_content">
+                    <form role="form" action="canceled.php" method="POST">
+                       <button class="btn btn-danger submit" type="submit" id="cancelaa2">
+                                Cancelar
+                        </button>
+                        <table class="table table-striped table-bordered bootstrap-datatable datatable responsive order" style="font-size:15px;" align="center" id="tabla1">
+                            <thead>
+                            <tr class="info">
+                                <th class="center" style="color: #FFF;background: #26B99A; text-align: center;">Campaña</th>
+                                <th class="center" style="color: #FFF;background: #26B99A; text-align: center;">Horario</th>
+                                <th class="center" style="color: #FFF;background: #26B99A; text-align: center;">Fecha</th>
+                                <th class="center" style="color: #FFF;background: #26B99A; text-align: center;">Cancelar</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                                {{foreach from=$programados item=row}}
+                                <tr>
+                                    <td class="center">{{$row.mensaje_region}}&nbsp;</td>
+                                    <td class="center">{{$row.mensaje_horarionombre}}&nbsp;</td>
+                                    <td class="center">{{$row.mensaje_fechaenvio}}&nbsp;</td>
+                                    <td class="center"><input type="checkbox" name="ide[{{$row.mensaje_id}}]" value="{{$row.mensaje_id}}"></td>
+                                    <!-- <td class="center">
+                                {{if $row.costo_check == "SI"}}
+                                     <input type="checkbox" name="ide[{{$row.costo_id}}]" value="{{$row.costo_id}}" checked>
+                                {{else}}
+                                     <input type="checkbox" name="ide[{{$row.costo_id}}]" value="{{$row.costo_id}}">
+                                     <input type='hidden' value='No' name='ide[]'>
+                                {{/if}}
+                                </td> -->
+                                <!-- <td class="center">
+                                {{if $row.costo_check2 == "SI"}}
+                                     <input type="checkbox" name="ide2[{{$row.costo_id}}]" value="{{$row.costo_id}}" checked>
+                                {{else}}
+                                     <input type="checkbox" name="ide2[{{$row.costo_id}}]" value="{{$row.costo_id}}">
+                                     <input type='hidden' value='No' name='ide2[]'>
+                                {{/if}}
+                                    </td> -->
+                                </tr>
+                                {{/foreach}}
+                            </tbody>
+                        </table>
+                        <input type="hidden" name="accion" value="guardar"/>
+                    </form>
+                    </div>
+
+                 </div>
+                 </div>
+                 </div>
+                 </div>
+                </div>
+
+
+            </div>
+
+    <script type="text/javascript">
+
+        $('form').submit(function () {
+            $(this).find('input[type="checkbox"]').each( function () {
+                var checkbox = $(this);
+                if( checkbox.is(':checked')) {
+/*                    checkbox.attr('value','1');*/
+                } else {
+                    checkbox.after().append(checkbox.clone().attr({type:'hidden', value:"NO"}));
+                    checkbox.prop('disabled', true);
+                }
+            })
+        });
+    </script>
+
+    <script type="text/javascript" src="../html/es/js/dataTable.js"></script>
+            <script type="text/javascript">
+                $(document).ready(function(){
+                    $('#tabla2').DataTable({
+                      "scrollY": "100px"
+                    });
+                    $('#tabla1').DataTable();
+                });
+            </script>

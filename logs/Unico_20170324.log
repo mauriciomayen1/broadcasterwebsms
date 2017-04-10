@@ -1,0 +1,328 @@
+2017-03-24T11:42:49-06:00 INFO (6): ----------------------------------------------------
+2017-03-24T11:42:49-06:00 INFO (6): ----------------------------------------------------
+2017-03-24T11:42:49-06:00 INFO (6): ----------------------------------------------------
+2017-03-24T11:42:49-06:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-03-24T11:42:49-06:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5549444527
+    [message] => qjwqnwqe wqe wqewqewq e wqe qw e qw e qw eqw e qw e wq e wq e wq e qw e qw e qw e qw e qw e wq e wq e wqe  wqe wqe qw eqw e qw ewq e qw e qw e qwe qw e qw e wqe
+    [caracteres] => 160
+    [accion] => enviar
+    [PHPSESSID] => je1vgcb0h0qj8lkpdoegoi3o90
+)
+
+2017-03-24T11:42:49-06:00 INFO (6): MSISDN: 5549444527
+2017-03-24T11:42:49-06:00 INFO (6): SMS: qjwqnwqe wqe wqewqewq e wqe qw e qw e qw eqw e qw e wq e wq e wq e qw e qw e qw e qw e qw e wq e wq e wqe  wqe wqe qw eqw e qw ewq e qw e qw e qwe qw e qw e wqe
+2017-03-24T11:42:49-06:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-03-24T11:42:49-06:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-03-24T11:42:49-06:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-03-24T11:42:49-06:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: qjwqnwqe wqe wqewqewq e wqe qw e qw e qw eqw e qw e wq e wq e wq e qw e qw e qw e qw e qw e wq e wq e wqe  wqe wqe qw eqw e qw ewq e qw e qw e qwe qw e qw e wqe
+2017-03-24T11:42:49-06:00 INFO (6): .
+2017-03-24T11:42:49-06:00 INFO (6): .
+2017-03-24T11:42:49-06:00 INFO (6): .
+2017-03-24T11:42:49-06:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: qjwqnwqe wqe wqewqewq e wqe qw e qw e qw eqw e qw e wq e wq e wq e qw e qw e qw e qw e qw e wq e wq e wqe  wqe wqe qw eqw e qw ewq e qw e qw e qwe qw e qw e wqe
+2017-03-24T11:42:49-06:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: qjwqnwqe+wqe+wqewqewq+e+wqe+qw+e+qw+e+qw+eqw+e+qw+e+wq+e+wq+e+wq+e+qw+e+qw+e+qw+e+qw+e+qw+e+wq+e+wq+e+wqe++wqe+wqe+qw+eqw+e+qw+ewq+e+qw+e+qw+e+qwe+qw+e+qw+e+wqe
+2017-03-24T11:42:49-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=qjwqnwqe+wqe+wqewqewq+e+wqe+qw+e+qw+e+qw+eqw+e+qw+e+wq+e+wq+e+wq+e+qw+e+qw+e+qw+e+qw+e+qw+e+wq+e+wq+e+wqe++wqe+wqe+qw+eqw+e+qw+ewq+e+qw+e+qw+e+qwe+qw+e+qw+e+wqe
+2017-03-24T11:42:49-06:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-03-24T11:42:49-06:00 INFO (6): response:: 0: Accepted for delivery
+2017-03-24T11:42:49-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T11:42:49-06:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-03-24T11:42:49-06:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 058d55a994a4a78
+    [mt_contenido] => qjwqnwqe wqe wqewqewq e wqe qw e qw e qw eqw e qw e wq e wq e wq e qw e qw e qw e qw e qw e wq e wq e wqe  wqe wqe qw eqw e qw ewq e qw e qw e qwe qw e qw e wqe
+    [mt_fecha] => 2017-03-24 11:42:49
+    [mt_tag] => UNICO
+    [usuario_id] => 1
+)
+
+2017-03-24T11:42:49-06:00 INFO (6): SE INSERTO:: 1
+2017-03-24T11:42:49-06:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-03-24T11:42:49-06:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 920,06
+)
+
+2017-03-24T11:42:49-06:00 INFO (6): SE ACTUALIZO:: 1
+2017-03-24T11:55:11-06:00 INFO (6): ----------------------------------------------------
+2017-03-24T11:55:11-06:00 INFO (6): ----------------------------------------------------
+2017-03-24T11:55:11-06:00 INFO (6): ----------------------------------------------------
+2017-03-24T11:55:11-06:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-03-24T11:55:11-06:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5549444527
+    [message] => ewrewrwerewrwerewrwerewrewrewrewrewrewr
+    [caracteres] => 39
+    [accion] => enviar
+    [PHPSESSID] => je1vgcb0h0qj8lkpdoegoi3o90
+)
+
+2017-03-24T11:55:11-06:00 INFO (6): MSISDN: 5549444527
+2017-03-24T11:55:11-06:00 INFO (6): SMS: ewrewrwerewrwerewrwerewrewrewrewrewrewr
+2017-03-24T11:55:11-06:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-03-24T11:55:11-06:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-03-24T11:55:11-06:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-03-24T11:55:11-06:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: ewrewrwerewrwerewrwerewrewrewrewrewrewr
+2017-03-24T11:55:11-06:00 INFO (6): .
+2017-03-24T11:55:11-06:00 INFO (6): .
+2017-03-24T11:55:11-06:00 INFO (6): .
+2017-03-24T11:55:11-06:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: ewrewrwerewrwerewrwerewrewrewrewrewrewr
+2017-03-24T11:55:11-06:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: ewrewrwerewrwerewrwerewrewrewrewrewrewr
+2017-03-24T11:55:11-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=ewrewrwerewrwerewrwerewrewrewrewrewrewr
+2017-03-24T11:55:11-06:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-03-24T11:55:11-06:00 INFO (6): response:: 0: Accepted for delivery
+2017-03-24T11:55:11-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T11:55:11-06:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-03-24T11:55:11-06:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 458d55d7f49bad7
+    [mt_contenido] => ewrewrwerewrwerewrwerewrewrewrewrewrewr
+    [mt_fecha] => 2017-03-24 11:55:11
+    [mt_tag] => UNICO
+    [usuario_id] => 1
+)
+
+2017-03-24T11:55:11-06:00 INFO (6): SE INSERTO:: 1
+2017-03-24T11:55:11-06:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-03-24T11:55:11-06:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 919,48
+)
+
+2017-03-24T11:55:11-06:00 INFO (6): SE ACTUALIZO:: 1
+2017-03-24T11:58:52-06:00 INFO (6): ----------------------------------------------------
+2017-03-24T11:58:52-06:00 INFO (6): ----------------------------------------------------
+2017-03-24T11:58:52-06:00 INFO (6): ----------------------------------------------------
+2017-03-24T11:58:52-06:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-03-24T11:58:52-06:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5547870016
+    [message] => Hola, presentas un saldo vencido de 500 pesos. Paga lo antes posible. 
+    [caracteres] => 70
+    [accion] => enviar
+    [PHPSESSID] => q06abqoelqg9sj1qv4fu30dt40
+)
+
+2017-03-24T11:58:52-06:00 INFO (6): MSISDN: 5547870016
+2017-03-24T11:58:52-06:00 INFO (6): SMS: Hola, presentas un saldo vencido de 500 pesos. Paga lo antes posible. 
+2017-03-24T11:58:52-06:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-03-24T11:58:52-06:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-03-24T11:58:52-06:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-03-24T11:58:52-06:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: Hola, presentas un saldo vencido de 500 pesos. Paga lo antes posible. 
+2017-03-24T11:58:52-06:00 INFO (6): .
+2017-03-24T11:58:52-06:00 INFO (6): .
+2017-03-24T11:58:52-06:00 INFO (6): .
+2017-03-24T11:58:52-06:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: Hola, presentas un saldo vencido de 500 pesos. Paga lo antes posible. 
+2017-03-24T11:58:52-06:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: Hola%2C+presentas+un+saldo+vencido+de+500+pesos.+Paga+lo+antes+posible.+
+2017-03-24T11:58:52-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525547870016&text=Hola%2C+presentas+un+saldo+vencido+de+500+pesos.+Paga+lo+antes+posible.+
+2017-03-24T11:58:52-06:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-03-24T11:58:52-06:00 INFO (6): response:: 0: Accepted for delivery
+2017-03-24T11:58:52-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T11:58:52-06:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-03-24T11:58:52-06:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5547870016
+    [mt_medio] => Base
+    [mt_folio] => 758d55e5c86bff5
+    [mt_contenido] => Hola, presentas un saldo vencido de 500 pesos. Paga lo antes posible. 
+    [mt_fecha] => 2017-03-24 11:58:52
+    [mt_tag] => UNICO
+    [usuario_id] => 55
+)
+
+2017-03-24T11:58:52-06:00 INFO (6): SE INSERTO:: 1
+2017-03-24T11:58:52-06:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-03-24T11:58:52-06:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 99,42
+)
+
+2017-03-24T11:58:52-06:00 INFO (6): SE ACTUALIZO:: 1
+2017-03-24T12:31:06-06:00 INFO (6): ----------------------------------------------------
+2017-03-24T12:31:06-06:00 INFO (6): ----------------------------------------------------
+2017-03-24T12:31:06-06:00 INFO (6): ----------------------------------------------------
+2017-03-24T12:31:06-06:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-03-24T12:31:06-06:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5519701250
+    [message] => Suerte para la proxima, tu folio es 1525, tus numeros 5954 resultado 1139. Consulta el detalle de su participacion en
+    [caracteres] => 117
+    [accion] => enviar
+    [PHPSESSID] => d91lt99k7ib0ds0urjghru9o51
+)
+
+2017-03-24T12:31:06-06:00 INFO (6): MSISDN: 5519701250
+2017-03-24T12:31:06-06:00 INFO (6): SMS: Suerte para la proxima, tu folio es 1525, tus numeros 5954 resultado 1139. Consulta el detalle de su participacion en
+2017-03-24T12:31:06-06:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-03-24T12:31:06-06:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-03-24T12:31:06-06:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-03-24T12:31:06-06:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: Suerte para la proxima, tu folio es 1525, tus numeros 5954 resultado 1139. Consulta el detalle de su participacion en
+2017-03-24T12:31:06-06:00 INFO (6): .
+2017-03-24T12:31:06-06:00 INFO (6): .
+2017-03-24T12:31:06-06:00 INFO (6): .
+2017-03-24T12:31:06-06:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: Suerte para la proxima, tu folio es 1525, tus numeros 5954 resultado 1139. Consulta el detalle de su participacion en
+2017-03-24T12:31:06-06:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: Suerte+para+la+proxima%2C+tu+folio+es+1525%2C+tus+numeros+5954+resultado+1139.+Consulta+el+detalle+de+su+participacion+en
+2017-03-24T12:31:06-06:00 INFO (6): URL: http://administrador.cm-operations.com/iusacell/router/router_mt.php?SOA=5519701250&dial=26262&message=Suerte+para+la+proxima%2C+tu+folio+es+1525%2C+tus+numeros+5954+resultado+1139.+Consulta+el+detalle+de+su+participacion+en&service=EMAIL2SMS&subservice=UNICO&username=sendsmsatt_26262
+2017-03-24T12:31:06-06:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-03-24T12:31:06-06:00 INFO (6): response:: 0: Accepted for delivery
+2017-03-24T12:31:06-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:31:06-06:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-03-24T12:31:06-06:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Iusacell
+    [mt_msisdn] => 5519701250
+    [mt_medio] => Base
+    [mt_folio] => 858d565ea83e981
+    [mt_contenido] => Suerte para la proxima, tu folio es 1525, tus numeros 5954 resultado 1139. Consulta el detalle de su participacion en
+    [mt_fecha] => 2017-03-24 12:31:06
+    [mt_tag] => UNICO
+    [usuario_id] => 23
+)
+
+2017-03-24T12:31:06-06:00 INFO (6): SE INSERTO:: 1
+2017-03-24T12:31:06-06:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-03-24T12:31:06-06:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 28,28
+)
+
+2017-03-24T12:31:06-06:00 INFO (6): SE ACTUALIZO:: 1
+2017-03-24T12:32:32-06:00 INFO (6): ----------------------------------------------------
+2017-03-24T12:32:32-06:00 INFO (6): ----------------------------------------------------
+2017-03-24T12:32:32-06:00 INFO (6): ----------------------------------------------------
+2017-03-24T12:32:32-06:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-03-24T12:32:32-06:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5530405954
+    [message] => Suerte para la proxima, tu folio es 1525, tus numeros 5954 resultado 1139. Consulta el detalle de su participacion en: http://bit.ly/2mzIVRv
+    [caracteres] => 140
+    [accion] => enviar
+    [PHPSESSID] => d91lt99k7ib0ds0urjghru9o51
+)
+
+2017-03-24T12:32:32-06:00 INFO (6): MSISDN: 5530405954
+2017-03-24T12:32:32-06:00 INFO (6): SMS: Suerte para la proxima, tu folio es 1525, tus numeros 5954 resultado 1139. Consulta el detalle de su participacion en: http://bit.ly/2mzIVRv
+2017-03-24T12:32:32-06:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-03-24T12:32:32-06:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-03-24T12:32:32-06:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-03-24T12:32:32-06:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: Suerte para la proxima, tu folio es 1525, tus numeros 5954 resultado 1139. Consulta el detalle de su participacion en: http://bit.ly/2mzIVRv
+2017-03-24T12:32:32-06:00 INFO (6): .
+2017-03-24T12:32:32-06:00 INFO (6): .
+2017-03-24T12:32:32-06:00 INFO (6): .
+2017-03-24T12:32:32-06:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: Suerte para la proxima, tu folio es 1525, tus numeros 5954 resultado 1139. Consulta el detalle de su participacion en: http://bit.ly/2mzIVRv
+2017-03-24T12:32:32-06:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: Suerte+para+la+proxima%2C+tu+folio+es+1525%2C+tus+numeros+5954+resultado+1139.+Consulta+el+detalle+de+su+participacion+en%3A+http%3A%2F%2Fbit.ly%2F2mzIVRv
+2017-03-24T12:32:32-06:00 INFO (6): ENTRO A DATA24
+2017-03-24T12:32:32-06:00 INFO (6): URL ARMADA   ::https://api.data24-7.com/v/2.0?api=C&user=miguel.pacheco&pass=operations2015&p1=525530405954
+2017-03-24T12:32:32-06:00 INFO (6): Respuesta del Consumo URL: SimpleXMLElement Object
+(
+    [results] => SimpleXMLElement Object
+        (
+            [result] => SimpleXMLElement Object
+                (
+                    [@attributes] => Array
+                        (
+                            [item] => 1
+                        )
+
+                    [status] => OK
+                    [number] => 525530405954
+                    [wless] => y
+                    [carrier_name] => AT+T Comercializacion Movil (Iusacell/Unefon)
+                    [carrier_id] => 115405
+                    [country] => Mexico
+                )
+
+        )
+
+)
+
+2017-03-24T12:32:32-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:32:32-06:00 INFO (6): NOMBRE DE LA EMPRESA DATA24   ::AT+T Comercializacion Movil (Iusacell/Unefon)
+2017-03-24T12:32:32-06:00 INFO (6): ID OPERADOR DATA24  ::
+2017-03-24T12:32:32-06:00 INFO (6): URL: http://administrador.cm-operations.com/iusacell/router/router_mt.php?SOA=5530405954&dial=26262&message=Suerte+para+la+proxima%2C+tu+folio+es+1525%2C+tus+numeros+5954+resultado+1139.+Consulta+el+detalle+de+su+participacion+en%3A+http%3A%2F%2Fbit.ly%2F2mzIVRv&service=EMAIL2SMS&subservice=UNICO&username=sendsmsatt_26262
+2017-03-24T12:32:32-06:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-03-24T12:32:32-06:00 INFO (6): response:: 0: Accepted for delivery
+2017-03-24T12:32:32-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:32:32-06:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-03-24T12:32:32-06:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Iusacell
+    [mt_msisdn] => 5530405954
+    [mt_medio] => Data24
+    [mt_folio] => 658d56640c90ff2
+    [mt_contenido] => Suerte para la proxima, tu folio es 1525, tus numeros 5954 resultado 1139. Consulta el detalle de su participacion en: http://bit.ly/2mzIVRv
+    [mt_fecha] => 2017-03-24 12:32:32
+    [mt_tag] => UNICO
+    [usuario_id] => 23
+)
+
+2017-03-24T12:32:32-06:00 INFO (6): SE INSERTO:: 1
+2017-03-24T12:32:32-06:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-03-24T12:32:32-06:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 27,7
+)
+
+2017-03-24T12:32:32-06:00 INFO (6): SE ACTUALIZO:: 1
+2017-03-24T15:54:24-06:00 INFO (6): ----------------------------------------------------
+2017-03-24T15:54:24-06:00 INFO (6): ----------------------------------------------------
+2017-03-24T15:54:24-06:00 INFO (6): ----------------------------------------------------
+2017-03-24T15:54:24-06:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-03-24T15:54:24-06:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5549444527
+    [message] => qerfqevs/;:$r gstg rst g rt glrt gl lsg sltr gltrs ggstg sltgsgñ re  ge q g q gqrtqt 43lt q34ittiuui4q3t 4q3t4q3t 43q t 43qt
+    [caracteres] => 124
+    [accion] => enviar
+    [PHPSESSID] => je1vgcb0h0qj8lkpdoegoi3o90
+)
+
+2017-03-24T15:54:24-06:00 INFO (6): MSISDN: 5549444527
+2017-03-24T15:54:24-06:00 INFO (6): SMS: qerfqevs/;:$r gstg rst g rt glrt gl lsg sltr gltrs ggstg sltgsgn re  ge q g q gqrtqt 43lt q34ittiuui4q3t 4q3t4q3t 43q t 43qt
+2017-03-24T15:54:24-06:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-03-24T15:54:24-06:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-03-24T15:54:24-06:00 INFO (6): POSICON SIGNO DE PESOS: 11
+2017-03-24T15:54:24-06:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: qerfqevs/;:r gstg rst g rt glrt gl lsg sltr gltrs ggstg sltgsgn re  ge q g q gqrtqt 43lt q34ittiuui4q3t 4q3t4q3t 43q t 43qt
+2017-03-24T15:54:24-06:00 INFO (6): .
+2017-03-24T15:54:24-06:00 INFO (6): .
+2017-03-24T15:54:24-06:00 INFO (6): .
+2017-03-24T15:54:24-06:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: qerfqevs/;:$r gstg rst g rt glrt gl lsg sltr gltrs ggstg sltgsgn re  ge q g q gqrtqt 43lt q34ittiuui4q3t 4q3t4q3t 43q t 43qt
+2017-03-24T15:54:24-06:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: qerfqevs%2F%3B%3A%24r+gstg+rst+g+rt+glrt+gl+lsg+sltr+gltrs+ggstg+sltgsgn+re++ge+q+g+q+gqrtqt+43lt+q34ittiuui4q3t+4q3t4q3t+43q+t+43qt
+2017-03-24T15:54:24-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=qerfqevs%2F%3B%3A%24r+gstg+rst+g+rt+glrt+gl+lsg+sltr+gltrs+ggstg+sltgsgn+re++ge+q+g+q+gqrtqt+43lt+q34ittiuui4q3t+4q3t4q3t+43q+t+43qt
+2017-03-24T15:54:24-06:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-03-24T15:54:24-06:00 INFO (6): response:: 0: Accepted for delivery
+2017-03-24T15:54:24-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T15:54:24-06:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-03-24T15:54:24-06:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 858d59590d8be54
+    [mt_contenido] => qerfqevs/;:$r gstg rst g rt glrt gl lsg sltr gltrs ggstg sltgsgn re  ge q g q gqrtqt 43lt q34ittiuui4q3t 4q3t4q3t 43q t 43qt
+    [mt_fecha] => 2017-03-24 15:54:24
+    [mt_tag] => UNICO
+    [usuario_id] => 1
+)
+
+2017-03-24T15:54:24-06:00 INFO (6): SE INSERTO:: 1
+2017-03-24T15:54:24-06:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-03-24T15:54:24-06:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 884,1
+)
+
+2017-03-24T15:54:24-06:00 INFO (6): SE ACTUALIZO:: 1

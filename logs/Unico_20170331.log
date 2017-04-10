@@ -1,0 +1,204 @@
+2017-03-31T12:42:00-06:00 INFO (6): ----------------------------------------------------
+2017-03-31T12:42:00-06:00 INFO (6): ----------------------------------------------------
+2017-03-31T12:42:00-06:00 INFO (6): ----------------------------------------------------
+2017-03-31T12:42:00-06:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-03-31T12:42:00-06:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5530405954
+    [message] => PRUEBAC
+    [caracteres] => 7
+    [accion] => enviar
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-31T12:42:00-06:00 INFO (6): MSISDN: 5530405954
+2017-03-31T12:42:00-06:00 INFO (6): SMS: PRUEBAC
+2017-03-31T12:42:00-06:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-03-31T12:42:00-06:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-03-31T12:42:00-06:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-03-31T12:42:00-06:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: PRUEBAC
+2017-03-31T12:42:00-06:00 INFO (6): .
+2017-03-31T12:42:00-06:00 INFO (6): .
+2017-03-31T12:42:00-06:00 INFO (6): .
+2017-03-31T12:42:00-06:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: PRUEBAC
+2017-03-31T12:42:00-06:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: PRUEBAC
+2017-03-31T12:42:00-06:00 INFO (6): URL: http://administrador.cm-operations.com/iusacell/router/router_mt.php?SOA=5530405954&dial=26262&message=PRUEBAC&service=EMAIL2SMS&subservice=UNICO&username=sendsmsatt_26262
+2017-03-31T12:42:00-06:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-03-31T12:42:00-06:00 INFO (6): response:: 0: Accepted for delivery
+2017-03-31T12:42:00-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T12:42:00-06:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-03-31T12:42:00-06:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Iusacell
+    [mt_msisdn] => 5530405954
+    [mt_medio] => Base
+    [mt_folio] => 658dea2f88c7024
+    [mt_contenido] => PRUEBAC
+    [mt_fecha] => 2017-03-31 12:42:00
+    [mt_tag] => UNICO
+    [usuario_id] => 1
+)
+
+2017-03-31T12:42:00-06:00 INFO (6): SE INSERTO:: 1
+2017-03-31T12:42:00-06:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-03-31T12:42:00-06:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 99755,82
+)
+
+2017-03-31T12:42:00-06:00 INFO (6): SE ACTUALIZO:: 1
+2017-03-31T12:46:54-06:00 INFO (6): ----------------------------------------------------
+2017-03-31T12:46:54-06:00 INFO (6): ----------------------------------------------------
+2017-03-31T12:46:54-06:00 INFO (6): ----------------------------------------------------
+2017-03-31T12:46:54-06:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-03-31T12:46:54-06:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5510974424
+    [message] => prueba cm
+    [caracteres] => 9
+    [accion] => enviar
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-31T12:46:54-06:00 INFO (6): MSISDN: 5510974424
+2017-03-31T12:46:54-06:00 INFO (6): SMS: prueba cm
+2017-03-31T12:46:54-06:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-03-31T12:46:54-06:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-03-31T12:46:54-06:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-03-31T12:46:54-06:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: prueba cm
+2017-03-31T12:46:54-06:00 INFO (6): .
+2017-03-31T12:46:54-06:00 INFO (6): .
+2017-03-31T12:46:54-06:00 INFO (6): .
+2017-03-31T12:46:54-06:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: prueba cm
+2017-03-31T12:46:54-06:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: prueba+cm
+2017-03-31T12:46:54-06:00 INFO (6): ENTRO A DATA24
+2017-03-31T12:46:54-06:00 INFO (6): URL ARMADA   ::https://api.data24-7.com/v/2.0?api=C&user=miguel.pacheco&pass=operations2015&p1=525510974424
+2017-03-31T12:46:55-06:00 INFO (6): Respuesta del Consumo URL: SimpleXMLElement Object
+(
+    [results] => SimpleXMLElement Object
+        (
+            [result] => SimpleXMLElement Object
+                (
+                    [@attributes] => Array
+                        (
+                            [item] => 1
+                        )
+
+                    [status] => OK
+                    [number] => 525510974424
+                    [wless] => y
+                    [carrier_name] => AT+T Comercializacion Movil (Iusacell/Unefon)
+                    [carrier_id] => 115405
+                    [country] => Mexico
+                )
+
+        )
+
+)
+
+2017-03-31T12:46:55-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T12:46:55-06:00 INFO (6): NOMBRE DE LA EMPRESA DATA24   ::AT+T Comercializacion Movil (Iusacell/Unefon)
+2017-03-31T12:46:55-06:00 INFO (6): ID OPERADOR DATA24  ::
+2017-03-31T12:46:55-06:00 INFO (6): URL: http://administrador.cm-operations.com/iusacell/router/router_mt.php?SOA=5510974424&dial=26262&message=prueba+cm&service=EMAIL2SMS&subservice=UNICO&username=sendsmsatt_26262
+2017-03-31T12:46:55-06:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-03-31T12:46:55-06:00 INFO (6): response:: 0: Accepted for delivery
+2017-03-31T12:46:55-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T12:46:55-06:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-03-31T12:46:55-06:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Iusacell
+    [mt_msisdn] => 5510974424
+    [mt_medio] => Data24
+    [mt_folio] => 558dea41f125b11
+    [mt_contenido] => prueba cm
+    [mt_fecha] => 2017-03-31 12:46:55
+    [mt_tag] => UNICO
+    [usuario_id] => 1
+)
+
+2017-03-31T12:46:55-06:00 INFO (6): SE INSERTO:: 1
+2017-03-31T12:46:55-06:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-03-31T12:46:55-06:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 99755,24
+)
+
+2017-03-31T12:46:55-06:00 INFO (6): SE ACTUALIZO:: 1
+2017-03-31T16:27:33-06:00 INFO (6): ----------------------------------------------------
+2017-03-31T16:27:33-06:00 INFO (6): ----------------------------------------------------
+2017-03-31T16:27:33-06:00 INFO (6): ----------------------------------------------------
+2017-03-31T16:27:33-06:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-03-31T16:27:33-06:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5549444527
+    [message] => saSas
+    [caracteres] => 5
+    [accion] => enviar
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-31T16:27:33-06:00 INFO (6): MSISDN: 5549444527
+2017-03-31T16:27:33-06:00 INFO (6): SMS: saSas
+2017-03-31T16:27:33-06:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-03-31T16:27:33-06:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-03-31T16:27:33-06:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-03-31T16:27:33-06:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: saSas
+2017-03-31T16:27:33-06:00 INFO (6): .
+2017-03-31T16:27:33-06:00 INFO (6): .
+2017-03-31T16:27:33-06:00 INFO (6): .
+2017-03-31T16:27:33-06:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: saSas
+2017-03-31T16:27:33-06:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: saSas
+2017-03-31T16:27:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=saSas
+2017-03-31T16:27:33-06:00 INFO (6): No tiene crédito suficiente
+2017-03-31T16:29:12-06:00 INFO (6): ----------------------------------------------------
+2017-03-31T16:29:12-06:00 INFO (6): ----------------------------------------------------
+2017-03-31T16:29:12-06:00 INFO (6): ----------------------------------------------------
+2017-03-31T16:29:12-06:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-03-31T16:29:12-06:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5549444527
+    [message] => adsadas
+    [caracteres] => 7
+    [accion] => enviar
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-31T16:29:12-06:00 INFO (6): MSISDN: 5549444527
+2017-03-31T16:29:12-06:00 INFO (6): SMS: adsadas
+2017-03-31T16:29:12-06:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-03-31T16:29:12-06:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-03-31T16:29:12-06:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-03-31T16:29:12-06:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: adsadas
+2017-03-31T16:29:12-06:00 INFO (6): .
+2017-03-31T16:29:12-06:00 INFO (6): .
+2017-03-31T16:29:12-06:00 INFO (6): .
+2017-03-31T16:29:12-06:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: adsadas
+2017-03-31T16:29:12-06:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: adsadas
+2017-03-31T16:29:12-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=adsadas
+2017-03-31T16:29:12-06:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-03-31T16:29:12-06:00 INFO (6): response:: 0: Accepted for delivery
+2017-03-31T16:29:12-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T16:29:12-06:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-03-31T16:29:12-06:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 258ded838d04539
+    [mt_contenido] => adsadas
+    [mt_fecha] => 2017-03-31 16:29:12
+    [mt_tag] => UNICO
+    [usuario_id] => 1
+)
+
+2017-03-31T16:29:12-06:00 INFO (6): SE INSERTO:: 1
+2017-03-31T16:29:12-06:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-03-31T16:29:12-06:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 81,78
+)
+
+2017-03-31T16:29:12-06:00 INFO (6): SE ACTUALIZO:: 1

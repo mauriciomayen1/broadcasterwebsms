@@ -1,0 +1,281 @@
+2017-03-30T09:49:14-06:00 INFO (6): ------------------------------------------------
+2017-03-30T09:49:14-06:00 INFO (6): ------------------------------------------------
+2017-03-30T09:49:14-06:00 INFO (6): ------------------------------------------------
+2017-03-30T09:49:14-06:00 INFO (6): ---- ENVIO MASIVO PREPARAR - FN PREPARAR -------
+2017-03-30T09:49:14-06:00 INFO (6): REQUEST: Array
+(
+    [selectCategoria] => dummy
+    [sms] => 
+    [caracteres] => 
+    [accion] => preparar
+    [retenido] => 
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-30T09:49:14-06:00 INFO (6): LA CATEGORIA A PREPARAR ES: dummy
+2017-03-30T09:49:14-06:00 INFO (6): SI SELECCIONO CATEGORIA
+2017-03-30T09:49:14-06:00 INFO (6): DATOS A UPDATE EN LA BASE: Array
+(
+    [usuario_enviado] => 0
+)
+
+2017-03-30T09:49:14-06:00 INFO (6): WHERE: 
+2017-03-30T09:49:14-06:00 INFO (6): SE ACTUALIZARON: 0
+2017-03-30T09:51:42-06:00 INFO (6): ------------------------------------------------
+2017-03-30T09:51:42-06:00 INFO (6): ------------------------------------------------
+2017-03-30T09:51:42-06:00 INFO (6): ------------------------------------------------
+2017-03-30T09:51:42-06:00 INFO (6): ---- ENVIO MASIVO PREPARAR - FN PREPARAR -------
+2017-03-30T09:51:42-06:00 INFO (6): REQUEST: Array
+(
+    [selectCategoria] => nueva
+    [sms] => ed&ewdewd
+    [caracteres] => 
+    [accion] => preparar
+    [retenido] => 
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-30T09:51:42-06:00 INFO (6): LA CATEGORIA A PREPARAR ES: nueva
+2017-03-30T09:51:42-06:00 INFO (6): SI SELECCIONO CATEGORIA
+2017-03-30T09:51:42-06:00 INFO (6): DATOS A UPDATE EN LA BASE: Array
+(
+    [usuario_enviado] => 0
+)
+
+2017-03-30T09:51:42-06:00 INFO (6): WHERE: 
+2017-03-30T09:51:42-06:00 INFO (6): SE ACTUALIZARON: 0
+2017-03-30T09:55:08-06:00 INFO (6): ------------------------------------------------
+2017-03-30T09:55:08-06:00 INFO (6): ------------------------------------------------
+2017-03-30T09:55:08-06:00 INFO (6): ------------------------------------------------
+2017-03-30T09:55:08-06:00 INFO (6): ---- ENVIO MASIVO PREPARAR - FN PREPARAR -------
+2017-03-30T09:55:08-06:00 INFO (6): REQUEST: Array
+(
+    [selectCategoria] => dummy
+    [sms] => 
+    [caracteres] => 
+    [accion] => preparar
+    [retenido] => 
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-30T09:55:55-06:00 INFO (6): ------------------------------------------------
+2017-03-30T09:55:55-06:00 INFO (6): ------------------------------------------------
+2017-03-30T09:55:55-06:00 INFO (6): ------------------------------------------------
+2017-03-30T09:55:55-06:00 INFO (6): ---- ENVIO MASIVO PREPARAR - FN PREPARAR -------
+2017-03-30T09:55:55-06:00 INFO (6): REQUEST: Array
+(
+    [selectCategoria] => dummy
+    [sms] => 
+    [caracteres] => 
+    [accion] => preparar
+    [retenido] => 
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-30T09:55:55-06:00 INFO (6): LA CATEGORIA A PREPARAR ES: dummy
+2017-03-30T09:55:55-06:00 INFO (6): SI SELECCIONO CATEGORIA
+2017-03-30T09:58:48-06:00 INFO (6): ------------------------------------------------
+2017-03-30T09:58:48-06:00 INFO (6): ------------------------------------------------
+2017-03-30T09:58:48-06:00 INFO (6): ------------------------------------------------
+2017-03-30T09:58:48-06:00 INFO (6): ---- ENVIO MASIVO PREPARAR - FN PREPARAR -------
+2017-03-30T09:58:48-06:00 INFO (6): REQUEST: Array
+(
+    [selectCategoria] => dummy
+    [sms] => 
+    [caracteres] => 
+    [accion] => preparar
+    [retenido] => 
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-30T09:58:48-06:00 INFO (6): LA CATEGORIA A PREPARAR ES: dummy
+2017-03-30T09:58:48-06:00 INFO (6): SI SELECCIONO CATEGORIA
+2017-03-30T09:59:33-06:00 INFO (6): ------------------------------------------------
+2017-03-30T09:59:33-06:00 INFO (6): ------------------------------------------------
+2017-03-30T09:59:33-06:00 INFO (6): ------------------------------------------------
+2017-03-30T09:59:33-06:00 INFO (6): ---- ENVIO MASIVO PREPARAR - FN PREPARAR -------
+2017-03-30T09:59:33-06:00 INFO (6): REQUEST: Array
+(
+    [selectCategoria] => dummy
+    [sms] => 
+    [caracteres] => 
+    [accion] => preparar
+    [retenido] => 
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-30T09:59:33-06:00 INFO (6): LA CATEGORIA A PREPARAR ES: dummy
+2017-03-30T09:59:33-06:00 INFO (6): SI SELECCIONO CATEGORIA
+2017-03-30T10:00:10-06:00 INFO (6): ------------------------------------------------
+2017-03-30T10:00:10-06:00 INFO (6): ------------------------------------------------
+2017-03-30T10:00:10-06:00 INFO (6): ------------------------------------------------
+2017-03-30T10:00:10-06:00 INFO (6): ---- ENVIO MASIVO PREPARAR - FN PREPARAR -------
+2017-03-30T10:00:10-06:00 INFO (6): REQUEST: Array
+(
+    [selectCategoria] => dummy
+    [sms] => 
+    [caracteres] => 
+    [accion] => preparar
+    [retenido] => 
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-30T10:00:10-06:00 INFO (6): LA CATEGORIA A PREPARAR ES: dummy
+2017-03-30T10:00:10-06:00 INFO (6): SI SELECCIONO CATEGORIA
+2017-03-30T10:03:01-06:00 INFO (6): ------------------------------------------------
+2017-03-30T10:03:01-06:00 INFO (6): ------------------------------------------------
+2017-03-30T10:03:01-06:00 INFO (6): ------------------------------------------------
+2017-03-30T10:03:01-06:00 INFO (6): ---- ENVIO MASIVO PREPARAR - FN PREPARAR -------
+2017-03-30T10:03:01-06:00 INFO (6): REQUEST: Array
+(
+    [selectCategoria] => dummy
+    [sms] => 
+    [caracteres] => 
+    [accion] => preparar
+    [retenido] => 
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-30T10:03:01-06:00 INFO (6): LA CATEGORIA A PREPARAR ES: dummy
+2017-03-30T10:03:01-06:00 INFO (6): SI SELECCIONO CATEGORIA
+2017-03-30T10:03:01-06:00 INFO (6): DATOS A UPDATE EN LA BASE: Array
+(
+    [usuario_enviado] => 0
+)
+
+2017-03-30T10:03:01-06:00 INFO (6): WHERE: 
+2017-03-30T10:03:01-06:00 INFO (6): SE ACTUALIZARON: 0
+2017-03-30T10:03:41-06:00 INFO (6): ------------------------------------------------
+2017-03-30T10:03:41-06:00 INFO (6): ------------------------------------------------
+2017-03-30T10:03:41-06:00 INFO (6): ------------------------------------------------
+2017-03-30T10:03:41-06:00 INFO (6): ---- ENVIO MASIVO PREPARAR - FN PREPARAR -------
+2017-03-30T10:03:41-06:00 INFO (6): REQUEST: Array
+(
+    [selectCategoria] => dummy2
+    [sms] => 
+    [caracteres] => 
+    [accion] => preparar
+    [retenido] => 
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-30T10:03:41-06:00 INFO (6): LA CATEGORIA A PREPARAR ES: dummy2
+2017-03-30T10:03:41-06:00 INFO (6): SI SELECCIONO CATEGORIA
+2017-03-30T10:03:42-06:00 INFO (6): DATOS A UPDATE EN LA BASE: Array
+(
+    [usuario_enviado] => 0
+)
+
+2017-03-30T10:03:42-06:00 INFO (6): WHERE: 
+2017-03-30T10:03:42-06:00 INFO (6): SE ACTUALIZARON: 70
+2017-03-30T10:33:14-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-30T10:33:14-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-30T10:33:14-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-30T10:33:14-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>FUNCION CODERE: 2017/03/30 10:33:14
+2017-03-30T10:33:14-06:00 INFO (6): _REQUEST::Array
+(
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-30T10:33:15-06:00 INFO (6): -------------------------------------->
+2017-03-30T10:33:15-06:00 INFO (6): CONTADOR i: 0
+2017-03-30T10:33:15-06:00 INFO (6): ID:: 13255
+2017-03-30T10:33:15-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-30T10:33:15-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-30T10:33:15-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-30T10:33:15-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=asdas
+2017-03-30T10:33:15-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-30T10:33:24-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-30T10:33:24-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-30T10:33:24-06:00 INFO (6): SE ENVIO
+2017-03-30T10:33:24-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 858dd3354133f53
+    [mt_contenido] => asdas
+    [mt_fecha] => 2017-03-30 10:33:24
+    [mt_tag] => MASIVO
+    [mt_categoria] => nueva
+    [usuario_id] => 1
+)
+
+2017-03-30T10:33:24-06:00 INFO (6): SE INSERTO: 1
+2017-03-30T10:33:24-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-30T10:33:24-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-30T10:33:24-06:00 INFO (6): -------------------------------------->
+2017-03-30T10:33:24-06:00 INFO (6): CONTADOR i: 1
+2017-03-30T10:33:24-06:00 INFO (6): ID:: 13256
+2017-03-30T10:33:24-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-30T10:33:24-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-30T10:33:24-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-30T10:33:24-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=asdas
+2017-03-30T10:33:24-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-30T10:33:24-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-30T10:33:24-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-30T10:33:24-06:00 INFO (6): SE ENVIO
+2017-03-30T10:33:24-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 458dd335426dae1
+    [mt_contenido] => asdas
+    [mt_fecha] => 2017-03-30 10:33:24
+    [mt_tag] => MASIVO
+    [mt_categoria] => nueva
+    [usuario_id] => 1
+)
+
+2017-03-30T10:33:24-06:00 INFO (6): SE INSERTO: 1
+2017-03-30T10:33:24-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-30T10:33:24-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-30T10:33:24-06:00 INFO (6): -------------------------------------->
+2017-03-30T10:33:24-06:00 INFO (6): CONTADOR i: 2
+2017-03-30T10:33:24-06:00 INFO (6): ID:: 
+2017-03-30T10:33:24-06:00 INFO (6): MSISDN:: 
+2017-03-30T10:33:24-06:00 INFO (6): OPERADOR:: 
+2017-03-30T10:33:24-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-30T10:33:24-06:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 49,54
+    [credito_retenido] => 4,06
+)
+
+2017-03-30T10:33:24-06:00 INFO (6): SE ACTUALIZO:: 1
+2017-03-30T10:33:24-06:00 INFO (6): No tiene crédito suficiente
+2017-03-30T10:33:24-06:00 INFO (6): Fin::..
+2017-03-30T10:34:53-06:00 INFO (6): ------------------------------------------------
+2017-03-30T10:34:53-06:00 INFO (6): ------------------------------------------------
+2017-03-30T10:34:53-06:00 INFO (6): ------------------------------------------------
+2017-03-30T10:34:53-06:00 INFO (6): ---- ENVIO MASIVO PREPARAR - FN PREPARAR -------
+2017-03-30T10:34:53-06:00 INFO (6): REQUEST: Array
+(
+    [selectCategoria] => nueva
+    [sms] => 
+    [caracteres] => 
+    [accion] => preparar
+    [retenido] => 
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-30T10:34:53-06:00 INFO (6): LA CATEGORIA A PREPARAR ES: nueva
+2017-03-30T10:34:53-06:00 INFO (6): SI SELECCIONO CATEGORIA
+2017-03-30T10:34:53-06:00 INFO (6): DATOS A UPDATE EN LA BASE: Array
+(
+    [usuario_enviado] => 0
+)
+
+2017-03-30T10:34:53-06:00 INFO (6): WHERE: 
+2017-03-30T10:34:53-06:00 INFO (6): SE ACTUALIZARON: 2

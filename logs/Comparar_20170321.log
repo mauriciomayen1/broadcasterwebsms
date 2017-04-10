@@ -1,0 +1,17 @@
+2017-03-21T16:40:06-06:00 INFO (6): ------------------------------------------------
+2017-03-21T16:40:06-06:00 INFO (6): ------------------------------------------------
+2017-03-21T16:40:06-06:00 INFO (6): ------------------------------------------------
+2017-03-21T16:40:06-06:00 INFO (6): ---- ENVIO PROGRAMADOS - FN COMPARAR FECHAS ----
+2017-03-21T16:40:06-06:00 INFO (6): REQUESTArray
+(
+    [categoria] => MAYEN
+    [fechaenvio] => 2017-03-21
+    [horaenvio] => 14de63ffb0f3690
+    [msgtxt] => EWFWFEWFEWFEWFEWFEWFEWFEWFEWFEWFEWFEWFEWFEWFEWFEWF
+    [caracteres] => 50
+    [accion] => guardar
+    [PHPSESSID] => je1vgcb0h0qj8lkpdoegoi3o90
+)
+
+2017-03-21T16:40:06-06:00 INFO (6): PRIMERA FECHA:: 2017-03-21
+2017-03-21T16:40:06-06:00 INFO (6): SEGUNDA FECHA:: 2017-03-21

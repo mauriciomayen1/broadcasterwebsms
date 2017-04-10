@@ -1,0 +1,22 @@
+2017-03-26T20:01:54-06:00 INFO (6): ------------------------------------------------
+2017-03-26T20:01:54-06:00 INFO (6): ------------------------------------------------
+2017-03-26T20:01:54-06:00 INFO (6): ------------------------------------------------
+2017-03-26T20:01:54-06:00 INFO (6): ---- ENVIO MASIVO PREPARAR - FN PREPARAR -------
+2017-03-26T20:01:54-06:00 INFO (6): REQUEST: Array
+(
+    [selectCategoria] => PRUEBACASA
+    [sms] => dscdscdscdscdscdscdscdscdscdscdsc
+    [caracteres] => 33
+    [accion] => preparar
+    [PHPSESSID] => p0slapa788hhmufv4uqpuskk14
+)
+
+2017-03-26T20:01:54-06:00 INFO (6): LA CATEGORIA A PREPARAR ES: PRUEBACASA
+2017-03-26T20:01:54-06:00 INFO (6): SI SELECCIONO CATEGORIA
+2017-03-26T20:01:55-06:00 INFO (6): DATOS A UPDATE EN LA BASE: Array
+(
+    [usuario_enviado] => 0
+)
+
+2017-03-26T20:01:55-06:00 INFO (6): WHERE: 
+2017-03-26T20:01:55-06:00 INFO (6): SE ACTUALIZARON: 19

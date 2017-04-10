@@ -1,0 +1,17 @@
+2017-03-27T11:22:29-06:00 INFO (6): ------------------------------------------------
+2017-03-27T11:22:29-06:00 INFO (6): ------------------------------------------------
+2017-03-27T11:22:29-06:00 INFO (6): ------------------------------------------------
+2017-03-27T11:22:29-06:00 INFO (6): ---- ENVIO PROGRAMADOS - FN COMPARAR FECHAS ----
+2017-03-27T11:22:29-06:00 INFO (6): REQUESTArray
+(
+    [categoria] => prueba 1
+    [fechaenvio] => 2017-03-27
+    [horaenvio] => 04c069bb9f37c19
+    [msgtxt] => prueba
+    [caracteres] => 6
+    [accion] => guardar
+    [PHPSESSID] => 8fgu7p454l0l13pqkfbhehuj36
+)
+
+2017-03-27T11:22:29-06:00 INFO (6): PRIMERA FECHA:: 2017-03-27
+2017-03-27T11:22:29-06:00 INFO (6): SEGUNDA FECHA:: 2017-03-27

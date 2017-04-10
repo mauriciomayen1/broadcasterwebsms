@@ -1,0 +1,37 @@
+2017-03-30T18:15:06-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-30T18:15:06-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-30T18:15:06-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-30T18:15:06-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>INICIO: 2017/03/30 18:15:06
+2017-03-30T18:15:06-06:00 INFO (6): REQUEST: Array
+(
+    [nombrec] => nueva
+    [accion] => cargar
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-30T18:15:06-06:00 INFO (6): FILES: Array
+(
+    [usuarios] => Array
+        (
+            [name] => Libro1.xls
+            [type] => application/octet-stream
+            [tmp_name] => /tmp/phpR0Wn6E
+            [error] => 0
+            [size] => 26624
+        )
+
+)
+
+2017-03-30T18:15:06-06:00 INFO (6):  msisdn ---->5549444527
+2017-03-30T18:15:06-06:00 INFO (6): DATOS ALTA:: Array
+(
+    [usuario_msisdn] => 5549444527
+    [usuario_operador] => 
+    [usuario_categoria] => nueva
+    [usuario_enviado] => 1
+    [usuario_alta] => 2017-03-30 18:15:06
+    [usuario_activo] => 1
+    [usuario_id_fk] => 1
+)
+
+2017-03-30T18:15:06-06:00 INFO (6): INSERTO ALTA:: 1

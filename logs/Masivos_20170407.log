@@ -1,0 +1,22 @@
+2017-04-07T10:07:59-05:00 INFO (6): ------------------------------------------------
+2017-04-07T10:07:59-05:00 INFO (6): ------------------------------------------------
+2017-04-07T10:07:59-05:00 INFO (6): ------------------------------------------------
+2017-04-07T10:07:59-05:00 INFO (6): ---- ENVIO MASIVO PREPARAR - FN PREPARAR -------
+2017-04-07T10:07:59-05:00 INFO (6): REQUEST: Array
+(
+    [selectCategoria2] => real
+    [sms] => 
+    [accion] => preparar
+    [retenido] => 
+    [PHPSESSID] => omj399hbfsilsfdp9qk5vsojk2
+)
+
+2017-04-07T10:07:59-05:00 INFO (6): LA CATEGORIA A PREPARAR ES: real
+2017-04-07T10:07:59-05:00 INFO (6): SI SELECCIONO CATEGORIA
+2017-04-07T10:07:59-05:00 INFO (6): DATOS A UPDATE EN LA BASE: Array
+(
+    [usuario_enviado] => 0
+)
+
+2017-04-07T10:07:59-05:00 INFO (6): WHERE: 
+2017-04-07T10:07:59-05:00 INFO (6): SE ACTUALIZARON: 3

@@ -1,0 +1,649 @@
+2017-04-06T11:52:46-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T11:52:46-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T11:52:46-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T11:52:46-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->-> FUNCION URL MT WS: 2017/04/06 11:52:46
+2017-04-06T11:52:46-05:00 INFO (6): _REQUEST::Array
+(
+)
+
+2017-04-06T11:52:46-05:00 INFO (6): IP::: 201.149.88.206
+2017-04-06T11:52:46-05:00 INFO (6): MSISDN::: 
+2017-04-06T11:52:46-05:00 INFO (6): SMS::: 
+2017-04-06T11:52:46-05:00 INFO (6): TAG::: 
+2017-04-06T11:52:46-05:00 INFO (6): USER::: 
+2017-04-06T11:52:46-05:00 INFO (6): QUERY BUSQUEDA::: Select count(*) as total from clientes_demo where cliente_usuario like '' and cliente_activo = 1
+2017-04-06T11:52:46-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN clientes_demo FUERON::: 0
+2017-04-06T11:52:46-05:00 INFO (6): NO ES UN USUARIO ACTIVO.
+2017-04-06T11:52:46-05:00 INFO (6): Fin
+2017-04-06T11:56:02-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T11:56:02-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T11:56:02-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T11:56:02-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->-> FUNCION URL MT WS: 2017/04/06 11:56:02
+2017-04-06T11:56:02-05:00 INFO (6): _REQUEST::Array
+(
+    [PHPSESSID] => 527ace62qc6091is1qerdij8s1
+)
+
+2017-04-06T11:56:02-05:00 INFO (6): IP::: 201.149.88.206
+2017-04-06T11:56:02-05:00 INFO (6): MSISDN::: 
+2017-04-06T11:56:02-05:00 INFO (6): SMS::: 
+2017-04-06T11:56:02-05:00 INFO (6): TAG::: 
+2017-04-06T11:56:02-05:00 INFO (6): USER::: 
+2017-04-06T11:56:02-05:00 INFO (6): QUERY BUSQUEDA::: Select count(*) as total from clientes_demo where cliente_usuario like '' and cliente_activo = 1
+2017-04-06T11:56:02-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN clientes_demo FUERON::: 0
+2017-04-06T11:56:02-05:00 INFO (6): NO ES UN USUARIO ACTIVO.
+2017-04-06T11:56:02-05:00 INFO (6): Fin
+2017-04-06T11:56:46-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T11:56:46-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T11:56:46-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T11:56:46-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->-> FUNCION URL MT WS: 2017/04/06 11:56:46
+2017-04-06T11:56:46-05:00 INFO (6): _REQUEST::Array
+(
+    [PHPSESSID] => 527ace62qc6091is1qerdij8s1
+)
+
+2017-04-06T11:56:46-05:00 INFO (6): IP::: 201.149.88.206
+2017-04-06T11:56:46-05:00 INFO (6): MSISDN::: 
+2017-04-06T11:56:46-05:00 INFO (6): SMS::: 
+2017-04-06T11:56:46-05:00 INFO (6): TAG::: 
+2017-04-06T11:56:46-05:00 INFO (6): USER::: 
+2017-04-06T11:56:46-05:00 INFO (6): QUERY BUSQUEDA::: Select count(*) as total from clientes_demo where cliente_usuario like '' and cliente_activo = 1
+2017-04-06T11:56:46-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN clientes_demo FUERON::: 0
+2017-04-06T11:56:46-05:00 INFO (6): NO ES UN USUARIO ACTIVO.
+2017-04-06T11:56:46-05:00 INFO (6): Fin
+2017-04-06T11:57:25-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T11:57:25-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T11:57:25-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T11:57:25-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->-> FUNCION URL MT WS: 2017/04/06 11:57:25
+2017-04-06T11:57:25-05:00 INFO (6): _REQUEST::Array
+(
+    [PHPSESSID] => 527ace62qc6091is1qerdij8s1
+)
+
+2017-04-06T11:57:25-05:00 INFO (6): IP::: 201.149.88.206
+2017-04-06T11:57:25-05:00 INFO (6): MSISDN::: 
+2017-04-06T11:57:25-05:00 INFO (6): SMS::: 
+2017-04-06T11:57:25-05:00 INFO (6): TAG::: 
+2017-04-06T11:57:25-05:00 INFO (6): USER::: 
+2017-04-06T11:57:25-05:00 INFO (6): QUERY BUSQUEDA::: Select count(*) as total from clientes_demo where cliente_usuario like '' and cliente_activo = 1
+2017-04-06T11:57:25-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN clientes_demo FUERON::: 0
+2017-04-06T11:58:09-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T11:58:09-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T11:58:09-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T11:58:09-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->-> FUNCION URL MT WS: 2017/04/06 11:58:09
+2017-04-06T11:58:09-05:00 INFO (6): _REQUEST::Array
+(
+    [PHPSESSID] => 527ace62qc6091is1qerdij8s1
+)
+
+2017-04-06T11:58:09-05:00 INFO (6): IP::: 201.149.88.206
+2017-04-06T11:58:09-05:00 INFO (6): MSISDN::: 
+2017-04-06T11:58:09-05:00 INFO (6): SMS::: 
+2017-04-06T11:58:09-05:00 INFO (6): TAG::: 
+2017-04-06T11:58:09-05:00 INFO (6): USER::: 
+2017-04-06T11:58:09-05:00 INFO (6): QUERY BUSQUEDA::: Select count(*) as total from clientes_demo where cliente_usuario like '' and cliente_activo = 1
+2017-04-06T11:58:09-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN clientes_demo FUERON::: 0
+2017-04-06T11:59:30-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T11:59:30-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T11:59:30-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T11:59:30-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->-> FUNCION URL MT WS: 2017/04/06 11:59:30
+2017-04-06T11:59:30-05:00 INFO (6): _REQUEST::Array
+(
+    [PHPSESSID] => 527ace62qc6091is1qerdij8s1
+)
+
+2017-04-06T11:59:30-05:00 INFO (6): IP::: 201.149.88.206
+2017-04-06T11:59:30-05:00 INFO (6): MSISDN::: 
+2017-04-06T11:59:30-05:00 INFO (6): SMS::: 
+2017-04-06T11:59:30-05:00 INFO (6): TAG::: 
+2017-04-06T11:59:30-05:00 INFO (6): USER::: 
+2017-04-06T11:59:30-05:00 INFO (6): QUERY BUSQUEDA::: Select count(*) as total from clientes_demo where cliente_usuario like '' and cliente_activo = 1
+2017-04-06T11:59:30-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN clientes_demo FUERON::: 0
+2017-04-06T12:01:19-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T12:01:19-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T12:01:19-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T12:01:19-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->-> FUNCION URL MT WS: 2017/04/06 12:01:19
+2017-04-06T12:01:19-05:00 INFO (6): _REQUEST::Array
+(
+    [msisdn] => XXXXXXXXXX
+    [message] => MESSAGE
+    [tag] => EXAMPLE
+    [idu] => 58e51f88afa80
+    [user] => Administrador
+    [PHPSESSID] => 527ace62qc6091is1qerdij8s1
+)
+
+2017-04-06T12:01:19-05:00 INFO (6): IP::: 201.149.88.206
+2017-04-06T12:01:19-05:00 INFO (6): MSISDN::: XXXXXXXXXX
+2017-04-06T12:01:19-05:00 INFO (6): SMS::: MESSAGE
+2017-04-06T12:01:19-05:00 INFO (6): TAG::: EXAMPLE
+2017-04-06T12:01:19-05:00 INFO (6): USER::: Administrador
+2017-04-06T12:01:19-05:00 INFO (6): QUERY BUSQUEDA::: Select count(*) as total from clientes_demo where cliente_usuario like 'Administrador' and cliente_activo = 1
+2017-04-06T12:01:19-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN clientes_demo FUERON::: 1
+2017-04-06T12:02:29-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T12:02:29-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T12:02:29-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T12:02:29-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->-> FUNCION URL MT WS: 2017/04/06 12:02:29
+2017-04-06T12:02:29-05:00 INFO (6): _REQUEST::Array
+(
+    [msisdn] => XXXXXXXXXX
+    [message] => MESSAGE
+    [tag] => EXAMPLE
+    [idu] => 58e51f88afa80
+    [user] => Administrador
+    [PHPSESSID] => 527ace62qc6091is1qerdij8s1
+)
+
+2017-04-06T12:02:29-05:00 INFO (6): IP::: 201.149.88.206
+2017-04-06T12:02:29-05:00 INFO (6): MSISDN::: XXXXXXXXXX
+2017-04-06T12:02:29-05:00 INFO (6): SMS::: MESSAGE
+2017-04-06T12:02:29-05:00 INFO (6): TAG::: EXAMPLE
+2017-04-06T12:02:29-05:00 INFO (6): USER::: Administrador
+2017-04-06T12:02:29-05:00 INFO (6): QUERY BUSQUEDA::: Select count(*) as total from clientes_demo where cliente_usuario like 'Administrador' and cliente_activo = 1
+2017-04-06T12:02:29-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN clientes_demo FUERON::: 1
+2017-04-06T12:02:29-05:00 INFO (6): SI ES UN USUARIO ACTIVO.
+2017-04-06T12:02:29-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN SMS DEL NUMERO FUERON::: 0
+2017-04-06T12:02:29-05:00 INFO (6): Fin
+2017-04-06T12:03:24-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T12:03:24-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T12:03:24-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T12:03:24-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->-> FUNCION URL MT WS: 2017/04/06 12:03:24
+2017-04-06T12:03:24-05:00 INFO (6): _REQUEST::Array
+(
+    [msisdn] => 5549444527
+    [message] => MESSAGE
+    [tag] => EXAMPLE
+    [idu] => 58e51f88afa80
+    [user] => Administrador
+    [PHPSESSID] => 527ace62qc6091is1qerdij8s1
+)
+
+2017-04-06T12:03:24-05:00 INFO (6): IP::: 201.149.88.206
+2017-04-06T12:03:24-05:00 INFO (6): MSISDN::: 5549444527
+2017-04-06T12:03:24-05:00 INFO (6): SMS::: MESSAGE
+2017-04-06T12:03:24-05:00 INFO (6): TAG::: EXAMPLE
+2017-04-06T12:03:24-05:00 INFO (6): USER::: Administrador
+2017-04-06T12:03:24-05:00 INFO (6): QUERY BUSQUEDA::: Select count(*) as total from clientes_demo where cliente_usuario like 'Administrador' and cliente_activo = 1
+2017-04-06T12:03:24-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN clientes_demo FUERON::: 1
+2017-04-06T12:03:24-05:00 INFO (6): SI ES UN USUARIO ACTIVO.
+2017-04-06T12:03:24-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN SMS DEL NUMERO FUERON::: 4496
+2017-04-06T12:03:24-05:00 INFO (6): SI SE ENCONTRO EN BASE MOTHERBASE::..
+2017-04-06T12:03:24-05:00 INFO (6): URL: http://administrador.cm-operations.com/telcel/router/router_mt.php?SOA=5549444527&dial=26262&message=MESSAGE&service=WEBSMS&subservice=WS&username=sendsmsmt_26262
+2017-04-06T12:03:24-05:00 INFO (6): Fin
+2017-04-06T12:06:46-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T12:06:46-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T12:06:46-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T12:06:46-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->-> FUNCION URL MT WS: 2017/04/06 12:06:46
+2017-04-06T12:06:46-05:00 INFO (6): _REQUEST::Array
+(
+    [msisdn] => 5549444527
+    [message] => MESSAGE
+    [tag] => EXAMPLE
+    [idu] => 58e51f88afa80
+    [user] => Administrador
+    [PHPSESSID] => 527ace62qc6091is1qerdij8s1
+)
+
+2017-04-06T12:06:46-05:00 INFO (6): IP::: 201.149.88.206
+2017-04-06T12:06:46-05:00 INFO (6): MSISDN::: 5549444527
+2017-04-06T12:06:46-05:00 INFO (6): SMS::: MESSAGE
+2017-04-06T12:06:46-05:00 INFO (6): TAG::: EXAMPLE
+2017-04-06T12:06:46-05:00 INFO (6): USER::: Administrador
+2017-04-06T12:06:46-05:00 INFO (6): QUERY BUSQUEDA::: Select count(*) as total from clientes_demo where cliente_usuario like 'Administrador' and cliente_activo = 1
+2017-04-06T12:06:46-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN clientes_demo FUERON::: 1
+2017-04-06T12:06:46-05:00 INFO (6): SI ES UN USUARIO ACTIVO.
+2017-04-06T12:06:46-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN SMS DEL NUMERO FUERON::: 4496
+2017-04-06T12:06:46-05:00 INFO (6): SI SE ENCONTRO EN BASE MOTHERBASE::..
+2017-04-06T12:06:46-05:00 INFO (6): URL: http://administrador.cm-operations.com/telcel/router/router_mt.php?SOA=5549444527&dial=26262&message=MESSAGE&service=WEBSMS&subservice=WS&username=sendsmsmt_26262
+2017-04-06T12:06:46-05:00 INFO (6): Fin
+2017-04-06T12:09:26-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T12:09:26-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T12:09:26-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T12:09:26-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->-> FUNCION URL MT WS: 2017/04/06 12:09:26
+2017-04-06T12:09:26-05:00 INFO (6): _REQUEST::Array
+(
+    [msisdn] => 5549444527
+    [message] => MESSAGE
+    [tag] => EXAMPLE
+    [idu] => 58e51f88afa80
+    [user] => Administrador
+    [PHPSESSID] => 527ace62qc6091is1qerdij8s1
+)
+
+2017-04-06T12:09:26-05:00 INFO (6): IP::: 201.149.88.206
+2017-04-06T12:09:26-05:00 INFO (6): MSISDN::: 5549444527
+2017-04-06T12:09:26-05:00 INFO (6): SMS::: MESSAGE
+2017-04-06T12:09:26-05:00 INFO (6): TAG::: EXAMPLE
+2017-04-06T12:09:26-05:00 INFO (6): USER::: Administrador
+2017-04-06T12:09:26-05:00 INFO (6): QUERY BUSQUEDA::: Select count(*) as total from clientes_demo where cliente_usuario like 'Administrador' and cliente_activo = 1
+2017-04-06T12:09:26-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN clientes_demo FUERON::: 1
+2017-04-06T12:09:26-05:00 INFO (6): SI ES UN USUARIO ACTIVO.
+2017-04-06T12:09:26-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN SMS DEL NUMERO FUERON::: 4496
+2017-04-06T12:09:26-05:00 INFO (6): SI SE ENCONTRO EN BASE MOTHERBASE::..
+2017-04-06T12:09:26-05:00 INFO (6): URL: http://administrador.cm-operations.com/telcel/router/router_mt.php?SOA=5549444527&dial=26262&message=MESSAGE&service=WEBSMS&subservice=WS&username=sendsmsmt_26262
+2017-04-06T12:09:26-05:00 INFO (6): RESPUESTA: 0: Accepted for delivery
+2017-04-06T12:09:26-05:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => BaseMadre
+    [mt_folio] => 658e676468d58d7
+    [mt_contenido] => MESSAGE
+    [mt_fecha] => 2017-04-06 12:09:26
+    [mt_tag] => EXAMPLE
+    [mt_categoria] => WS
+    [usuario_id] => 1
+)
+
+2017-04-06T12:09:26-05:00 INFO (6): Se inserto:: 1
+2017-04-06T12:09:26-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 95030,8
+)
+
+2017-04-06T12:09:26-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-06T12:09:26-05:00 INFO (6): Fin
+2017-04-06T12:16:35-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T12:16:35-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T12:16:35-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T12:16:35-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->-> FUNCION URL MT WS: 2017/04/06 12:16:35
+2017-04-06T12:16:35-05:00 INFO (6): _REQUEST::Array
+(
+    [msisdn] => 5549444527
+    [message] => MESSAGE
+    [tag] => EXAMPLE
+    [idu] => 58e51f88afa80
+    [user] => Administrador
+    [PHPSESSID] => 527ace62qc6091is1qerdij8s1
+)
+
+2017-04-06T12:16:35-05:00 INFO (6): IP::: 201.149.88.206
+2017-04-06T12:16:35-05:00 INFO (6): MSISDN::: 5549444527
+2017-04-06T12:16:35-05:00 INFO (6): SMS::: MESSAGE
+2017-04-06T12:16:35-05:00 INFO (6): TAG::: EXAMPLE
+2017-04-06T12:16:35-05:00 INFO (6): USER::: Administrador
+2017-04-06T12:16:35-05:00 INFO (6): QUERY BUSQUEDA::: Select count(*) as total from clientes_demo where cliente_usuario like 'Administrador' and cliente_activo = 1
+2017-04-06T12:16:35-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN clientes_demo FUERON::: 1
+2017-04-06T12:16:35-05:00 INFO (6): SI ES UN USUARIO ACTIVO.
+2017-04-06T12:16:35-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN SMS DEL NUMERO FUERON::: 4497
+2017-04-06T12:16:35-05:00 INFO (6): SI SE ENCONTRO EN BASE MOTHERBASE::..
+2017-04-06T12:16:35-05:00 INFO (6): URL: http://administrador.cm-operations.com/telcel/router/router_mt.php?SOA=5549444527&dial=26262&message=MESSAGE&service=WEBSMS&subservice=WS&username=sendsmsmt_26262
+2017-04-06T12:16:41-05:00 INFO (6): RESPUESTA: 0: Accepted for delivery
+2017-04-06T12:16:41-05:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => BaseMadre
+    [mt_folio] => 358e677f90f1b93
+    [mt_contenido] => MESSAGE
+    [mt_fecha] => 2017-04-06 12:16:41
+    [mt_tag] => EXAMPLE
+    [mt_categoria] => WS
+    [usuario_id] => 1
+)
+
+2017-04-06T12:16:41-05:00 INFO (6): Se inserto:: 1
+2017-04-06T12:16:41-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 95030,12
+)
+
+2017-04-06T12:16:41-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-06T12:19:26-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T12:19:26-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T12:19:26-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T12:19:26-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->-> FUNCION URL MT WS: 2017/04/06 12:19:26
+2017-04-06T12:19:26-05:00 INFO (6): _REQUEST::Array
+(
+    [msisdn] => XXXXXXXXXX
+    [message] => MESSAGE
+    [tag] => EXAMPLE
+    [idu] => 58e51f88afa80
+    [user] => Administrador
+    [_] => 1491499160782
+    [PHPSESSID] => omj399hbfsilsfdp9qk5vsojk2
+)
+
+2017-04-06T12:19:26-05:00 INFO (6): IP::: 201.149.88.206
+2017-04-06T12:19:26-05:00 INFO (6): MSISDN::: XXXXXXXXXX
+2017-04-06T12:19:26-05:00 INFO (6): SMS::: MESSAGE
+2017-04-06T12:19:26-05:00 INFO (6): TAG::: EXAMPLE
+2017-04-06T12:19:26-05:00 INFO (6): USER::: Administrador
+2017-04-06T12:19:26-05:00 INFO (6): QUERY BUSQUEDA::: Select count(*) as total from clientes_demo where cliente_usuario like 'Administrador' and cliente_activo = 1
+2017-04-06T12:19:26-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN clientes_demo FUERON::: 1
+2017-04-06T12:19:26-05:00 INFO (6): SI ES UN USUARIO ACTIVO.
+2017-04-06T12:19:26-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN SMS DEL NUMERO FUERON::: 0
+2017-04-06T12:19:55-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T12:19:55-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T12:19:55-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T12:19:55-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->-> FUNCION URL MT WS: 2017/04/06 12:19:55
+2017-04-06T12:19:55-05:00 INFO (6): _REQUEST::Array
+(
+    [msisdn] => 5549444527
+    [message] => MESSAGE
+    [tag] => EXAMPLE
+    [idu] => 58e51f88afa80
+    [user] => Administrador
+    [_] => 1491499191699
+    [PHPSESSID] => omj399hbfsilsfdp9qk5vsojk2
+)
+
+2017-04-06T12:19:55-05:00 INFO (6): IP::: 201.149.88.206
+2017-04-06T12:19:55-05:00 INFO (6): MSISDN::: 5549444527
+2017-04-06T12:19:55-05:00 INFO (6): SMS::: MESSAGE
+2017-04-06T12:19:55-05:00 INFO (6): TAG::: EXAMPLE
+2017-04-06T12:19:55-05:00 INFO (6): USER::: Administrador
+2017-04-06T12:19:55-05:00 INFO (6): QUERY BUSQUEDA::: Select count(*) as total from clientes_demo where cliente_usuario like 'Administrador' and cliente_activo = 1
+2017-04-06T12:19:55-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN clientes_demo FUERON::: 1
+2017-04-06T12:19:55-05:00 INFO (6): SI ES UN USUARIO ACTIVO.
+2017-04-06T12:19:55-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN SMS DEL NUMERO FUERON::: 4498
+2017-04-06T12:19:55-05:00 INFO (6): SI SE ENCONTRO EN BASE MOTHERBASE::..
+2017-04-06T12:19:55-05:00 INFO (6): URL: http://administrador.cm-operations.com/telcel/router/router_mt.php?SOA=5549444527&dial=26262&message=MESSAGE&service=WEBSMS&subservice=WS&username=sendsmsmt_26262
+2017-04-06T12:19:55-05:00 INFO (6): RESPUESTA: 0: Accepted for delivery
+2017-04-06T12:19:55-05:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => BaseMadre
+    [mt_folio] => 658e678bbb92550
+    [mt_contenido] => MESSAGE
+    [mt_fecha] => 2017-04-06 12:19:55
+    [mt_tag] => EXAMPLE
+    [mt_categoria] => WS
+    [usuario_id] => 1
+)
+
+2017-04-06T12:19:55-05:00 INFO (6): Se inserto:: 1
+2017-04-06T12:19:55-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 95029,44
+)
+
+2017-04-06T12:19:55-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-06T12:22:30-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T12:22:30-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T12:22:30-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T12:22:30-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->-> FUNCION URL MT WS: 2017/04/06 12:22:30
+2017-04-06T12:22:30-05:00 INFO (6): _REQUEST::Array
+(
+    [msisdn] => 5549444527
+    [message] => Hola Marcelo, necesito tu ayuda
+    [tag] => Ejemplo
+    [idu] => 58e51f88afa80
+    [user] => Administrador
+    [_] => 1491499342768
+    [PHPSESSID] => omj399hbfsilsfdp9qk5vsojk2
+)
+
+2017-04-06T12:22:30-05:00 INFO (6): IP::: 201.149.88.206
+2017-04-06T12:22:30-05:00 INFO (6): MSISDN::: 5549444527
+2017-04-06T12:22:30-05:00 INFO (6): SMS::: Hola Marcelo, necesito tu ayuda
+2017-04-06T12:22:30-05:00 INFO (6): TAG::: Ejemplo
+2017-04-06T12:22:30-05:00 INFO (6): USER::: Administrador
+2017-04-06T12:22:30-05:00 INFO (6): QUERY BUSQUEDA::: Select count(*) as total from clientes_demo where cliente_usuario like 'Administrador' and cliente_activo = 1
+2017-04-06T12:22:31-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN clientes_demo FUERON::: 1
+2017-04-06T12:22:31-05:00 INFO (6): SI ES UN USUARIO ACTIVO.
+2017-04-06T12:22:31-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN SMS DEL NUMERO FUERON::: 4499
+2017-04-06T12:22:31-05:00 INFO (6): SI SE ENCONTRO EN BASE MOTHERBASE::..
+2017-04-06T12:22:31-05:00 INFO (6): URL: http://administrador.cm-operations.com/telcel/router/router_mt.php?SOA=5549444527&dial=26262&message=Hola+Marcelo%2C+necesito+tu+ayuda&service=WEBSMS&subservice=WS&username=sendsmsmt_26262
+2017-04-06T12:22:31-05:00 INFO (6): RESPUESTA: 0: Accepted for delivery
+2017-04-06T12:22:31-05:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => BaseMadre
+    [mt_folio] => 758e67957489418
+    [mt_contenido] => Hola Marcelo, necesito tu ayuda
+    [mt_fecha] => 2017-04-06 12:22:31
+    [mt_tag] => Ejemplo
+    [mt_categoria] => WS
+    [usuario_id] => 1
+)
+
+2017-04-06T12:22:31-05:00 INFO (6): Se inserto:: 1
+2017-04-06T12:22:31-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 95028,76
+)
+
+2017-04-06T12:22:31-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-06T12:25:02-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T12:25:02-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T12:25:02-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T12:25:02-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->-> FUNCION URL MT WS: 2017/04/06 12:25:02
+2017-04-06T12:25:02-05:00 INFO (6): _REQUEST::Array
+(
+    [msisdn] => 5549444527
+    [message] => Hola Marcelo, necesito tu ayuda
+    [tag] => Ejemplo
+    [idu] => 58e51f88afa80
+    [user] => Administrador
+    [_] => 1491499486377
+    [PHPSESSID] => omj399hbfsilsfdp9qk5vsojk2
+)
+
+2017-04-06T12:25:02-05:00 INFO (6): IP::: 201.149.88.206
+2017-04-06T12:25:02-05:00 INFO (6): MSISDN::: 5549444527
+2017-04-06T12:25:02-05:00 INFO (6): SMS::: Hola Marcelo, necesito tu ayuda
+2017-04-06T12:25:02-05:00 INFO (6): TAG::: Ejemplo
+2017-04-06T12:25:02-05:00 INFO (6): USER::: Administrador
+2017-04-06T12:25:02-05:00 INFO (6): QUERY BUSQUEDA::: Select count(*) as total from clientes_demo where cliente_usuario like 'Administrador' and cliente_activo = 1
+2017-04-06T12:25:02-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN clientes_demo FUERON::: 1
+2017-04-06T12:25:02-05:00 INFO (6): SI ES UN USUARIO ACTIVO.
+2017-04-06T12:25:02-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN SMS DEL NUMERO FUERON::: 4500
+2017-04-06T12:25:02-05:00 INFO (6): SI SE ENCONTRO EN BASE MOTHERBASE::..
+2017-04-06T12:25:02-05:00 INFO (6): URL: http://administrador.cm-operations.com/telcel/router/router_mt.php?SOA=5549444527&dial=26262&message=Hola+Marcelo%2C+necesito+tu+ayuda&service=WEBSMS&subservice=WS&username=sendsmsmt_26262
+2017-04-06T12:25:12-05:00 INFO (6): RESPUESTA: 0: Accepted for delivery
+2017-04-06T12:25:12-05:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => BaseMadre
+    [mt_folio] => 558e679f8b3bbd8
+    [mt_contenido] => Hola Marcelo, necesito tu ayuda
+    [mt_fecha] => 2017-04-06 12:25:12
+    [mt_tag] => Ejemplo
+    [mt_categoria] => WS
+    [usuario_id] => 1
+)
+
+2017-04-06T12:25:12-05:00 INFO (6): Se inserto:: 1
+2017-04-06T12:25:12-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 95028,08
+)
+
+2017-04-06T12:25:12-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-06T12:25:17-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T12:25:17-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T12:25:17-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T12:25:17-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->-> FUNCION URL MT WS: 2017/04/06 12:25:17
+2017-04-06T12:25:17-05:00 INFO (6): _REQUEST::Array
+(
+    [msisdn] => 5549444527
+    [message] => MESSAGE
+    [tag] => EXAMPLE
+    [idu] => 58e51f88afa80
+    [user] => Administrador
+    [PHPSESSID] => 527ace62qc6091is1qerdij8s1
+)
+
+2017-04-06T12:25:17-05:00 INFO (6): IP::: 201.149.88.206
+2017-04-06T12:25:17-05:00 INFO (6): MSISDN::: 5549444527
+2017-04-06T12:25:17-05:00 INFO (6): SMS::: MESSAGE
+2017-04-06T12:25:17-05:00 INFO (6): TAG::: EXAMPLE
+2017-04-06T12:25:17-05:00 INFO (6): USER::: Administrador
+2017-04-06T12:25:17-05:00 INFO (6): QUERY BUSQUEDA::: Select count(*) as total from clientes_demo where cliente_usuario like 'Administrador' and cliente_activo = 1
+2017-04-06T12:25:17-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN clientes_demo FUERON::: 1
+2017-04-06T12:25:17-05:00 INFO (6): SI ES UN USUARIO ACTIVO.
+2017-04-06T12:25:18-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN SMS DEL NUMERO FUERON::: 4501
+2017-04-06T12:25:18-05:00 INFO (6): SI SE ENCONTRO EN BASE MOTHERBASE::..
+2017-04-06T12:25:18-05:00 INFO (6): URL: http://administrador.cm-operations.com/telcel/router/router_mt.php?SOA=5549444527&dial=26262&message=MESSAGE&service=WEBSMS&subservice=WS&username=sendsmsmt_26262
+2017-04-06T12:25:18-05:00 INFO (6): RESPUESTA: 0: Accepted for delivery
+2017-04-06T12:25:18-05:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => BaseMadre
+    [mt_folio] => 558e679fe2b5ac9
+    [mt_contenido] => MESSAGE
+    [mt_fecha] => 2017-04-06 12:25:18
+    [mt_tag] => EXAMPLE
+    [mt_categoria] => WS
+    [usuario_id] => 1
+)
+
+2017-04-06T12:25:18-05:00 INFO (6): Se inserto:: 1
+2017-04-06T12:25:18-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 95027,4
+)
+
+2017-04-06T12:25:18-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-06T12:29:37-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T12:29:37-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T12:29:37-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T12:29:37-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->-> FUNCION URL MT WS: 2017/04/06 12:29:37
+2017-04-06T12:29:37-05:00 INFO (6): _REQUEST::Array
+(
+    [msisdn] => 5549444527
+    [message] => MESSAGE
+    [tag] => EXAMPLE
+    [idu] => 58e51f88afa80
+    [user] => Administrador
+    [PHPSESSID] => 527ace62qc6091is1qerdij8s1
+)
+
+2017-04-06T12:29:37-05:00 INFO (6): IP::: 201.149.88.206
+2017-04-06T12:29:37-05:00 INFO (6): MSISDN::: 5549444527
+2017-04-06T12:29:37-05:00 INFO (6): SMS::: MESSAGE
+2017-04-06T12:29:37-05:00 INFO (6): TAG::: EXAMPLE
+2017-04-06T12:29:37-05:00 INFO (6): USER::: Administrador
+2017-04-06T12:29:37-05:00 INFO (6): QUERY BUSQUEDA::: Select count(*) as total from clientes_demo where cliente_usuario like 'Administrador' and cliente_activo = 1
+2017-04-06T12:29:37-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN clientes_demo FUERON::: 1
+2017-04-06T12:29:37-05:00 INFO (6): SI ES UN USUARIO ACTIVO.
+2017-04-06T12:29:37-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN SMS DEL NUMERO FUERON::: 4502
+2017-04-06T12:29:37-05:00 INFO (6): SI SE ENCONTRO EN BASE MOTHERBASE::..
+2017-04-06T12:29:37-05:00 INFO (6): URL: http://administrador.cm-operations.com/telcel/router/router_mt.php?SOA=5549444527&dial=26262&message=MESSAGE&service=WEBSMS&subservice=WS&username=sendsmsmt_26262
+2017-04-06T12:29:43-05:00 INFO (6): RESPUESTA: 0: Accepted for delivery
+2017-04-06T12:29:43-05:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => BaseMadre
+    [mt_folio] => 958e67b07ec8313
+    [mt_contenido] => MESSAGE
+    [mt_fecha] => 2017-04-06 12:29:43
+    [mt_tag] => EXAMPLE
+    [mt_categoria] => WS
+    [usuario_id] => 1
+)
+
+2017-04-06T12:29:43-05:00 INFO (6): Se inserto:: 1
+2017-04-06T12:29:43-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 95026,72
+)
+
+2017-04-06T12:29:44-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-06T15:53:11-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T15:53:11-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T15:53:11-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T15:53:11-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->-> FUNCION URL MT WS: 2017/04/06 15:53:11
+2017-04-06T15:53:11-05:00 INFO (6): _REQUEST::Array
+(
+    [msisdn] => 5549444527
+    [message] => MESSAGE
+    [tag] => EXAMPLE
+    [idu] => 58e6a3b22257c
+    [user] => MAYENA
+    [PHPSESSID] => omj399hbfsilsfdp9qk5vsojk2
+)
+
+2017-04-06T15:53:11-05:00 INFO (6): IP::: 201.149.88.206
+2017-04-06T15:53:11-05:00 INFO (6): MSISDN::: 5549444527
+2017-04-06T15:53:11-05:00 INFO (6): SMS::: MESSAGE
+2017-04-06T15:53:11-05:00 INFO (6): TAG::: EXAMPLE
+2017-04-06T15:53:11-05:00 INFO (6): USER::: MAYENA
+2017-04-06T15:53:11-05:00 INFO (6): QUERY BUSQUEDA::: Select count(*) as total from clientes_demo where cliente_usuario like 'MAYENA' and cliente_activo = 1
+2017-04-06T15:53:11-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN clientes_demo FUERON::: 1
+2017-04-06T15:53:11-05:00 INFO (6): SI ES UN USUARIO ACTIVO.
+2017-04-06T15:53:11-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN SMS DEL NUMERO FUERON::: 4522
+2017-04-06T15:53:11-05:00 INFO (6): SI SE ENCONTRO EN BASE MOTHERBASE::..
+2017-04-06T15:53:11-05:00 INFO (6): URL: http://administrador.cm-operations.com/telcel/router/router_mt.php?SOA=5549444527&dial=26262&message=MESSAGE&service=WEBSMS&subservice=WS&username=sendsmsmt_26262
+2017-04-06T15:53:11-05:00 INFO (6): RESPUESTA: 0: Accepted for delivery
+2017-04-06T15:53:11-05:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => BaseMadre
+    [mt_folio] => 858e6aab7accf33
+    [mt_contenido] => MESSAGE
+    [mt_fecha] => 2017-04-06 15:53:11
+    [mt_tag] => EXAMPLE
+    [mt_categoria] => WS
+    [usuario_id] => 60
+)
+
+2017-04-06T15:53:11-05:00 INFO (6): Se inserto:: 1
+2017-04-06T15:53:11-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 5,94
+)
+
+2017-04-06T15:53:11-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-06T17:00:38-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T17:00:38-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T17:00:38-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-06T17:00:38-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->-> FUNCION URL MT WS: 2017/04/06 17:00:38
+2017-04-06T17:00:38-05:00 INFO (6): _REQUEST::Array
+(
+    [msisdn] => 5554995994
+    [message] => MESSAGE
+    [tag] => EXAMPLE
+    [idu] => 58e6b8551661e
+    [user] => mike
+    [PHPSESSID] => isoj1vndlaflfnu14l941hmon1
+)
+
+2017-04-06T17:00:38-05:00 INFO (6): IP::: 201.149.88.206
+2017-04-06T17:00:38-05:00 INFO (6): MSISDN::: 5554995994
+2017-04-06T17:00:38-05:00 INFO (6): SMS::: MESSAGE
+2017-04-06T17:00:38-05:00 INFO (6): TAG::: EXAMPLE
+2017-04-06T17:00:38-05:00 INFO (6): USER::: mike
+2017-04-06T17:00:38-05:00 INFO (6): QUERY BUSQUEDA::: Select count(*) as total from clientes_demo where cliente_usuario like 'mike' and cliente_activo = 1
+2017-04-06T17:00:38-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN clientes_demo FUERON::: 1
+2017-04-06T17:00:38-05:00 INFO (6): SI ES UN USUARIO ACTIVO.
+2017-04-06T17:00:38-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN SMS DEL NUMERO FUERON::: 40
+2017-04-06T17:00:38-05:00 INFO (6): SI SE ENCONTRO EN BASE MOTHERBASE::..
+2017-04-06T17:00:38-05:00 INFO (6): URL: http://administrador.cm-operations.com/telcel/router/router_mt.php?SOA=5554995994&dial=26262&message=MESSAGE&service=WEBSMS&subservice=WS&username=sendsmsmt_26262
+2017-04-06T17:00:38-05:00 INFO (6): RESPUESTA: 0: Accepted for delivery
+2017-04-06T17:00:38-05:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5554995994
+    [mt_medio] => BaseMadre
+    [mt_folio] => 858e6ba86371b54
+    [mt_contenido] => MESSAGE
+    [mt_fecha] => 2017-04-06 17:00:38
+    [mt_tag] => EXAMPLE
+    [mt_categoria] => WS
+    [usuario_id] => 23
+)
+
+2017-04-06T17:00:38-05:00 INFO (6): Se inserto:: 1
+2017-04-06T17:00:38-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 16,1
+)
+
+2017-04-06T17:00:38-05:00 INFO (6): SE ACTUALIZO:: 1

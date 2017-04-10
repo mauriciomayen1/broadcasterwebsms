@@ -1,0 +1,34 @@
+2017-03-22T14:48:47-06:00 INFO (6): ------------------------------------------------
+2017-03-22T14:48:47-06:00 INFO (6): ------------------------------------------------
+2017-03-22T14:48:47-06:00 INFO (6): ------------------------------------------------
+2017-03-22T14:48:47-06:00 INFO (6): ---- ENVIO PROGRAMADOS - FN COMPARAR FECHAS ----
+2017-03-22T14:48:47-06:00 INFO (6): REQUESTArray
+(
+    [categoria] => MAYEN
+    [fechaenvio] => 2017-03-22
+    [horaenvio] => 64c0d309f24d0d9
+    [msgtxt] => wejfiewjfiewjfijewifjewiojfioewjfioewjfijewifewifjweiojfoiewf
+    [caracteres] => 61
+    [accion] => guardar
+    [PHPSESSID] => je1vgcb0h0qj8lkpdoegoi3o90
+)
+
+2017-03-22T14:48:47-06:00 INFO (6): PRIMERA FECHA:: 2017-03-22
+2017-03-22T14:48:47-06:00 INFO (6): SEGUNDA FECHA:: 2017-03-22
+2017-03-22T16:37:22-06:00 INFO (6): ------------------------------------------------
+2017-03-22T16:37:22-06:00 INFO (6): ------------------------------------------------
+2017-03-22T16:37:22-06:00 INFO (6): ------------------------------------------------
+2017-03-22T16:37:22-06:00 INFO (6): ---- ENVIO PROGRAMADOS - FN COMPARAR FECHAS ----
+2017-03-22T16:37:22-06:00 INFO (6): REQUESTArray
+(
+    [categoria] => MAYEN
+    [fechaenvio] => 2017-03-23
+    [horaenvio] => 14de63ffb0f3690
+    [msgtxt] => qiwqjeiojqwiejqwiojeioqwjeiwqjeoiqwjeoiqjwoiejqw
+    [caracteres] => 48
+    [accion] => guardar
+    [PHPSESSID] => je1vgcb0h0qj8lkpdoegoi3o90
+)
+
+2017-03-22T16:37:22-06:00 INFO (6): PRIMERA FECHA:: 2017-03-23
+2017-03-22T16:37:22-06:00 INFO (6): SEGUNDA FECHA:: 2017-03-22

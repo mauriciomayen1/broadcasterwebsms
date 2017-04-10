@@ -1,0 +1,1130 @@
+2017-03-21T16:07:27-06:00 INFO (6): ----------------------------------------------------
+2017-03-21T16:07:27-06:00 INFO (6): ----------------------------------------------------
+2017-03-21T16:07:27-06:00 INFO (6): ----------------------------------------------------
+2017-03-21T16:07:27-06:00 INFO (6): ---- USUARIOS CARGAR XLS - FN CARGAR ---------------
+2017-03-21T16:07:27-06:00 INFO (6): REQUESTArray
+(
+    [accion] => cargar
+    [PHPSESSID] => je1vgcb0h0qj8lkpdoegoi3o90
+)
+
+2017-03-21T16:07:27-06:00 INFO (6): FILES: Array
+(
+    [usuarios] => Array
+        (
+            [name] => Libro1.xls
+            [type] => application/octet-stream
+            [tmp_name] => /tmp/phpF4d0ZK
+            [error] => 0
+            [size] => 28160
+        )
+
+)
+
+2017-03-21T16:07:27-06:00 INFO (6): TARGET: /home/repositorio.cm-operations.com/pub_html/proyectemail/usuarios/CargaXls_558d1a41fb373f2Entrada.xls
+2017-03-21T16:07:28-06:00 INFO (6): INSERTO:: 1
+2017-03-21T16:07:28-06:00 INFO (6): MENSAJE 1:: El Archivo Libro1.xls ha sido subido correctamente
+2017-03-21T16:07:28-06:00 INFO (6): MENSAJE 2:: 
+2017-03-21T16:07:28-06:00 INFO (6): FIN DE LA PRIMERA PARTE DE LA CARGA DE ARCHIVOS::::::::::..........
+2017-03-21T16:07:28-06:00 INFO (6): RESULTADO QUERY PARA VER EL ULTIMO ARCHIVO SUBIDO: Array
+(
+    [0] => Array
+        (
+            [mktArchivo_id] => 89
+            [mktArchivo_nombre] => Libro1.xls
+            [mktArchivo_nombreServidor] => CargaXls_558d1a41fb373f2Entrada.xls
+            [mktArchivo_fecha] => 2017-03-21 16:07:27
+            [mktArchivo_procesado] => 1
+            [mktArchivo_mensaje] => 
+            [mktArchivo_archivoSalida] => 
+            [mktArchivo_correo] => 
+            [mktMensaje_archivo] => 
+        )
+
+)
+
+2017-03-21T16:07:28-06:00 INFO (6): SE HIZO EL UPDATE: 1
+2017-03-21T16:07:28-06:00 INFO (6): PATH ARMADO DE ARCHIVO ENTRADA: /home/repositorio.cm-operations.com/pub_html/proyectemail/usuarios/CargaXls_558d1a41fb373f2Entrada.xls
+2017-03-21T16:07:28-06:00 INFO (6): PATH ARMADO DE ARCHIVO SALIDA: /home/repositorio.cm-operations.com/pub_html/proyectemail/usuarios/CargaXls_558d1a41fb373f2Salida.xls
+2017-03-21T16:07:28-06:00 INFO (6): LECTURA DEL ARCHIVO XLS.
+2017-03-21T16:07:28-06:00 INFO (6): --------------------------->
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE MSISDN: 5549444524
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE OPERADOR: 
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE CATEGORIA: MAYEN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE MSISDN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE OPERADOR
+2017-03-21T16:07:28-06:00 INFO (6): SI ES UN OPERADOR VALIDO
+2017-03-21T16:07:28-06:00 INFO (6): SI SE ENCUENTRA CATEGORIZADO
+2017-03-21T16:07:28-06:00 INFO (6): QUERY DE BUSQUEDA EN BASE DE USUARIOS: SELECT * FROM fuentes_usuarios_toolbox WHERE usuario_msisdn = '5549444524' AND usuario_operador LIKE 'Telcel' AND usuario_categoria LIKE 'MAYEN' AND usuario_activo = 1 AND usuario_id_fk='1'
+2017-03-21T16:07:28-06:00 INFO (6): RESULTADO - QUERY DE BUSQUEDA EN BASE DE USUARIOS: Array
+(
+    [0] => Array
+        (
+            [usuario_id] => 3747
+            [usuario_msisdn] => 5549444524
+            [usuario_operador] => Telcel
+            [usuario_categoria] => MAYEN
+            [usuario_enviado] => 1
+            [usuario_alta] => 2017-03-03 11:01:04
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+)
+
+2017-03-21T16:07:28-06:00 INFO (6): YA SE ENCUENTRA UN ARCHIVO CON ESAS MISMAS CARACTERISTICAS
+2017-03-21T16:07:28-06:00 INFO (6): MENSAJE ENVIADO A REPORTE XLS:: 5549444524 ES UN REGISTRO REPETIDO.
+
+2017-03-21T16:07:28-06:00 INFO (6): --------------------------->
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE MSISDN: 5549444525
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE OPERADOR: 
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE CATEGORIA: MAYEN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE MSISDN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE OPERADOR
+2017-03-21T16:07:28-06:00 INFO (6): SI ES UN OPERADOR VALIDO
+2017-03-21T16:07:28-06:00 INFO (6): SI SE ENCUENTRA CATEGORIZADO
+2017-03-21T16:07:28-06:00 INFO (6): QUERY DE BUSQUEDA EN BASE DE USUARIOS: SELECT * FROM fuentes_usuarios_toolbox WHERE usuario_msisdn = '5549444525' AND usuario_operador LIKE 'Telcel' AND usuario_categoria LIKE 'MAYEN' AND usuario_activo = 1 AND usuario_id_fk='1'
+2017-03-21T16:07:28-06:00 INFO (6): RESULTADO - QUERY DE BUSQUEDA EN BASE DE USUARIOS: Array
+(
+    [0] => Array
+        (
+            [usuario_id] => 3748
+            [usuario_msisdn] => 5549444525
+            [usuario_operador] => Telcel
+            [usuario_categoria] => MAYEN
+            [usuario_enviado] => 1
+            [usuario_alta] => 2017-03-03 11:01:04
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+)
+
+2017-03-21T16:07:28-06:00 INFO (6): YA SE ENCUENTRA UN ARCHIVO CON ESAS MISMAS CARACTERISTICAS
+2017-03-21T16:07:28-06:00 INFO (6): MENSAJE ENVIADO A REPORTE XLS:: 5549444525 ES UN REGISTRO REPETIDO.
+
+2017-03-21T16:07:28-06:00 INFO (6): --------------------------->
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE MSISDN: 5549444526
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE OPERADOR: 
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE CATEGORIA: MAYEN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE MSISDN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE OPERADOR
+2017-03-21T16:07:28-06:00 INFO (6): SI ES UN OPERADOR VALIDO
+2017-03-21T16:07:28-06:00 INFO (6): SI SE ENCUENTRA CATEGORIZADO
+2017-03-21T16:07:28-06:00 INFO (6): QUERY DE BUSQUEDA EN BASE DE USUARIOS: SELECT * FROM fuentes_usuarios_toolbox WHERE usuario_msisdn = '5549444526' AND usuario_operador LIKE 'Telcel' AND usuario_categoria LIKE 'MAYEN' AND usuario_activo = 1 AND usuario_id_fk='1'
+2017-03-21T16:07:28-06:00 INFO (6): RESULTADO - QUERY DE BUSQUEDA EN BASE DE USUARIOS: Array
+(
+    [0] => Array
+        (
+            [usuario_id] => 3749
+            [usuario_msisdn] => 5549444526
+            [usuario_operador] => Telcel
+            [usuario_categoria] => MAYEN
+            [usuario_enviado] => 1
+            [usuario_alta] => 2017-03-03 11:01:04
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+)
+
+2017-03-21T16:07:28-06:00 INFO (6): YA SE ENCUENTRA UN ARCHIVO CON ESAS MISMAS CARACTERISTICAS
+2017-03-21T16:07:28-06:00 INFO (6): MENSAJE ENVIADO A REPORTE XLS:: 5549444526 ES UN REGISTRO REPETIDO.
+
+2017-03-21T16:07:28-06:00 INFO (6): --------------------------->
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE MSISDN: 5549444527
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE OPERADOR: 
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE CATEGORIA: MAYEN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE MSISDN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE OPERADOR
+2017-03-21T16:07:28-06:00 INFO (6): SI ES UN OPERADOR VALIDO
+2017-03-21T16:07:28-06:00 INFO (6): SI SE ENCUENTRA CATEGORIZADO
+2017-03-21T16:07:28-06:00 INFO (6): QUERY DE BUSQUEDA EN BASE DE USUARIOS: SELECT * FROM fuentes_usuarios_toolbox WHERE usuario_msisdn = '5549444527' AND usuario_operador LIKE 'Telcel' AND usuario_categoria LIKE 'MAYEN' AND usuario_activo = 1 AND usuario_id_fk='1'
+2017-03-21T16:07:28-06:00 INFO (6): RESULTADO - QUERY DE BUSQUEDA EN BASE DE USUARIOS: Array
+(
+    [0] => Array
+        (
+            [usuario_id] => 3750
+            [usuario_msisdn] => 5549444527
+            [usuario_operador] => Telcel
+            [usuario_categoria] => MAYEN
+            [usuario_enviado] => 1
+            [usuario_alta] => 2017-03-03 11:01:04
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+)
+
+2017-03-21T16:07:28-06:00 INFO (6): YA SE ENCUENTRA UN ARCHIVO CON ESAS MISMAS CARACTERISTICAS
+2017-03-21T16:07:28-06:00 INFO (6): MENSAJE ENVIADO A REPORTE XLS:: 5549444527 ES UN REGISTRO REPETIDO.
+
+2017-03-21T16:07:28-06:00 INFO (6): --------------------------->
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE MSISDN: 5549444528
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE OPERADOR: 
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE CATEGORIA: MAYEN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE MSISDN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE OPERADOR
+2017-03-21T16:07:28-06:00 INFO (6): SI ES UN OPERADOR VALIDO
+2017-03-21T16:07:28-06:00 INFO (6): SI SE ENCUENTRA CATEGORIZADO
+2017-03-21T16:07:28-06:00 INFO (6): QUERY DE BUSQUEDA EN BASE DE USUARIOS: SELECT * FROM fuentes_usuarios_toolbox WHERE usuario_msisdn = '5549444528' AND usuario_operador LIKE 'Telcel' AND usuario_categoria LIKE 'MAYEN' AND usuario_activo = 1 AND usuario_id_fk='1'
+2017-03-21T16:07:28-06:00 INFO (6): RESULTADO - QUERY DE BUSQUEDA EN BASE DE USUARIOS: Array
+(
+    [0] => Array
+        (
+            [usuario_id] => 3751
+            [usuario_msisdn] => 5549444528
+            [usuario_operador] => Telcel
+            [usuario_categoria] => MAYEN
+            [usuario_enviado] => 1
+            [usuario_alta] => 2017-03-03 11:01:04
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+)
+
+2017-03-21T16:07:28-06:00 INFO (6): YA SE ENCUENTRA UN ARCHIVO CON ESAS MISMAS CARACTERISTICAS
+2017-03-21T16:07:28-06:00 INFO (6): MENSAJE ENVIADO A REPORTE XLS:: 5549444528 ES UN REGISTRO REPETIDO.
+
+2017-03-21T16:07:28-06:00 INFO (6): --------------------------->
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE MSISDN: 5549444529
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE OPERADOR: 
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE CATEGORIA: MAYEN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE MSISDN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE OPERADOR
+2017-03-21T16:07:28-06:00 INFO (6): SI ES UN OPERADOR VALIDO
+2017-03-21T16:07:28-06:00 INFO (6): SI SE ENCUENTRA CATEGORIZADO
+2017-03-21T16:07:28-06:00 INFO (6): QUERY DE BUSQUEDA EN BASE DE USUARIOS: SELECT * FROM fuentes_usuarios_toolbox WHERE usuario_msisdn = '5549444529' AND usuario_operador LIKE 'Telcel' AND usuario_categoria LIKE 'MAYEN' AND usuario_activo = 1 AND usuario_id_fk='1'
+2017-03-21T16:07:28-06:00 INFO (6): RESULTADO - QUERY DE BUSQUEDA EN BASE DE USUARIOS: Array
+(
+    [0] => Array
+        (
+            [usuario_id] => 3752
+            [usuario_msisdn] => 5549444529
+            [usuario_operador] => Telcel
+            [usuario_categoria] => MAYEN
+            [usuario_enviado] => 1
+            [usuario_alta] => 2017-03-03 11:01:04
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+)
+
+2017-03-21T16:07:28-06:00 INFO (6): YA SE ENCUENTRA UN ARCHIVO CON ESAS MISMAS CARACTERISTICAS
+2017-03-21T16:07:28-06:00 INFO (6): MENSAJE ENVIADO A REPORTE XLS:: 5549444529 ES UN REGISTRO REPETIDO.
+
+2017-03-21T16:07:28-06:00 INFO (6): --------------------------->
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE MSISDN: 5549444530
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE OPERADOR: 
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE CATEGORIA: MAYEN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE MSISDN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE OPERADOR
+2017-03-21T16:07:28-06:00 INFO (6): SI ES UN OPERADOR VALIDO
+2017-03-21T16:07:28-06:00 INFO (6): SI SE ENCUENTRA CATEGORIZADO
+2017-03-21T16:07:28-06:00 INFO (6): QUERY DE BUSQUEDA EN BASE DE USUARIOS: SELECT * FROM fuentes_usuarios_toolbox WHERE usuario_msisdn = '5549444530' AND usuario_operador LIKE 'Telcel' AND usuario_categoria LIKE 'MAYEN' AND usuario_activo = 1 AND usuario_id_fk='1'
+2017-03-21T16:07:28-06:00 INFO (6): RESULTADO - QUERY DE BUSQUEDA EN BASE DE USUARIOS: Array
+(
+    [0] => Array
+        (
+            [usuario_id] => 3753
+            [usuario_msisdn] => 5549444530
+            [usuario_operador] => Telcel
+            [usuario_categoria] => MAYEN
+            [usuario_enviado] => 1
+            [usuario_alta] => 2017-03-03 11:01:04
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+)
+
+2017-03-21T16:07:28-06:00 INFO (6): YA SE ENCUENTRA UN ARCHIVO CON ESAS MISMAS CARACTERISTICAS
+2017-03-21T16:07:28-06:00 INFO (6): MENSAJE ENVIADO A REPORTE XLS:: 5549444530 ES UN REGISTRO REPETIDO.
+
+2017-03-21T16:07:28-06:00 INFO (6): --------------------------->
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE MSISDN: 5549444531
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE OPERADOR: 
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE CATEGORIA: MAYEN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE MSISDN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE OPERADOR
+2017-03-21T16:07:28-06:00 INFO (6): SI ES UN OPERADOR VALIDO
+2017-03-21T16:07:28-06:00 INFO (6): SI SE ENCUENTRA CATEGORIZADO
+2017-03-21T16:07:28-06:00 INFO (6): QUERY DE BUSQUEDA EN BASE DE USUARIOS: SELECT * FROM fuentes_usuarios_toolbox WHERE usuario_msisdn = '5549444531' AND usuario_operador LIKE 'Telcel' AND usuario_categoria LIKE 'MAYEN' AND usuario_activo = 1 AND usuario_id_fk='1'
+2017-03-21T16:07:28-06:00 INFO (6): RESULTADO - QUERY DE BUSQUEDA EN BASE DE USUARIOS: Array
+(
+    [0] => Array
+        (
+            [usuario_id] => 3754
+            [usuario_msisdn] => 5549444531
+            [usuario_operador] => Telcel
+            [usuario_categoria] => MAYEN
+            [usuario_enviado] => 1
+            [usuario_alta] => 2017-03-03 11:01:04
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+)
+
+2017-03-21T16:07:28-06:00 INFO (6): YA SE ENCUENTRA UN ARCHIVO CON ESAS MISMAS CARACTERISTICAS
+2017-03-21T16:07:28-06:00 INFO (6): MENSAJE ENVIADO A REPORTE XLS:: 5549444531 ES UN REGISTRO REPETIDO.
+
+2017-03-21T16:07:28-06:00 INFO (6): --------------------------->
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE MSISDN: 5549444532
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE OPERADOR: 
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE CATEGORIA: MAYEN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE MSISDN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE OPERADOR
+2017-03-21T16:07:28-06:00 INFO (6): SI ES UN OPERADOR VALIDO
+2017-03-21T16:07:28-06:00 INFO (6): SI SE ENCUENTRA CATEGORIZADO
+2017-03-21T16:07:28-06:00 INFO (6): QUERY DE BUSQUEDA EN BASE DE USUARIOS: SELECT * FROM fuentes_usuarios_toolbox WHERE usuario_msisdn = '5549444532' AND usuario_operador LIKE 'Telcel' AND usuario_categoria LIKE 'MAYEN' AND usuario_activo = 1 AND usuario_id_fk='1'
+2017-03-21T16:07:28-06:00 INFO (6): RESULTADO - QUERY DE BUSQUEDA EN BASE DE USUARIOS: Array
+(
+    [0] => Array
+        (
+            [usuario_id] => 3755
+            [usuario_msisdn] => 5549444532
+            [usuario_operador] => Telcel
+            [usuario_categoria] => MAYEN
+            [usuario_enviado] => 1
+            [usuario_alta] => 2017-03-03 11:01:04
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+)
+
+2017-03-21T16:07:28-06:00 INFO (6): YA SE ENCUENTRA UN ARCHIVO CON ESAS MISMAS CARACTERISTICAS
+2017-03-21T16:07:28-06:00 INFO (6): MENSAJE ENVIADO A REPORTE XLS:: 5549444532 ES UN REGISTRO REPETIDO.
+
+2017-03-21T16:07:28-06:00 INFO (6): --------------------------->
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE MSISDN: 5549444533
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE OPERADOR: 
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE CATEGORIA: MAYEN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE MSISDN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE OPERADOR
+2017-03-21T16:07:28-06:00 INFO (6): SI ES UN OPERADOR VALIDO
+2017-03-21T16:07:28-06:00 INFO (6): SI SE ENCUENTRA CATEGORIZADO
+2017-03-21T16:07:28-06:00 INFO (6): QUERY DE BUSQUEDA EN BASE DE USUARIOS: SELECT * FROM fuentes_usuarios_toolbox WHERE usuario_msisdn = '5549444533' AND usuario_operador LIKE 'Telcel' AND usuario_categoria LIKE 'MAYEN' AND usuario_activo = 1 AND usuario_id_fk='1'
+2017-03-21T16:07:28-06:00 INFO (6): RESULTADO - QUERY DE BUSQUEDA EN BASE DE USUARIOS: Array
+(
+    [0] => Array
+        (
+            [usuario_id] => 3756
+            [usuario_msisdn] => 5549444533
+            [usuario_operador] => Telcel
+            [usuario_categoria] => MAYEN
+            [usuario_enviado] => 1
+            [usuario_alta] => 2017-03-03 11:01:04
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+)
+
+2017-03-21T16:07:28-06:00 INFO (6): YA SE ENCUENTRA UN ARCHIVO CON ESAS MISMAS CARACTERISTICAS
+2017-03-21T16:07:28-06:00 INFO (6): MENSAJE ENVIADO A REPORTE XLS:: 5549444533 ES UN REGISTRO REPETIDO.
+
+2017-03-21T16:07:28-06:00 INFO (6): --------------------------->
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE MSISDN: 5549444534
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE OPERADOR: 
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE CATEGORIA: MAYEN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE MSISDN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE OPERADOR
+2017-03-21T16:07:28-06:00 INFO (6): SI ES UN OPERADOR VALIDO
+2017-03-21T16:07:28-06:00 INFO (6): SI SE ENCUENTRA CATEGORIZADO
+2017-03-21T16:07:28-06:00 INFO (6): QUERY DE BUSQUEDA EN BASE DE USUARIOS: SELECT * FROM fuentes_usuarios_toolbox WHERE usuario_msisdn = '5549444534' AND usuario_operador LIKE 'Telcel' AND usuario_categoria LIKE 'MAYEN' AND usuario_activo = 1 AND usuario_id_fk='1'
+2017-03-21T16:07:28-06:00 INFO (6): RESULTADO - QUERY DE BUSQUEDA EN BASE DE USUARIOS: Array
+(
+    [0] => Array
+        (
+            [usuario_id] => 3757
+            [usuario_msisdn] => 5549444534
+            [usuario_operador] => Telcel
+            [usuario_categoria] => MAYEN
+            [usuario_enviado] => 1
+            [usuario_alta] => 2017-03-03 11:01:04
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+)
+
+2017-03-21T16:07:28-06:00 INFO (6): YA SE ENCUENTRA UN ARCHIVO CON ESAS MISMAS CARACTERISTICAS
+2017-03-21T16:07:28-06:00 INFO (6): MENSAJE ENVIADO A REPORTE XLS:: 5549444534 ES UN REGISTRO REPETIDO.
+
+2017-03-21T16:07:28-06:00 INFO (6): --------------------------->
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE MSISDN: 5549444535
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE OPERADOR: 
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE CATEGORIA: MAYEN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE MSISDN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE OPERADOR
+2017-03-21T16:07:28-06:00 INFO (6): SI ES UN OPERADOR VALIDO
+2017-03-21T16:07:28-06:00 INFO (6): SI SE ENCUENTRA CATEGORIZADO
+2017-03-21T16:07:28-06:00 INFO (6): QUERY DE BUSQUEDA EN BASE DE USUARIOS: SELECT * FROM fuentes_usuarios_toolbox WHERE usuario_msisdn = '5549444535' AND usuario_operador LIKE 'Telcel' AND usuario_categoria LIKE 'MAYEN' AND usuario_activo = 1 AND usuario_id_fk='1'
+2017-03-21T16:07:28-06:00 INFO (6): RESULTADO - QUERY DE BUSQUEDA EN BASE DE USUARIOS: Array
+(
+    [0] => Array
+        (
+            [usuario_id] => 3758
+            [usuario_msisdn] => 5549444535
+            [usuario_operador] => Telcel
+            [usuario_categoria] => MAYEN
+            [usuario_enviado] => 1
+            [usuario_alta] => 2017-03-03 11:01:04
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+)
+
+2017-03-21T16:07:28-06:00 INFO (6): YA SE ENCUENTRA UN ARCHIVO CON ESAS MISMAS CARACTERISTICAS
+2017-03-21T16:07:28-06:00 INFO (6): MENSAJE ENVIADO A REPORTE XLS:: 5549444535 ES UN REGISTRO REPETIDO.
+
+2017-03-21T16:07:28-06:00 INFO (6): --------------------------->
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE MSISDN: 5549444536
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE OPERADOR: 
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE CATEGORIA: MAYEN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE MSISDN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE OPERADOR
+2017-03-21T16:07:28-06:00 INFO (6): SI ES UN OPERADOR VALIDO
+2017-03-21T16:07:28-06:00 INFO (6): SI SE ENCUENTRA CATEGORIZADO
+2017-03-21T16:07:28-06:00 INFO (6): QUERY DE BUSQUEDA EN BASE DE USUARIOS: SELECT * FROM fuentes_usuarios_toolbox WHERE usuario_msisdn = '5549444536' AND usuario_operador LIKE 'Telcel' AND usuario_categoria LIKE 'MAYEN' AND usuario_activo = 1 AND usuario_id_fk='1'
+2017-03-21T16:07:28-06:00 INFO (6): RESULTADO - QUERY DE BUSQUEDA EN BASE DE USUARIOS: Array
+(
+    [0] => Array
+        (
+            [usuario_id] => 3759
+            [usuario_msisdn] => 5549444536
+            [usuario_operador] => Telcel
+            [usuario_categoria] => MAYEN
+            [usuario_enviado] => 1
+            [usuario_alta] => 2017-03-03 11:01:04
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+)
+
+2017-03-21T16:07:28-06:00 INFO (6): YA SE ENCUENTRA UN ARCHIVO CON ESAS MISMAS CARACTERISTICAS
+2017-03-21T16:07:28-06:00 INFO (6): MENSAJE ENVIADO A REPORTE XLS:: 5549444536 ES UN REGISTRO REPETIDO.
+
+2017-03-21T16:07:28-06:00 INFO (6): --------------------------->
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE MSISDN: 5549444537
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE OPERADOR: 
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE CATEGORIA: MAYEN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE MSISDN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE OPERADOR
+2017-03-21T16:07:28-06:00 INFO (6): SI ES UN OPERADOR VALIDO
+2017-03-21T16:07:28-06:00 INFO (6): SI SE ENCUENTRA CATEGORIZADO
+2017-03-21T16:07:28-06:00 INFO (6): QUERY DE BUSQUEDA EN BASE DE USUARIOS: SELECT * FROM fuentes_usuarios_toolbox WHERE usuario_msisdn = '5549444537' AND usuario_operador LIKE 'Telcel' AND usuario_categoria LIKE 'MAYEN' AND usuario_activo = 1 AND usuario_id_fk='1'
+2017-03-21T16:07:28-06:00 INFO (6): RESULTADO - QUERY DE BUSQUEDA EN BASE DE USUARIOS: Array
+(
+    [0] => Array
+        (
+            [usuario_id] => 3760
+            [usuario_msisdn] => 5549444537
+            [usuario_operador] => Telcel
+            [usuario_categoria] => MAYEN
+            [usuario_enviado] => 1
+            [usuario_alta] => 2017-03-03 11:01:04
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+)
+
+2017-03-21T16:07:28-06:00 INFO (6): YA SE ENCUENTRA UN ARCHIVO CON ESAS MISMAS CARACTERISTICAS
+2017-03-21T16:07:28-06:00 INFO (6): MENSAJE ENVIADO A REPORTE XLS:: 5549444537 ES UN REGISTRO REPETIDO.
+
+2017-03-21T16:07:28-06:00 INFO (6): --------------------------->
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE MSISDN: 5549444538
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE OPERADOR: 
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE CATEGORIA: MAYEN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE MSISDN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE OPERADOR
+2017-03-21T16:07:28-06:00 INFO (6): SI ES UN OPERADOR VALIDO
+2017-03-21T16:07:28-06:00 INFO (6): SI SE ENCUENTRA CATEGORIZADO
+2017-03-21T16:07:28-06:00 INFO (6): QUERY DE BUSQUEDA EN BASE DE USUARIOS: SELECT * FROM fuentes_usuarios_toolbox WHERE usuario_msisdn = '5549444538' AND usuario_operador LIKE 'Telcel' AND usuario_categoria LIKE 'MAYEN' AND usuario_activo = 1 AND usuario_id_fk='1'
+2017-03-21T16:07:28-06:00 INFO (6): RESULTADO - QUERY DE BUSQUEDA EN BASE DE USUARIOS: Array
+(
+    [0] => Array
+        (
+            [usuario_id] => 3761
+            [usuario_msisdn] => 5549444538
+            [usuario_operador] => Telcel
+            [usuario_categoria] => MAYEN
+            [usuario_enviado] => 1
+            [usuario_alta] => 2017-03-03 11:01:04
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+)
+
+2017-03-21T16:07:28-06:00 INFO (6): YA SE ENCUENTRA UN ARCHIVO CON ESAS MISMAS CARACTERISTICAS
+2017-03-21T16:07:28-06:00 INFO (6): MENSAJE ENVIADO A REPORTE XLS:: 5549444538 ES UN REGISTRO REPETIDO.
+
+2017-03-21T16:07:28-06:00 INFO (6): --------------------------->
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE MSISDN: 5549444539
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE OPERADOR: 
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE CATEGORIA: MAYEN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE MSISDN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE OPERADOR
+2017-03-21T16:07:28-06:00 INFO (6): SI ES UN OPERADOR VALIDO
+2017-03-21T16:07:28-06:00 INFO (6): SI SE ENCUENTRA CATEGORIZADO
+2017-03-21T16:07:28-06:00 INFO (6): QUERY DE BUSQUEDA EN BASE DE USUARIOS: SELECT * FROM fuentes_usuarios_toolbox WHERE usuario_msisdn = '5549444539' AND usuario_operador LIKE 'Telcel' AND usuario_categoria LIKE 'MAYEN' AND usuario_activo = 1 AND usuario_id_fk='1'
+2017-03-21T16:07:28-06:00 INFO (6): RESULTADO - QUERY DE BUSQUEDA EN BASE DE USUARIOS: Array
+(
+    [0] => Array
+        (
+            [usuario_id] => 3762
+            [usuario_msisdn] => 5549444539
+            [usuario_operador] => Telcel
+            [usuario_categoria] => MAYEN
+            [usuario_enviado] => 1
+            [usuario_alta] => 2017-03-03 11:01:04
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+)
+
+2017-03-21T16:07:28-06:00 INFO (6): YA SE ENCUENTRA UN ARCHIVO CON ESAS MISMAS CARACTERISTICAS
+2017-03-21T16:07:28-06:00 INFO (6): MENSAJE ENVIADO A REPORTE XLS:: 5549444539 ES UN REGISTRO REPETIDO.
+
+2017-03-21T16:07:28-06:00 INFO (6): --------------------------->
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE MSISDN: 5549444540
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE OPERADOR: 
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE CATEGORIA: MAYEN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE MSISDN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE OPERADOR
+2017-03-21T16:07:28-06:00 INFO (6): SI ES UN OPERADOR VALIDO
+2017-03-21T16:07:28-06:00 INFO (6): SI SE ENCUENTRA CATEGORIZADO
+2017-03-21T16:07:28-06:00 INFO (6): QUERY DE BUSQUEDA EN BASE DE USUARIOS: SELECT * FROM fuentes_usuarios_toolbox WHERE usuario_msisdn = '5549444540' AND usuario_operador LIKE 'Telcel' AND usuario_categoria LIKE 'MAYEN' AND usuario_activo = 1 AND usuario_id_fk='1'
+2017-03-21T16:07:28-06:00 INFO (6): RESULTADO - QUERY DE BUSQUEDA EN BASE DE USUARIOS: Array
+(
+    [0] => Array
+        (
+            [usuario_id] => 3763
+            [usuario_msisdn] => 5549444540
+            [usuario_operador] => Telcel
+            [usuario_categoria] => MAYEN
+            [usuario_enviado] => 1
+            [usuario_alta] => 2017-03-03 11:01:04
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+)
+
+2017-03-21T16:07:28-06:00 INFO (6): YA SE ENCUENTRA UN ARCHIVO CON ESAS MISMAS CARACTERISTICAS
+2017-03-21T16:07:28-06:00 INFO (6): MENSAJE ENVIADO A REPORTE XLS:: 5549444540 ES UN REGISTRO REPETIDO.
+
+2017-03-21T16:07:28-06:00 INFO (6): --------------------------->
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE MSISDN: 5549444541
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE OPERADOR: 
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE CATEGORIA: MAYEN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE MSISDN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE OPERADOR
+2017-03-21T16:07:28-06:00 INFO (6): SI ES UN OPERADOR VALIDO
+2017-03-21T16:07:28-06:00 INFO (6): SI SE ENCUENTRA CATEGORIZADO
+2017-03-21T16:07:28-06:00 INFO (6): QUERY DE BUSQUEDA EN BASE DE USUARIOS: SELECT * FROM fuentes_usuarios_toolbox WHERE usuario_msisdn = '5549444541' AND usuario_operador LIKE 'Telcel' AND usuario_categoria LIKE 'MAYEN' AND usuario_activo = 1 AND usuario_id_fk='1'
+2017-03-21T16:07:28-06:00 INFO (6): RESULTADO - QUERY DE BUSQUEDA EN BASE DE USUARIOS: Array
+(
+    [0] => Array
+        (
+            [usuario_id] => 3764
+            [usuario_msisdn] => 5549444541
+            [usuario_operador] => Telcel
+            [usuario_categoria] => MAYEN
+            [usuario_enviado] => 1
+            [usuario_alta] => 2017-03-03 11:01:04
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+)
+
+2017-03-21T16:07:28-06:00 INFO (6): YA SE ENCUENTRA UN ARCHIVO CON ESAS MISMAS CARACTERISTICAS
+2017-03-21T16:07:28-06:00 INFO (6): MENSAJE ENVIADO A REPORTE XLS:: 5549444541 ES UN REGISTRO REPETIDO.
+
+2017-03-21T16:07:28-06:00 INFO (6): --------------------------->
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE MSISDN: 5549444542
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE OPERADOR: 
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE CATEGORIA: MAYEN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE MSISDN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE OPERADOR
+2017-03-21T16:07:28-06:00 INFO (6): SI ES UN OPERADOR VALIDO
+2017-03-21T16:07:28-06:00 INFO (6): SI SE ENCUENTRA CATEGORIZADO
+2017-03-21T16:07:28-06:00 INFO (6): QUERY DE BUSQUEDA EN BASE DE USUARIOS: SELECT * FROM fuentes_usuarios_toolbox WHERE usuario_msisdn = '5549444542' AND usuario_operador LIKE 'Telcel' AND usuario_categoria LIKE 'MAYEN' AND usuario_activo = 1 AND usuario_id_fk='1'
+2017-03-21T16:07:28-06:00 INFO (6): RESULTADO - QUERY DE BUSQUEDA EN BASE DE USUARIOS: Array
+(
+    [0] => Array
+        (
+            [usuario_id] => 3765
+            [usuario_msisdn] => 5549444542
+            [usuario_operador] => Telcel
+            [usuario_categoria] => MAYEN
+            [usuario_enviado] => 1
+            [usuario_alta] => 2017-03-03 11:01:04
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+)
+
+2017-03-21T16:07:28-06:00 INFO (6): YA SE ENCUENTRA UN ARCHIVO CON ESAS MISMAS CARACTERISTICAS
+2017-03-21T16:07:28-06:00 INFO (6): MENSAJE ENVIADO A REPORTE XLS:: 5549444542 ES UN REGISTRO REPETIDO.
+
+2017-03-21T16:07:28-06:00 INFO (6): --------------------------->
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE MSISDN: 5549444543
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE OPERADOR: 
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE CATEGORIA: MAYEN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE MSISDN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE OPERADOR
+2017-03-21T16:07:28-06:00 INFO (6): SI ES UN OPERADOR VALIDO
+2017-03-21T16:07:28-06:00 INFO (6): SI SE ENCUENTRA CATEGORIZADO
+2017-03-21T16:07:28-06:00 INFO (6): QUERY DE BUSQUEDA EN BASE DE USUARIOS: SELECT * FROM fuentes_usuarios_toolbox WHERE usuario_msisdn = '5549444543' AND usuario_operador LIKE 'Telcel' AND usuario_categoria LIKE 'MAYEN' AND usuario_activo = 1 AND usuario_id_fk='1'
+2017-03-21T16:07:28-06:00 INFO (6): RESULTADO - QUERY DE BUSQUEDA EN BASE DE USUARIOS: Array
+(
+    [0] => Array
+        (
+            [usuario_id] => 3766
+            [usuario_msisdn] => 5549444543
+            [usuario_operador] => Telcel
+            [usuario_categoria] => MAYEN
+            [usuario_enviado] => 1
+            [usuario_alta] => 2017-03-03 11:01:04
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+)
+
+2017-03-21T16:07:28-06:00 INFO (6): YA SE ENCUENTRA UN ARCHIVO CON ESAS MISMAS CARACTERISTICAS
+2017-03-21T16:07:28-06:00 INFO (6): MENSAJE ENVIADO A REPORTE XLS:: 5549444543 ES UN REGISTRO REPETIDO.
+
+2017-03-21T16:07:28-06:00 INFO (6): --------------------------->
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE MSISDN: 5549444544
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE OPERADOR: 
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE CATEGORIA: MAYEN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE MSISDN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE OPERADOR
+2017-03-21T16:07:28-06:00 INFO (6): SI ES UN OPERADOR VALIDO
+2017-03-21T16:07:28-06:00 INFO (6): SI SE ENCUENTRA CATEGORIZADO
+2017-03-21T16:07:28-06:00 INFO (6): QUERY DE BUSQUEDA EN BASE DE USUARIOS: SELECT * FROM fuentes_usuarios_toolbox WHERE usuario_msisdn = '5549444544' AND usuario_operador LIKE 'Telcel' AND usuario_categoria LIKE 'MAYEN' AND usuario_activo = 1 AND usuario_id_fk='1'
+2017-03-21T16:07:28-06:00 INFO (6): RESULTADO - QUERY DE BUSQUEDA EN BASE DE USUARIOS: Array
+(
+    [0] => Array
+        (
+            [usuario_id] => 3767
+            [usuario_msisdn] => 5549444544
+            [usuario_operador] => Telcel
+            [usuario_categoria] => MAYEN
+            [usuario_enviado] => 1
+            [usuario_alta] => 2017-03-03 11:01:04
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+)
+
+2017-03-21T16:07:28-06:00 INFO (6): YA SE ENCUENTRA UN ARCHIVO CON ESAS MISMAS CARACTERISTICAS
+2017-03-21T16:07:28-06:00 INFO (6): MENSAJE ENVIADO A REPORTE XLS:: 5549444544 ES UN REGISTRO REPETIDO.
+
+2017-03-21T16:07:28-06:00 INFO (6): --------------------------->
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE MSISDN: 5549444545
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE OPERADOR: 
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE CATEGORIA: MAYEN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE MSISDN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE OPERADOR
+2017-03-21T16:07:28-06:00 INFO (6): SI ES UN OPERADOR VALIDO
+2017-03-21T16:07:28-06:00 INFO (6): SI SE ENCUENTRA CATEGORIZADO
+2017-03-21T16:07:28-06:00 INFO (6): QUERY DE BUSQUEDA EN BASE DE USUARIOS: SELECT * FROM fuentes_usuarios_toolbox WHERE usuario_msisdn = '5549444545' AND usuario_operador LIKE 'Telcel' AND usuario_categoria LIKE 'MAYEN' AND usuario_activo = 1 AND usuario_id_fk='1'
+2017-03-21T16:07:28-06:00 INFO (6): RESULTADO - QUERY DE BUSQUEDA EN BASE DE USUARIOS: Array
+(
+    [0] => Array
+        (
+            [usuario_id] => 3768
+            [usuario_msisdn] => 5549444545
+            [usuario_operador] => Telcel
+            [usuario_categoria] => MAYEN
+            [usuario_enviado] => 1
+            [usuario_alta] => 2017-03-03 11:01:04
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+)
+
+2017-03-21T16:07:28-06:00 INFO (6): YA SE ENCUENTRA UN ARCHIVO CON ESAS MISMAS CARACTERISTICAS
+2017-03-21T16:07:28-06:00 INFO (6): MENSAJE ENVIADO A REPORTE XLS:: 5549444545 ES UN REGISTRO REPETIDO.
+
+2017-03-21T16:07:28-06:00 INFO (6): --------------------------->
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE MSISDN: 5549444546
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE OPERADOR: 
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE CATEGORIA: MAYEN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE MSISDN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE OPERADOR
+2017-03-21T16:07:28-06:00 INFO (6): SI ES UN OPERADOR VALIDO
+2017-03-21T16:07:28-06:00 INFO (6): SI SE ENCUENTRA CATEGORIZADO
+2017-03-21T16:07:28-06:00 INFO (6): QUERY DE BUSQUEDA EN BASE DE USUARIOS: SELECT * FROM fuentes_usuarios_toolbox WHERE usuario_msisdn = '5549444546' AND usuario_operador LIKE 'Telcel' AND usuario_categoria LIKE 'MAYEN' AND usuario_activo = 1 AND usuario_id_fk='1'
+2017-03-21T16:07:28-06:00 INFO (6): RESULTADO - QUERY DE BUSQUEDA EN BASE DE USUARIOS: Array
+(
+    [0] => Array
+        (
+            [usuario_id] => 3769
+            [usuario_msisdn] => 5549444546
+            [usuario_operador] => Telcel
+            [usuario_categoria] => MAYEN
+            [usuario_enviado] => 1
+            [usuario_alta] => 2017-03-03 11:01:04
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+)
+
+2017-03-21T16:07:28-06:00 INFO (6): YA SE ENCUENTRA UN ARCHIVO CON ESAS MISMAS CARACTERISTICAS
+2017-03-21T16:07:28-06:00 INFO (6): MENSAJE ENVIADO A REPORTE XLS:: 5549444546 ES UN REGISTRO REPETIDO.
+
+2017-03-21T16:07:28-06:00 INFO (6): --------------------------->
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE MSISDN: 5549444547
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE OPERADOR: 
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE CATEGORIA: MAYEN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE MSISDN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE OPERADOR
+2017-03-21T16:07:28-06:00 INFO (6): SI ES UN OPERADOR VALIDO
+2017-03-21T16:07:28-06:00 INFO (6): SI SE ENCUENTRA CATEGORIZADO
+2017-03-21T16:07:28-06:00 INFO (6): QUERY DE BUSQUEDA EN BASE DE USUARIOS: SELECT * FROM fuentes_usuarios_toolbox WHERE usuario_msisdn = '5549444547' AND usuario_operador LIKE 'Telcel' AND usuario_categoria LIKE 'MAYEN' AND usuario_activo = 1 AND usuario_id_fk='1'
+2017-03-21T16:07:28-06:00 INFO (6): RESULTADO - QUERY DE BUSQUEDA EN BASE DE USUARIOS: Array
+(
+    [0] => Array
+        (
+            [usuario_id] => 3770
+            [usuario_msisdn] => 5549444547
+            [usuario_operador] => Telcel
+            [usuario_categoria] => MAYEN
+            [usuario_enviado] => 1
+            [usuario_alta] => 2017-03-03 11:01:04
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+)
+
+2017-03-21T16:07:28-06:00 INFO (6): YA SE ENCUENTRA UN ARCHIVO CON ESAS MISMAS CARACTERISTICAS
+2017-03-21T16:07:28-06:00 INFO (6): MENSAJE ENVIADO A REPORTE XLS:: 5549444547 ES UN REGISTRO REPETIDO.
+
+2017-03-21T16:07:28-06:00 INFO (6): --------------------------->
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE MSISDN: 5549444548
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE OPERADOR: 
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE CATEGORIA: MAYEN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE MSISDN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE OPERADOR
+2017-03-21T16:07:28-06:00 INFO (6): SI ES UN OPERADOR VALIDO
+2017-03-21T16:07:28-06:00 INFO (6): SI SE ENCUENTRA CATEGORIZADO
+2017-03-21T16:07:28-06:00 INFO (6): QUERY DE BUSQUEDA EN BASE DE USUARIOS: SELECT * FROM fuentes_usuarios_toolbox WHERE usuario_msisdn = '5549444548' AND usuario_operador LIKE 'Telcel' AND usuario_categoria LIKE 'MAYEN' AND usuario_activo = 1 AND usuario_id_fk='1'
+2017-03-21T16:07:28-06:00 INFO (6): RESULTADO - QUERY DE BUSQUEDA EN BASE DE USUARIOS: Array
+(
+    [0] => Array
+        (
+            [usuario_id] => 3771
+            [usuario_msisdn] => 5549444548
+            [usuario_operador] => Telcel
+            [usuario_categoria] => MAYEN
+            [usuario_enviado] => 1
+            [usuario_alta] => 2017-03-03 11:01:04
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+)
+
+2017-03-21T16:07:28-06:00 INFO (6): YA SE ENCUENTRA UN ARCHIVO CON ESAS MISMAS CARACTERISTICAS
+2017-03-21T16:07:28-06:00 INFO (6): MENSAJE ENVIADO A REPORTE XLS:: 5549444548 ES UN REGISTRO REPETIDO.
+
+2017-03-21T16:07:28-06:00 INFO (6): --------------------------->
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE MSISDN: 5549444549
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE OPERADOR: 
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE CATEGORIA: MAYEN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE MSISDN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE OPERADOR
+2017-03-21T16:07:28-06:00 INFO (6): SI ES UN OPERADOR VALIDO
+2017-03-21T16:07:28-06:00 INFO (6): SI SE ENCUENTRA CATEGORIZADO
+2017-03-21T16:07:28-06:00 INFO (6): QUERY DE BUSQUEDA EN BASE DE USUARIOS: SELECT * FROM fuentes_usuarios_toolbox WHERE usuario_msisdn = '5549444549' AND usuario_operador LIKE 'Telcel' AND usuario_categoria LIKE 'MAYEN' AND usuario_activo = 1 AND usuario_id_fk='1'
+2017-03-21T16:07:28-06:00 INFO (6): RESULTADO - QUERY DE BUSQUEDA EN BASE DE USUARIOS: Array
+(
+    [0] => Array
+        (
+            [usuario_id] => 3772
+            [usuario_msisdn] => 5549444549
+            [usuario_operador] => Telcel
+            [usuario_categoria] => MAYEN
+            [usuario_enviado] => 1
+            [usuario_alta] => 2017-03-03 11:01:04
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+)
+
+2017-03-21T16:07:28-06:00 INFO (6): YA SE ENCUENTRA UN ARCHIVO CON ESAS MISMAS CARACTERISTICAS
+2017-03-21T16:07:28-06:00 INFO (6): MENSAJE ENVIADO A REPORTE XLS:: 5549444549 ES UN REGISTRO REPETIDO.
+
+2017-03-21T16:07:28-06:00 INFO (6): --------------------------->
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE MSISDN: 5549444550
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE OPERADOR: 
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE CATEGORIA: MAYEN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE MSISDN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE OPERADOR
+2017-03-21T16:07:28-06:00 INFO (6): SI ES UN OPERADOR VALIDO
+2017-03-21T16:07:28-06:00 INFO (6): SI SE ENCUENTRA CATEGORIZADO
+2017-03-21T16:07:28-06:00 INFO (6): QUERY DE BUSQUEDA EN BASE DE USUARIOS: SELECT * FROM fuentes_usuarios_toolbox WHERE usuario_msisdn = '5549444550' AND usuario_operador LIKE 'Telcel' AND usuario_categoria LIKE 'MAYEN' AND usuario_activo = 1 AND usuario_id_fk='1'
+2017-03-21T16:07:28-06:00 INFO (6): RESULTADO - QUERY DE BUSQUEDA EN BASE DE USUARIOS: Array
+(
+    [0] => Array
+        (
+            [usuario_id] => 3773
+            [usuario_msisdn] => 5549444550
+            [usuario_operador] => Telcel
+            [usuario_categoria] => MAYEN
+            [usuario_enviado] => 1
+            [usuario_alta] => 2017-03-03 11:01:04
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+)
+
+2017-03-21T16:07:28-06:00 INFO (6): YA SE ENCUENTRA UN ARCHIVO CON ESAS MISMAS CARACTERISTICAS
+2017-03-21T16:07:28-06:00 INFO (6): MENSAJE ENVIADO A REPORTE XLS:: 5549444550 ES UN REGISTRO REPETIDO.
+
+2017-03-21T16:07:28-06:00 INFO (6): --------------------------->
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE MSISDN: 5549444551
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE OPERADOR: 
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE CATEGORIA: MAYEN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE MSISDN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE OPERADOR
+2017-03-21T16:07:28-06:00 INFO (6): SI ES UN OPERADOR VALIDO
+2017-03-21T16:07:28-06:00 INFO (6): SI SE ENCUENTRA CATEGORIZADO
+2017-03-21T16:07:28-06:00 INFO (6): QUERY DE BUSQUEDA EN BASE DE USUARIOS: SELECT * FROM fuentes_usuarios_toolbox WHERE usuario_msisdn = '5549444551' AND usuario_operador LIKE 'Telcel' AND usuario_categoria LIKE 'MAYEN' AND usuario_activo = 1 AND usuario_id_fk='1'
+2017-03-21T16:07:28-06:00 INFO (6): RESULTADO - QUERY DE BUSQUEDA EN BASE DE USUARIOS: Array
+(
+    [0] => Array
+        (
+            [usuario_id] => 3774
+            [usuario_msisdn] => 5549444551
+            [usuario_operador] => Telcel
+            [usuario_categoria] => MAYEN
+            [usuario_enviado] => 1
+            [usuario_alta] => 2017-03-03 11:01:04
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+)
+
+2017-03-21T16:07:28-06:00 INFO (6): YA SE ENCUENTRA UN ARCHIVO CON ESAS MISMAS CARACTERISTICAS
+2017-03-21T16:07:28-06:00 INFO (6): MENSAJE ENVIADO A REPORTE XLS:: 5549444551 ES UN REGISTRO REPETIDO.
+
+2017-03-21T16:07:28-06:00 INFO (6): --------------------------->
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE MSISDN: 5549444552
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE OPERADOR: 
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE CATEGORIA: MAYEN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE MSISDN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE OPERADOR
+2017-03-21T16:07:28-06:00 INFO (6): SI ES UN OPERADOR VALIDO
+2017-03-21T16:07:28-06:00 INFO (6): SI SE ENCUENTRA CATEGORIZADO
+2017-03-21T16:07:28-06:00 INFO (6): QUERY DE BUSQUEDA EN BASE DE USUARIOS: SELECT * FROM fuentes_usuarios_toolbox WHERE usuario_msisdn = '5549444552' AND usuario_operador LIKE 'Telcel' AND usuario_categoria LIKE 'MAYEN' AND usuario_activo = 1 AND usuario_id_fk='1'
+2017-03-21T16:07:28-06:00 INFO (6): RESULTADO - QUERY DE BUSQUEDA EN BASE DE USUARIOS: Array
+(
+    [0] => Array
+        (
+            [usuario_id] => 3775
+            [usuario_msisdn] => 5549444552
+            [usuario_operador] => Telcel
+            [usuario_categoria] => MAYEN
+            [usuario_enviado] => 1
+            [usuario_alta] => 2017-03-03 11:01:04
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+)
+
+2017-03-21T16:07:28-06:00 INFO (6): YA SE ENCUENTRA UN ARCHIVO CON ESAS MISMAS CARACTERISTICAS
+2017-03-21T16:07:28-06:00 INFO (6): MENSAJE ENVIADO A REPORTE XLS:: 5549444552 ES UN REGISTRO REPETIDO.
+
+2017-03-21T16:07:28-06:00 INFO (6): --------------------------->
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE MSISDN: 5549444553
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE OPERADOR: 
+2017-03-21T16:07:28-06:00 INFO (6): QUE TRAE CATEGORIA: MAYEN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE MSISDN
+2017-03-21T16:07:28-06:00 INFO (6): SI TRAE OPERADOR
+2017-03-21T16:07:28-06:00 INFO (6): SI ES UN OPERADOR VALIDO
+2017-03-21T16:07:28-06:00 INFO (6): SI SE ENCUENTRA CATEGORIZADO
+2017-03-21T16:07:28-06:00 INFO (6): QUERY DE BUSQUEDA EN BASE DE USUARIOS: SELECT * FROM fuentes_usuarios_toolbox WHERE usuario_msisdn = '5549444553' AND usuario_operador LIKE 'Telcel' AND usuario_categoria LIKE 'MAYEN' AND usuario_activo = 1 AND usuario_id_fk='1'
+2017-03-21T16:07:29-06:00 INFO (6): RESULTADO - QUERY DE BUSQUEDA EN BASE DE USUARIOS: Array
+(
+    [0] => Array
+        (
+            [usuario_id] => 3776
+            [usuario_msisdn] => 5549444553
+            [usuario_operador] => Telcel
+            [usuario_categoria] => MAYEN
+            [usuario_enviado] => 1
+            [usuario_alta] => 2017-03-03 11:01:04
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+)
+
+2017-03-21T16:07:29-06:00 INFO (6): YA SE ENCUENTRA UN ARCHIVO CON ESAS MISMAS CARACTERISTICAS
+2017-03-21T16:07:29-06:00 INFO (6): MENSAJE ENVIADO A REPORTE XLS:: 5549444553 ES UN REGISTRO REPETIDO.
+
+2017-03-21T16:07:29-06:00 INFO (6): --------------------------->
+2017-03-21T16:07:29-06:00 INFO (6): QUE TRAE MSISDN: 5549444554
+2017-03-21T16:07:29-06:00 INFO (6): QUE TRAE OPERADOR: 
+2017-03-21T16:07:29-06:00 INFO (6): QUE TRAE CATEGORIA: MAYEN
+2017-03-21T16:07:29-06:00 INFO (6): SI TRAE MSISDN
+2017-03-21T16:07:29-06:00 INFO (6): SI TRAE OPERADOR
+2017-03-21T16:07:29-06:00 INFO (6): SI ES UN OPERADOR VALIDO
+2017-03-21T16:07:29-06:00 INFO (6): SI SE ENCUENTRA CATEGORIZADO
+2017-03-21T16:07:29-06:00 INFO (6): QUERY DE BUSQUEDA EN BASE DE USUARIOS: SELECT * FROM fuentes_usuarios_toolbox WHERE usuario_msisdn = '5549444554' AND usuario_operador LIKE 'Telcel' AND usuario_categoria LIKE 'MAYEN' AND usuario_activo = 1 AND usuario_id_fk='1'
+2017-03-21T16:07:29-06:00 INFO (6): RESULTADO - QUERY DE BUSQUEDA EN BASE DE USUARIOS: Array
+(
+    [0] => Array
+        (
+            [usuario_id] => 3777
+            [usuario_msisdn] => 5549444554
+            [usuario_operador] => Telcel
+            [usuario_categoria] => MAYEN
+            [usuario_enviado] => 1
+            [usuario_alta] => 2017-03-03 11:01:04
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+)
+
+2017-03-21T16:07:29-06:00 INFO (6): YA SE ENCUENTRA UN ARCHIVO CON ESAS MISMAS CARACTERISTICAS
+2017-03-21T16:07:29-06:00 INFO (6): MENSAJE ENVIADO A REPORTE XLS:: 5549444554 ES UN REGISTRO REPETIDO.
+
+2017-03-21T16:07:29-06:00 INFO (6): --------------------------->
+2017-03-21T16:07:29-06:00 INFO (6): QUE TRAE MSISDN: 5549444555
+2017-03-21T16:07:29-06:00 INFO (6): QUE TRAE OPERADOR: 
+2017-03-21T16:07:29-06:00 INFO (6): QUE TRAE CATEGORIA: MAYEN
+2017-03-21T16:07:29-06:00 INFO (6): SI TRAE MSISDN
+2017-03-21T16:07:29-06:00 INFO (6): SI TRAE OPERADOR
+2017-03-21T16:07:29-06:00 INFO (6): SI ES UN OPERADOR VALIDO
+2017-03-21T16:07:29-06:00 INFO (6): SI SE ENCUENTRA CATEGORIZADO
+2017-03-21T16:07:29-06:00 INFO (6): QUERY DE BUSQUEDA EN BASE DE USUARIOS: SELECT * FROM fuentes_usuarios_toolbox WHERE usuario_msisdn = '5549444555' AND usuario_operador LIKE 'Telcel' AND usuario_categoria LIKE 'MAYEN' AND usuario_activo = 1 AND usuario_id_fk='1'
+2017-03-21T16:07:29-06:00 INFO (6): RESULTADO - QUERY DE BUSQUEDA EN BASE DE USUARIOS: Array
+(
+    [0] => Array
+        (
+            [usuario_id] => 3778
+            [usuario_msisdn] => 5549444555
+            [usuario_operador] => Telcel
+            [usuario_categoria] => MAYEN
+            [usuario_enviado] => 1
+            [usuario_alta] => 2017-03-03 11:01:04
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+)
+
+2017-03-21T16:07:29-06:00 INFO (6): YA SE ENCUENTRA UN ARCHIVO CON ESAS MISMAS CARACTERISTICAS
+2017-03-21T16:07:29-06:00 INFO (6): MENSAJE ENVIADO A REPORTE XLS:: 5549444555 ES UN REGISTRO REPETIDO.
+
+2017-03-21T16:07:29-06:00 INFO (6): --------------------------->
+2017-03-21T16:07:29-06:00 INFO (6): QUE TRAE MSISDN: 5549444556
+2017-03-21T16:07:29-06:00 INFO (6): QUE TRAE OPERADOR: 
+2017-03-21T16:07:29-06:00 INFO (6): QUE TRAE CATEGORIA: MAYEN
+2017-03-21T16:07:29-06:00 INFO (6): SI TRAE MSISDN
+2017-03-21T16:07:29-06:00 INFO (6): SI TRAE OPERADOR
+2017-03-21T16:07:29-06:00 INFO (6): SI ES UN OPERADOR VALIDO
+2017-03-21T16:07:29-06:00 INFO (6): SI SE ENCUENTRA CATEGORIZADO
+2017-03-21T16:07:29-06:00 INFO (6): QUERY DE BUSQUEDA EN BASE DE USUARIOS: SELECT * FROM fuentes_usuarios_toolbox WHERE usuario_msisdn = '5549444556' AND usuario_operador LIKE 'Telcel' AND usuario_categoria LIKE 'MAYEN' AND usuario_activo = 1 AND usuario_id_fk='1'
+2017-03-21T16:07:29-06:00 INFO (6): RESULTADO - QUERY DE BUSQUEDA EN BASE DE USUARIOS: Array
+(
+    [0] => Array
+        (
+            [usuario_id] => 3779
+            [usuario_msisdn] => 5549444556
+            [usuario_operador] => Telcel
+            [usuario_categoria] => MAYEN
+            [usuario_enviado] => 1
+            [usuario_alta] => 2017-03-03 11:01:04
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+)
+
+2017-03-21T16:07:29-06:00 INFO (6): YA SE ENCUENTRA UN ARCHIVO CON ESAS MISMAS CARACTERISTICAS
+2017-03-21T16:07:29-06:00 INFO (6): MENSAJE ENVIADO A REPORTE XLS:: 5549444556 ES UN REGISTRO REPETIDO.
+
+2017-03-21T16:07:29-06:00 INFO (6): --------------------------->
+2017-03-21T16:07:29-06:00 INFO (6): QUE TRAE MSISDN: 5549444557
+2017-03-21T16:07:29-06:00 INFO (6): QUE TRAE OPERADOR: 
+2017-03-21T16:07:29-06:00 INFO (6): QUE TRAE CATEGORIA: MAYEN
+2017-03-21T16:07:29-06:00 INFO (6): SI TRAE MSISDN
+2017-03-21T16:07:29-06:00 INFO (6): SI TRAE OPERADOR
+2017-03-21T16:07:29-06:00 INFO (6): SI ES UN OPERADOR VALIDO
+2017-03-21T16:07:29-06:00 INFO (6): SI SE ENCUENTRA CATEGORIZADO
+2017-03-21T16:07:29-06:00 INFO (6): QUERY DE BUSQUEDA EN BASE DE USUARIOS: SELECT * FROM fuentes_usuarios_toolbox WHERE usuario_msisdn = '5549444557' AND usuario_operador LIKE 'Telcel' AND usuario_categoria LIKE 'MAYEN' AND usuario_activo = 1 AND usuario_id_fk='1'
+2017-03-21T16:07:29-06:00 INFO (6): RESULTADO - QUERY DE BUSQUEDA EN BASE DE USUARIOS: Array
+(
+    [0] => Array
+        (
+            [usuario_id] => 3780
+            [usuario_msisdn] => 5549444557
+            [usuario_operador] => Telcel
+            [usuario_categoria] => MAYEN
+            [usuario_enviado] => 1
+            [usuario_alta] => 2017-03-03 11:01:04
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+)
+
+2017-03-21T16:07:29-06:00 INFO (6): YA SE ENCUENTRA UN ARCHIVO CON ESAS MISMAS CARACTERISTICAS
+2017-03-21T16:07:29-06:00 INFO (6): MENSAJE ENVIADO A REPORTE XLS:: 5549444557 ES UN REGISTRO REPETIDO.
+
+2017-03-21T16:07:29-06:00 INFO (6): --------------------------->
+2017-03-21T16:07:29-06:00 INFO (6): QUE TRAE MSISDN: 5549444558
+2017-03-21T16:07:29-06:00 INFO (6): QUE TRAE OPERADOR: 
+2017-03-21T16:07:29-06:00 INFO (6): QUE TRAE CATEGORIA: MAYEN
+2017-03-21T16:07:29-06:00 INFO (6): SI TRAE MSISDN
+2017-03-21T16:07:29-06:00 INFO (6): SI TRAE OPERADOR
+2017-03-21T16:07:29-06:00 INFO (6): SI ES UN OPERADOR VALIDO
+2017-03-21T16:07:29-06:00 INFO (6): SI SE ENCUENTRA CATEGORIZADO
+2017-03-21T16:07:29-06:00 INFO (6): QUERY DE BUSQUEDA EN BASE DE USUARIOS: SELECT * FROM fuentes_usuarios_toolbox WHERE usuario_msisdn = '5549444558' AND usuario_operador LIKE 'Telcel' AND usuario_categoria LIKE 'MAYEN' AND usuario_activo = 1 AND usuario_id_fk='1'
+2017-03-21T16:07:29-06:00 INFO (6): RESULTADO - QUERY DE BUSQUEDA EN BASE DE USUARIOS: Array
+(
+    [0] => Array
+        (
+            [usuario_id] => 3781
+            [usuario_msisdn] => 5549444558
+            [usuario_operador] => Telcel
+            [usuario_categoria] => MAYEN
+            [usuario_enviado] => 1
+            [usuario_alta] => 2017-03-03 11:01:04
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+)
+
+2017-03-21T16:07:29-06:00 INFO (6): YA SE ENCUENTRA UN ARCHIVO CON ESAS MISMAS CARACTERISTICAS
+2017-03-21T16:07:29-06:00 INFO (6): MENSAJE ENVIADO A REPORTE XLS:: 5549444558 ES UN REGISTRO REPETIDO.
+
+2017-03-21T16:07:29-06:00 INFO (6): --------------------------->
+2017-03-21T16:07:29-06:00 INFO (6): QUE TRAE MSISDN: 5549444559
+2017-03-21T16:07:29-06:00 INFO (6): QUE TRAE OPERADOR: 
+2017-03-21T16:07:29-06:00 INFO (6): QUE TRAE CATEGORIA: MAYEN
+2017-03-21T16:07:29-06:00 INFO (6): SI TRAE MSISDN
+2017-03-21T16:07:29-06:00 INFO (6): SI TRAE OPERADOR
+2017-03-21T16:07:29-06:00 INFO (6): SI ES UN OPERADOR VALIDO
+2017-03-21T16:07:29-06:00 INFO (6): SI SE ENCUENTRA CATEGORIZADO
+2017-03-21T16:07:29-06:00 INFO (6): QUERY DE BUSQUEDA EN BASE DE USUARIOS: SELECT * FROM fuentes_usuarios_toolbox WHERE usuario_msisdn = '5549444559' AND usuario_operador LIKE 'Telcel' AND usuario_categoria LIKE 'MAYEN' AND usuario_activo = 1 AND usuario_id_fk='1'
+2017-03-21T16:07:29-06:00 INFO (6): RESULTADO - QUERY DE BUSQUEDA EN BASE DE USUARIOS: Array
+(
+    [0] => Array
+        (
+            [usuario_id] => 3782
+            [usuario_msisdn] => 5549444559
+            [usuario_operador] => Telcel
+            [usuario_categoria] => MAYEN
+            [usuario_enviado] => 1
+            [usuario_alta] => 2017-03-03 11:01:04
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+)
+
+2017-03-21T16:07:29-06:00 INFO (6): YA SE ENCUENTRA UN ARCHIVO CON ESAS MISMAS CARACTERISTICAS
+2017-03-21T16:07:29-06:00 INFO (6): MENSAJE ENVIADO A REPORTE XLS:: 5549444559 ES UN REGISTRO REPETIDO.
+
+2017-03-21T16:07:29-06:00 INFO (6): FIN:::::::::::..........

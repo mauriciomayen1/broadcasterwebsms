@@ -1,0 +1,216 @@
+2017-04-04T09:37:53-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-04T09:37:53-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-04T09:37:53-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-04T09:37:53-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->-> FUNCION URL MT WS: 2017/04/04 09:37:53
+2017-04-04T09:37:53-05:00 INFO (6): _REQUEST::Array
+(
+    [msisdn] => 5547870016
+    [message] => Hola Gaby
+    [tag] => 58e3af9158ae4
+    [user] => Administrador
+    [PHPSESSID] => b8gpmclkc7l4rjs4jfsv1rhau0
+)
+
+2017-04-04T09:37:53-05:00 INFO (6): IP::: 201.149.88.206
+2017-04-04T09:37:53-05:00 INFO (6): MSISDN::: 5547870016
+2017-04-04T09:37:53-05:00 INFO (6): SMS::: Hola Gaby
+2017-04-04T09:37:53-05:00 INFO (6): TAG::: 58e3af9158ae4
+2017-04-04T09:37:53-05:00 INFO (6): USER::: Administrador
+2017-04-04T09:37:53-05:00 INFO (6): QUERY BUSQUEDA::: Select count(*) as total from clientes_demo where cliente_usuario like 'Administrador' and cliente_activo = 1
+2017-04-04T09:37:54-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN clientes_demo FUERON::: 1
+2017-04-04T09:37:54-05:00 INFO (6): SI ES UN USUARIO ACTIVO.
+2017-04-04T09:37:54-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN SMS DEL NUMERO FUERON::: 32
+2017-04-04T09:37:54-05:00 INFO (6): SI SE ENCONTRO EN BASE::..
+2017-04-04T09:37:54-05:00 INFO (6): Operador::: Telcel
+2017-04-04T09:37:54-05:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=5547870016&text=Hola+Gaby
+2017-04-04T09:37:54-05:00 INFO (6): RESPUESTA: 0: Accepted for delivery
+2017-04-04T09:37:54-05:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => telcel
+    [mt_msisdn] => 5547870016
+    [mt_medio] => Base
+    [mt_folio] => 558e3afc214bb53
+    [mt_contenido] => Hola Gaby
+    [mt_fecha] => 2017-04-04 09:37:54
+    [mt_tag] => WS
+    [mt_categoria] => 58e3af9158ae4
+    [usuario_id] => 1
+)
+
+2017-04-04T09:37:54-05:00 INFO (6): Se inserto:: 1
+2017-04-04T09:37:54-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 122,38
+)
+
+2017-04-04T09:37:54-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-04T09:37:54-05:00 INFO (6): Fin
+2017-04-04T09:39:45-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-04T09:39:45-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-04T09:39:45-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-04T09:39:45-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->-> FUNCION URL MT WS: 2017/04/04 09:39:45
+2017-04-04T09:39:45-05:00 INFO (6): _REQUEST::Array
+(
+    [msisdn] => 5547870016
+    [message] => Hola Gaby
+    [tag] => 58e3af9158ae4
+    [user] => Administrador
+    [PHPSESSID] => b8gpmclkc7l4rjs4jfsv1rhau0
+)
+
+2017-04-04T09:39:45-05:00 INFO (6): IP::: 201.149.88.206
+2017-04-04T09:39:45-05:00 INFO (6): MSISDN::: 5547870016
+2017-04-04T09:39:45-05:00 INFO (6): SMS::: Hola Gaby
+2017-04-04T09:39:45-05:00 INFO (6): TAG::: 58e3af9158ae4
+2017-04-04T09:39:45-05:00 INFO (6): USER::: Administrador
+2017-04-04T09:39:45-05:00 INFO (6): QUERY BUSQUEDA::: Select count(*) as total from clientes_demo where cliente_usuario like 'Administrador' and cliente_activo = 1
+2017-04-04T09:39:45-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN clientes_demo FUERON::: 1
+2017-04-04T09:39:45-05:00 INFO (6): SI ES UN USUARIO ACTIVO.
+2017-04-04T09:39:45-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN SMS DEL NUMERO FUERON::: 33
+2017-04-04T09:39:45-05:00 INFO (6): SI SE ENCONTRO EN BASE::..
+2017-04-04T09:39:45-05:00 INFO (6): Operador::: Telcel
+2017-04-04T09:39:45-05:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=5547870016&text=Hola+Gaby
+2017-04-04T09:39:45-05:00 INFO (6): RESPUESTA: 0: Accepted for delivery
+2017-04-04T09:39:45-05:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => telcel
+    [mt_msisdn] => 5547870016
+    [mt_medio] => Base
+    [mt_folio] => 358e3b031c76f25
+    [mt_contenido] => Hola Gaby
+    [mt_fecha] => 2017-04-04 09:39:45
+    [mt_tag] => WS
+    [mt_categoria] => 58e3af9158ae4
+    [usuario_id] => 1
+)
+
+2017-04-04T09:39:45-05:00 INFO (6): Se inserto:: 1
+2017-04-04T09:39:45-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 121,8
+)
+
+2017-04-04T09:39:45-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-04T09:39:45-05:00 INFO (6): Fin
+2017-04-04T09:41:51-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-04T09:41:51-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-04T09:41:51-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-04T09:41:51-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->-> FUNCION URL MT WS: 2017/04/04 09:41:51
+2017-04-04T09:41:51-05:00 INFO (6): _REQUEST::Array
+(
+    [msisdn] => 5547870016
+    [message] => Hola Gaby
+    [tag] => 58e3af9158ae4
+    [user] => Administradora
+    [PHPSESSID] => b8gpmclkc7l4rjs4jfsv1rhau0
+)
+
+2017-04-04T09:41:51-05:00 INFO (6): IP::: 201.149.88.206
+2017-04-04T09:41:51-05:00 INFO (6): MSISDN::: 5547870016
+2017-04-04T09:41:51-05:00 INFO (6): SMS::: Hola Gaby
+2017-04-04T09:41:51-05:00 INFO (6): TAG::: 58e3af9158ae4
+2017-04-04T09:41:51-05:00 INFO (6): USER::: Administradora
+2017-04-04T09:41:51-05:00 INFO (6): QUERY BUSQUEDA::: Select count(*) as total from clientes_demo where cliente_usuario like 'Administradora' and cliente_activo = 1
+2017-04-04T09:41:51-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN clientes_demo FUERON::: 0
+2017-04-04T09:41:51-05:00 INFO (6): NO ES UN USUARIO ACTIVO.
+2017-04-04T09:41:51-05:00 INFO (6): Fin
+2017-04-04T11:52:18-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-04T11:52:18-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-04T11:52:18-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-04T11:52:18-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->-> FUNCION URL MT WS: 2017/04/04 11:52:18
+2017-04-04T11:52:18-05:00 INFO (6): _REQUEST::Array
+(
+    [msisdn] => 5554995994
+    [message] => MESSAGE
+    [tag] => 58e3af9158ae4
+    [user] => Administrador
+)
+
+2017-04-04T11:52:18-05:00 INFO (6): IP::: 40.78.146.128
+2017-04-04T11:52:18-05:00 INFO (6): MSISDN::: 5554995994
+2017-04-04T11:52:18-05:00 INFO (6): SMS::: MESSAGE
+2017-04-04T11:52:18-05:00 INFO (6): TAG::: 58e3af9158ae4
+2017-04-04T11:52:18-05:00 INFO (6): USER::: Administrador
+2017-04-04T11:52:18-05:00 INFO (6): QUERY BUSQUEDA::: Select count(*) as total from clientes_demo where cliente_usuario like 'Administrador' and cliente_activo = 1
+2017-04-04T11:52:18-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN clientes_demo FUERON::: 1
+2017-04-04T11:52:18-05:00 INFO (6): SI ES UN USUARIO ACTIVO.
+2017-04-04T11:52:18-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN SMS DEL NUMERO FUERON::: 33
+2017-04-04T11:52:18-05:00 INFO (6): SI SE ENCONTRO EN BASE::..
+2017-04-04T11:52:18-05:00 INFO (6): Operador::: Telcel
+2017-04-04T11:52:18-05:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=5554995994&text=MESSAGE
+2017-04-04T11:52:18-05:00 INFO (6): Fin
+2017-04-04T11:52:18-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-04T11:52:18-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-04T11:52:18-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-04T11:52:18-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->-> FUNCION URL MT WS: 2017/04/04 11:52:18
+2017-04-04T11:52:18-05:00 INFO (6): _REQUEST::Array
+(
+    [msisdn] => 5554995994
+    [message] => MESSAGE
+    [tag] => 58e3af9158ae4
+    [user] => Administrador
+)
+
+2017-04-04T11:52:18-05:00 INFO (6): IP::: 40.78.146.128
+2017-04-04T11:52:18-05:00 INFO (6): MSISDN::: 5554995994
+2017-04-04T11:52:18-05:00 INFO (6): SMS::: MESSAGE
+2017-04-04T11:52:18-05:00 INFO (6): TAG::: 58e3af9158ae4
+2017-04-04T11:52:18-05:00 INFO (6): USER::: Administrador
+2017-04-04T11:52:18-05:00 INFO (6): QUERY BUSQUEDA::: Select count(*) as total from clientes_demo where cliente_usuario like 'Administrador' and cliente_activo = 1
+2017-04-04T11:52:18-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN clientes_demo FUERON::: 1
+2017-04-04T11:52:18-05:00 INFO (6): SI ES UN USUARIO ACTIVO.
+2017-04-04T11:52:18-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN SMS DEL NUMERO FUERON::: 33
+2017-04-04T11:52:18-05:00 INFO (6): SI SE ENCONTRO EN BASE::..
+2017-04-04T11:52:18-05:00 INFO (6): Operador::: Telcel
+2017-04-04T11:52:18-05:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=5554995994&text=MESSAGE
+2017-04-04T11:52:18-05:00 INFO (6): Fin
+2017-04-04T11:52:43-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-04T11:52:43-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-04T11:52:43-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-04-04T11:52:43-05:00 INFO (6): ->->->->->->->->->->->->->->->->->->->-> FUNCION URL MT WS: 2017/04/04 11:52:43
+2017-04-04T11:52:43-05:00 INFO (6): _REQUEST::Array
+(
+    [msisdn] => 5554995994
+    [message] => MESSAGE
+    [tag] => 58e3af9158ae4
+    [user] => Administrador
+    [PHPSESSID] => b8gpmclkc7l4rjs4jfsv1rhau0
+)
+
+2017-04-04T11:52:43-05:00 INFO (6): IP::: 201.149.88.206
+2017-04-04T11:52:43-05:00 INFO (6): MSISDN::: 5554995994
+2017-04-04T11:52:43-05:00 INFO (6): SMS::: MESSAGE
+2017-04-04T11:52:43-05:00 INFO (6): TAG::: 58e3af9158ae4
+2017-04-04T11:52:43-05:00 INFO (6): USER::: Administrador
+2017-04-04T11:52:43-05:00 INFO (6): QUERY BUSQUEDA::: Select count(*) as total from clientes_demo where cliente_usuario like 'Administrador' and cliente_activo = 1
+2017-04-04T11:52:43-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN clientes_demo FUERON::: 1
+2017-04-04T11:52:43-05:00 INFO (6): SI ES UN USUARIO ACTIVO.
+2017-04-04T11:52:43-05:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN SMS DEL NUMERO FUERON::: 33
+2017-04-04T11:52:43-05:00 INFO (6): SI SE ENCONTRO EN BASE::..
+2017-04-04T11:52:43-05:00 INFO (6): Operador::: Telcel
+2017-04-04T11:52:43-05:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=5554995994&text=MESSAGE
+2017-04-04T11:52:43-05:00 INFO (6): RESPUESTA: 0: Accepted for delivery
+2017-04-04T11:52:43-05:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => telcel
+    [mt_msisdn] => 5554995994
+    [mt_medio] => Base
+    [mt_folio] => 158e3cf5b7e0199
+    [mt_contenido] => MESSAGE
+    [mt_fecha] => 2017-04-04 11:52:43
+    [mt_tag] => WS
+    [mt_categoria] => 58e3af9158ae4
+    [usuario_id] => 1
+)
+
+2017-04-04T11:52:43-05:00 INFO (6): Se inserto:: 1
+2017-04-04T11:52:43-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 118,32
+)
+
+2017-04-04T11:52:43-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-04T11:52:43-05:00 INFO (6): Fin

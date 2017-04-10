@@ -1,0 +1,92 @@
+2017-03-23T17:26:49-06:00 INFO (6): -----------------------------------------------------------------------------
+2017-03-23T17:26:49-06:00 INFO (6): -----------------------------------------------------------------------------
+2017-03-23T17:26:49-06:00 INFO (6): --------------- INICIO DE RECARGA-----------------------
+2017-03-23T17:26:49-06:00 INFO (6): INICIO: 2017/03/23 17:26:49
+2017-03-23T17:26:49-06:00 INFO (6): REQUEST: Array
+(
+    [Content] => sms 1
+    [DA] => telcel_77700
+    [SOA] => 5549444527
+    [smscId] => telcel_77700
+    [carrier] => Telcel
+)
+
+2017-03-23T17:26:49-06:00 INFO (6): DATOS MO:: Array
+(
+    [msisdn] => 5549444527
+    [fecha] => 2017-03-23 17:26:49
+    [contenido] => sms 1
+    [operador] => Telcel
+)
+
+2017-03-23T17:26:49-06:00 INFO (6): INSERTO MO:: 1
+2017-03-23T17:26:49-06:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 920,64
+)
+
+2017-03-23T17:26:49-06:00 INFO (6): SE ACTUALIZO:: 1
+2017-03-23T17:26:49-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmstelcel_77700&password=kaiser&to=525549444527&text=La+recarga+de+su+credito+fue+existosa.+Se+han+a%C3%B1adido+5.22+MXN+a+tu+saldo
+2017-03-23T17:26:49-06:00 INFO (6): response:: 0: Accepted for delivery
+2017-03-23T17:26:49-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-23T17:26:49-06:00 INFO (6): Array data_mt:: Array
+(
+    [mt_servicio] => RECARGA
+    [mt_marcacion] => 77700
+    [mt_operador] => Telcel
+    [mt_folio] => 258d459b94cca15
+    [mt_msisdn] => 5549444527
+    [mt_contenido] => La recarga de su crédito fue existosa
+    [mt_fecha] => 2017-03-23 17:26:49
+    [mt_tag] => mail
+    [usuario_id] => 1
+)
+
+2017-03-23T17:26:49-06:00 INFO (6): SE INSERTO:: 1
+2017-03-23T17:26:49-06:00 INFO (6): FIN::::::... 
+2017-03-23T17:31:59-06:00 INFO (6): -----------------------------------------------------------------------------
+2017-03-23T17:31:59-06:00 INFO (6): -----------------------------------------------------------------------------
+2017-03-23T17:31:59-06:00 INFO (6): --------------- INICIO DE RECARGA-----------------------
+2017-03-23T17:31:59-06:00 INFO (6): INICIO: 2017/03/23 17:31:59
+2017-03-23T17:31:59-06:00 INFO (6): REQUEST: Array
+(
+    [Content] => sms 14
+    [DA] => telcel_77700
+    [SOA] => 5549444527
+    [smscId] => telcel_77700
+    [carrier] => Telcel
+)
+
+2017-03-23T17:31:59-06:00 INFO (6): DATOS MO:: Array
+(
+    [msisdn] => 5549444527
+    [fecha] => 2017-03-23 17:31:59
+    [contenido] => sms 14
+    [operador] => Telcel
+)
+
+2017-03-23T17:31:59-06:00 INFO (6): INSERTO MO:: 1
+2017-03-23T17:31:59-06:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 1013,88
+)
+
+2017-03-23T17:31:59-06:00 INFO (6): SE ACTUALIZO:: 1
+2017-03-23T17:31:59-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmstelcel_77700&password=kaiser&to=525549444527&text=La+recarga+de+su+credito+fue+existosa.+Se+han+a%C3%B1adido+5.22+MXN+a+tu+saldo
+2017-03-23T17:31:59-06:00 INFO (6): response:: 0: Accepted for delivery
+2017-03-23T17:31:59-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-23T17:31:59-06:00 INFO (6): Array data_mt:: Array
+(
+    [mt_servicio] => RECARGA
+    [mt_marcacion] => 77700
+    [mt_operador] => Telcel
+    [mt_folio] => 658d45aef28f424
+    [mt_msisdn] => 5549444527
+    [mt_contenido] => La recarga de su crédito fue existosa
+    [mt_fecha] => 2017-03-23 17:31:59
+    [mt_tag] => mail
+    [usuario_id] => 14
+)
+
+2017-03-23T17:31:59-06:00 INFO (6): SE INSERTO:: 1
+2017-03-23T17:31:59-06:00 INFO (6): FIN::::::... 

@@ -1,0 +1,110 @@
+2017-03-28T11:39:10-06:00 INFO (6): ------------------------------------------------
+2017-03-28T11:39:10-06:00 INFO (6): ------------------------------------------------
+2017-03-28T11:39:10-06:00 INFO (6): ------------------------------------------------
+2017-03-28T11:39:10-06:00 INFO (6): ---- ENVIO MASIVO PREPARAR - FN PREPARAR -------
+2017-03-28T11:39:10-06:00 INFO (6): REQUEST: Array
+(
+    [selectCategoria] => nueva
+    [sms] => dsadsadasd
+    [caracteres] => 10
+    [accion] => preparar
+    [PHPSESSID] => p0slapa788hhmufv4uqpuskk14
+)
+
+2017-03-28T11:39:10-06:00 INFO (6): LA CATEGORIA A PREPARAR ES: nueva
+2017-03-28T11:39:10-06:00 INFO (6): SI SELECCIONO CATEGORIA
+2017-03-28T11:39:10-06:00 INFO (6): DATOS A UPDATE EN LA BASE: Array
+(
+    [usuario_enviado] => 0
+)
+
+2017-03-28T11:39:10-06:00 INFO (6): WHERE: 
+2017-03-28T11:39:10-06:00 INFO (6): SE ACTUALIZARON: 2
+2017-03-28T11:39:47-06:00 INFO (6): ------------------------------------------------
+2017-03-28T11:39:47-06:00 INFO (6): ------------------------------------------------
+2017-03-28T11:39:47-06:00 INFO (6): ------------------------------------------------
+2017-03-28T11:39:47-06:00 INFO (6): ---- ENVIO MASIVO PREPARAR - FN PREPARAR -------
+2017-03-28T11:39:47-06:00 INFO (6): REQUEST: Array
+(
+    [selectCategoria] => nueva
+    [sms] => dsadsadasd
+    [caracteres] => 10
+    [accion] => preparar
+    [PHPSESSID] => p0slapa788hhmufv4uqpuskk14
+)
+
+2017-03-28T11:39:47-06:00 INFO (6): LA CATEGORIA A PREPARAR ES: nueva
+2017-03-28T11:39:47-06:00 INFO (6): SI SELECCIONO CATEGORIA
+2017-03-28T11:39:47-06:00 INFO (6): DATOS A UPDATE EN LA BASE: Array
+(
+    [usuario_enviado] => 0
+)
+
+2017-03-28T11:39:47-06:00 INFO (6): WHERE: 
+2017-03-28T11:39:47-06:00 INFO (6): SE ACTUALIZARON: 0
+2017-03-28T11:39:49-06:00 INFO (6): ------------------------------------------------
+2017-03-28T11:39:49-06:00 INFO (6): ------------------------------------------------
+2017-03-28T11:39:49-06:00 INFO (6): ------------------------------------------------
+2017-03-28T11:39:49-06:00 INFO (6): ---- ENVIO MASIVO PREPARAR - FN PREPARAR -------
+2017-03-28T11:39:49-06:00 INFO (6): REQUEST: Array
+(
+    [selectCategoria] => nueva
+    [sms] => dsadsadasd
+    [caracteres] => 10
+    [accion] => preparar
+    [PHPSESSID] => p0slapa788hhmufv4uqpuskk14
+)
+
+2017-03-28T11:39:49-06:00 INFO (6): LA CATEGORIA A PREPARAR ES: nueva
+2017-03-28T11:39:49-06:00 INFO (6): SI SELECCIONO CATEGORIA
+2017-03-28T11:39:49-06:00 INFO (6): DATOS A UPDATE EN LA BASE: Array
+(
+    [usuario_enviado] => 0
+)
+
+2017-03-28T11:39:49-06:00 INFO (6): WHERE: 
+2017-03-28T11:39:49-06:00 INFO (6): SE ACTUALIZARON: 0
+2017-03-28T11:45:34-06:00 INFO (6): ------------------------------------------------
+2017-03-28T11:45:34-06:00 INFO (6): ------------------------------------------------
+2017-03-28T11:45:34-06:00 INFO (6): ------------------------------------------------
+2017-03-28T11:45:34-06:00 INFO (6): ---- ENVIO MASIVO PREPARAR - FN PREPARAR -------
+2017-03-28T11:45:34-06:00 INFO (6): REQUEST: Array
+(
+    [selectCategoria] => nueva
+    [sms] => wedewdew
+    [caracteres] => 8
+    [accion] => preparar
+    [PHPSESSID] => p0slapa788hhmufv4uqpuskk14
+)
+
+2017-03-28T11:45:34-06:00 INFO (6): LA CATEGORIA A PREPARAR ES: nueva
+2017-03-28T11:45:34-06:00 INFO (6): SI SELECCIONO CATEGORIA
+2017-03-28T11:45:34-06:00 INFO (6): DATOS A UPDATE EN LA BASE: Array
+(
+    [usuario_enviado] => 0
+)
+
+2017-03-28T11:45:34-06:00 INFO (6): WHERE: 
+2017-03-28T11:45:34-06:00 INFO (6): SE ACTUALIZARON: 2
+2017-03-28T23:57:45-06:00 INFO (6): ------------------------------------------------
+2017-03-28T23:57:45-06:00 INFO (6): ------------------------------------------------
+2017-03-28T23:57:45-06:00 INFO (6): ------------------------------------------------
+2017-03-28T23:57:45-06:00 INFO (6): ---- ENVIO MASIVO PREPARAR - FN PREPARAR -------
+2017-03-28T23:57:45-06:00 INFO (6): REQUEST: Array
+(
+    [selectCategoria] => dummy
+    [sms] => 
+    [caracteres] => 
+    [accion] => preparar
+    [PHPSESSID] => p0slapa788hhmufv4uqpuskk14
+)
+
+2017-03-28T23:57:45-06:00 INFO (6): LA CATEGORIA A PREPARAR ES: dummy
+2017-03-28T23:57:45-06:00 INFO (6): SI SELECCIONO CATEGORIA
+2017-03-28T23:57:45-06:00 INFO (6): DATOS A UPDATE EN LA BASE: Array
+(
+    [usuario_enviado] => 0
+)
+
+2017-03-28T23:57:45-06:00 INFO (6): WHERE: 
+2017-03-28T23:57:45-06:00 INFO (6): SE ACTUALIZARON: 7177

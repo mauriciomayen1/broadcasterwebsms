@@ -1,0 +1,2548 @@
+2017-03-24T12:01:41-06:00 INFO (6): ------------------------------------------------
+2017-03-24T12:01:41-06:00 INFO (6): ------------------------------------------------
+2017-03-24T12:01:41-06:00 INFO (6): ------------------------------------------------
+2017-03-24T12:01:41-06:00 INFO (6): ---- ENVIO MASIVO ENVIAR - FN ENVIAR -----------
+2017-03-24T12:01:41-06:00 INFO (6): REQUEST: Array
+(
+    [selectCategoria] => yes
+    [sms] => dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+    [caracteres] => 160
+    [accion] => enviar
+    [PHPSESSID] => je1vgcb0h0qj8lkpdoegoi3o90
+)
+
+2017-03-24T12:01:41-06:00 INFO (6): CATEGORIA:: yes
+2017-03-24T12:01:41-06:00 INFO (6): MENSAJE:: dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+2017-03-24T12:01:41-06:00 INFO (6): SI SELECCIONO CATEGORIA Y ESCRIBIO UN MENSAJE
+2017-03-24T12:01:41-06:00 INFO (6): QUERY :: SELECT COUNT(usuario_msisdn) AS numtel FROM fuentes_usuarios_toolbox WHERE usuario_enviado = 0 AND usuario_activo = 1 AND usuario_categoria='yes' AND usuario_id_fk='1'
+2017-03-24T12:01:41-06:00 INFO (6): CANTIDAD DE ENVIOS QUE SE REALIZARAN: 19
+2017-03-24T12:01:41-06:00 INFO (6): SI SE ENCONTRARON NUMEROS PARA REALIZAR EL ENVIO
+2017-03-24T12:01:41-06:00 INFO (6): QUERY 2: SELECT * FROM fuentes_usuarios_toolbox WHERE usuario_enviado = 0 AND usuario_activo = 1 AND usuario_categoria='yes' AND usuario_id_fk='1'
+2017-03-24T12:01:41-06:00 INFO (6): RESULTADO DE LA CONSULTA A USUARIOS  FILTRADO POR CATEGORIA, ENVIADO 0 Y ACTIVO 1: Array
+(
+    [0] => Array
+        (
+            [usuario_id] => 10726
+            [usuario_msisdn] => 1234567890
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:38
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [1] => Array
+        (
+            [usuario_id] => 10727
+            [usuario_msisdn] => 1234567891
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:38
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [2] => Array
+        (
+            [usuario_id] => 10728
+            [usuario_msisdn] => 1234567892
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:38
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [3] => Array
+        (
+            [usuario_id] => 10729
+            [usuario_msisdn] => 1234567893
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:38
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [4] => Array
+        (
+            [usuario_id] => 10730
+            [usuario_msisdn] => 1234567894
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:38
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [5] => Array
+        (
+            [usuario_id] => 10731
+            [usuario_msisdn] => 1234567895
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:38
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [6] => Array
+        (
+            [usuario_id] => 10732
+            [usuario_msisdn] => 1234567896
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:38
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [7] => Array
+        (
+            [usuario_id] => 10733
+            [usuario_msisdn] => 1234567897
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:39
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [8] => Array
+        (
+            [usuario_id] => 10734
+            [usuario_msisdn] => 1234567898
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:39
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [9] => Array
+        (
+            [usuario_id] => 10735
+            [usuario_msisdn] => 1234567899
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:39
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [10] => Array
+        (
+            [usuario_id] => 10736
+            [usuario_msisdn] => 1234567900
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:39
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [11] => Array
+        (
+            [usuario_id] => 10737
+            [usuario_msisdn] => 1234567901
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:39
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [12] => Array
+        (
+            [usuario_id] => 10738
+            [usuario_msisdn] => 1234567902
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:39
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [13] => Array
+        (
+            [usuario_id] => 10739
+            [usuario_msisdn] => 1234567903
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:39
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [14] => Array
+        (
+            [usuario_id] => 10740
+            [usuario_msisdn] => 1234567904
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:39
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [15] => Array
+        (
+            [usuario_id] => 10741
+            [usuario_msisdn] => 1234567905
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:39
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [16] => Array
+        (
+            [usuario_id] => 10742
+            [usuario_msisdn] => 1234567906
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:39
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [17] => Array
+        (
+            [usuario_id] => 10743
+            [usuario_msisdn] => 1234567907
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:39
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [18] => Array
+        (
+            [usuario_id] => 10744
+            [usuario_msisdn] => 1234567908
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:39
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+)
+
+2017-03-24T12:01:42-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:01:42-06:00 INFO (6): CONTADOR i: 0
+2017-03-24T12:01:42-06:00 INFO (6): ID:: 10726
+2017-03-24T12:01:42-06:00 INFO (6): MSISDN:: 1234567890
+2017-03-24T12:01:42-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:01:42-06:00 INFO (6): MENSAJE A ENVIAR::..dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+2017-03-24T12:01:42-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567890&text=dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+2017-03-24T12:01:42-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:01:42-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:01:42-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:01:42-06:00 INFO (6): SE ENVIO
+2017-03-24T12:01:42-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567890
+    [mt_medio] => Base
+    [mt_folio] => 058d55f06bbb912
+    [mt_contenido] => dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+    [mt_fecha] => 2017-03-24 12:01:42
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:01:42-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:01:42-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:01:42-06:00 INFO (6): CONTADOR i: 1
+2017-03-24T12:01:42-06:00 INFO (6): ID:: 10727
+2017-03-24T12:01:42-06:00 INFO (6): MSISDN:: 1234567891
+2017-03-24T12:01:42-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:01:42-06:00 INFO (6): MENSAJE A ENVIAR::..dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+2017-03-24T12:01:42-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567891&text=dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+2017-03-24T12:01:42-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:01:42-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:01:42-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:01:42-06:00 INFO (6): SE ENVIO
+2017-03-24T12:01:42-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567891
+    [mt_medio] => Base
+    [mt_folio] => 658d55f06d047b9
+    [mt_contenido] => dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+    [mt_fecha] => 2017-03-24 12:01:42
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:01:42-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:01:42-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:01:42-06:00 INFO (6): CONTADOR i: 2
+2017-03-24T12:01:42-06:00 INFO (6): ID:: 10728
+2017-03-24T12:01:42-06:00 INFO (6): MSISDN:: 1234567892
+2017-03-24T12:01:42-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:01:42-06:00 INFO (6): MENSAJE A ENVIAR::..dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+2017-03-24T12:01:42-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567892&text=dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+2017-03-24T12:01:42-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:01:42-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:01:42-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:01:42-06:00 INFO (6): SE ENVIO
+2017-03-24T12:01:42-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567892
+    [mt_medio] => Base
+    [mt_folio] => 058d55f06d20822
+    [mt_contenido] => dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+    [mt_fecha] => 2017-03-24 12:01:42
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:01:42-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:01:42-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:01:42-06:00 INFO (6): CONTADOR i: 3
+2017-03-24T12:01:42-06:00 INFO (6): ID:: 10729
+2017-03-24T12:01:42-06:00 INFO (6): MSISDN:: 1234567893
+2017-03-24T12:01:42-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:01:42-06:00 INFO (6): MENSAJE A ENVIAR::..dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+2017-03-24T12:01:42-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567893&text=dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+2017-03-24T12:01:42-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:01:42-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:01:42-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:01:42-06:00 INFO (6): SE ENVIO
+2017-03-24T12:01:42-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567893
+    [mt_medio] => Base
+    [mt_folio] => 458d55f06d3c1b9
+    [mt_contenido] => dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+    [mt_fecha] => 2017-03-24 12:01:42
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:01:42-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:01:42-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:01:42-06:00 INFO (6): CONTADOR i: 4
+2017-03-24T12:01:42-06:00 INFO (6): ID:: 10730
+2017-03-24T12:01:42-06:00 INFO (6): MSISDN:: 1234567894
+2017-03-24T12:01:42-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:01:42-06:00 INFO (6): MENSAJE A ENVIAR::..dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+2017-03-24T12:01:42-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567894&text=dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+2017-03-24T12:01:42-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:01:42-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:01:42-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:01:42-06:00 INFO (6): SE ENVIO
+2017-03-24T12:01:42-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567894
+    [mt_medio] => Base
+    [mt_folio] => 758d55f06d53361
+    [mt_contenido] => dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+    [mt_fecha] => 2017-03-24 12:01:42
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:01:42-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:01:42-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:01:42-06:00 INFO (6): CONTADOR i: 5
+2017-03-24T12:01:42-06:00 INFO (6): ID:: 10731
+2017-03-24T12:01:42-06:00 INFO (6): MSISDN:: 1234567895
+2017-03-24T12:01:42-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:01:42-06:00 INFO (6): MENSAJE A ENVIAR::..dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+2017-03-24T12:01:42-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567895&text=dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+2017-03-24T12:01:42-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:01:42-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:01:42-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:01:42-06:00 INFO (6): SE ENVIO
+2017-03-24T12:01:42-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567895
+    [mt_medio] => Base
+    [mt_folio] => 258d55f06d620b0
+    [mt_contenido] => dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+    [mt_fecha] => 2017-03-24 12:01:42
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:01:42-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:01:42-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:01:42-06:00 INFO (6): CONTADOR i: 6
+2017-03-24T12:01:42-06:00 INFO (6): ID:: 10732
+2017-03-24T12:01:42-06:00 INFO (6): MSISDN:: 1234567896
+2017-03-24T12:01:42-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:01:42-06:00 INFO (6): MENSAJE A ENVIAR::..dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+2017-03-24T12:01:42-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567896&text=dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+2017-03-24T12:01:42-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:01:42-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:01:42-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:01:42-06:00 INFO (6): SE ENVIO
+2017-03-24T12:01:42-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567896
+    [mt_medio] => Base
+    [mt_folio] => 158d55f06d7b900
+    [mt_contenido] => dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+    [mt_fecha] => 2017-03-24 12:01:42
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:01:42-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:01:42-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:01:42-06:00 INFO (6): CONTADOR i: 7
+2017-03-24T12:01:42-06:00 INFO (6): ID:: 10733
+2017-03-24T12:01:42-06:00 INFO (6): MSISDN:: 1234567897
+2017-03-24T12:01:42-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:01:42-06:00 INFO (6): MENSAJE A ENVIAR::..dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+2017-03-24T12:01:42-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567897&text=dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+2017-03-24T12:01:42-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:01:42-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:01:42-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:01:42-06:00 INFO (6): SE ENVIO
+2017-03-24T12:01:42-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567897
+    [mt_medio] => Base
+    [mt_folio] => 058d55f06d8a3e0
+    [mt_contenido] => dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+    [mt_fecha] => 2017-03-24 12:01:42
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:01:42-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:01:42-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:01:42-06:00 INFO (6): CONTADOR i: 8
+2017-03-24T12:01:42-06:00 INFO (6): ID:: 10734
+2017-03-24T12:01:42-06:00 INFO (6): MSISDN:: 1234567898
+2017-03-24T12:01:42-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:01:42-06:00 INFO (6): MENSAJE A ENVIAR::..dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+2017-03-24T12:01:42-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567898&text=dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+2017-03-24T12:01:42-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:01:42-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:01:42-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:01:42-06:00 INFO (6): SE ENVIO
+2017-03-24T12:01:42-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567898
+    [mt_medio] => Base
+    [mt_folio] => 958d55f06daf678
+    [mt_contenido] => dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+    [mt_fecha] => 2017-03-24 12:01:42
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:01:42-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:01:42-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:01:42-06:00 INFO (6): CONTADOR i: 9
+2017-03-24T12:01:42-06:00 INFO (6): ID:: 10735
+2017-03-24T12:01:42-06:00 INFO (6): MSISDN:: 1234567899
+2017-03-24T12:01:42-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:01:42-06:00 INFO (6): MENSAJE A ENVIAR::..dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+2017-03-24T12:01:42-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567899&text=dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+2017-03-24T12:01:42-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:01:42-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:01:42-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:01:42-06:00 INFO (6): SE ENVIO
+2017-03-24T12:01:42-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567899
+    [mt_medio] => Base
+    [mt_folio] => 858d55f06dbf887
+    [mt_contenido] => dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+    [mt_fecha] => 2017-03-24 12:01:42
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:01:42-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:01:42-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:01:42-06:00 INFO (6): CONTADOR i: 10
+2017-03-24T12:01:42-06:00 INFO (6): ID:: 10736
+2017-03-24T12:01:42-06:00 INFO (6): MSISDN:: 1234567900
+2017-03-24T12:01:42-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:01:42-06:00 INFO (6): MENSAJE A ENVIAR::..dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+2017-03-24T12:01:42-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567900&text=dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+2017-03-24T12:01:42-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:01:42-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:01:42-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:01:42-06:00 INFO (6): SE ENVIO
+2017-03-24T12:01:42-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567900
+    [mt_medio] => Base
+    [mt_folio] => 658d55f06dce848
+    [mt_contenido] => dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+    [mt_fecha] => 2017-03-24 12:01:42
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:01:42-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:01:42-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:01:42-06:00 INFO (6): CONTADOR i: 11
+2017-03-24T12:01:42-06:00 INFO (6): ID:: 10737
+2017-03-24T12:01:42-06:00 INFO (6): MSISDN:: 1234567901
+2017-03-24T12:01:42-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:01:42-06:00 INFO (6): MENSAJE A ENVIAR::..dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+2017-03-24T12:01:42-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567901&text=dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+2017-03-24T12:01:42-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:01:42-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:01:42-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:01:42-06:00 INFO (6): SE ENVIO
+2017-03-24T12:01:42-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567901
+    [mt_medio] => Base
+    [mt_folio] => 458d55f06ddcef4
+    [mt_contenido] => dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+    [mt_fecha] => 2017-03-24 12:01:42
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:01:42-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:01:42-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:01:42-06:00 INFO (6): CONTADOR i: 12
+2017-03-24T12:01:42-06:00 INFO (6): ID:: 10738
+2017-03-24T12:01:42-06:00 INFO (6): MSISDN:: 1234567902
+2017-03-24T12:01:42-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:01:42-06:00 INFO (6): MENSAJE A ENVIAR::..dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+2017-03-24T12:01:42-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567902&text=dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+2017-03-24T12:01:42-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:01:42-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:01:42-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:01:42-06:00 INFO (6): SE ENVIO
+2017-03-24T12:01:42-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567902
+    [mt_medio] => Base
+    [mt_folio] => 058d55f06dfb206
+    [mt_contenido] => dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+    [mt_fecha] => 2017-03-24 12:01:42
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:01:42-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:01:42-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:01:42-06:00 INFO (6): CONTADOR i: 13
+2017-03-24T12:01:42-06:00 INFO (6): ID:: 10739
+2017-03-24T12:01:42-06:00 INFO (6): MSISDN:: 1234567903
+2017-03-24T12:01:42-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:01:42-06:00 INFO (6): MENSAJE A ENVIAR::..dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+2017-03-24T12:01:42-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567903&text=dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+2017-03-24T12:01:42-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:01:42-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:01:42-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:01:42-06:00 INFO (6): SE ENVIO
+2017-03-24T12:01:42-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567903
+    [mt_medio] => Base
+    [mt_folio] => 758d55f06e0ea26
+    [mt_contenido] => dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+    [mt_fecha] => 2017-03-24 12:01:42
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:01:42-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:01:42-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:01:42-06:00 INFO (6): CONTADOR i: 14
+2017-03-24T12:01:42-06:00 INFO (6): ID:: 10740
+2017-03-24T12:01:42-06:00 INFO (6): MSISDN:: 1234567904
+2017-03-24T12:01:42-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:01:42-06:00 INFO (6): MENSAJE A ENVIAR::..dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+2017-03-24T12:01:42-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567904&text=dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+2017-03-24T12:01:42-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:01:42-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:01:42-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:01:42-06:00 INFO (6): SE ENVIO
+2017-03-24T12:01:42-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567904
+    [mt_medio] => Base
+    [mt_folio] => 558d55f06e214c2
+    [mt_contenido] => dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+    [mt_fecha] => 2017-03-24 12:01:42
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:01:42-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:01:42-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:01:42-06:00 INFO (6): CONTADOR i: 15
+2017-03-24T12:01:42-06:00 INFO (6): ID:: 10741
+2017-03-24T12:01:42-06:00 INFO (6): MSISDN:: 1234567905
+2017-03-24T12:01:42-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:01:42-06:00 INFO (6): MENSAJE A ENVIAR::..dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+2017-03-24T12:01:42-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567905&text=dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+2017-03-24T12:01:42-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:01:42-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:01:42-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:01:42-06:00 INFO (6): SE ENVIO
+2017-03-24T12:01:42-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567905
+    [mt_medio] => Base
+    [mt_folio] => 358d55f06e31eb5
+    [mt_contenido] => dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+    [mt_fecha] => 2017-03-24 12:01:42
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:01:42-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:01:42-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:01:42-06:00 INFO (6): CONTADOR i: 16
+2017-03-24T12:01:42-06:00 INFO (6): ID:: 10742
+2017-03-24T12:01:42-06:00 INFO (6): MSISDN:: 1234567906
+2017-03-24T12:01:42-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:01:42-06:00 INFO (6): MENSAJE A ENVIAR::..dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+2017-03-24T12:01:42-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567906&text=dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+2017-03-24T12:01:42-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:01:42-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:01:42-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:01:42-06:00 INFO (6): SE ENVIO
+2017-03-24T12:01:42-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567906
+    [mt_medio] => Base
+    [mt_folio] => 558d55f06e40d59
+    [mt_contenido] => dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+    [mt_fecha] => 2017-03-24 12:01:42
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:01:42-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:01:42-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:01:42-06:00 INFO (6): CONTADOR i: 17
+2017-03-24T12:01:42-06:00 INFO (6): ID:: 10743
+2017-03-24T12:01:42-06:00 INFO (6): MSISDN:: 1234567907
+2017-03-24T12:01:42-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:01:42-06:00 INFO (6): MENSAJE A ENVIAR::..dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+2017-03-24T12:01:42-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567907&text=dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+2017-03-24T12:01:42-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:01:42-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:01:42-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:01:42-06:00 INFO (6): SE ENVIO
+2017-03-24T12:01:42-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567907
+    [mt_medio] => Base
+    [mt_folio] => 458d55f06e4f715
+    [mt_contenido] => dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+    [mt_fecha] => 2017-03-24 12:01:42
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:01:42-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:01:42-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:01:42-06:00 INFO (6): CONTADOR i: 18
+2017-03-24T12:01:42-06:00 INFO (6): ID:: 10744
+2017-03-24T12:01:42-06:00 INFO (6): MSISDN:: 1234567908
+2017-03-24T12:01:42-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:01:42-06:00 INFO (6): MENSAJE A ENVIAR::..dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+2017-03-24T12:01:42-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567908&text=dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+2017-03-24T12:01:42-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:01:42-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:01:42-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:01:42-06:00 INFO (6): SE ENVIO
+2017-03-24T12:01:42-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567908
+    [mt_medio] => Base
+    [mt_folio] => 258d55f06e62a89
+    [mt_contenido] => dasjdiajdisjdijasidjsaijdisajdiasjdsajdsajidjasiodjsaiojdiosajdiosajdiasjdijsadisaidjisadjisajdisadisajdisajdisajdsadjsaidjasoijdisaojdiosajdioajdiojsaiojdsaioj
+    [mt_fecha] => 2017-03-24 12:01:42
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:01:42-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:01:43-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-24T12:01:43-06:00 INFO (6): SE ACTUALIZO: 19
+2017-03-24T12:01:43-06:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 908,46
+)
+
+2017-03-24T12:01:43-06:00 INFO (6): SE ACTUALIZO:: 1
+2017-03-24T12:01:43-06:00 INFO (6): FIN::::::::........
+2017-03-24T12:05:56-06:00 INFO (6): ------------------------------------------------
+2017-03-24T12:05:56-06:00 INFO (6): ------------------------------------------------
+2017-03-24T12:05:56-06:00 INFO (6): ------------------------------------------------
+2017-03-24T12:05:56-06:00 INFO (6): ---- ENVIO MASIVO ENVIAR - FN ENVIAR -----------
+2017-03-24T12:05:56-06:00 INFO (6): REQUEST: Array
+(
+    [selectCategoria] => yes
+    [sms] => bkbkjbjkbjkbjhvjgjhgcgvmj
+    [caracteres] => 25
+    [accion] => enviar
+    [PHPSESSID] => je1vgcb0h0qj8lkpdoegoi3o90
+)
+
+2017-03-24T12:05:56-06:00 INFO (6): CATEGORIA:: yes
+2017-03-24T12:05:56-06:00 INFO (6): MENSAJE:: bkbkjbjkbjkbjhvjgjhgcgvmj
+2017-03-24T12:05:56-06:00 INFO (6): SI SELECCIONO CATEGORIA Y ESCRIBIO UN MENSAJE
+2017-03-24T12:05:56-06:00 INFO (6): QUERY :: SELECT COUNT(usuario_msisdn) AS numtel FROM fuentes_usuarios_toolbox WHERE usuario_enviado = 0 AND usuario_activo = 1 AND usuario_categoria='yes' AND usuario_id_fk='1'
+2017-03-24T12:05:56-06:00 INFO (6): CANTIDAD DE ENVIOS QUE SE REALIZARAN: 19
+2017-03-24T12:05:56-06:00 INFO (6): SI SE ENCONTRARON NUMEROS PARA REALIZAR EL ENVIO
+2017-03-24T12:05:56-06:00 INFO (6): QUERY 2: SELECT * FROM fuentes_usuarios_toolbox WHERE usuario_enviado = 0 AND usuario_activo = 1 AND usuario_categoria='yes' AND usuario_id_fk='1'
+2017-03-24T12:05:56-06:00 INFO (6): RESULTADO DE LA CONSULTA A USUARIOS  FILTRADO POR CATEGORIA, ENVIADO 0 Y ACTIVO 1: Array
+(
+    [0] => Array
+        (
+            [usuario_id] => 10726
+            [usuario_msisdn] => 1234567890
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:38
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [1] => Array
+        (
+            [usuario_id] => 10727
+            [usuario_msisdn] => 1234567891
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:38
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [2] => Array
+        (
+            [usuario_id] => 10728
+            [usuario_msisdn] => 1234567892
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:38
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [3] => Array
+        (
+            [usuario_id] => 10729
+            [usuario_msisdn] => 1234567893
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:38
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [4] => Array
+        (
+            [usuario_id] => 10730
+            [usuario_msisdn] => 1234567894
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:38
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [5] => Array
+        (
+            [usuario_id] => 10731
+            [usuario_msisdn] => 1234567895
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:38
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [6] => Array
+        (
+            [usuario_id] => 10732
+            [usuario_msisdn] => 1234567896
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:38
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [7] => Array
+        (
+            [usuario_id] => 10733
+            [usuario_msisdn] => 1234567897
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:39
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [8] => Array
+        (
+            [usuario_id] => 10734
+            [usuario_msisdn] => 1234567898
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:39
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [9] => Array
+        (
+            [usuario_id] => 10735
+            [usuario_msisdn] => 1234567899
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:39
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [10] => Array
+        (
+            [usuario_id] => 10736
+            [usuario_msisdn] => 1234567900
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:39
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [11] => Array
+        (
+            [usuario_id] => 10737
+            [usuario_msisdn] => 1234567901
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:39
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [12] => Array
+        (
+            [usuario_id] => 10738
+            [usuario_msisdn] => 1234567902
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:39
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [13] => Array
+        (
+            [usuario_id] => 10739
+            [usuario_msisdn] => 1234567903
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:39
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [14] => Array
+        (
+            [usuario_id] => 10740
+            [usuario_msisdn] => 1234567904
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:39
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [15] => Array
+        (
+            [usuario_id] => 10741
+            [usuario_msisdn] => 1234567905
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:39
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [16] => Array
+        (
+            [usuario_id] => 10742
+            [usuario_msisdn] => 1234567906
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:39
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [17] => Array
+        (
+            [usuario_id] => 10743
+            [usuario_msisdn] => 1234567907
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:39
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [18] => Array
+        (
+            [usuario_id] => 10744
+            [usuario_msisdn] => 1234567908
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:39
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+)
+
+2017-03-24T12:05:56-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:05:56-06:00 INFO (6): CONTADOR i: 0
+2017-03-24T12:05:56-06:00 INFO (6): ID:: 10726
+2017-03-24T12:05:56-06:00 INFO (6): MSISDN:: 1234567890
+2017-03-24T12:05:56-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:05:56-06:00 INFO (6): MENSAJE A ENVIAR::..bkbkjbjkbjkbjhvjgjhgcgvmj
+2017-03-24T12:05:56-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567890&text=bkbkjbjkbjkbjhvjgjhgcgvmj
+2017-03-24T12:05:56-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:06:05-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:06:05-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:06:05-06:00 INFO (6): SE ENVIO
+2017-03-24T12:06:05-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567890
+    [mt_medio] => Base
+    [mt_folio] => 758d5600dba3265
+    [mt_contenido] => bkbkjbjkbjkbjhvjgjhgcgvmj
+    [mt_fecha] => 2017-03-24 12:06:05
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:06:05-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:06:05-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:06:05-06:00 INFO (6): CONTADOR i: 1
+2017-03-24T12:06:05-06:00 INFO (6): ID:: 10727
+2017-03-24T12:06:05-06:00 INFO (6): MSISDN:: 1234567891
+2017-03-24T12:06:05-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:06:05-06:00 INFO (6): MENSAJE A ENVIAR::..bkbkjbjkbjkbjhvjgjhgcgvmj
+2017-03-24T12:06:05-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567891&text=bkbkjbjkbjkbjhvjgjhgcgvmj
+2017-03-24T12:06:05-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:06:05-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:06:05-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:06:05-06:00 INFO (6): SE ENVIO
+2017-03-24T12:06:05-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567891
+    [mt_medio] => Base
+    [mt_folio] => 758d5600dbbaef1
+    [mt_contenido] => bkbkjbjkbjkbjhvjgjhgcgvmj
+    [mt_fecha] => 2017-03-24 12:06:05
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:06:05-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:06:05-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:06:05-06:00 INFO (6): CONTADOR i: 2
+2017-03-24T12:06:05-06:00 INFO (6): ID:: 10728
+2017-03-24T12:06:05-06:00 INFO (6): MSISDN:: 1234567892
+2017-03-24T12:06:05-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:06:05-06:00 INFO (6): MENSAJE A ENVIAR::..bkbkjbjkbjkbjhvjgjhgcgvmj
+2017-03-24T12:06:05-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567892&text=bkbkjbjkbjkbjhvjgjhgcgvmj
+2017-03-24T12:06:05-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:06:05-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:06:05-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:06:05-06:00 INFO (6): SE ENVIO
+2017-03-24T12:06:05-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567892
+    [mt_medio] => Base
+    [mt_folio] => 858d5600dc58a27
+    [mt_contenido] => bkbkjbjkbjkbjhvjgjhgcgvmj
+    [mt_fecha] => 2017-03-24 12:06:05
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:06:05-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:06:05-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:06:05-06:00 INFO (6): CONTADOR i: 3
+2017-03-24T12:06:05-06:00 INFO (6): ID:: 10729
+2017-03-24T12:06:05-06:00 INFO (6): MSISDN:: 1234567893
+2017-03-24T12:06:05-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:06:05-06:00 INFO (6): MENSAJE A ENVIAR::..bkbkjbjkbjkbjhvjgjhgcgvmj
+2017-03-24T12:06:05-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567893&text=bkbkjbjkbjkbjhvjgjhgcgvmj
+2017-03-24T12:06:05-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:06:05-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:06:05-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:06:05-06:00 INFO (6): SE ENVIO
+2017-03-24T12:06:05-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567893
+    [mt_medio] => Base
+    [mt_folio] => 258d5600dc6e710
+    [mt_contenido] => bkbkjbjkbjkbjhvjgjhgcgvmj
+    [mt_fecha] => 2017-03-24 12:06:05
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:06:05-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:06:05-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:06:05-06:00 INFO (6): CONTADOR i: 4
+2017-03-24T12:06:05-06:00 INFO (6): ID:: 10730
+2017-03-24T12:06:05-06:00 INFO (6): MSISDN:: 1234567894
+2017-03-24T12:06:05-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:06:05-06:00 INFO (6): MENSAJE A ENVIAR::..bkbkjbjkbjkbjhvjgjhgcgvmj
+2017-03-24T12:06:05-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567894&text=bkbkjbjkbjkbjhvjgjhgcgvmj
+2017-03-24T12:06:05-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:06:05-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:06:05-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:06:05-06:00 INFO (6): SE ENVIO
+2017-03-24T12:06:05-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567894
+    [mt_medio] => Base
+    [mt_folio] => 058d5600dc81043
+    [mt_contenido] => bkbkjbjkbjkbjhvjgjhgcgvmj
+    [mt_fecha] => 2017-03-24 12:06:05
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:06:05-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:06:05-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:06:05-06:00 INFO (6): CONTADOR i: 5
+2017-03-24T12:06:05-06:00 INFO (6): ID:: 10731
+2017-03-24T12:06:05-06:00 INFO (6): MSISDN:: 1234567895
+2017-03-24T12:06:05-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:06:05-06:00 INFO (6): MENSAJE A ENVIAR::..bkbkjbjkbjkbjhvjgjhgcgvmj
+2017-03-24T12:06:05-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567895&text=bkbkjbjkbjkbjhvjgjhgcgvmj
+2017-03-24T12:06:05-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:06:05-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:06:05-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:06:05-06:00 INFO (6): SE ENVIO
+2017-03-24T12:06:05-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567895
+    [mt_medio] => Base
+    [mt_folio] => 958d5600dc94441
+    [mt_contenido] => bkbkjbjkbjkbjhvjgjhgcgvmj
+    [mt_fecha] => 2017-03-24 12:06:05
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:06:05-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:06:05-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:06:05-06:00 INFO (6): CONTADOR i: 6
+2017-03-24T12:06:05-06:00 INFO (6): ID:: 10732
+2017-03-24T12:06:05-06:00 INFO (6): MSISDN:: 1234567896
+2017-03-24T12:06:05-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:06:05-06:00 INFO (6): MENSAJE A ENVIAR::..bkbkjbjkbjkbjhvjgjhgcgvmj
+2017-03-24T12:06:05-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567896&text=bkbkjbjkbjkbjhvjgjhgcgvmj
+2017-03-24T12:06:05-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:06:05-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:06:05-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:06:05-06:00 INFO (6): SE ENVIO
+2017-03-24T12:06:05-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567896
+    [mt_medio] => Base
+    [mt_folio] => 958d5600dcaba84
+    [mt_contenido] => bkbkjbjkbjkbjhvjgjhgcgvmj
+    [mt_fecha] => 2017-03-24 12:06:05
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:06:05-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:06:05-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:06:05-06:00 INFO (6): CONTADOR i: 7
+2017-03-24T12:06:05-06:00 INFO (6): ID:: 10733
+2017-03-24T12:06:05-06:00 INFO (6): MSISDN:: 1234567897
+2017-03-24T12:06:05-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:06:05-06:00 INFO (6): MENSAJE A ENVIAR::..bkbkjbjkbjkbjhvjgjhgcgvmj
+2017-03-24T12:06:05-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567897&text=bkbkjbjkbjkbjhvjgjhgcgvmj
+2017-03-24T12:06:05-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:06:05-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:06:05-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:06:05-06:00 INFO (6): SE ENVIO
+2017-03-24T12:06:05-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567897
+    [mt_medio] => Base
+    [mt_folio] => 558d5600dcb8734
+    [mt_contenido] => bkbkjbjkbjkbjhvjgjhgcgvmj
+    [mt_fecha] => 2017-03-24 12:06:05
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:06:05-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:06:05-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:06:05-06:00 INFO (6): CONTADOR i: 8
+2017-03-24T12:06:05-06:00 INFO (6): ID:: 10734
+2017-03-24T12:06:05-06:00 INFO (6): MSISDN:: 1234567898
+2017-03-24T12:06:05-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:06:05-06:00 INFO (6): MENSAJE A ENVIAR::..bkbkjbjkbjkbjhvjgjhgcgvmj
+2017-03-24T12:06:05-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567898&text=bkbkjbjkbjkbjhvjgjhgcgvmj
+2017-03-24T12:06:05-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:06:05-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:06:05-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:06:05-06:00 INFO (6): SE ENVIO
+2017-03-24T12:06:05-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567898
+    [mt_medio] => Base
+    [mt_folio] => 658d5600dcc9b83
+    [mt_contenido] => bkbkjbjkbjkbjhvjgjhgcgvmj
+    [mt_fecha] => 2017-03-24 12:06:05
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:06:05-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:06:05-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:06:05-06:00 INFO (6): CONTADOR i: 9
+2017-03-24T12:06:05-06:00 INFO (6): ID:: 10735
+2017-03-24T12:06:05-06:00 INFO (6): MSISDN:: 1234567899
+2017-03-24T12:06:05-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:06:05-06:00 INFO (6): MENSAJE A ENVIAR::..bkbkjbjkbjkbjhvjgjhgcgvmj
+2017-03-24T12:06:05-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567899&text=bkbkjbjkbjkbjhvjgjhgcgvmj
+2017-03-24T12:06:05-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:06:05-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:06:05-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:06:05-06:00 INFO (6): SE ENVIO
+2017-03-24T12:06:05-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567899
+    [mt_medio] => Base
+    [mt_folio] => 258d5600dcd6889
+    [mt_contenido] => bkbkjbjkbjkbjhvjgjhgcgvmj
+    [mt_fecha] => 2017-03-24 12:06:05
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:06:05-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:06:05-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:06:05-06:00 INFO (6): CONTADOR i: 10
+2017-03-24T12:06:05-06:00 INFO (6): ID:: 10736
+2017-03-24T12:06:05-06:00 INFO (6): MSISDN:: 1234567900
+2017-03-24T12:06:05-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:06:05-06:00 INFO (6): MENSAJE A ENVIAR::..bkbkjbjkbjkbjhvjgjhgcgvmj
+2017-03-24T12:06:05-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567900&text=bkbkjbjkbjkbjhvjgjhgcgvmj
+2017-03-24T12:06:05-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:06:05-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:06:05-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:06:05-06:00 INFO (6): SE ENVIO
+2017-03-24T12:06:05-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567900
+    [mt_medio] => Base
+    [mt_folio] => 358d5600dcea2a4
+    [mt_contenido] => bkbkjbjkbjkbjhvjgjhgcgvmj
+    [mt_fecha] => 2017-03-24 12:06:05
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:06:05-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:06:05-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:06:05-06:00 INFO (6): CONTADOR i: 11
+2017-03-24T12:06:05-06:00 INFO (6): ID:: 10737
+2017-03-24T12:06:05-06:00 INFO (6): MSISDN:: 1234567901
+2017-03-24T12:06:05-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:06:05-06:00 INFO (6): MENSAJE A ENVIAR::..bkbkjbjkbjkbjhvjgjhgcgvmj
+2017-03-24T12:06:05-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567901&text=bkbkjbjkbjkbjhvjgjhgcgvmj
+2017-03-24T12:06:05-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:06:05-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:06:05-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:06:05-06:00 INFO (6): SE ENVIO
+2017-03-24T12:06:05-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567901
+    [mt_medio] => Base
+    [mt_folio] => 358d5600dcfca40
+    [mt_contenido] => bkbkjbjkbjkbjhvjgjhgcgvmj
+    [mt_fecha] => 2017-03-24 12:06:05
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:06:05-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:06:05-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:06:05-06:00 INFO (6): CONTADOR i: 12
+2017-03-24T12:06:05-06:00 INFO (6): ID:: 10738
+2017-03-24T12:06:05-06:00 INFO (6): MSISDN:: 1234567902
+2017-03-24T12:06:05-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:06:05-06:00 INFO (6): MENSAJE A ENVIAR::..bkbkjbjkbjkbjhvjgjhgcgvmj
+2017-03-24T12:06:05-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567902&text=bkbkjbjkbjkbjhvjgjhgcgvmj
+2017-03-24T12:06:05-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:06:05-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:06:05-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:06:05-06:00 INFO (6): SE ENVIO
+2017-03-24T12:06:05-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567902
+    [mt_medio] => Base
+    [mt_folio] => 558d5600dd09768
+    [mt_contenido] => bkbkjbjkbjkbjhvjgjhgcgvmj
+    [mt_fecha] => 2017-03-24 12:06:05
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:06:05-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:06:05-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:06:05-06:00 INFO (6): CONTADOR i: 13
+2017-03-24T12:06:05-06:00 INFO (6): ID:: 10739
+2017-03-24T12:06:05-06:00 INFO (6): MSISDN:: 1234567903
+2017-03-24T12:06:05-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:06:05-06:00 INFO (6): MENSAJE A ENVIAR::..bkbkjbjkbjkbjhvjgjhgcgvmj
+2017-03-24T12:06:05-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567903&text=bkbkjbjkbjkbjhvjgjhgcgvmj
+2017-03-24T12:06:05-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:06:05-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:06:05-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:06:05-06:00 INFO (6): SE ENVIO
+2017-03-24T12:06:05-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567903
+    [mt_medio] => Base
+    [mt_folio] => 358d5600dd18104
+    [mt_contenido] => bkbkjbjkbjkbjhvjgjhgcgvmj
+    [mt_fecha] => 2017-03-24 12:06:05
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:06:05-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:06:05-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:06:05-06:00 INFO (6): CONTADOR i: 14
+2017-03-24T12:06:05-06:00 INFO (6): ID:: 10740
+2017-03-24T12:06:05-06:00 INFO (6): MSISDN:: 1234567904
+2017-03-24T12:06:05-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:06:05-06:00 INFO (6): MENSAJE A ENVIAR::..bkbkjbjkbjkbjhvjgjhgcgvmj
+2017-03-24T12:06:05-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567904&text=bkbkjbjkbjkbjhvjgjhgcgvmj
+2017-03-24T12:06:05-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:06:05-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:06:05-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:06:05-06:00 INFO (6): SE ENVIO
+2017-03-24T12:06:05-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567904
+    [mt_medio] => Base
+    [mt_folio] => 858d5600dd23d91
+    [mt_contenido] => bkbkjbjkbjkbjhvjgjhgcgvmj
+    [mt_fecha] => 2017-03-24 12:06:05
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:06:05-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:06:05-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:06:05-06:00 INFO (6): CONTADOR i: 15
+2017-03-24T12:06:05-06:00 INFO (6): ID:: 10741
+2017-03-24T12:06:05-06:00 INFO (6): MSISDN:: 1234567905
+2017-03-24T12:06:05-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:06:05-06:00 INFO (6): MENSAJE A ENVIAR::..bkbkjbjkbjkbjhvjgjhgcgvmj
+2017-03-24T12:06:05-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567905&text=bkbkjbjkbjkbjhvjgjhgcgvmj
+2017-03-24T12:06:05-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:06:05-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:06:05-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:06:05-06:00 INFO (6): SE ENVIO
+2017-03-24T12:06:05-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567905
+    [mt_medio] => Base
+    [mt_folio] => 358d5600dd34276
+    [mt_contenido] => bkbkjbjkbjkbjhvjgjhgcgvmj
+    [mt_fecha] => 2017-03-24 12:06:05
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:06:05-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:06:05-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:06:05-06:00 INFO (6): CONTADOR i: 16
+2017-03-24T12:06:05-06:00 INFO (6): ID:: 10742
+2017-03-24T12:06:05-06:00 INFO (6): MSISDN:: 1234567906
+2017-03-24T12:06:05-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:06:05-06:00 INFO (6): MENSAJE A ENVIAR::..bkbkjbjkbjkbjhvjgjhgcgvmj
+2017-03-24T12:06:05-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567906&text=bkbkjbjkbjkbjhvjgjhgcgvmj
+2017-03-24T12:06:05-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:06:05-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:06:05-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:06:05-06:00 INFO (6): SE ENVIO
+2017-03-24T12:06:05-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567906
+    [mt_medio] => Base
+    [mt_folio] => 758d5600dd40590
+    [mt_contenido] => bkbkjbjkbjkbjhvjgjhgcgvmj
+    [mt_fecha] => 2017-03-24 12:06:05
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:06:05-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:06:05-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:06:05-06:00 INFO (6): CONTADOR i: 17
+2017-03-24T12:06:05-06:00 INFO (6): ID:: 10743
+2017-03-24T12:06:05-06:00 INFO (6): MSISDN:: 1234567907
+2017-03-24T12:06:05-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:06:05-06:00 INFO (6): MENSAJE A ENVIAR::..bkbkjbjkbjkbjhvjgjhgcgvmj
+2017-03-24T12:06:05-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567907&text=bkbkjbjkbjkbjhvjgjhgcgvmj
+2017-03-24T12:06:05-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:06:05-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:06:05-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:06:05-06:00 INFO (6): SE ENVIO
+2017-03-24T12:06:05-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567907
+    [mt_medio] => Base
+    [mt_folio] => 758d5600dd4c8b6
+    [mt_contenido] => bkbkjbjkbjkbjhvjgjhgcgvmj
+    [mt_fecha] => 2017-03-24 12:06:05
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:06:05-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:06:05-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:06:05-06:00 INFO (6): CONTADOR i: 18
+2017-03-24T12:06:05-06:00 INFO (6): ID:: 10744
+2017-03-24T12:06:05-06:00 INFO (6): MSISDN:: 1234567908
+2017-03-24T12:06:05-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:06:05-06:00 INFO (6): MENSAJE A ENVIAR::..bkbkjbjkbjkbjhvjgjhgcgvmj
+2017-03-24T12:06:05-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567908&text=bkbkjbjkbjkbjhvjgjhgcgvmj
+2017-03-24T12:06:05-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:06:05-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:06:05-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:06:05-06:00 INFO (6): SE ENVIO
+2017-03-24T12:06:05-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567908
+    [mt_medio] => Base
+    [mt_folio] => 758d5600dd5e7c9
+    [mt_contenido] => bkbkjbjkbjkbjhvjgjhgcgvmj
+    [mt_fecha] => 2017-03-24 12:06:05
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:06:05-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:06:06-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-24T12:06:06-06:00 INFO (6): SE ACTUALIZO: 19
+2017-03-24T12:06:06-06:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 896,86
+)
+
+2017-03-24T12:06:06-06:00 INFO (6): SE ACTUALIZO:: 1
+2017-03-24T12:06:06-06:00 INFO (6): FIN::::::::........
+2017-03-24T12:06:27-06:00 INFO (6): ------------------------------------------------
+2017-03-24T12:06:27-06:00 INFO (6): ------------------------------------------------
+2017-03-24T12:06:27-06:00 INFO (6): ------------------------------------------------
+2017-03-24T12:06:27-06:00 INFO (6): ---- ENVIO MASIVO ENVIAR - FN ENVIAR -----------
+2017-03-24T12:06:27-06:00 INFO (6): REQUEST: Array
+(
+    [selectCategoria] => yes
+    [sms] => kjnjknkj
+    [caracteres] => 8
+    [accion] => enviar
+    [PHPSESSID] => je1vgcb0h0qj8lkpdoegoi3o90
+)
+
+2017-03-24T12:06:27-06:00 INFO (6): CATEGORIA:: yes
+2017-03-24T12:06:27-06:00 INFO (6): MENSAJE:: kjnjknkj
+2017-03-24T12:06:27-06:00 INFO (6): SI SELECCIONO CATEGORIA Y ESCRIBIO UN MENSAJE
+2017-03-24T12:06:27-06:00 INFO (6): QUERY :: SELECT COUNT(usuario_msisdn) AS numtel FROM fuentes_usuarios_toolbox WHERE usuario_enviado = 0 AND usuario_activo = 1 AND usuario_categoria='yes' AND usuario_id_fk='1'
+2017-03-24T12:06:27-06:00 INFO (6): CANTIDAD DE ENVIOS QUE SE REALIZARAN: 20
+2017-03-24T12:06:27-06:00 INFO (6): SI SE ENCONTRARON NUMEROS PARA REALIZAR EL ENVIO
+2017-03-24T12:06:27-06:00 INFO (6): QUERY 2: SELECT * FROM fuentes_usuarios_toolbox WHERE usuario_enviado = 0 AND usuario_activo = 1 AND usuario_categoria='yes' AND usuario_id_fk='1'
+2017-03-24T12:06:27-06:00 INFO (6): RESULTADO DE LA CONSULTA A USUARIOS  FILTRADO POR CATEGORIA, ENVIADO 0 Y ACTIVO 1: Array
+(
+    [0] => Array
+        (
+            [usuario_id] => 10726
+            [usuario_msisdn] => 1234567890
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:38
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [1] => Array
+        (
+            [usuario_id] => 10727
+            [usuario_msisdn] => 1234567891
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:38
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [2] => Array
+        (
+            [usuario_id] => 10728
+            [usuario_msisdn] => 1234567892
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:38
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [3] => Array
+        (
+            [usuario_id] => 10729
+            [usuario_msisdn] => 1234567893
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:38
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [4] => Array
+        (
+            [usuario_id] => 10730
+            [usuario_msisdn] => 1234567894
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:38
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [5] => Array
+        (
+            [usuario_id] => 10731
+            [usuario_msisdn] => 1234567895
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:38
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [6] => Array
+        (
+            [usuario_id] => 10732
+            [usuario_msisdn] => 1234567896
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:38
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [7] => Array
+        (
+            [usuario_id] => 10733
+            [usuario_msisdn] => 1234567897
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:39
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [8] => Array
+        (
+            [usuario_id] => 10734
+            [usuario_msisdn] => 1234567898
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:39
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [9] => Array
+        (
+            [usuario_id] => 10735
+            [usuario_msisdn] => 1234567899
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:39
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [10] => Array
+        (
+            [usuario_id] => 10736
+            [usuario_msisdn] => 1234567900
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:39
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [11] => Array
+        (
+            [usuario_id] => 10737
+            [usuario_msisdn] => 1234567901
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:39
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [12] => Array
+        (
+            [usuario_id] => 10738
+            [usuario_msisdn] => 1234567902
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:39
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [13] => Array
+        (
+            [usuario_id] => 10739
+            [usuario_msisdn] => 1234567903
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:39
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [14] => Array
+        (
+            [usuario_id] => 10740
+            [usuario_msisdn] => 1234567904
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:39
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [15] => Array
+        (
+            [usuario_id] => 10741
+            [usuario_msisdn] => 1234567905
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:39
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [16] => Array
+        (
+            [usuario_id] => 10742
+            [usuario_msisdn] => 1234567906
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:39
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [17] => Array
+        (
+            [usuario_id] => 10743
+            [usuario_msisdn] => 1234567907
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:39
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [18] => Array
+        (
+            [usuario_id] => 10744
+            [usuario_msisdn] => 1234567908
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 11:54:39
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [19] => Array
+        (
+            [usuario_id] => 10745
+            [usuario_msisdn] => 5549444527
+            [usuario_operador] => Telcel
+            [usuario_categoria] => yes
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 12:05:42
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+)
+
+2017-03-24T12:06:27-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:06:27-06:00 INFO (6): CONTADOR i: 0
+2017-03-24T12:06:27-06:00 INFO (6): ID:: 10726
+2017-03-24T12:06:27-06:00 INFO (6): MSISDN:: 1234567890
+2017-03-24T12:06:27-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:06:27-06:00 INFO (6): MENSAJE A ENVIAR::..kjnjknkj
+2017-03-24T12:06:27-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567890&text=kjnjknkj
+2017-03-24T12:06:27-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:06:27-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:06:27-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:06:27-06:00 INFO (6): SE ENVIO
+2017-03-24T12:06:27-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567890
+    [mt_medio] => Base
+    [mt_folio] => 658d56023dffdc4
+    [mt_contenido] => kjnjknkj
+    [mt_fecha] => 2017-03-24 12:06:27
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:06:27-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:06:27-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:06:27-06:00 INFO (6): CONTADOR i: 1
+2017-03-24T12:06:27-06:00 INFO (6): ID:: 10727
+2017-03-24T12:06:27-06:00 INFO (6): MSISDN:: 1234567891
+2017-03-24T12:06:27-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:06:27-06:00 INFO (6): MENSAJE A ENVIAR::..kjnjknkj
+2017-03-24T12:06:27-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567891&text=kjnjknkj
+2017-03-24T12:06:27-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:06:27-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:06:27-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:06:27-06:00 INFO (6): SE ENVIO
+2017-03-24T12:06:27-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567891
+    [mt_medio] => Base
+    [mt_folio] => 158d56023e0f2c4
+    [mt_contenido] => kjnjknkj
+    [mt_fecha] => 2017-03-24 12:06:27
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:06:27-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:06:27-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:06:27-06:00 INFO (6): CONTADOR i: 2
+2017-03-24T12:06:27-06:00 INFO (6): ID:: 10728
+2017-03-24T12:06:27-06:00 INFO (6): MSISDN:: 1234567892
+2017-03-24T12:06:27-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:06:27-06:00 INFO (6): MENSAJE A ENVIAR::..kjnjknkj
+2017-03-24T12:06:27-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567892&text=kjnjknkj
+2017-03-24T12:06:27-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:06:27-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:06:27-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:06:27-06:00 INFO (6): SE ENVIO
+2017-03-24T12:06:27-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567892
+    [mt_medio] => Base
+    [mt_folio] => 958d56023e1d429
+    [mt_contenido] => kjnjknkj
+    [mt_fecha] => 2017-03-24 12:06:27
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:06:27-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:06:27-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:06:27-06:00 INFO (6): CONTADOR i: 3
+2017-03-24T12:06:27-06:00 INFO (6): ID:: 10729
+2017-03-24T12:06:27-06:00 INFO (6): MSISDN:: 1234567893
+2017-03-24T12:06:27-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:06:27-06:00 INFO (6): MENSAJE A ENVIAR::..kjnjknkj
+2017-03-24T12:06:27-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567893&text=kjnjknkj
+2017-03-24T12:06:27-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:06:27-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:06:27-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:06:27-06:00 INFO (6): SE ENVIO
+2017-03-24T12:06:27-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567893
+    [mt_medio] => Base
+    [mt_folio] => 758d56023e28ab3
+    [mt_contenido] => kjnjknkj
+    [mt_fecha] => 2017-03-24 12:06:27
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:06:27-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:06:27-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:06:27-06:00 INFO (6): CONTADOR i: 4
+2017-03-24T12:06:27-06:00 INFO (6): ID:: 10730
+2017-03-24T12:06:27-06:00 INFO (6): MSISDN:: 1234567894
+2017-03-24T12:06:27-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:06:27-06:00 INFO (6): MENSAJE A ENVIAR::..kjnjknkj
+2017-03-24T12:06:27-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567894&text=kjnjknkj
+2017-03-24T12:06:27-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:06:27-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:06:27-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:06:27-06:00 INFO (6): SE ENVIO
+2017-03-24T12:06:27-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567894
+    [mt_medio] => Base
+    [mt_folio] => 358d56023e34e17
+    [mt_contenido] => kjnjknkj
+    [mt_fecha] => 2017-03-24 12:06:27
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:06:27-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:06:27-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:06:27-06:00 INFO (6): CONTADOR i: 5
+2017-03-24T12:06:27-06:00 INFO (6): ID:: 10731
+2017-03-24T12:06:27-06:00 INFO (6): MSISDN:: 1234567895
+2017-03-24T12:06:27-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:06:27-06:00 INFO (6): MENSAJE A ENVIAR::..kjnjknkj
+2017-03-24T12:06:27-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567895&text=kjnjknkj
+2017-03-24T12:06:27-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:06:27-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:06:27-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:06:27-06:00 INFO (6): SE ENVIO
+2017-03-24T12:06:27-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567895
+    [mt_medio] => Base
+    [mt_folio] => 858d56023e41650
+    [mt_contenido] => kjnjknkj
+    [mt_fecha] => 2017-03-24 12:06:27
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:06:27-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:06:27-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:06:27-06:00 INFO (6): CONTADOR i: 6
+2017-03-24T12:06:27-06:00 INFO (6): ID:: 10732
+2017-03-24T12:06:27-06:00 INFO (6): MSISDN:: 1234567896
+2017-03-24T12:06:27-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:06:27-06:00 INFO (6): MENSAJE A ENVIAR::..kjnjknkj
+2017-03-24T12:06:27-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567896&text=kjnjknkj
+2017-03-24T12:06:27-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:06:27-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:06:27-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:06:27-06:00 INFO (6): SE ENVIO
+2017-03-24T12:06:27-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567896
+    [mt_medio] => Base
+    [mt_folio] => 658d56023e4d504
+    [mt_contenido] => kjnjknkj
+    [mt_fecha] => 2017-03-24 12:06:27
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:06:27-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:06:27-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:06:27-06:00 INFO (6): CONTADOR i: 7
+2017-03-24T12:06:27-06:00 INFO (6): ID:: 10733
+2017-03-24T12:06:27-06:00 INFO (6): MSISDN:: 1234567897
+2017-03-24T12:06:27-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:06:27-06:00 INFO (6): MENSAJE A ENVIAR::..kjnjknkj
+2017-03-24T12:06:27-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567897&text=kjnjknkj
+2017-03-24T12:06:27-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:06:27-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:06:27-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:06:27-06:00 INFO (6): SE ENVIO
+2017-03-24T12:06:27-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567897
+    [mt_medio] => Base
+    [mt_folio] => 758d56023e59d31
+    [mt_contenido] => kjnjknkj
+    [mt_fecha] => 2017-03-24 12:06:27
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:06:27-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:06:27-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:06:27-06:00 INFO (6): CONTADOR i: 8
+2017-03-24T12:06:27-06:00 INFO (6): ID:: 10734
+2017-03-24T12:06:27-06:00 INFO (6): MSISDN:: 1234567898
+2017-03-24T12:06:27-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:06:27-06:00 INFO (6): MENSAJE A ENVIAR::..kjnjknkj
+2017-03-24T12:06:27-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567898&text=kjnjknkj
+2017-03-24T12:06:27-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:06:27-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:06:27-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:06:27-06:00 INFO (6): SE ENVIO
+2017-03-24T12:06:27-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567898
+    [mt_medio] => Base
+    [mt_folio] => 258d56023e66057
+    [mt_contenido] => kjnjknkj
+    [mt_fecha] => 2017-03-24 12:06:27
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:06:27-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:06:27-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:06:27-06:00 INFO (6): CONTADOR i: 9
+2017-03-24T12:06:27-06:00 INFO (6): ID:: 10735
+2017-03-24T12:06:27-06:00 INFO (6): MSISDN:: 1234567899
+2017-03-24T12:06:27-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:06:27-06:00 INFO (6): MENSAJE A ENVIAR::..kjnjknkj
+2017-03-24T12:06:27-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567899&text=kjnjknkj
+2017-03-24T12:06:27-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:06:27-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:06:27-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:06:27-06:00 INFO (6): SE ENVIO
+2017-03-24T12:06:27-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567899
+    [mt_medio] => Base
+    [mt_folio] => 158d56023e723e1
+    [mt_contenido] => kjnjknkj
+    [mt_fecha] => 2017-03-24 12:06:27
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:06:27-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:06:27-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:06:27-06:00 INFO (6): CONTADOR i: 10
+2017-03-24T12:06:27-06:00 INFO (6): ID:: 10736
+2017-03-24T12:06:27-06:00 INFO (6): MSISDN:: 1234567900
+2017-03-24T12:06:27-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:06:27-06:00 INFO (6): MENSAJE A ENVIAR::..kjnjknkj
+2017-03-24T12:06:27-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567900&text=kjnjknkj
+2017-03-24T12:06:27-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:06:27-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:06:27-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:06:27-06:00 INFO (6): SE ENVIO
+2017-03-24T12:06:27-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567900
+    [mt_medio] => Base
+    [mt_folio] => 758d56023e7e5e8
+    [mt_contenido] => kjnjknkj
+    [mt_fecha] => 2017-03-24 12:06:27
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:06:27-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:06:27-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:06:27-06:00 INFO (6): CONTADOR i: 11
+2017-03-24T12:06:27-06:00 INFO (6): ID:: 10737
+2017-03-24T12:06:27-06:00 INFO (6): MSISDN:: 1234567901
+2017-03-24T12:06:27-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:06:27-06:00 INFO (6): MENSAJE A ENVIAR::..kjnjknkj
+2017-03-24T12:06:27-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567901&text=kjnjknkj
+2017-03-24T12:06:27-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:06:27-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:06:27-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:06:27-06:00 INFO (6): SE ENVIO
+2017-03-24T12:06:27-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567901
+    [mt_medio] => Base
+    [mt_folio] => 958d56023e8abd7
+    [mt_contenido] => kjnjknkj
+    [mt_fecha] => 2017-03-24 12:06:27
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:06:27-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:06:27-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:06:27-06:00 INFO (6): CONTADOR i: 12
+2017-03-24T12:06:27-06:00 INFO (6): ID:: 10738
+2017-03-24T12:06:27-06:00 INFO (6): MSISDN:: 1234567902
+2017-03-24T12:06:27-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:06:27-06:00 INFO (6): MENSAJE A ENVIAR::..kjnjknkj
+2017-03-24T12:06:27-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567902&text=kjnjknkj
+2017-03-24T12:06:27-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:06:27-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:06:27-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:06:27-06:00 INFO (6): SE ENVIO
+2017-03-24T12:06:27-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567902
+    [mt_medio] => Base
+    [mt_folio] => 458d56023e971a6
+    [mt_contenido] => kjnjknkj
+    [mt_fecha] => 2017-03-24 12:06:27
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:06:27-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:06:27-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:06:27-06:00 INFO (6): CONTADOR i: 13
+2017-03-24T12:06:27-06:00 INFO (6): ID:: 10739
+2017-03-24T12:06:27-06:00 INFO (6): MSISDN:: 1234567903
+2017-03-24T12:06:27-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:06:27-06:00 INFO (6): MENSAJE A ENVIAR::..kjnjknkj
+2017-03-24T12:06:27-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567903&text=kjnjknkj
+2017-03-24T12:06:27-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:06:27-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:06:27-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:06:27-06:00 INFO (6): SE ENVIO
+2017-03-24T12:06:27-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567903
+    [mt_medio] => Base
+    [mt_folio] => 058d56023ea38f2
+    [mt_contenido] => kjnjknkj
+    [mt_fecha] => 2017-03-24 12:06:27
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:06:27-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:06:27-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:06:27-06:00 INFO (6): CONTADOR i: 14
+2017-03-24T12:06:27-06:00 INFO (6): ID:: 10740
+2017-03-24T12:06:27-06:00 INFO (6): MSISDN:: 1234567904
+2017-03-24T12:06:27-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:06:27-06:00 INFO (6): MENSAJE A ENVIAR::..kjnjknkj
+2017-03-24T12:06:27-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567904&text=kjnjknkj
+2017-03-24T12:06:27-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:06:27-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:06:27-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:06:27-06:00 INFO (6): SE ENVIO
+2017-03-24T12:06:27-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567904
+    [mt_medio] => Base
+    [mt_folio] => 158d56023ed4156
+    [mt_contenido] => kjnjknkj
+    [mt_fecha] => 2017-03-24 12:06:27
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:06:27-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:06:27-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:06:27-06:00 INFO (6): CONTADOR i: 15
+2017-03-24T12:06:27-06:00 INFO (6): ID:: 10741
+2017-03-24T12:06:27-06:00 INFO (6): MSISDN:: 1234567905
+2017-03-24T12:06:27-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:06:27-06:00 INFO (6): MENSAJE A ENVIAR::..kjnjknkj
+2017-03-24T12:06:27-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567905&text=kjnjknkj
+2017-03-24T12:06:27-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:06:27-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:06:27-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:06:27-06:00 INFO (6): SE ENVIO
+2017-03-24T12:06:27-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567905
+    [mt_medio] => Base
+    [mt_folio] => 758d56023ee2c77
+    [mt_contenido] => kjnjknkj
+    [mt_fecha] => 2017-03-24 12:06:27
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:06:27-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:06:27-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:06:27-06:00 INFO (6): CONTADOR i: 16
+2017-03-24T12:06:27-06:00 INFO (6): ID:: 10742
+2017-03-24T12:06:27-06:00 INFO (6): MSISDN:: 1234567906
+2017-03-24T12:06:27-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:06:27-06:00 INFO (6): MENSAJE A ENVIAR::..kjnjknkj
+2017-03-24T12:06:27-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567906&text=kjnjknkj
+2017-03-24T12:06:27-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:06:27-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:06:27-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:06:27-06:00 INFO (6): SE ENVIO
+2017-03-24T12:06:27-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567906
+    [mt_medio] => Base
+    [mt_folio] => 158d56023ef9e69
+    [mt_contenido] => kjnjknkj
+    [mt_fecha] => 2017-03-24 12:06:27
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:06:27-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:06:27-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:06:27-06:00 INFO (6): CONTADOR i: 17
+2017-03-24T12:06:27-06:00 INFO (6): ID:: 10743
+2017-03-24T12:06:27-06:00 INFO (6): MSISDN:: 1234567907
+2017-03-24T12:06:27-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:06:27-06:00 INFO (6): MENSAJE A ENVIAR::..kjnjknkj
+2017-03-24T12:06:27-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567907&text=kjnjknkj
+2017-03-24T12:06:27-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:06:27-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:06:27-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:06:27-06:00 INFO (6): SE ENVIO
+2017-03-24T12:06:27-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567907
+    [mt_medio] => Base
+    [mt_folio] => 258d56023f108e0
+    [mt_contenido] => kjnjknkj
+    [mt_fecha] => 2017-03-24 12:06:27
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:06:27-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:06:27-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:06:27-06:00 INFO (6): CONTADOR i: 18
+2017-03-24T12:06:27-06:00 INFO (6): ID:: 10744
+2017-03-24T12:06:27-06:00 INFO (6): MSISDN:: 1234567908
+2017-03-24T12:06:27-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:06:27-06:00 INFO (6): MENSAJE A ENVIAR::..kjnjknkj
+2017-03-24T12:06:27-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=521234567908&text=kjnjknkj
+2017-03-24T12:06:27-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:06:27-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:06:27-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:06:27-06:00 INFO (6): SE ENVIO
+2017-03-24T12:06:27-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 1234567908
+    [mt_medio] => Base
+    [mt_folio] => 958d56023f1dac0
+    [mt_contenido] => kjnjknkj
+    [mt_fecha] => 2017-03-24 12:06:27
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:06:27-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:06:27-06:00 INFO (6): -------------------------------------->
+2017-03-24T12:06:27-06:00 INFO (6): CONTADOR i: 19
+2017-03-24T12:06:27-06:00 INFO (6): ID:: 10745
+2017-03-24T12:06:27-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-24T12:06:27-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T12:06:27-06:00 INFO (6): MENSAJE A ENVIAR::..kjnjknkj
+2017-03-24T12:06:27-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=kjnjknkj
+2017-03-24T12:06:27-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T12:06:27-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T12:06:27-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T12:06:27-06:00 INFO (6): SE ENVIO
+2017-03-24T12:06:27-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 358d56023f2a083
+    [mt_contenido] => kjnjknkj
+    [mt_fecha] => 2017-03-24 12:06:27
+    [mt_tag] => MASIVO
+    [mt_categoria] => yes
+    [usuario_id] => 1
+)
+
+2017-03-24T12:06:27-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:06:28-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-24T12:06:28-06:00 INFO (6): SE ACTUALIZO: 20
+2017-03-24T12:06:28-06:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 885,26
+)
+
+2017-03-24T12:06:28-06:00 INFO (6): SE ACTUALIZO:: 1
+2017-03-24T12:06:28-06:00 INFO (6): FIN::::::::........
+2017-03-24T16:17:55-06:00 INFO (6): ------------------------------------------------
+2017-03-24T16:17:55-06:00 INFO (6): ------------------------------------------------
+2017-03-24T16:17:55-06:00 INFO (6): ------------------------------------------------
+2017-03-24T16:17:55-06:00 INFO (6): ---- ENVIO MASIVO ENVIAR - FN ENVIAR -----------
+2017-03-24T16:17:55-06:00 INFO (6): REQUEST: Array
+(
+    [selectCategoria] => hola
+    [sms] => esta es una prueba con $ y ; ujuuu ya sírve 
+    [caracteres] => 44
+    [accion] => enviar
+    [PHPSESSID] => q06abqoelqg9sj1qv4fu30dt40
+)
+
+2017-03-24T16:17:55-06:00 INFO (6): CATEGORIA:: hola
+2017-03-24T16:17:55-06:00 INFO (6): MENSAJE:: esta es una prueba con $ y ; ujuuu ya sirve 
+2017-03-24T16:17:55-06:00 INFO (6): SI SELECCIONO CATEGORIA Y ESCRIBIO UN MENSAJE
+2017-03-24T16:17:55-06:00 INFO (6): QUERY :: SELECT COUNT(usuario_msisdn) AS numtel FROM fuentes_usuarios_toolbox WHERE usuario_enviado = 0 AND usuario_activo = 1 AND usuario_categoria='hola' AND usuario_id_fk='55'
+2017-03-24T16:17:55-06:00 INFO (6): CANTIDAD DE ENVIOS QUE SE REALIZARAN: 2
+2017-03-24T16:17:55-06:00 INFO (6): SI SE ENCONTRARON NUMEROS PARA REALIZAR EL ENVIO
+2017-03-24T16:17:55-06:00 INFO (6): QUERY 2: SELECT * FROM fuentes_usuarios_toolbox WHERE usuario_enviado = 0 AND usuario_activo = 1 AND usuario_categoria='hola' AND usuario_id_fk='55'
+2017-03-24T16:17:55-06:00 INFO (6): RESULTADO DE LA CONSULTA A USUARIOS  FILTRADO POR CATEGORIA, ENVIADO 0 Y ACTIVO 1: Array
+(
+    [0] => Array
+        (
+            [usuario_id] => 10746
+            [usuario_msisdn] => 5547870016
+            [usuario_operador] => Telcel
+            [usuario_categoria] => hola
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 15:55:16
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 55
+        )
+
+    [1] => Array
+        (
+            [usuario_id] => 10747
+            [usuario_msisdn] => 5522700219
+            [usuario_operador] => Telcel
+            [usuario_categoria] => hola
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-24 15:55:16
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 55
+        )
+
+)
+
+2017-03-24T16:17:55-06:00 INFO (6): -------------------------------------->
+2017-03-24T16:17:55-06:00 INFO (6): CONTADOR i: 0
+2017-03-24T16:17:55-06:00 INFO (6): ID:: 10746
+2017-03-24T16:17:55-06:00 INFO (6): MSISDN:: 5547870016
+2017-03-24T16:17:55-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T16:17:55-06:00 INFO (6): MENSAJE A ENVIAR::..esta es una prueba con $ y ; ujuuu ya sirve 
+2017-03-24T16:17:55-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525547870016&text=esta+es+una+prueba+con+%24+y+%3B+ujuuu+ya+sirve+
+2017-03-24T16:17:55-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T16:17:55-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T16:17:55-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T16:17:55-06:00 INFO (6): SE ENVIO
+2017-03-24T16:17:55-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5547870016
+    [mt_medio] => Base
+    [mt_folio] => 058d59b13e05f44
+    [mt_contenido] => esta+es+una+prueba+con+%24+y+%3B+ujuuu+ya+sirve+
+    [mt_fecha] => 2017-03-24 16:17:55
+    [mt_tag] => MASIVO
+    [mt_categoria] => hola
+    [usuario_id] => 55
+)
+
+2017-03-24T16:17:55-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T16:17:55-06:00 INFO (6): -------------------------------------->
+2017-03-24T16:17:55-06:00 INFO (6): CONTADOR i: 1
+2017-03-24T16:17:55-06:00 INFO (6): ID:: 10747
+2017-03-24T16:17:55-06:00 INFO (6): MSISDN:: 5522700219
+2017-03-24T16:17:55-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-24T16:17:55-06:00 INFO (6): MENSAJE A ENVIAR::..esta es una prueba con $ y ; ujuuu ya sirve 
+2017-03-24T16:17:55-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525522700219&text=esta+es+una+prueba+con+%24+y+%3B+ujuuu+ya+sirve+
+2017-03-24T16:17:55-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-24T16:17:55-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-24T16:17:55-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T16:17:55-06:00 INFO (6): SE ENVIO
+2017-03-24T16:17:55-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5522700219
+    [mt_medio] => Base
+    [mt_folio] => 158d59b13e99da5
+    [mt_contenido] => esta+es+una+prueba+con+%24+y+%3B+ujuuu+ya+sirve+
+    [mt_fecha] => 2017-03-24 16:17:55
+    [mt_tag] => MASIVO
+    [mt_categoria] => hola
+    [usuario_id] => 55
+)
+
+2017-03-24T16:17:55-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T16:17:55-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-24T16:17:55-06:00 INFO (6): SE ACTUALIZO: 2
+2017-03-24T16:17:55-06:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 97,68
+)
+
+2017-03-24T16:17:55-06:00 INFO (6): SE ACTUALIZO:: 1
+2017-03-24T16:17:55-06:00 INFO (6): FIN::::::::........

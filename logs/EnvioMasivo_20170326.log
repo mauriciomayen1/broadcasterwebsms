@@ -1,0 +1,797 @@
+2017-03-26T20:07:53-06:00 INFO (6): ------------------------------------------------
+2017-03-26T20:07:53-06:00 INFO (6): ------------------------------------------------
+2017-03-26T20:07:53-06:00 INFO (6): ------------------------------------------------
+2017-03-26T20:07:53-06:00 INFO (6): ---- ENVIO MASIVO ENVIAR - FN ENVIAR -----------
+2017-03-26T20:07:53-06:00 INFO (6): REQUEST: Array
+(
+    [selectCategoria] => PRUEBACASA
+    [sms] => cedcecdececdece
+    [caracteres] => 15
+    [accion] => enviar
+    [PHPSESSID] => p0slapa788hhmufv4uqpuskk14
+)
+
+2017-03-26T20:07:53-06:00 INFO (6): CATEGORIA:: PRUEBACASA
+2017-03-26T20:07:53-06:00 INFO (6): MENSAJE:: cedcecdececdece
+2017-03-26T20:07:53-06:00 INFO (6): SI SELECCIONO CATEGORIA Y ESCRIBIO UN MENSAJE
+2017-03-26T20:07:53-06:00 INFO (6): QUERY :: SELECT COUNT(usuario_msisdn) AS numtel FROM fuentes_usuarios_toolbox WHERE usuario_enviado = 0 AND usuario_activo = 1 AND usuario_categoria='PRUEBACASA' AND usuario_id_fk='1'
+2017-03-26T20:07:53-06:00 INFO (6): CANTIDAD DE ENVIOS QUE SE REALIZARAN: 19
+2017-03-26T20:07:53-06:00 INFO (6): SI SE ENCONTRARON NUMEROS PARA REALIZAR EL ENVIO
+2017-03-26T20:07:53-06:00 INFO (6): QUERY 2: SELECT * FROM fuentes_usuarios_toolbox WHERE usuario_enviado = 0 AND usuario_activo = 1 AND usuario_categoria='PRUEBACASA' AND usuario_id_fk='1'
+2017-03-26T20:07:53-06:00 INFO (6): RESULTADO DE LA CONSULTA A USUARIOS  FILTRADO POR CATEGORIA, ENVIADO 0 Y ACTIVO 1: Array
+(
+    [0] => Array
+        (
+            [usuario_id] => 10748
+            [usuario_msisdn] => 5549444527
+            [usuario_operador] => Telcel
+            [usuario_categoria] => PRUEBACASA
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-26 19:21:55
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [1] => Array
+        (
+            [usuario_id] => 10749
+            [usuario_msisdn] => 5511111111
+            [usuario_operador] => Nextel
+            [usuario_categoria] => PRUEBACASA
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-26 19:22:22
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [2] => Array
+        (
+            [usuario_id] => 10750
+            [usuario_msisdn] => 5511111112
+            [usuario_operador] => Movistar
+            [usuario_categoria] => PRUEBACASA
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-26 19:22:22
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [3] => Array
+        (
+            [usuario_id] => 10751
+            [usuario_msisdn] => 5511111113
+            [usuario_operador] => Movistar
+            [usuario_categoria] => PRUEBACASA
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-26 19:22:22
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [4] => Array
+        (
+            [usuario_id] => 10752
+            [usuario_msisdn] => 5511111114
+            [usuario_operador] => Movistar
+            [usuario_categoria] => PRUEBACASA
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-26 19:22:23
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [5] => Array
+        (
+            [usuario_id] => 10753
+            [usuario_msisdn] => 5511111115
+            [usuario_operador] => Movistar
+            [usuario_categoria] => PRUEBACASA
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-26 19:22:23
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [6] => Array
+        (
+            [usuario_id] => 10754
+            [usuario_msisdn] => 5511111116
+            [usuario_operador] => Movistar
+            [usuario_categoria] => PRUEBACASA
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-26 19:22:23
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [7] => Array
+        (
+            [usuario_id] => 10755
+            [usuario_msisdn] => 5511111117
+            [usuario_operador] => Movistar
+            [usuario_categoria] => PRUEBACASA
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-26 19:22:23
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [8] => Array
+        (
+            [usuario_id] => 10756
+            [usuario_msisdn] => 5511111118
+            [usuario_operador] => Movistar
+            [usuario_categoria] => PRUEBACASA
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-26 19:22:23
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [9] => Array
+        (
+            [usuario_id] => 10757
+            [usuario_msisdn] => 5511111119
+            [usuario_operador] => Movistar
+            [usuario_categoria] => PRUEBACASA
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-26 19:22:23
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [10] => Array
+        (
+            [usuario_id] => 10758
+            [usuario_msisdn] => 5511111120
+            [usuario_operador] => Movistar
+            [usuario_categoria] => PRUEBACASA
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-26 19:22:23
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [11] => Array
+        (
+            [usuario_id] => 10759
+            [usuario_msisdn] => 5511111121
+            [usuario_operador] => Movistar
+            [usuario_categoria] => PRUEBACASA
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-26 19:22:23
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [12] => Array
+        (
+            [usuario_id] => 10760
+            [usuario_msisdn] => 5511111122
+            [usuario_operador] => Movistar
+            [usuario_categoria] => PRUEBACASA
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-26 19:22:23
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [13] => Array
+        (
+            [usuario_id] => 10761
+            [usuario_msisdn] => 5511111123
+            [usuario_operador] => Movistar
+            [usuario_categoria] => PRUEBACASA
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-26 19:22:23
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [14] => Array
+        (
+            [usuario_id] => 10762
+            [usuario_msisdn] => 5511111124
+            [usuario_operador] => Movistar
+            [usuario_categoria] => PRUEBACASA
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-26 19:22:23
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [15] => Array
+        (
+            [usuario_id] => 10763
+            [usuario_msisdn] => 5511111125
+            [usuario_operador] => Movistar
+            [usuario_categoria] => PRUEBACASA
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-26 19:22:23
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [16] => Array
+        (
+            [usuario_id] => 10764
+            [usuario_msisdn] => 5511111126
+            [usuario_operador] => Movistar
+            [usuario_categoria] => PRUEBACASA
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-26 19:22:23
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [17] => Array
+        (
+            [usuario_id] => 10765
+            [usuario_msisdn] => 5511111127
+            [usuario_operador] => Movistar
+            [usuario_categoria] => PRUEBACASA
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-26 19:22:23
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+    [18] => Array
+        (
+            [usuario_id] => 10766
+            [usuario_msisdn] => 5511111128
+            [usuario_operador] => Movistar
+            [usuario_categoria] => PRUEBACASA
+            [usuario_enviado] => 0
+            [usuario_alta] => 2017-03-26 19:22:23
+            [usuario_edicion] => 
+            [usuario_baja] => 
+            [usuario_activo] => 1
+            [usuario_id_fk] => 1
+        )
+
+)
+
+2017-03-26T20:07:53-06:00 INFO (6): -------------------------------------->
+2017-03-26T20:07:53-06:00 INFO (6): CONTADOR i: 0
+2017-03-26T20:07:53-06:00 INFO (6): ID:: 10748
+2017-03-26T20:07:53-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-26T20:07:53-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-26T20:07:53-06:00 INFO (6): MENSAJE A ENVIAR::..cedcecdececdece
+2017-03-26T20:07:53-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=cedcecdececdece
+2017-03-26T20:07:53-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-26T20:07:53-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-26T20:07:53-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-26T20:07:53-06:00 INFO (6): SE ENVIO
+2017-03-26T20:07:53-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 958d873f986fc86
+    [mt_contenido] => cedcecdececdece
+    [mt_fecha] => 2017-03-26 20:07:53
+    [mt_tag] => MASIVO
+    [mt_categoria] => PRUEBACASA
+    [usuario_id] => 1
+)
+
+2017-03-26T20:07:53-06:00 INFO (6): SE INSERTO: 1
+2017-03-26T20:07:53-06:00 INFO (6): -------------------------------------->
+2017-03-26T20:07:53-06:00 INFO (6): CONTADOR i: 1
+2017-03-26T20:07:53-06:00 INFO (6): ID:: 10749
+2017-03-26T20:07:53-06:00 INFO (6): MSISDN:: 5511111111
+2017-03-26T20:07:53-06:00 INFO (6): OPERADOR:: Nextel
+2017-03-26T20:07:53-06:00 INFO (6): MENSAJE A ENVIAR::..cedcecdececdece
+2017-03-26T20:07:53-06:00 INFO (6): URL: http://administrador.cm-operations.com/iusacell/router/router_mt.php?SOA=5511111111&dial=26262&message=cedcecdececdece&service=EMAIL2SMS&subservice=MASIVO&username=sendsmsatt_26262
+2017-03-26T20:07:53-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-26T20:07:53-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-26T20:07:53-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-26T20:07:53-06:00 INFO (6): SE ENVIO
+2017-03-26T20:07:53-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Nextel
+    [mt_msisdn] => 5511111111
+    [mt_medio] => Base
+    [mt_folio] => 558d873f99d8957
+    [mt_contenido] => cedcecdececdece
+    [mt_fecha] => 2017-03-26 20:07:53
+    [mt_tag] => MASIVO
+    [mt_categoria] => PRUEBACASA
+    [usuario_id] => 1
+)
+
+2017-03-26T20:07:53-06:00 INFO (6): SE INSERTO: 1
+2017-03-26T20:07:53-06:00 INFO (6): -------------------------------------->
+2017-03-26T20:07:53-06:00 INFO (6): CONTADOR i: 2
+2017-03-26T20:07:53-06:00 INFO (6): ID:: 10750
+2017-03-26T20:07:53-06:00 INFO (6): MSISDN:: 5511111112
+2017-03-26T20:07:53-06:00 INFO (6): OPERADOR:: Movistar
+2017-03-26T20:07:53-06:00 INFO (6): MENSAJE A ENVIAR::..cedcecdececdece
+2017-03-26T20:07:53-06:00 INFO (6): URL: http://administrador.cm-operations.com/movistar/router/router_mt.php?username=sendsmsmovistar_2125&message=cedcecdececdece&dial=2125&SOA=525511111112&service=EMAIL2SMS
+2017-03-26T20:07:53-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-26T20:07:53-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-26T20:07:53-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-26T20:07:53-06:00 INFO (6): SE ENVIO
+2017-03-26T20:07:53-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 2125
+    [mt_operador] => Movistar
+    [mt_msisdn] => 5511111112
+    [mt_medio] => Base
+    [mt_folio] => 558d873f9b85e45
+    [mt_contenido] => cedcecdececdece
+    [mt_fecha] => 2017-03-26 20:07:53
+    [mt_tag] => MASIVO
+    [mt_categoria] => PRUEBACASA
+    [usuario_id] => 1
+)
+
+2017-03-26T20:07:53-06:00 INFO (6): SE INSERTO: 1
+2017-03-26T20:07:53-06:00 INFO (6): -------------------------------------->
+2017-03-26T20:07:53-06:00 INFO (6): CONTADOR i: 3
+2017-03-26T20:07:53-06:00 INFO (6): ID:: 10751
+2017-03-26T20:07:53-06:00 INFO (6): MSISDN:: 5511111113
+2017-03-26T20:07:53-06:00 INFO (6): OPERADOR:: Movistar
+2017-03-26T20:07:53-06:00 INFO (6): MENSAJE A ENVIAR::..cedcecdececdece
+2017-03-26T20:07:53-06:00 INFO (6): URL: http://administrador.cm-operations.com/movistar/router/router_mt.php?username=sendsmsmovistar_2125&message=cedcecdececdece&dial=2125&SOA=525511111113&service=EMAIL2SMS
+2017-03-26T20:07:53-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-26T20:07:53-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-26T20:07:53-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-26T20:07:53-06:00 INFO (6): SE ENVIO
+2017-03-26T20:07:53-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 2125
+    [mt_operador] => Movistar
+    [mt_msisdn] => 5511111113
+    [mt_medio] => Base
+    [mt_folio] => 358d873f9f09735
+    [mt_contenido] => cedcecdececdece
+    [mt_fecha] => 2017-03-26 20:07:53
+    [mt_tag] => MASIVO
+    [mt_categoria] => PRUEBACASA
+    [usuario_id] => 1
+)
+
+2017-03-26T20:07:53-06:00 INFO (6): SE INSERTO: 1
+2017-03-26T20:07:53-06:00 INFO (6): -------------------------------------->
+2017-03-26T20:07:53-06:00 INFO (6): CONTADOR i: 4
+2017-03-26T20:07:53-06:00 INFO (6): ID:: 10752
+2017-03-26T20:07:53-06:00 INFO (6): MSISDN:: 5511111114
+2017-03-26T20:07:53-06:00 INFO (6): OPERADOR:: Movistar
+2017-03-26T20:07:53-06:00 INFO (6): MENSAJE A ENVIAR::..cedcecdececdece
+2017-03-26T20:07:53-06:00 INFO (6): URL: http://administrador.cm-operations.com/movistar/router/router_mt.php?username=sendsmsmovistar_2125&message=cedcecdececdece&dial=2125&SOA=525511111114&service=EMAIL2SMS
+2017-03-26T20:07:53-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-26T20:07:54-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-26T20:07:54-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-26T20:07:54-06:00 INFO (6): SE ENVIO
+2017-03-26T20:07:54-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 2125
+    [mt_operador] => Movistar
+    [mt_msisdn] => 5511111114
+    [mt_medio] => Base
+    [mt_folio] => 958d873fa015681
+    [mt_contenido] => cedcecdececdece
+    [mt_fecha] => 2017-03-26 20:07:54
+    [mt_tag] => MASIVO
+    [mt_categoria] => PRUEBACASA
+    [usuario_id] => 1
+)
+
+2017-03-26T20:07:54-06:00 INFO (6): SE INSERTO: 1
+2017-03-26T20:07:54-06:00 INFO (6): -------------------------------------->
+2017-03-26T20:07:54-06:00 INFO (6): CONTADOR i: 5
+2017-03-26T20:07:54-06:00 INFO (6): ID:: 10753
+2017-03-26T20:07:54-06:00 INFO (6): MSISDN:: 5511111115
+2017-03-26T20:07:54-06:00 INFO (6): OPERADOR:: Movistar
+2017-03-26T20:07:54-06:00 INFO (6): MENSAJE A ENVIAR::..cedcecdececdece
+2017-03-26T20:07:54-06:00 INFO (6): URL: http://administrador.cm-operations.com/movistar/router/router_mt.php?username=sendsmsmovistar_2125&message=cedcecdececdece&dial=2125&SOA=525511111115&service=EMAIL2SMS
+2017-03-26T20:07:54-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-26T20:07:54-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-26T20:07:54-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-26T20:07:54-06:00 INFO (6): SE ENVIO
+2017-03-26T20:07:54-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 2125
+    [mt_operador] => Movistar
+    [mt_msisdn] => 5511111115
+    [mt_medio] => Base
+    [mt_folio] => 858d873fa051b64
+    [mt_contenido] => cedcecdececdece
+    [mt_fecha] => 2017-03-26 20:07:54
+    [mt_tag] => MASIVO
+    [mt_categoria] => PRUEBACASA
+    [usuario_id] => 1
+)
+
+2017-03-26T20:07:54-06:00 INFO (6): SE INSERTO: 1
+2017-03-26T20:07:54-06:00 INFO (6): -------------------------------------->
+2017-03-26T20:07:54-06:00 INFO (6): CONTADOR i: 6
+2017-03-26T20:07:54-06:00 INFO (6): ID:: 10754
+2017-03-26T20:07:54-06:00 INFO (6): MSISDN:: 5511111116
+2017-03-26T20:07:54-06:00 INFO (6): OPERADOR:: Movistar
+2017-03-26T20:07:54-06:00 INFO (6): MENSAJE A ENVIAR::..cedcecdececdece
+2017-03-26T20:07:54-06:00 INFO (6): URL: http://administrador.cm-operations.com/movistar/router/router_mt.php?username=sendsmsmovistar_2125&message=cedcecdececdece&dial=2125&SOA=525511111116&service=EMAIL2SMS
+2017-03-26T20:07:54-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-26T20:07:54-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-26T20:07:54-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-26T20:07:54-06:00 INFO (6): SE ENVIO
+2017-03-26T20:07:54-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 2125
+    [mt_operador] => Movistar
+    [mt_msisdn] => 5511111116
+    [mt_medio] => Base
+    [mt_folio] => 358d873fa0a2c52
+    [mt_contenido] => cedcecdececdece
+    [mt_fecha] => 2017-03-26 20:07:54
+    [mt_tag] => MASIVO
+    [mt_categoria] => PRUEBACASA
+    [usuario_id] => 1
+)
+
+2017-03-26T20:07:54-06:00 INFO (6): SE INSERTO: 1
+2017-03-26T20:07:54-06:00 INFO (6): -------------------------------------->
+2017-03-26T20:07:54-06:00 INFO (6): CONTADOR i: 7
+2017-03-26T20:07:54-06:00 INFO (6): ID:: 10755
+2017-03-26T20:07:54-06:00 INFO (6): MSISDN:: 5511111117
+2017-03-26T20:07:54-06:00 INFO (6): OPERADOR:: Movistar
+2017-03-26T20:07:54-06:00 INFO (6): MENSAJE A ENVIAR::..cedcecdececdece
+2017-03-26T20:07:54-06:00 INFO (6): URL: http://administrador.cm-operations.com/movistar/router/router_mt.php?username=sendsmsmovistar_2125&message=cedcecdececdece&dial=2125&SOA=525511111117&service=EMAIL2SMS
+2017-03-26T20:07:54-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-26T20:07:54-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-26T20:07:54-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-26T20:07:54-06:00 INFO (6): SE ENVIO
+2017-03-26T20:07:54-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 2125
+    [mt_operador] => Movistar
+    [mt_msisdn] => 5511111117
+    [mt_medio] => Base
+    [mt_folio] => 458d873fa0d8150
+    [mt_contenido] => cedcecdececdece
+    [mt_fecha] => 2017-03-26 20:07:54
+    [mt_tag] => MASIVO
+    [mt_categoria] => PRUEBACASA
+    [usuario_id] => 1
+)
+
+2017-03-26T20:07:54-06:00 INFO (6): SE INSERTO: 1
+2017-03-26T20:07:54-06:00 INFO (6): -------------------------------------->
+2017-03-26T20:07:54-06:00 INFO (6): CONTADOR i: 8
+2017-03-26T20:07:54-06:00 INFO (6): ID:: 10756
+2017-03-26T20:07:54-06:00 INFO (6): MSISDN:: 5511111118
+2017-03-26T20:07:54-06:00 INFO (6): OPERADOR:: Movistar
+2017-03-26T20:07:54-06:00 INFO (6): MENSAJE A ENVIAR::..cedcecdececdece
+2017-03-26T20:07:54-06:00 INFO (6): URL: http://administrador.cm-operations.com/movistar/router/router_mt.php?username=sendsmsmovistar_2125&message=cedcecdececdece&dial=2125&SOA=525511111118&service=EMAIL2SMS
+2017-03-26T20:07:54-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-26T20:07:54-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-26T20:07:54-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-26T20:07:54-06:00 INFO (6): SE ENVIO
+2017-03-26T20:07:54-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 2125
+    [mt_operador] => Movistar
+    [mt_msisdn] => 5511111118
+    [mt_medio] => Base
+    [mt_folio] => 358d873fa10f429
+    [mt_contenido] => cedcecdececdece
+    [mt_fecha] => 2017-03-26 20:07:54
+    [mt_tag] => MASIVO
+    [mt_categoria] => PRUEBACASA
+    [usuario_id] => 1
+)
+
+2017-03-26T20:07:54-06:00 INFO (6): SE INSERTO: 1
+2017-03-26T20:07:54-06:00 INFO (6): -------------------------------------->
+2017-03-26T20:07:54-06:00 INFO (6): CONTADOR i: 9
+2017-03-26T20:07:54-06:00 INFO (6): ID:: 10757
+2017-03-26T20:07:54-06:00 INFO (6): MSISDN:: 5511111119
+2017-03-26T20:07:54-06:00 INFO (6): OPERADOR:: Movistar
+2017-03-26T20:07:54-06:00 INFO (6): MENSAJE A ENVIAR::..cedcecdececdece
+2017-03-26T20:07:54-06:00 INFO (6): URL: http://administrador.cm-operations.com/movistar/router/router_mt.php?username=sendsmsmovistar_2125&message=cedcecdececdece&dial=2125&SOA=525511111119&service=EMAIL2SMS
+2017-03-26T20:07:54-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-26T20:07:54-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-26T20:07:54-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-26T20:07:54-06:00 INFO (6): SE ENVIO
+2017-03-26T20:07:54-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 2125
+    [mt_operador] => Movistar
+    [mt_msisdn] => 5511111119
+    [mt_medio] => Base
+    [mt_folio] => 758d873fa141668
+    [mt_contenido] => cedcecdececdece
+    [mt_fecha] => 2017-03-26 20:07:54
+    [mt_tag] => MASIVO
+    [mt_categoria] => PRUEBACASA
+    [usuario_id] => 1
+)
+
+2017-03-26T20:07:54-06:00 INFO (6): SE INSERTO: 1
+2017-03-26T20:07:54-06:00 INFO (6): -------------------------------------->
+2017-03-26T20:07:54-06:00 INFO (6): CONTADOR i: 10
+2017-03-26T20:07:54-06:00 INFO (6): ID:: 10758
+2017-03-26T20:07:54-06:00 INFO (6): MSISDN:: 5511111120
+2017-03-26T20:07:54-06:00 INFO (6): OPERADOR:: Movistar
+2017-03-26T20:07:54-06:00 INFO (6): MENSAJE A ENVIAR::..cedcecdececdece
+2017-03-26T20:07:54-06:00 INFO (6): URL: http://administrador.cm-operations.com/movistar/router/router_mt.php?username=sendsmsmovistar_2125&message=cedcecdececdece&dial=2125&SOA=525511111120&service=EMAIL2SMS
+2017-03-26T20:07:54-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-26T20:07:54-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-26T20:07:54-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-26T20:07:54-06:00 INFO (6): SE ENVIO
+2017-03-26T20:07:54-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 2125
+    [mt_operador] => Movistar
+    [mt_msisdn] => 5511111120
+    [mt_medio] => Base
+    [mt_folio] => 358d873fa188fc8
+    [mt_contenido] => cedcecdececdece
+    [mt_fecha] => 2017-03-26 20:07:54
+    [mt_tag] => MASIVO
+    [mt_categoria] => PRUEBACASA
+    [usuario_id] => 1
+)
+
+2017-03-26T20:07:54-06:00 INFO (6): SE INSERTO: 1
+2017-03-26T20:07:54-06:00 INFO (6): -------------------------------------->
+2017-03-26T20:07:54-06:00 INFO (6): CONTADOR i: 11
+2017-03-26T20:07:54-06:00 INFO (6): ID:: 10759
+2017-03-26T20:07:54-06:00 INFO (6): MSISDN:: 5511111121
+2017-03-26T20:07:54-06:00 INFO (6): OPERADOR:: Movistar
+2017-03-26T20:07:54-06:00 INFO (6): MENSAJE A ENVIAR::..cedcecdececdece
+2017-03-26T20:07:54-06:00 INFO (6): URL: http://administrador.cm-operations.com/movistar/router/router_mt.php?username=sendsmsmovistar_2125&message=cedcecdececdece&dial=2125&SOA=525511111121&service=EMAIL2SMS
+2017-03-26T20:07:54-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-26T20:07:54-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-26T20:07:54-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-26T20:07:54-06:00 INFO (6): SE ENVIO
+2017-03-26T20:07:54-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 2125
+    [mt_operador] => Movistar
+    [mt_msisdn] => 5511111121
+    [mt_medio] => Base
+    [mt_folio] => 058d873fa1bbf23
+    [mt_contenido] => cedcecdececdece
+    [mt_fecha] => 2017-03-26 20:07:54
+    [mt_tag] => MASIVO
+    [mt_categoria] => PRUEBACASA
+    [usuario_id] => 1
+)
+
+2017-03-26T20:07:54-06:00 INFO (6): SE INSERTO: 1
+2017-03-26T20:07:54-06:00 INFO (6): -------------------------------------->
+2017-03-26T20:07:54-06:00 INFO (6): CONTADOR i: 12
+2017-03-26T20:07:54-06:00 INFO (6): ID:: 10760
+2017-03-26T20:07:54-06:00 INFO (6): MSISDN:: 5511111122
+2017-03-26T20:07:54-06:00 INFO (6): OPERADOR:: Movistar
+2017-03-26T20:07:54-06:00 INFO (6): MENSAJE A ENVIAR::..cedcecdececdece
+2017-03-26T20:07:54-06:00 INFO (6): URL: http://administrador.cm-operations.com/movistar/router/router_mt.php?username=sendsmsmovistar_2125&message=cedcecdececdece&dial=2125&SOA=525511111122&service=EMAIL2SMS
+2017-03-26T20:07:54-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-26T20:07:54-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-26T20:07:54-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-26T20:07:54-06:00 INFO (6): SE ENVIO
+2017-03-26T20:07:54-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 2125
+    [mt_operador] => Movistar
+    [mt_msisdn] => 5511111122
+    [mt_medio] => Base
+    [mt_folio] => 758d873fa1ee5a0
+    [mt_contenido] => cedcecdececdece
+    [mt_fecha] => 2017-03-26 20:07:54
+    [mt_tag] => MASIVO
+    [mt_categoria] => PRUEBACASA
+    [usuario_id] => 1
+)
+
+2017-03-26T20:07:54-06:00 INFO (6): SE INSERTO: 1
+2017-03-26T20:07:54-06:00 INFO (6): -------------------------------------->
+2017-03-26T20:07:54-06:00 INFO (6): CONTADOR i: 13
+2017-03-26T20:07:54-06:00 INFO (6): ID:: 10761
+2017-03-26T20:07:54-06:00 INFO (6): MSISDN:: 5511111123
+2017-03-26T20:07:54-06:00 INFO (6): OPERADOR:: Movistar
+2017-03-26T20:07:54-06:00 INFO (6): MENSAJE A ENVIAR::..cedcecdececdece
+2017-03-26T20:07:54-06:00 INFO (6): URL: http://administrador.cm-operations.com/movistar/router/router_mt.php?username=sendsmsmovistar_2125&message=cedcecdececdece&dial=2125&SOA=525511111123&service=EMAIL2SMS
+2017-03-26T20:07:54-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-26T20:07:54-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-26T20:07:54-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-26T20:07:54-06:00 INFO (6): SE ENVIO
+2017-03-26T20:07:54-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 2125
+    [mt_operador] => Movistar
+    [mt_msisdn] => 5511111123
+    [mt_medio] => Base
+    [mt_folio] => 058d873fa223379
+    [mt_contenido] => cedcecdececdece
+    [mt_fecha] => 2017-03-26 20:07:54
+    [mt_tag] => MASIVO
+    [mt_categoria] => PRUEBACASA
+    [usuario_id] => 1
+)
+
+2017-03-26T20:07:54-06:00 INFO (6): SE INSERTO: 1
+2017-03-26T20:07:54-06:00 INFO (6): -------------------------------------->
+2017-03-26T20:07:54-06:00 INFO (6): CONTADOR i: 14
+2017-03-26T20:07:54-06:00 INFO (6): ID:: 10762
+2017-03-26T20:07:54-06:00 INFO (6): MSISDN:: 5511111124
+2017-03-26T20:07:54-06:00 INFO (6): OPERADOR:: Movistar
+2017-03-26T20:07:54-06:00 INFO (6): MENSAJE A ENVIAR::..cedcecdececdece
+2017-03-26T20:07:54-06:00 INFO (6): URL: http://administrador.cm-operations.com/movistar/router/router_mt.php?username=sendsmsmovistar_2125&message=cedcecdececdece&dial=2125&SOA=525511111124&service=EMAIL2SMS
+2017-03-26T20:07:54-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-26T20:07:54-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-26T20:07:54-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-26T20:07:54-06:00 INFO (6): SE ENVIO
+2017-03-26T20:07:54-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 2125
+    [mt_operador] => Movistar
+    [mt_msisdn] => 5511111124
+    [mt_medio] => Base
+    [mt_folio] => 758d873fa256e76
+    [mt_contenido] => cedcecdececdece
+    [mt_fecha] => 2017-03-26 20:07:54
+    [mt_tag] => MASIVO
+    [mt_categoria] => PRUEBACASA
+    [usuario_id] => 1
+)
+
+2017-03-26T20:07:54-06:00 INFO (6): SE INSERTO: 1
+2017-03-26T20:07:54-06:00 INFO (6): -------------------------------------->
+2017-03-26T20:07:54-06:00 INFO (6): CONTADOR i: 15
+2017-03-26T20:07:54-06:00 INFO (6): ID:: 10763
+2017-03-26T20:07:54-06:00 INFO (6): MSISDN:: 5511111125
+2017-03-26T20:07:54-06:00 INFO (6): OPERADOR:: Movistar
+2017-03-26T20:07:54-06:00 INFO (6): MENSAJE A ENVIAR::..cedcecdececdece
+2017-03-26T20:07:54-06:00 INFO (6): URL: http://administrador.cm-operations.com/movistar/router/router_mt.php?username=sendsmsmovistar_2125&message=cedcecdececdece&dial=2125&SOA=525511111125&service=EMAIL2SMS
+2017-03-26T20:07:54-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-26T20:07:54-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-26T20:07:54-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-26T20:07:54-06:00 INFO (6): SE ENVIO
+2017-03-26T20:07:54-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 2125
+    [mt_operador] => Movistar
+    [mt_msisdn] => 5511111125
+    [mt_medio] => Base
+    [mt_folio] => 958d873fa2b9437
+    [mt_contenido] => cedcecdececdece
+    [mt_fecha] => 2017-03-26 20:07:54
+    [mt_tag] => MASIVO
+    [mt_categoria] => PRUEBACASA
+    [usuario_id] => 1
+)
+
+2017-03-26T20:07:54-06:00 INFO (6): SE INSERTO: 1
+2017-03-26T20:07:54-06:00 INFO (6): -------------------------------------->
+2017-03-26T20:07:54-06:00 INFO (6): CONTADOR i: 16
+2017-03-26T20:07:54-06:00 INFO (6): ID:: 10764
+2017-03-26T20:07:54-06:00 INFO (6): MSISDN:: 5511111126
+2017-03-26T20:07:54-06:00 INFO (6): OPERADOR:: Movistar
+2017-03-26T20:07:54-06:00 INFO (6): MENSAJE A ENVIAR::..cedcecdececdece
+2017-03-26T20:07:54-06:00 INFO (6): URL: http://administrador.cm-operations.com/movistar/router/router_mt.php?username=sendsmsmovistar_2125&message=cedcecdececdece&dial=2125&SOA=525511111126&service=EMAIL2SMS
+2017-03-26T20:07:54-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-26T20:07:54-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-26T20:07:54-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-26T20:07:54-06:00 INFO (6): SE ENVIO
+2017-03-26T20:07:54-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 2125
+    [mt_operador] => Movistar
+    [mt_msisdn] => 5511111126
+    [mt_medio] => Base
+    [mt_folio] => 258d873fa301d14
+    [mt_contenido] => cedcecdececdece
+    [mt_fecha] => 2017-03-26 20:07:54
+    [mt_tag] => MASIVO
+    [mt_categoria] => PRUEBACASA
+    [usuario_id] => 1
+)
+
+2017-03-26T20:07:54-06:00 INFO (6): SE INSERTO: 1
+2017-03-26T20:07:54-06:00 INFO (6): -------------------------------------->
+2017-03-26T20:07:54-06:00 INFO (6): CONTADOR i: 17
+2017-03-26T20:07:54-06:00 INFO (6): ID:: 10765
+2017-03-26T20:07:54-06:00 INFO (6): MSISDN:: 5511111127
+2017-03-26T20:07:54-06:00 INFO (6): OPERADOR:: Movistar
+2017-03-26T20:07:54-06:00 INFO (6): MENSAJE A ENVIAR::..cedcecdececdece
+2017-03-26T20:07:54-06:00 INFO (6): URL: http://administrador.cm-operations.com/movistar/router/router_mt.php?username=sendsmsmovistar_2125&message=cedcecdececdece&dial=2125&SOA=525511111127&service=EMAIL2SMS
+2017-03-26T20:07:54-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-26T20:07:54-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-26T20:07:54-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-26T20:07:54-06:00 INFO (6): SE ENVIO
+2017-03-26T20:07:54-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 2125
+    [mt_operador] => Movistar
+    [mt_msisdn] => 5511111127
+    [mt_medio] => Base
+    [mt_folio] => 458d873fa346a37
+    [mt_contenido] => cedcecdececdece
+    [mt_fecha] => 2017-03-26 20:07:54
+    [mt_tag] => MASIVO
+    [mt_categoria] => PRUEBACASA
+    [usuario_id] => 1
+)
+
+2017-03-26T20:07:54-06:00 INFO (6): SE INSERTO: 1
+2017-03-26T20:07:54-06:00 INFO (6): -------------------------------------->
+2017-03-26T20:07:54-06:00 INFO (6): CONTADOR i: 18
+2017-03-26T20:07:54-06:00 INFO (6): ID:: 10766
+2017-03-26T20:07:54-06:00 INFO (6): MSISDN:: 5511111128
+2017-03-26T20:07:54-06:00 INFO (6): OPERADOR:: Movistar
+2017-03-26T20:07:54-06:00 INFO (6): MENSAJE A ENVIAR::..cedcecdececdece
+2017-03-26T20:07:54-06:00 INFO (6): URL: http://administrador.cm-operations.com/movistar/router/router_mt.php?username=sendsmsmovistar_2125&message=cedcecdececdece&dial=2125&SOA=525511111128&service=EMAIL2SMS
+2017-03-26T20:07:54-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-26T20:07:54-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-26T20:07:54-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-26T20:07:54-06:00 INFO (6): SE ENVIO
+2017-03-26T20:07:54-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 2125
+    [mt_operador] => Movistar
+    [mt_msisdn] => 5511111128
+    [mt_medio] => Base
+    [mt_folio] => 058d873fa37da08
+    [mt_contenido] => cedcecdececdece
+    [mt_fecha] => 2017-03-26 20:07:54
+    [mt_tag] => MASIVO
+    [mt_categoria] => PRUEBACASA
+    [usuario_id] => 1
+)
+
+2017-03-26T20:07:54-06:00 INFO (6): SE INSERTO: 1
+2017-03-26T20:07:54-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-26T20:07:54-06:00 INFO (6): SE ACTUALIZO: 19
+2017-03-26T20:07:54-06:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 875,98
+)
+
+2017-03-26T20:07:54-06:00 INFO (6): SE ACTUALIZO:: 1
+2017-03-26T20:07:54-06:00 INFO (6): FIN::::::::........

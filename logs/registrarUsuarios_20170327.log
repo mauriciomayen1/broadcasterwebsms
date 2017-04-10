@@ -1,0 +1,29 @@
+2017-03-27T12:39:06-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-27T12:39:06-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-27T12:39:06-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-27T12:39:06-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>INICIO REGISTRO DE USUARIOS: 2017/03/27 12:39:06
+2017-03-27T12:39:06-06:00 INFO (6): REQUESTArray
+(
+    [usuarioURL] => 
+    [accion] => guardar
+    [PHPSESSID] => p0slapa788hhmufv4uqpuskk14
+)
+
+2017-03-27T12:39:06-06:00 INFO (6): NOMBRE: MADERIN
+2017-03-27T12:39:06-06:00 INFO (6): DESCRIPCION:  
+2017-03-27T12:39:06-06:00 INFO (6): USUARIOMADERIN
+2017-03-27T12:39:06-06:00 INFO (6): USUARIO FORMADO: MADERIN
+2017-03-27T12:39:06-06:00 INFO (6): URL GENERADA: http://broadcaster.cm-operations.com/dashboard/email2sms/bin/tu_empresa.php?msisdn=XXXXXXXXXX&message=MESSAGE&tag=58d95c4a47425&user=MADERIN
+2017-03-27T12:39:06-06:00 INFO (6): DATOS A INSERTAR EN LA BASE CLIENTES DEMO: Array
+(
+    [cliente_nombre] => MADERIN
+    [cliente_descripcion] =>  
+    [cliente_url] => http://broadcaster.cm-operations.com/dashboard/email2sms/bin/tu_empresa.php?msisdn=XXXXXXXXXX&message=MESSAGE&tag=58d95c4a47425&user=MADERIN
+    [cliente_usuario] => MADERIN
+    [cliente_agente] => MADERIN
+    [cliente_fecha] => 2017/03/27 12:39:06
+    [cliente_activo] => 1
+)
+
+2017-03-27T12:39:06-06:00 INFO (6): SE INSERTO: 1
+2017-03-27T12:39:06-06:00 INFO (6): Fin: 2017/03/27 12:39:06

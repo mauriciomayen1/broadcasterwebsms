@@ -1,0 +1,226 @@
+2017-03-21T15:34:47-06:00 INFO (6): ----------------------------------------------------
+2017-03-21T15:34:47-06:00 INFO (6): ----------------------------------------------------
+2017-03-21T15:34:47-06:00 INFO (6): ----------------------------------------------------
+2017-03-21T15:34:47-06:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-03-21T15:34:47-06:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5549444527
+    [message] => sdasdsadsajdhasdsa fasjdhjashdsahdjashdjashdjsahdj sahdjsahdjsahdjsa hdsajdhjksa djsa dhjashdjsahdjksahd jsahdjsa djas djas djsahd jsad jsad jsadkjsahkjd sajkdh
+    [caracteres] => 160
+    [accion] => enviar
+    [PHPSESSID] => je1vgcb0h0qj8lkpdoegoi3o90
+)
+
+2017-03-21T15:34:47-06:00 INFO (6): MSISDN: 5549444527
+2017-03-21T15:34:47-06:00 INFO (6): SMS: sdasdsadsajdhasdsa fasjdhjashdsahdjashdjashdjsahdj sahdjsahdjsahdjsa hdsajdhjksa djsa dhjashdjsahdjksahd jsahdjsa djas djas djsahd jsad jsad jsadkjsahkjd sajkdh
+2017-03-21T15:34:47-06:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-03-21T15:34:47-06:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-03-21T15:34:47-06:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-03-21T15:34:47-06:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: sdasdsadsajdhasdsa fasjdhjashdsahdjashdjashdjsahdj sahdjsahdjsahdjsa hdsajdhjksa djsa dhjashdjsahdjksahd jsahdjsa djas djas djsahd jsad jsad jsadkjsahkjd sajkdh
+2017-03-21T15:34:47-06:00 INFO (6): .
+2017-03-21T15:34:47-06:00 INFO (6): .
+2017-03-21T15:34:47-06:00 INFO (6): .
+2017-03-21T15:34:47-06:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: sdasdsadsajdhasdsa fasjdhjashdsahdjashdjashdjsahdj sahdjsahdjsahdjsa hdsajdhjksa djsa dhjashdjsahdjksahd jsahdjsa djas djas djsahd jsad jsad jsadkjsahkjd sajkdh
+2017-03-21T15:34:47-06:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: sdasdsadsajdhasdsa+fasjdhjashdsahdjashdjashdjsahdj+sahdjsahdjsahdjsa+hdsajdhjksa+djsa+dhjashdjsahdjksahd+jsahdjsa+djas+djas+djsahd+jsad+jsad+jsadkjsahkjd+sajkdh
+2017-03-21T15:34:47-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=sdasdsadsajdhasdsa+fasjdhjashdsahdjashdjashdjsahdj+sahdjsahdjsahdjsa+hdsajdhjksa+djsa+dhjashdjsahdjksahd+jsahdjsa+djas+djas+djsahd+jsad+jsad+jsadkjsahkjd+sajkdh
+2017-03-21T15:34:47-06:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-03-21T15:34:47-06:00 INFO (6): response:: 0: Accepted for delivery
+2017-03-21T15:34:47-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-21T15:34:47-06:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-03-21T15:34:47-06:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 858d19c772aa448
+    [mt_contenido] => sdasdsadsajdhasdsa fasjdhjashdsahdjashdjashdjsahdj sahdjsahdjsahdjsa hdsajdhjksa djsa dhjashdjsahdjksahd jsahdjsa djas djas djsahd jsad jsad jsadkjsahkjd sajkdh
+    [mt_fecha] => 2017-03-21 15:34:47
+    [mt_tag] => UNICO
+    [usuario_id] => 1
+)
+
+2017-03-21T15:34:47-06:00 INFO (6): SE INSERTO:: 1
+2017-03-21T15:34:47-06:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-03-21T15:34:47-06:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 25,18
+)
+
+2017-03-21T15:34:47-06:00 INFO (6): SE ACTUALIZO:: 1
+2017-03-21T15:35:29-06:00 INFO (6): ----------------------------------------------------
+2017-03-21T15:35:29-06:00 INFO (6): ----------------------------------------------------
+2017-03-21T15:35:29-06:00 INFO (6): ----------------------------------------------------
+2017-03-21T15:35:29-06:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-03-21T15:35:29-06:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5554995994
+    [message] => snsihsoqdhsudhasuid sadu ahsui dhsau dhiuas dhuisa dhuas dhuasidhiusahdiu hfewgfue wgUFEIW fehwi FEWUFHIUEw fhiuewFHIUEWFI EWG FIU EwgfuiyegW IUFGEwui fge fgiue
+    [caracteres] => 160
+    [accion] => enviar
+    [PHPSESSID] => je1vgcb0h0qj8lkpdoegoi3o90
+)
+
+2017-03-21T15:35:29-06:00 INFO (6): MSISDN: 5554995994
+2017-03-21T15:35:29-06:00 INFO (6): SMS: snsihsoqdhsudhasuid sadu ahsui dhsau dhiuas dhuisa dhuas dhuasidhiusahdiu hfewgfue wgUFEIW fehwi FEWUFHIUEw fhiuewFHIUEWFI EWG FIU EwgfuiyegW IUFGEwui fge fgiue
+2017-03-21T15:35:29-06:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-03-21T15:35:29-06:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-03-21T15:35:29-06:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-03-21T15:35:29-06:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: snsihsoqdhsudhasuid sadu ahsui dhsau dhiuas dhuisa dhuas dhuasidhiusahdiu hfewgfue wgUFEIW fehwi FEWUFHIUEw fhiuewFHIUEWFI EWG FIU EwgfuiyegW IUFGEwui fge fgiue
+2017-03-21T15:35:29-06:00 INFO (6): .
+2017-03-21T15:35:29-06:00 INFO (6): .
+2017-03-21T15:35:29-06:00 INFO (6): .
+2017-03-21T15:35:29-06:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: snsihsoqdhsudhasuid sadu ahsui dhsau dhiuas dhuisa dhuas dhuasidhiusahdiu hfewgfue wgUFEIW fehwi FEWUFHIUEw fhiuewFHIUEWFI EWG FIU EwgfuiyegW IUFGEwui fge fgiue
+2017-03-21T15:35:29-06:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: snsihsoqdhsudhasuid+sadu+ahsui+dhsau+dhiuas+dhuisa+dhuas+dhuasidhiusahdiu+hfewgfue+wgUFEIW+fehwi+FEWUFHIUEw+fhiuewFHIUEWFI+EWG+FIU+EwgfuiyegW+IUFGEwui+fge+fgiue
+2017-03-21T15:35:29-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525554995994&text=snsihsoqdhsudhasuid+sadu+ahsui+dhsau+dhiuas+dhuisa+dhuas+dhuasidhiusahdiu+hfewgfue+wgUFEIW+fehwi+FEWUFHIUEw+fhiuewFHIUEWFI+EWG+FIU+EwgfuiyegW+IUFGEwui+fge+fgiue
+2017-03-21T15:35:29-06:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-03-21T15:35:34-06:00 INFO (6): response:: 0: Accepted for delivery
+2017-03-21T15:35:34-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-21T15:35:34-06:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-03-21T15:35:34-06:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5554995994
+    [mt_medio] => Base
+    [mt_folio] => 258d19ca69fbff3
+    [mt_contenido] => snsihsoqdhsudhasuid sadu ahsui dhsau dhiuas dhuisa dhuas dhuasidhiusahdiu hfewgfue wgUFEIW fehwi FEWUFHIUEw fhiuewFHIUEWFI EWG FIU EwgfuiyegW IUFGEwui fge fgiue
+    [mt_fecha] => 2017-03-21 15:35:34
+    [mt_tag] => UNICO
+    [usuario_id] => 1
+)
+
+2017-03-21T15:35:34-06:00 INFO (6): SE INSERTO:: 1
+2017-03-21T15:35:34-06:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-03-21T15:35:34-06:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 24,6
+)
+
+2017-03-21T15:35:34-06:00 INFO (6): SE ACTUALIZO:: 1
+2017-03-21T15:41:48-06:00 INFO (6): ----------------------------------------------------
+2017-03-21T15:41:48-06:00 INFO (6): ----------------------------------------------------
+2017-03-21T15:41:48-06:00 INFO (6): ----------------------------------------------------
+2017-03-21T15:41:48-06:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-03-21T15:41:48-06:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5549444527
+    [message] => 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+    [caracteres] => 160
+    [accion] => enviar
+    [PHPSESSID] => je1vgcb0h0qj8lkpdoegoi3o90
+)
+
+2017-03-21T15:41:48-06:00 INFO (6): MSISDN: 5549444527
+2017-03-21T15:41:48-06:00 INFO (6): SMS: 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+2017-03-21T15:41:48-06:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-03-21T15:41:48-06:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-03-21T15:41:48-06:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-03-21T15:41:48-06:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+2017-03-21T15:41:48-06:00 INFO (6): .
+2017-03-21T15:41:48-06:00 INFO (6): .
+2017-03-21T15:41:48-06:00 INFO (6): .
+2017-03-21T15:41:48-06:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+2017-03-21T15:41:48-06:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+2017-03-21T15:41:48-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+2017-03-21T15:41:48-06:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-03-21T15:41:48-06:00 INFO (6): response:: 0: Accepted for delivery
+2017-03-21T15:41:48-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-21T15:41:48-06:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-03-21T15:41:48-06:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 258d19e1ce4bfb1
+    [mt_contenido] => 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+    [mt_fecha] => 2017-03-21 15:41:48
+    [mt_tag] => UNICO
+    [usuario_id] => 1
+)
+
+2017-03-21T15:41:48-06:00 INFO (6): SE INSERTO:: 1
+2017-03-21T15:41:48-06:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-03-21T15:41:48-06:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 24,02
+)
+
+2017-03-21T15:41:48-06:00 INFO (6): SE ACTUALIZO:: 1
+2017-03-21T15:46:53-06:00 INFO (6): ----------------------------------------------------
+2017-03-21T15:46:53-06:00 INFO (6): ----------------------------------------------------
+2017-03-21T15:46:53-06:00 INFO (6): ----------------------------------------------------
+2017-03-21T15:46:53-06:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-03-21T15:46:53-06:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5549444527
+    [message] => qewqeqweqwekwq ejq rjwq j ehqwehqwheqweqwbewqeiuwqheiuhwqiuehiquwheiuqwheiuqwheiuqwbfhq gfhjer fhewbFHAEWBFUEWbfuhqwbIFUEWFBeisbfiweFBIUwebf wbFGewbfgewHFBGHwhf
+    [caracteres] => 160
+    [accion] => enviar
+    [PHPSESSID] => je1vgcb0h0qj8lkpdoegoi3o90
+)
+
+2017-03-21T15:46:53-06:00 INFO (6): MSISDN: 5549444527
+2017-03-21T15:46:53-06:00 INFO (6): SMS: qewqeqweqwekwq ejq rjwq j ehqwehqwheqweqwbewqeiuwqheiuhwqiuehiquwheiuqwheiuqwheiuqwbfhq gfhjer fhewbFHAEWBFUEWbfuhqwbIFUEWFBeisbfiweFBIUwebf wbFGewbfgewHFBGHwhf
+2017-03-21T15:46:53-06:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-03-21T15:46:53-06:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-03-21T15:46:53-06:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-03-21T15:46:53-06:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: qewqeqweqwekwq ejq rjwq j ehqwehqwheqweqwbewqeiuwqheiuhwqiuehiquwheiuqwheiuqwheiuqwbfhq gfhjer fhewbFHAEWBFUEWbfuhqwbIFUEWFBeisbfiweFBIUwebf wbFGewbfgewHFBGHwhf
+2017-03-21T15:46:53-06:00 INFO (6): .
+2017-03-21T15:46:53-06:00 INFO (6): .
+2017-03-21T15:46:53-06:00 INFO (6): .
+2017-03-21T15:46:53-06:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: qewqeqweqwekwq ejq rjwq j ehqwehqwheqweqwbewqeiuwqheiuhwqiuehiquwheiuqwheiuqwheiuqwbfhq gfhjer fhewbFHAEWBFUEWbfuhqwbIFUEWFBeisbfiweFBIUwebf wbFGewbfgewHFBGHwhf
+2017-03-21T15:46:53-06:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: qewqeqweqwekwq+ejq+rjwq+j+ehqwehqwheqweqwbewqeiuwqheiuhwqiuehiquwheiuqwheiuqwheiuqwbfhq+gfhjer+fhewbFHAEWBFUEWbfuhqwbIFUEWFBeisbfiweFBIUwebf+wbFGewbfgewHFBGHwhf
+2017-03-21T15:46:53-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=qewqeqweqwekwq+ejq+rjwq+j+ehqwehqwheqweqwbewqeiuwqheiuhwqiuehiquwheiuqwheiuqwheiuqwbfhq+gfhjer+fhewbFHAEWBFUEWbfuhqwbIFUEWFBeisbfiweFBIUwebf+wbFGewbfgewHFBGHwhf
+2017-03-21T15:46:53-06:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-03-21T15:46:53-06:00 INFO (6): response:: 0: Accepted for delivery
+2017-03-21T15:46:53-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-21T15:46:53-06:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-03-21T15:46:53-06:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 358d19f4d4409f7
+    [mt_contenido] => qewqeqweqwekwq ejq rjwq j ehqwehqwheqweqwbewqeiuwqheiuhwqiuehiquwheiuqwheiuqwheiuqwbfhq gfhjer fhewbFHAEWBFUEWbfuhqwbIFUEWFBeisbfiweFBIUwebf wbFGewbfgewHFBGHwhf
+    [mt_fecha] => 2017-03-21 15:46:53
+    [mt_tag] => UNICO
+    [usuario_id] => 1
+)
+
+2017-03-21T15:46:53-06:00 INFO (6): SE INSERTO:: 1
+2017-03-21T15:46:53-06:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-03-21T15:46:53-06:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 23,44
+)
+
+2017-03-21T15:46:53-06:00 INFO (6): SE ACTUALIZO:: 1
+2017-03-21T15:50:40-06:00 INFO (6): ----------------------------------------------------
+2017-03-21T15:50:40-06:00 INFO (6): ----------------------------------------------------
+2017-03-21T15:50:40-06:00 INFO (6): ----------------------------------------------------
+2017-03-21T15:50:40-06:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-03-21T15:50:40-06:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5549444527
+    [message] => oifhwf feuf9ew fuewFU WE90fuew f ew f euw F9 0EWfu9ewUF 9EWUF9EW fu ewF  ew90fewu9fuewF9UEWF90UE W9F0u we9f euwF9 UEWF 9EW FU9EW fuew9fu9ewUF9EWUF9Euf09euf9ew0F
+    [caracteres] => 160
+    [accion] => enviar
+    [PHPSESSID] => je1vgcb0h0qj8lkpdoegoi3o90
+)
+
+2017-03-21T15:50:40-06:00 INFO (6): MSISDN: 5549444527
+2017-03-21T15:50:40-06:00 INFO (6): SMS: oifhwf feuf9ew fuewFU WE90fuew f ew f euw F9 0EWfu9ewUF 9EWUF9EW fu ewF  ew90fewu9fuewF9UEWF90UE W9F0u we9f euwF9 UEWF 9EW FU9EW fuew9fu9ewUF9EWUF9Euf09euf9ew0F
+2017-03-21T15:50:40-06:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-03-21T15:50:40-06:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-03-21T15:50:40-06:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-03-21T15:50:40-06:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: oifhwf feuf9ew fuewFU WE90fuew f ew f euw F9 0EWfu9ewUF 9EWUF9EW fu ewF  ew90fewu9fuewF9UEWF90UE W9F0u we9f euwF9 UEWF 9EW FU9EW fuew9fu9ewUF9EWUF9Euf09euf9ew0F
+2017-03-21T15:50:40-06:00 INFO (6): .
+2017-03-21T15:50:40-06:00 INFO (6): .
+2017-03-21T15:50:40-06:00 INFO (6): .
+2017-03-21T15:50:40-06:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: oifhwf feuf9ew fuewFU WE90fuew f ew f euw F9 0EWfu9ewUF 9EWUF9EW fu ewF  ew90fewu9fuewF9UEWF90UE W9F0u we9f euwF9 UEWF 9EW FU9EW fuew9fu9ewUF9EWUF9Euf09euf9ew0F
+2017-03-21T15:50:40-06:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: oifhwf+feuf9ew+fuewFU+WE90fuew+f+ew+f+euw+F9+0EWfu9ewUF+9EWUF9EW+fu+ewF++ew90fewu9fuewF9UEWF90UE+W9F0u+we9f+euwF9+UEWF+9EW+FU9EW+fuew9fu9ewUF9EWUF9Euf09euf9ew0F
+2017-03-21T15:50:40-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oifhwf+feuf9ew+fuewFU+WE90fuew+f+ew+f+euw+F9+0EWfu9ewUF+9EWUF9EW+fu+ewF++ew90fewu9fuewF9UEWF90UE+W9F0u+we9f+euwF9+UEWF+9EW+FU9EW+fuew9fu9ewUF9EWUF9Euf09euf9ew0F
+2017-03-21T15:50:40-06:00 INFO (6): No tiene crédito suficiente

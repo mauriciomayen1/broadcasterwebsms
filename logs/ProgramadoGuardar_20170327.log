@@ -1,0 +1,63 @@
+2017-03-27T11:22:06-06:00 INFO (6): ------------------------------------------------
+2017-03-27T11:22:06-06:00 INFO (6): ------------------------------------------------
+2017-03-27T11:22:06-06:00 INFO (6): ------------------------------------------------
+2017-03-27T11:22:06-06:00 INFO (6): ---- ENVIO PROGRAMADOS - FN GUARDAR ------------
+2017-03-27T11:22:06-06:00 INFO (6): REQUESTArray
+(
+    [categoria] => prueba 1
+    [fechaenvio] => 2017-03-27
+    [horaenvio] => 22de77ffb0f2990
+    [msgtxt] => 
+    [caracteres] => 
+    [accion] => guardar
+    [PHPSESSID] => 8fgu7p454l0l13pqkfbhehuj36
+)
+
+2017-03-27T11:22:06-06:00 INFO (6): CATEGORIA: prueba 1
+2017-03-27T11:22:06-06:00 INFO (6): HORA DE ENVIO: 22de77ffb0f2990
+2017-03-27T11:22:06-06:00 INFO (6): FECHA DE ENVIO: 2017-03-27
+2017-03-27T11:22:06-06:00 INFO (6): MENSAJE: 
+2017-03-27T11:22:06-06:00 INFO (6): CAMPANIA: gaby
+2017-03-27T11:22:06-06:00 INFO (6): NO LLENO TODOS O ALGUNOS DE LOS CAMPOS
+2017-03-27T11:22:06-06:00 INFO (6): FIN:::...
+2017-03-27T11:22:28-06:00 INFO (6): ------------------------------------------------
+2017-03-27T11:22:28-06:00 INFO (6): ------------------------------------------------
+2017-03-27T11:22:28-06:00 INFO (6): ------------------------------------------------
+2017-03-27T11:22:28-06:00 INFO (6): ---- ENVIO PROGRAMADOS - FN GUARDAR ------------
+2017-03-27T11:22:28-06:00 INFO (6): REQUESTArray
+(
+    [categoria] => prueba 1
+    [fechaenvio] => 2017-03-27
+    [horaenvio] => 04c069bb9f37c19
+    [msgtxt] => prueba
+    [caracteres] => 6
+    [accion] => guardar
+    [PHPSESSID] => 8fgu7p454l0l13pqkfbhehuj36
+)
+
+2017-03-27T11:22:29-06:00 INFO (6): CATEGORIA: prueba 1
+2017-03-27T11:22:29-06:00 INFO (6): HORA DE ENVIO: 04c069bb9f37c19
+2017-03-27T11:22:29-06:00 INFO (6): FECHA DE ENVIO: 2017-03-27
+2017-03-27T11:22:29-06:00 INFO (6): MENSAJE: prueba
+2017-03-27T11:22:29-06:00 INFO (6): CAMPANIA: gaby
+2017-03-27T11:22:29-06:00 INFO (6): SI REQUESITO TODOS LOS CAMPOS
+2017-03-27T11:22:29-06:00 INFO (6): DIFERENCIA: 0
+2017-03-27T11:22:29-06:00 INFO (6): ES UNA FECHA VALIDAD, AUN NO HA PASADO
+2017-03-27T11:22:29-06:00 INFO (6): DATOS A INSERTAR EN LA BASE MENSAJES PROGRAMADOS: Array
+(
+    [mensaje_horario] => 04c069bb9f37c19
+    [mensaje_horarionombre] => 14:00:00
+    [mensaje_mensaje] => prueba
+    [mensaje_nombre] => gaby
+    [mensaje_fechaenvio] => 2017-03-27
+    [mensaje_descripcion] => gaby
+    [mensaje_fechaalta] => 2017/03/27 11:22:29
+    [mensaje_activo] => 1
+    [mensaje_region] => prueba 1
+    [mensaje_ocupacion] => prueba 1
+    [mensaje_procesado] => 1
+    [mensaje_usuario] => 55
+)
+
+2017-03-27T11:22:29-06:00 INFO (6): SE INSERTO: 1
+2017-03-27T11:22:29-06:00 INFO (6): FIN:::...

@@ -1,0 +1,126 @@
+2017-03-24T12:53:47-06:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-03-24T12:53:47-06:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-03-24T12:53:47-06:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-03-24T12:53:47-06:00 INFO (6): ->->->->->->->->->->->->->->->->->->->-> FUNCION URL MT WS: 2017/03/24 12:53:47
+2017-03-24T12:53:47-06:00 INFO (6): _REQUEST::Array
+(
+    [msisdn] => XXXXXXXXXX
+    [message] => MESSAGE
+    [tag] => TAG
+    [user] => Administrador
+    [PHPSESSID] => je1vgcb0h0qj8lkpdoegoi3o90
+)
+
+2017-03-24T12:53:47-06:00 INFO (6): IP::: 201.149.88.206
+2017-03-24T12:53:47-06:00 INFO (6): MSISDN::: XXXXXXXXXX
+2017-03-24T12:53:47-06:00 INFO (6): SMS::: MESSAGE
+2017-03-24T12:53:47-06:00 INFO (6): TAG::: TAG
+2017-03-24T12:53:47-06:00 INFO (6): USER::: Administrador
+2017-03-24T12:53:47-06:00 INFO (6): QUERY BUSQUEDA::: Select count(*) as total from clientes_demo where cliente_usuario like 'Administrador' and cliente_activo = 1
+2017-03-24T12:53:47-06:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN clientes_demo FUERON::: 1
+2017-03-24T12:53:47-06:00 INFO (6): SI ES UN USUARIO ACTIVO.
+2017-03-24T12:53:47-06:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN SMS DEL NUMERO FUERON::: 0
+2017-03-24T12:53:47-06:00 INFO (6): ENTRO A DATA 24.
+2017-03-24T12:53:47-06:00 INFO (6): URL ARMADA   ::https://api.data24-7.com/v/2.0?api=C&user=miguel.pacheco&pass=operations2015&p1=52XXXXXXXXXX
+2017-03-24T12:53:47-06:00 INFO (6): XML ARMADO   ::
+2017-03-24T12:53:48-06:00 INFO (6): RESPUESTA: 
+2017-03-24T12:53:48-06:00 INFO (6): NOMBRE DE LA EMPRESA   ::
+2017-03-24T12:53:48-06:00 INFO (6): ID OPERADOR   ::
+2017-03-24T12:53:48-06:00 INFO (6): SE ENCONTRO EN BASE DE DATOS.
+2017-03-24T12:53:48-06:00 INFO (6): Fin
+2017-03-24T12:53:56-06:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-03-24T12:53:56-06:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-03-24T12:53:56-06:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-03-24T12:53:56-06:00 INFO (6): ->->->->->->->->->->->->->->->->->->->-> FUNCION URL MT WS: 2017/03/24 12:53:56
+2017-03-24T12:53:56-06:00 INFO (6): _REQUEST::Array
+(
+    [msisdn] => 5549444527
+    [message] => MESSAGE
+    [tag] => TAG
+    [user] => Administrador
+    [PHPSESSID] => je1vgcb0h0qj8lkpdoegoi3o90
+)
+
+2017-03-24T12:53:56-06:00 INFO (6): IP::: 201.149.88.206
+2017-03-24T12:53:56-06:00 INFO (6): MSISDN::: 5549444527
+2017-03-24T12:53:56-06:00 INFO (6): SMS::: MESSAGE
+2017-03-24T12:53:56-06:00 INFO (6): TAG::: TAG
+2017-03-24T12:53:56-06:00 INFO (6): USER::: Administrador
+2017-03-24T12:53:56-06:00 INFO (6): QUERY BUSQUEDA::: Select count(*) as total from clientes_demo where cliente_usuario like 'Administrador' and cliente_activo = 1
+2017-03-24T12:53:56-06:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN clientes_demo FUERON::: 1
+2017-03-24T12:53:56-06:00 INFO (6): SI ES UN USUARIO ACTIVO.
+2017-03-24T12:53:56-06:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN SMS DEL NUMERO FUERON::: 780
+2017-03-24T12:53:56-06:00 INFO (6): SI SE ENCONTRO EN BASE::..
+2017-03-24T12:53:56-06:00 INFO (6): Operador::: Telcel
+2017-03-24T12:53:56-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=5549444527&text=MESSAGE
+2017-03-24T12:53:56-06:00 INFO (6): RESPUESTA: 0: Accepted for delivery
+2017-03-24T12:53:56-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 758d56b44104c11
+    [mt_contenido] => MESSAGE
+    [mt_fecha] => 2017-03-24 12:53:56
+    [mt_tag] => WS
+    [mt_categoria] => TAG
+    [usuario_id] => 1
+)
+
+2017-03-24T12:53:56-06:00 INFO (6): Se inserto:: 1
+2017-03-24T12:53:56-06:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 884,68
+)
+
+2017-03-24T12:53:56-06:00 INFO (6): SE ACTUALIZO:: 1
+2017-03-24T12:53:56-06:00 INFO (6): Fin
+2017-03-24T17:07:37-06:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-03-24T17:07:37-06:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-03-24T17:07:37-06:00 INFO (6): ->->->->->->->->->->->->->->->->->->->->
+2017-03-24T17:07:37-06:00 INFO (6): ->->->->->->->->->->->->->->->->->->->-> FUNCION URL MT WS: 2017/03/24 17:07:37
+2017-03-24T17:07:37-06:00 INFO (6): _REQUEST::Array
+(
+    [msisdn] => 5549444527
+    [message] => MESSAGE
+    [tag] => 58d5a69d99582
+    [user] => Administrador
+    [PHPSESSID] => je1vgcb0h0qj8lkpdoegoi3o90
+)
+
+2017-03-24T17:07:37-06:00 INFO (6): IP::: 201.149.88.206
+2017-03-24T17:07:37-06:00 INFO (6): MSISDN::: 5549444527
+2017-03-24T17:07:37-06:00 INFO (6): SMS::: MESSAGE
+2017-03-24T17:07:37-06:00 INFO (6): TAG::: 58d5a69d99582
+2017-03-24T17:07:37-06:00 INFO (6): USER::: Administrador
+2017-03-24T17:07:37-06:00 INFO (6): QUERY BUSQUEDA::: Select count(*) as total from clientes_demo where cliente_usuario like 'Administrador' and cliente_activo = 1
+2017-03-24T17:07:37-06:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN clientes_demo FUERON::: 1
+2017-03-24T17:07:37-06:00 INFO (6): SI ES UN USUARIO ACTIVO.
+2017-03-24T17:07:37-06:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN SMS DEL NUMERO FUERON::: 782
+2017-03-24T17:07:37-06:00 INFO (6): SI SE ENCONTRO EN BASE::..
+2017-03-24T17:07:37-06:00 INFO (6): Operador::: Telcel
+2017-03-24T17:07:37-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=5549444527&text=MESSAGE
+2017-03-24T17:07:43-06:00 INFO (6): RESPUESTA: 0: Accepted for delivery
+2017-03-24T17:07:43-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 158d5a6bff3c513
+    [mt_contenido] => MESSAGE
+    [mt_fecha] => 2017-03-24 17:07:43
+    [mt_tag] => WS
+    [mt_categoria] => 58d5a69d99582
+    [usuario_id] => 1
+)
+
+2017-03-24T17:07:44-06:00 INFO (6): Se inserto:: 1
+2017-03-24T17:07:44-06:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 883,52
+)
+
+2017-03-24T17:07:44-06:00 INFO (6): SE ACTUALIZO:: 1
+2017-03-24T17:07:44-06:00 INFO (6): Fin

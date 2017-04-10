@@ -1,0 +1,394 @@
+2017-03-29T09:36:39-06:00 INFO (6): ------------------------------------------------
+2017-03-29T09:36:39-06:00 INFO (6): ------------------------------------------------
+2017-03-29T09:36:39-06:00 INFO (6): ------------------------------------------------
+2017-03-29T09:36:39-06:00 INFO (6): ---- ENVIO PROGRAMADOS - FN COMPARAR FECHAS ----
+2017-03-29T09:36:39-06:00 INFO (6): REQUESTArray
+(
+    [categoria] => nueva
+    [fechaenvio] => 2017-03-29
+    [horaenvio] => 44c0342125f59f5
+    [msgtxt] => hey 2
+    [caracteres] => 5
+    [accion] => guardar
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T09:36:39-06:00 INFO (6): PRIMERA FECHA:: 2017-03-29
+2017-03-29T09:36:39-06:00 INFO (6): SEGUNDA FECHA:: 2017-03-29
+2017-03-29T10:43:07-06:00 INFO (6): ------------------------------------------------
+2017-03-29T10:43:07-06:00 INFO (6): ------------------------------------------------
+2017-03-29T10:43:07-06:00 INFO (6): ------------------------------------------------
+2017-03-29T10:43:07-06:00 INFO (6): ---- ENVIO PROGRAMADOS - FN COMPARAR FECHAS ----
+2017-03-29T10:43:07-06:00 INFO (6): REQUESTArray
+(
+    [categoria] => nueva
+    [fechaenvio] => 2017-03-29
+    [horaenvio] => 64c03b50e85e7d1
+    [msgtxt] => Hey jude lalalalalal
+    [caracteres] => 20
+    [accion] => guardar
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T10:43:07-06:00 INFO (6): PRIMERA FECHA:: 2017-03-29
+2017-03-29T10:43:07-06:00 INFO (6): SEGUNDA FECHA:: 2017-03-29
+2017-03-29T10:52:39-06:00 INFO (6): ------------------------------------------------
+2017-03-29T10:52:39-06:00 INFO (6): ------------------------------------------------
+2017-03-29T10:52:39-06:00 INFO (6): ------------------------------------------------
+2017-03-29T10:52:39-06:00 INFO (6): ---- ENVIO PROGRAMADOS - FN COMPARAR FECHAS ----
+2017-03-29T10:52:39-06:00 INFO (6): REQUESTArray
+(
+    [categoria] => nueva
+    [fechaenvio] => 2017-03-29
+    [horaenvio] => 11de33ffb0f9996
+    [msgtxt] => sfdafadfadfd
+    [caracteres] => 12
+    [accion] => guardar
+    [retenido] => 1.16
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T10:52:39-06:00 INFO (6): PRIMERA FECHA:: 2017-03-29
+2017-03-29T10:52:39-06:00 INFO (6): SEGUNDA FECHA:: 2017-03-29
+2017-03-29T10:53:38-06:00 INFO (6): ------------------------------------------------
+2017-03-29T10:53:38-06:00 INFO (6): ------------------------------------------------
+2017-03-29T10:53:38-06:00 INFO (6): ------------------------------------------------
+2017-03-29T10:53:38-06:00 INFO (6): ---- ENVIO PROGRAMADOS - FN COMPARAR FECHAS ----
+2017-03-29T10:53:38-06:00 INFO (6): REQUESTArray
+(
+    [categoria] => nueva
+    [fechaenvio] => 2017-03-29
+    [horaenvio] => 22de77ffb0f2990
+    [msgtxt] => adsdsa
+    [caracteres] => 6
+    [accion] => guardar
+    [retenido] => 1.16
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T10:53:38-06:00 INFO (6): PRIMERA FECHA:: 2017-03-29
+2017-03-29T10:53:38-06:00 INFO (6): SEGUNDA FECHA:: 2017-03-29
+2017-03-29T10:54:01-06:00 INFO (6): ------------------------------------------------
+2017-03-29T10:54:01-06:00 INFO (6): ------------------------------------------------
+2017-03-29T10:54:01-06:00 INFO (6): ------------------------------------------------
+2017-03-29T10:54:01-06:00 INFO (6): ---- ENVIO PROGRAMADOS - FN COMPARAR FECHAS ----
+2017-03-29T10:54:01-06:00 INFO (6): REQUESTArray
+(
+    [categoria] => nueva
+    [fechaenvio] => 2017-03-29
+    [horaenvio] => 22de77ffb0f2990
+    [msgtxt] => adsdsa
+    [caracteres] => 6
+    [accion] => guardar
+    [retenido] => 1.16
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T10:54:01-06:00 INFO (6): PRIMERA FECHA:: 2017-03-29
+2017-03-29T10:54:01-06:00 INFO (6): SEGUNDA FECHA:: 2017-03-29
+2017-03-29T10:54:35-06:00 INFO (6): ------------------------------------------------
+2017-03-29T10:54:35-06:00 INFO (6): ------------------------------------------------
+2017-03-29T10:54:35-06:00 INFO (6): ------------------------------------------------
+2017-03-29T10:54:35-06:00 INFO (6): ---- ENVIO PROGRAMADOS - FN COMPARAR FECHAS ----
+2017-03-29T10:54:35-06:00 INFO (6): REQUESTArray
+(
+    [categoria] => nueva
+    [fechaenvio] => 2017-03-29
+    [horaenvio] => 64c0d309f24d0d6
+    [msgtxt] => Hola
+    [caracteres] => 4
+    [accion] => guardar
+    [retenido] => 1.16
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T10:54:35-06:00 INFO (6): PRIMERA FECHA:: 2017-03-29
+2017-03-29T10:54:35-06:00 INFO (6): SEGUNDA FECHA:: 2017-03-29
+2017-03-29T10:55:01-06:00 INFO (6): ------------------------------------------------
+2017-03-29T10:55:01-06:00 INFO (6): ------------------------------------------------
+2017-03-29T10:55:01-06:00 INFO (6): ------------------------------------------------
+2017-03-29T10:55:01-06:00 INFO (6): ---- ENVIO PROGRAMADOS - FN COMPARAR FECHAS ----
+2017-03-29T10:55:01-06:00 INFO (6): REQUESTArray
+(
+    [categoria] => dummy2
+    [fechaenvio] => 2017-03-29
+    [horaenvio] => 11de33ffb0f9990
+    [msgtxt] => hey jude
+    [caracteres] => 8
+    [accion] => guardar
+    [retenido] => 40.6
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T10:55:01-06:00 INFO (6): PRIMERA FECHA:: 2017-03-29
+2017-03-29T10:55:01-06:00 INFO (6): SEGUNDA FECHA:: 2017-03-29
+2017-03-29T11:09:59-06:00 INFO (6): ------------------------------------------------
+2017-03-29T11:09:59-06:00 INFO (6): ------------------------------------------------
+2017-03-29T11:09:59-06:00 INFO (6): ------------------------------------------------
+2017-03-29T11:09:59-06:00 INFO (6): ---- ENVIO PROGRAMADOS - FN COMPARAR FECHAS ----
+2017-03-29T11:09:59-06:00 INFO (6): REQUESTArray
+(
+    [categoria] => nueva
+    [fechaenvio] => 2017-03-29
+    [horaenvio] => 64c03b50e85e7d1
+    [msgtxt] => yes man
+    [caracteres] => 7
+    [accion] => guardar
+    [retenido] => 1.16
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T11:09:59-06:00 INFO (6): PRIMERA FECHA:: 2017-03-29
+2017-03-29T11:09:59-06:00 INFO (6): SEGUNDA FECHA:: 2017-03-29
+2017-03-29T11:18:39-06:00 INFO (6): ------------------------------------------------
+2017-03-29T11:18:39-06:00 INFO (6): ------------------------------------------------
+2017-03-29T11:18:39-06:00 INFO (6): ------------------------------------------------
+2017-03-29T11:18:39-06:00 INFO (6): ---- ENVIO PROGRAMADOS - FN COMPARAR FECHAS ----
+2017-03-29T11:18:39-06:00 INFO (6): REQUESTArray
+(
+    [categoria] => dummy2
+    [fechaenvio] => 2017-03-29
+    [horaenvio] => 22de77ffb0f2995
+    [msgtxt] => weed
+    [caracteres] => 4
+    [accion] => guardar
+    [retenido] => 40.6
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T11:18:39-06:00 INFO (6): PRIMERA FECHA:: 2017-03-29
+2017-03-29T11:18:39-06:00 INFO (6): SEGUNDA FECHA:: 2017-03-29
+2017-03-29T11:18:55-06:00 INFO (6): ------------------------------------------------
+2017-03-29T11:18:55-06:00 INFO (6): ------------------------------------------------
+2017-03-29T11:18:55-06:00 INFO (6): ------------------------------------------------
+2017-03-29T11:18:55-06:00 INFO (6): ---- ENVIO PROGRAMADOS - FN COMPARAR FECHAS ----
+2017-03-29T11:18:55-06:00 INFO (6): REQUESTArray
+(
+    [categoria] => dummy2
+    [fechaenvio] => 2017-03-29
+    [horaenvio] => 11de33ffb0f9995
+    [msgtxt] => weed2
+    [caracteres] => 5
+    [accion] => guardar
+    [retenido] => 40.6
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T11:18:55-06:00 INFO (6): PRIMERA FECHA:: 2017-03-29
+2017-03-29T11:18:55-06:00 INFO (6): SEGUNDA FECHA:: 2017-03-29
+2017-03-29T11:53:05-06:00 INFO (6): ------------------------------------------------
+2017-03-29T11:53:05-06:00 INFO (6): ------------------------------------------------
+2017-03-29T11:53:05-06:00 INFO (6): ------------------------------------------------
+2017-03-29T11:53:05-06:00 INFO (6): ---- ENVIO PROGRAMADOS - FN COMPARAR FECHAS ----
+2017-03-29T11:53:05-06:00 INFO (6): REQUESTArray
+(
+    [categoria] => nueva
+    [fechaenvio] => 2017-03-29
+    [horaenvio] => 64c03b50e85e7d6
+    [msgtxt] => quitame ese hombre del corazón
+    [caracteres] => 30
+    [accion] => guardar
+    [retenido] => 1.16
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T11:53:05-06:00 INFO (6): PRIMERA FECHA:: 2017-03-29
+2017-03-29T11:53:05-06:00 INFO (6): SEGUNDA FECHA:: 2017-03-29
+2017-03-29T12:21:23-06:00 INFO (6): ------------------------------------------------
+2017-03-29T12:21:23-06:00 INFO (6): ------------------------------------------------
+2017-03-29T12:21:23-06:00 INFO (6): ------------------------------------------------
+2017-03-29T12:21:23-06:00 INFO (6): ---- ENVIO PROGRAMADOS - FN COMPARAR FECHAS ----
+2017-03-29T12:21:23-06:00 INFO (6): REQUESTArray
+(
+    [categoria] => nueva
+    [fechaenvio] => 2017-03-29
+    [horaenvio] => 24c03b5364d69a6
+    [msgtxt] => And I love you
+    [caracteres] => 14
+    [accion] => guardar
+    [retenido] => 1.16
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T12:21:23-06:00 INFO (6): PRIMERA FECHA:: 2017-03-29
+2017-03-29T12:21:23-06:00 INFO (6): SEGUNDA FECHA:: 2017-03-29
+2017-03-29T12:39:39-06:00 INFO (6): ------------------------------------------------
+2017-03-29T12:39:39-06:00 INFO (6): ------------------------------------------------
+2017-03-29T12:39:39-06:00 INFO (6): ------------------------------------------------
+2017-03-29T12:39:39-06:00 INFO (6): ---- ENVIO PROGRAMADOS - FN COMPARAR FECHAS ----
+2017-03-29T12:39:39-06:00 INFO (6): REQUESTArray
+(
+    [categoria] => nueva
+    [fechaenvio] => 2017-03-29
+    [horaenvio] => 44c056202798260
+    [msgtxt] => and I love her
+    [caracteres] => 14
+    [accion] => guardar
+    [retenido] => 1.16
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T12:39:39-06:00 INFO (6): PRIMERA FECHA:: 2017-03-29
+2017-03-29T12:39:39-06:00 INFO (6): SEGUNDA FECHA:: 2017-03-29
+2017-03-29T14:03:42-06:00 INFO (6): ------------------------------------------------
+2017-03-29T14:03:42-06:00 INFO (6): ------------------------------------------------
+2017-03-29T14:03:42-06:00 INFO (6): ------------------------------------------------
+2017-03-29T14:03:42-06:00 INFO (6): ---- ENVIO PROGRAMADOS - FN COMPARAR FECHAS ----
+2017-03-29T14:03:42-06:00 INFO (6): REQUESTArray
+(
+    [categoria] => nueva
+    [fechaenvio] => 2017-03-29
+    [horaenvio] => 44c056202798266
+    [msgtxt] => ella noes iediweijdijewiodjq
+    [caracteres] => 28
+    [accion] => guardar
+    [retenido] => 1.16
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T14:03:42-06:00 INFO (6): PRIMERA FECHA:: 2017-03-29
+2017-03-29T14:03:42-06:00 INFO (6): SEGUNDA FECHA:: 2017-03-29
+2017-03-29T14:06:59-06:00 INFO (6): ------------------------------------------------
+2017-03-29T14:06:59-06:00 INFO (6): ------------------------------------------------
+2017-03-29T14:06:59-06:00 INFO (6): ------------------------------------------------
+2017-03-29T14:06:59-06:00 INFO (6): ---- ENVIO PROGRAMADOS - FN COMPARAR FECHAS ----
+2017-03-29T14:06:59-06:00 INFO (6): REQUESTArray
+(
+    [categoria] => nueva
+    [fechaenvio] => 2017-03-29
+    [horaenvio] => 24c03b5364d69a6
+    [msgtxt] => hey hey hey hey
+    [caracteres] => 15
+    [accion] => guardar
+    [retenido] => 1.16
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T14:06:59-06:00 INFO (6): PRIMERA FECHA:: 2017-03-29
+2017-03-29T14:06:59-06:00 INFO (6): SEGUNDA FECHA:: 2017-03-29
+2017-03-29T14:11:36-06:00 INFO (6): ------------------------------------------------
+2017-03-29T14:11:36-06:00 INFO (6): ------------------------------------------------
+2017-03-29T14:11:36-06:00 INFO (6): ------------------------------------------------
+2017-03-29T14:11:36-06:00 INFO (6): ---- ENVIO PROGRAMADOS - FN COMPARAR FECHAS ----
+2017-03-29T14:11:36-06:00 INFO (6): REQUESTArray
+(
+    [categoria] => dummy2
+    [fechaenvio] => 2017-03-29
+    [horaenvio] => 44c056202798266
+    [msgtxt] => Mensaje que naco soy 
+    [caracteres] => 21
+    [accion] => guardar
+    [retenido] => 40.6
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T14:11:36-06:00 INFO (6): PRIMERA FECHA:: 2017-03-29
+2017-03-29T14:11:36-06:00 INFO (6): SEGUNDA FECHA:: 2017-03-29
+2017-03-29T14:12:15-06:00 INFO (6): ------------------------------------------------
+2017-03-29T14:12:15-06:00 INFO (6): ------------------------------------------------
+2017-03-29T14:12:15-06:00 INFO (6): ------------------------------------------------
+2017-03-29T14:12:15-06:00 INFO (6): ---- ENVIO PROGRAMADOS - FN COMPARAR FECHAS ----
+2017-03-29T14:12:15-06:00 INFO (6): REQUESTArray
+(
+    [categoria] => dummy2
+    [fechaenvio] => 2017-03-29
+    [horaenvio] => 44c056202798266
+    [msgtxt] => Mensaje que naco soy
+    [caracteres] => 20
+    [accion] => guardar
+    [retenido] => 40.6
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T14:12:15-06:00 INFO (6): PRIMERA FECHA:: 2017-03-29
+2017-03-29T14:12:15-06:00 INFO (6): SEGUNDA FECHA:: 2017-03-29
+2017-03-29T14:12:45-06:00 INFO (6): ------------------------------------------------
+2017-03-29T14:12:45-06:00 INFO (6): ------------------------------------------------
+2017-03-29T14:12:45-06:00 INFO (6): ------------------------------------------------
+2017-03-29T14:12:45-06:00 INFO (6): ---- ENVIO PROGRAMADOS - FN COMPARAR FECHAS ----
+2017-03-29T14:12:45-06:00 INFO (6): REQUESTArray
+(
+    [categoria] => nueva
+    [fechaenvio] => 2017-03-29
+    [horaenvio] => 44c056202798260
+    [msgtxt] => hola amigos
+    [caracteres] => 11
+    [accion] => guardar
+    [retenido] => 1.16
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T14:12:45-06:00 INFO (6): PRIMERA FECHA:: 2017-03-29
+2017-03-29T14:12:45-06:00 INFO (6): SEGUNDA FECHA:: 2017-03-29
+2017-03-29T15:12:51-06:00 INFO (6): ------------------------------------------------
+2017-03-29T15:12:51-06:00 INFO (6): ------------------------------------------------
+2017-03-29T15:12:51-06:00 INFO (6): ------------------------------------------------
+2017-03-29T15:12:51-06:00 INFO (6): ---- ENVIO PROGRAMADOS - FN COMPARAR FECHAS ----
+2017-03-29T15:12:51-06:00 INFO (6): REQUESTArray
+(
+    [categoria] => nueva
+    [fechaenvio] => 2017-03-29
+    [horaenvio] => 24c03b5364d69a6
+    [msgtxt] => No sir, I can't boogie
+    [caracteres] => 22
+    [accion] => guardar
+    [retenido] => 1.16
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T15:12:51-06:00 INFO (6): PRIMERA FECHA:: 2017-03-29
+2017-03-29T15:12:51-06:00 INFO (6): SEGUNDA FECHA:: 2017-03-29
+2017-03-29T15:13:27-06:00 INFO (6): ------------------------------------------------
+2017-03-29T15:13:27-06:00 INFO (6): ------------------------------------------------
+2017-03-29T15:13:27-06:00 INFO (6): ------------------------------------------------
+2017-03-29T15:13:27-06:00 INFO (6): ---- ENVIO PROGRAMADOS - FN COMPARAR FECHAS ----
+2017-03-29T15:13:27-06:00 INFO (6): REQUESTArray
+(
+    [categoria] => nueva
+    [fechaenvio] => 2017-03-29
+    [horaenvio] => 24c03b5364d69a6
+    [msgtxt] => No sir, I can not boogie
+    [caracteres] => 24
+    [accion] => guardar
+    [retenido] => 1.16
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T15:13:27-06:00 INFO (6): PRIMERA FECHA:: 2017-03-29
+2017-03-29T15:13:27-06:00 INFO (6): SEGUNDA FECHA:: 2017-03-29
+2017-03-29T15:24:13-06:00 INFO (6): ------------------------------------------------
+2017-03-29T15:24:13-06:00 INFO (6): ------------------------------------------------
+2017-03-29T15:24:13-06:00 INFO (6): ------------------------------------------------
+2017-03-29T15:24:13-06:00 INFO (6): ---- ENVIO PROGRAMADOS - FN COMPARAR FECHAS ----
+2017-03-29T15:24:13-06:00 INFO (6): REQUESTArray
+(
+    [categoria] => nueva
+    [fechaenvio] => 2017-03-29
+    [horaenvio] => 24c03b5364d69a4
+    [msgtxt] => ererreererrere
+    [caracteres] => 14
+    [accion] => guardar
+    [retenido] => 1.16
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T15:24:13-06:00 INFO (6): PRIMERA FECHA:: 2017-03-29
+2017-03-29T15:24:13-06:00 INFO (6): SEGUNDA FECHA:: 2017-03-29
+2017-03-29T16:04:55-06:00 INFO (6): ------------------------------------------------
+2017-03-29T16:04:55-06:00 INFO (6): ------------------------------------------------
+2017-03-29T16:04:55-06:00 INFO (6): ------------------------------------------------
+2017-03-29T16:04:55-06:00 INFO (6): ---- ENVIO PROGRAMADOS - FN COMPARAR FECHAS ----
+2017-03-29T16:04:55-06:00 INFO (6): REQUESTArray
+(
+    [categoria] => nueva
+    [fechaenvio] => 2017-03-29
+    [horaenvio] => 11de33ffb0f9990
+    [msgtxt] => uyuguguy
+    [caracteres] => 8
+    [accion] => guardar
+    [retenido] => 1.16
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T16:04:55-06:00 INFO (6): PRIMERA FECHA:: 2017-03-29
+2017-03-29T16:04:55-06:00 INFO (6): SEGUNDA FECHA:: 2017-03-29

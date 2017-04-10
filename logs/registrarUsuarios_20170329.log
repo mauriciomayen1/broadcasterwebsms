@@ -1,0 +1,75 @@
+2017-03-29T13:27:49-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-29T13:27:49-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-29T13:27:49-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-29T13:27:49-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>INICIO REGISTRO DE USUARIOS: 2017/03/29 13:27:49
+2017-03-29T13:27:49-06:00 INFO (6): REQUESTArray
+(
+    [usuarioURL] => 
+    [accion] => guardar
+    [PHPSESSID] => 18l73lkh95nlcekbgnmh3iti13
+)
+
+2017-03-29T13:27:49-06:00 INFO (6): NOMBRE: mike
+2017-03-29T13:27:49-06:00 INFO (6): DESCRIPCION:  
+2017-03-29T13:27:49-06:00 INFO (6): USUARIOmike
+2017-03-29T13:27:49-06:00 INFO (6): USUARIO FORMADO: mike
+2017-03-29T13:27:49-06:00 INFO (6): URL GENERADA: http://broadcaster.cm-operations.com/dashboard/email2sms/bin/tu_empresa.php?msisdn=XXXXXXXXXX&message=MESSAGE&tag=58dc0ab542bd5&user=mike
+2017-03-29T13:27:49-06:00 INFO (6): DATOS A INSERTAR EN LA BASE CLIENTES DEMO: Array
+(
+    [cliente_nombre] => mike
+    [cliente_descripcion] =>  
+    [cliente_url] => http://broadcaster.cm-operations.com/dashboard/email2sms/bin/tu_empresa.php?msisdn=XXXXXXXXXX&message=MESSAGE&tag=58dc0ab542bd5&user=mike
+    [cliente_usuario] => mike
+    [cliente_agente] => mike
+    [cliente_fecha] => 2017/03/29 13:27:49
+    [cliente_activo] => 1
+)
+
+2017-03-29T13:27:49-06:00 INFO (6): SE INSERTO: 1
+2017-03-29T13:27:49-06:00 INFO (6): Fin: 2017/03/29 13:27:49
+2017-03-29T16:16:12-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-29T16:16:12-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-29T16:16:12-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-29T16:16:12-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>INICIO REGISTRO DE USUARIOS: 2017/03/29 16:16:12
+2017-03-29T16:16:12-06:00 INFO (6): REQUESTArray
+(
+    [usuarioURL] => 
+    [accion] => guardar
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T16:16:12-06:00 INFO (6): NOMBRE: Administrador
+2017-03-29T16:16:12-06:00 INFO (6): DESCRIPCION:  
+2017-03-29T16:16:12-06:00 INFO (6): USUARIOAdministrador
+2017-03-29T16:16:12-06:00 INFO (6): USUARIO FORMADO: Administrador
+2017-03-29T16:16:12-06:00 INFO (6): URL GENERADA: http://broadcaster.cm-operations.com/dashboard/email2sms/bin/tu_empresa.php?msisdn=XXXXXXXXXX&message=MESSAGE&tag=58dc322c93e44&user=Administrador
+2017-03-29T16:16:12-06:00 INFO (6): DATOS A INSERTAR EN LA BASE CLIENTES DEMO: Array
+(
+    [cliente_nombre] => Administrador
+    [cliente_descripcion] =>  
+    [cliente_url] => http://broadcaster.cm-operations.com/dashboard/email2sms/bin/tu_empresa.php?msisdn=XXXXXXXXXX&message=MESSAGE&tag=58dc322c93e44&user=Administrador
+    [cliente_usuario] => Administrador
+    [cliente_agente] => Administrador
+    [cliente_fecha] => 2017/03/29 16:16:12
+    [cliente_activo] => 1
+)
+
+2017-03-29T16:16:12-06:00 INFO (6): SE INSERTO: 1
+2017-03-29T16:16:12-06:00 INFO (6): Fin: 2017/03/29 16:16:12
+2017-03-29T16:16:15-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-29T16:16:15-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-29T16:16:15-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-29T16:16:15-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>INICIO REGISTRO DE USUARIOS: 2017/03/29 16:16:15
+2017-03-29T16:16:15-06:00 INFO (6): REQUESTArray
+(
+    [usuarioURL] => 
+    [accion] => guardar
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T16:16:15-06:00 INFO (6): NOMBRE: Administrador
+2017-03-29T16:16:15-06:00 INFO (6): DESCRIPCION:  
+2017-03-29T16:16:15-06:00 INFO (6): USUARIOAdministrador
+2017-03-29T16:16:15-06:00 INFO (6): USUARIO FORMADO: Administrador
+2017-03-29T16:16:15-06:00 INFO (6): URL GENERADA: http://broadcaster.cm-operations.com/dashboard/email2sms/bin/tu_empresa.php?msisdn=XXXXXXXXXX&message=MESSAGE&tag=58dc322f5a21f&user=Administrador
+2017-03-29T16:16:15-06:00 INFO (6): Fin: 2017/03/29 16:16:15

@@ -1,0 +1,22 @@
+2017-03-23T15:47:25-06:00 INFO (6): ------------------------------------------------
+2017-03-23T15:47:25-06:00 INFO (6): ------------------------------------------------
+2017-03-23T15:47:25-06:00 INFO (6): ------------------------------------------------
+2017-03-23T15:47:25-06:00 INFO (6): ---- ENVIO MASIVO PREPARAR - FN PREPARAR -------
+2017-03-23T15:47:25-06:00 INFO (6): REQUEST: Array
+(
+    [selectCategoria] => fewfwefwe
+    [sms] => 
+    [caracteres] => 
+    [accion] => preparar
+    [PHPSESSID] => je1vgcb0h0qj8lkpdoegoi3o90
+)
+
+2017-03-23T15:47:25-06:00 INFO (6): LA CATEGORIA A PREPARAR ES: fewfwefwe
+2017-03-23T15:47:25-06:00 INFO (6): SI SELECCIONO CATEGORIA
+2017-03-23T15:47:26-06:00 INFO (6): DATOS A UPDATE EN LA BASE: Array
+(
+    [usuario_enviado] => 0
+)
+
+2017-03-23T15:47:26-06:00 INFO (6): WHERE: 
+2017-03-23T15:47:26-06:00 INFO (6): SE ACTUALIZARON: 103

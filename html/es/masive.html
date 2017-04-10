@@ -1,0 +1,97 @@
+<div class="right_col" role="main">
+    <div class="">
+        
+        <div class="clearfix"></div>
+
+        <div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="col-md-12 col-xs-12">
+                    <div class="x_panel">
+                        <div class="x_title">
+                            <div class="row">
+                                {{if $mensaje1}}
+                                    <div class="alert alert-success alert-dismissible fade in" role="alert">
+                                        <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">×</span></button>
+                                        <strong>Operación Exitosa!</strong> {{$mensaje}} {{$base}} {{$mensaje1}} {{$update}} {{$mensaje2}}
+                                    </div>
+                                {{/if}}
+                                {{if $mensaje3}}
+                                    <div class="alert alert-danger alert-dismissible fade in" role="alert">
+                                        <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">×</span></button>
+                                        <strong>{{$mensaje3}}</strong>
+                                    </div>
+                                {{/if}}
+                                {{if $error}}
+                                    <div class="alert alert-danger alert-dismissible fade in" role="alert">
+                                        <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">×</span></button>
+                                        <strong>{{$error}}</strong>
+                                    </div>
+                                {{/if}}
+                            </div>
+                            <h2>Envío <small>MÁSIVO</small></h2>
+                            <div class="clearfix"></div>
+                        </div>
+                        <div class="x_content">
+                            <br />
+                            <form id="validateForm" data-toggle="validator" role="form" class="form-horizontal form-label-left">
+                            <!-- <form method="post" class="form-horizontal form-label-left"> -->
+                            
+                            <div class="form-group">
+                                <label class="control-label col-md-3 col-sm-3 col-xs-12">Categoría a preparar</label>
+                                <div class="col-md-9 col-sm-9 col-xs-12">
+                                    <select name="selectcategoria" id="selectcategoria" class="form-control">
+                                        <option>Todos</option>
+                                        {{foreach from=$rows item=row}}            
+                                          <option value="{{$row.usuario_categoria}}">{{$row.usuario_categoria}}</option>
+                                        {{/foreach}} 
+                                    </select>
+                                </div>
+                            </div>
+                            
+                            <div class="ln_solid"></div>
+                            <div class="form-group">
+                                <div class="col-md-9 col-sm-9 col-xs-12 col-md-offset-3">
+                                    <button type="submit" class="btn btn-dark" name="accion" value="enviar">Preparar</button>
+                                    <a href="masivesend.php" class="btn btn-success" role="button">Ir a Envio</a>
+                                </div>
+                            </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+    
+
+</div><!-- /page content -->
+</div>
+</div>
+
+<div id="custom_notifications" class="custom-notifications dsp_none">
+    <ul class="list-unstyled notifications clearfix" data-tabbed_notifications="notif-group"></ul>
+    <div class="clearfix"></div>
+    <div id="notif-group" class="tabbed_notifications"></div>
+</div>
+
+<!-- chart js -->
+<script src="../html/es/js/chartjs/chart.min.js"></script>
+<!-- bootstrap progress js -->
+<script src="../html/es/js/progressbar/bootstrap-progressbar.min.js"></script>
+<script src="../html/es/js/nicescroll/jquery.nicescroll.min.js"></script>
+<!-- icheck -->
+<script src="../html/es/js/icheck/icheck.min.js"></script>
+
+<script src="../html/es/js/custom.js"></script>
+
+<!-- moris js -->
+<script src="../html/es/js/moris/raphael-min.js"></script>
+<script src="../html/es/js/moris/morris.js"></script>
+<script src="../html/es/js/moris/example.js"></script>
+
+</body>
+
+</html>

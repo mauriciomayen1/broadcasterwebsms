@@ -1,0 +1,855 @@
+2017-03-29T00:13:20-06:00 INFO (6): ------------------------------------------------
+2017-03-29T00:13:20-06:00 INFO (6): ------------------------------------------------
+2017-03-29T00:13:20-06:00 INFO (6): ------------------------------------------------
+2017-03-29T00:13:20-06:00 INFO (6): ---- ENVIO MASIVO - FN GUARDAR ------------
+2017-03-29T00:13:20-06:00 INFO (6): REQUESTArray
+(
+    [selectCategoria] => dummy2
+    [sms] => wedewdewd
+    [caracteres] => 9
+    [accion] => enviar
+    [PHPSESSID] => p0slapa788hhmufv4uqpuskk14
+)
+
+2017-03-29T00:13:20-06:00 INFO (6): CATEGORIA: dummy2
+2017-03-29T00:13:20-06:00 INFO (6): HORA DE ENVIO: 00:13:20
+2017-03-29T00:13:20-06:00 INFO (6): FECHA DE ENVIO: 2017-03-29 00:13
+2017-03-29T00:13:20-06:00 INFO (6): MENSAJE: wedewdewd
+2017-03-29T00:13:20-06:00 INFO (6): CAMPANIA: Administrador
+2017-03-29T00:13:20-06:00 INFO (6): SI REQUESITO TODOS LOS CAMPOS
+2017-03-29T00:13:20-06:00 INFO (6): DATOS A INSERTAR EN LA BASE MENSAJES PROGRAMADOS: Array
+(
+    [mensaje_horario] => 00:13:20
+    [mensaje_horarionombre] => 
+    [mensaje_mensaje] => wedewdewd
+    [mensaje_nombre] => Administrador
+    [mensaje_fechaenvio] => 2017-03-29 00:13
+    [mensaje_descripcion] => Administrador
+    [mensaje_fechaalta] => 2017/03/29 00:13:20
+    [mensaje_activo] => 1
+    [mensaje_region] => dummy2
+    [mensaje_ocupacion] => dummy2
+    [mensaje_procesado] => 1
+    [bandera_masivo] => 0
+    [mensaje_usuario] => 1
+)
+
+2017-03-29T00:13:20-06:00 INFO (6): SE INSERTO: 1
+2017-03-29T00:13:20-06:00 INFO (6): FIN:::...
+2017-03-29T00:17:12-06:00 INFO (6): ------------------------------------------------
+2017-03-29T00:17:12-06:00 INFO (6): ------------------------------------------------
+2017-03-29T00:17:12-06:00 INFO (6): ------------------------------------------------
+2017-03-29T00:17:12-06:00 INFO (6): ---- ENVIO MASIVO - FN GUARDAR ------------
+2017-03-29T00:17:12-06:00 INFO (6): REQUESTArray
+(
+    [selectCategoria] => dummy2
+    [sms] => wedewdewdewd
+    [caracteres] => 12
+    [accion] => enviar
+    [PHPSESSID] => p0slapa788hhmufv4uqpuskk14
+)
+
+2017-03-29T00:17:12-06:00 INFO (6): CATEGORIA: dummy2
+2017-03-29T00:17:12-06:00 INFO (6): HORA DE ENVIO: 00:17:12
+2017-03-29T00:17:12-06:00 INFO (6): FECHA DE ENVIO: 2017-03-29 00:17:12
+2017-03-29T00:17:12-06:00 INFO (6): MENSAJE: wedewdewdewd
+2017-03-29T00:17:12-06:00 INFO (6): CAMPANIA: Administrador
+2017-03-29T00:17:12-06:00 INFO (6): SI REQUESITO TODOS LOS CAMPOS
+2017-03-29T00:17:12-06:00 INFO (6): DATOS A INSERTAR EN LA BASE MENSAJES PROGRAMADOS: Array
+(
+    [mensaje_horario] => afaf2153bd72ee8eff278ebda7a58da5
+    [mensaje_horarionombre] => 00:17:12
+    [mensaje_mensaje] => wedewdewdewd
+    [mensaje_nombre] => Administrador
+    [mensaje_fechaenvio] => 2017-03-29 00:17:12
+    [mensaje_descripcion] => Administrador
+    [mensaje_fechaalta] => 2017/03/29 00:17:12
+    [mensaje_activo] => 1
+    [mensaje_region] => dummy2
+    [mensaje_ocupacion] => dummy2
+    [mensaje_procesado] => 1
+    [bandera_masivo] => 0
+    [mensaje_usuario] => 1
+)
+
+2017-03-29T00:17:12-06:00 INFO (6): SE INSERTO: 1
+2017-03-29T00:17:13-06:00 INFO (6): FIN:::...
+2017-03-29T09:23:25-06:00 INFO (6): ------------------------------------------------
+2017-03-29T09:23:25-06:00 INFO (6): ------------------------------------------------
+2017-03-29T09:23:25-06:00 INFO (6): ------------------------------------------------
+2017-03-29T09:23:25-06:00 INFO (6): ---- ENVIO MASIVO - FN GUARDAR ------------
+2017-03-29T09:23:25-06:00 INFO (6): REQUESTArray
+(
+    [selectCategoria] => dummy2
+    [sms] => Esto mensaje no va a pasar
+    [caracteres] => 26
+    [accion] => enviar
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T09:23:25-06:00 INFO (6): CATEGORIA: dummy2
+2017-03-29T09:23:25-06:00 INFO (6): HORA DE ENVIO: 09:23:25
+2017-03-29T09:23:25-06:00 INFO (6): FECHA DE ENVIO: 2017-03-29 09:23:25
+2017-03-29T09:23:25-06:00 INFO (6): MENSAJE: Esto mensaje no va a pasar
+2017-03-29T09:23:25-06:00 INFO (6): CAMPANIA: Administrador
+2017-03-29T09:23:25-06:00 INFO (6): SI REQUESITO TODOS LOS CAMPOS
+2017-03-29T09:23:25-06:00 INFO (6): DATOS A INSERTAR EN LA BASE MENSAJES PROGRAMADOS: Array
+(
+    [mensaje_horario] => 0929cf1801eae4e7f195b696d7fa2abc
+    [mensaje_horarionombre] => 09:23:25
+    [mensaje_mensaje] => Esto mensaje no va a pasar
+    [mensaje_nombre] => Administrador
+    [mensaje_fechaenvio] => 2017-03-29 09:23:25
+    [mensaje_descripcion] => Administrador
+    [mensaje_fechaalta] => 2017/03/29 09:23:25
+    [mensaje_activo] => 1
+    [mensaje_region] => dummy2
+    [mensaje_ocupacion] => dummy2
+    [mensaje_procesado] => 1
+    [bandera_masivo] => 0
+    [mensaje_usuario] => 1
+)
+
+2017-03-29T09:23:25-06:00 INFO (6): SE INSERTO: 1
+2017-03-29T09:23:26-06:00 INFO (6): FIN:::...
+2017-03-29T11:33:11-06:00 INFO (6): ------------------------------------------------
+2017-03-29T11:33:11-06:00 INFO (6): ------------------------------------------------
+2017-03-29T11:33:11-06:00 INFO (6): ------------------------------------------------
+2017-03-29T11:33:11-06:00 INFO (6): ---- ENVIO MASIVO - FN GUARDAR ------------
+2017-03-29T11:33:11-06:00 INFO (6): REQUESTArray
+(
+    [selectCategoria] => nueva
+    [sms] => kandkdnkasndksdnklsnDKLndlkNDLdjnsajdn
+    [caracteres] => 38
+    [accion] => enviar
+    [retenido] => 1.16
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T11:33:11-06:00 INFO (6): CATEGORIA: nueva
+2017-03-29T11:33:11-06:00 INFO (6): HORA DE ENVIO: 11:33:11
+2017-03-29T11:33:11-06:00 INFO (6): FECHA DE ENVIO: 2017-03-29 11:33:11
+2017-03-29T11:33:11-06:00 INFO (6): MENSAJE: kandkdnkasndksdnklsnDKLndlkNDLdjnsajdn
+2017-03-29T11:33:11-06:00 INFO (6): CAMPANIA: Administrador
+2017-03-29T11:33:11-06:00 INFO (6): SI REQUESITO TODOS LOS CAMPOS
+2017-03-29T11:33:11-06:00 INFO (6): DATOS A INSERTAR EN LA BASE MENSAJES PROGRAMADOS: Array
+(
+    [mensaje_horario] => 444db42b57693d751f8e9b9fe5f26f37
+    [mensaje_horarionombre] => 11:33:11
+    [mensaje_mensaje] => kandkdnkasndksdnklsnDKLndlkNDLdjnsajdn
+    [mensaje_nombre] => Administrador
+    [mensaje_fechaenvio] => 2017-03-29 11:33:11
+    [mensaje_descripcion] => Administrador
+    [mensaje_fechaalta] => 2017/03/29 11:33:11
+    [mensaje_activo] => 1
+    [mensaje_region] => nueva
+    [mensaje_ocupacion] => nueva
+    [mensaje_procesado] => 1
+    [bandera_masivo] => 0
+    [mensaje_usuario] => 1
+)
+
+2017-03-29T11:33:11-06:00 INFO (6): SE INSERTO: 1
+2017-03-29T11:33:11-06:00 INFO (6): FIN:::...
+2017-03-29T11:50:21-06:00 INFO (6): ------------------------------------------------
+2017-03-29T11:50:21-06:00 INFO (6): ------------------------------------------------
+2017-03-29T11:50:21-06:00 INFO (6): ------------------------------------------------
+2017-03-29T11:50:21-06:00 INFO (6): ---- ENVIO MASIVO - FN GUARDAR ------------
+2017-03-29T11:50:21-06:00 INFO (6): REQUESTArray
+(
+    [selectCategoria] => nueva
+    [sms] => UUGIGUNGHUGIUGUIGIUGIYUGUIGUGIUGUIGIUGUIGIUGUGUIGUIGUIGIU
+    [caracteres] => 57
+    [accion] => enviar
+    [retenido] => 1.16
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T11:50:21-06:00 INFO (6): CATEGORIA: nueva
+2017-03-29T11:50:21-06:00 INFO (6): HORA DE ENVIO: 11:50:21
+2017-03-29T11:50:21-06:00 INFO (6): FECHA DE ENVIO: 2017-03-29 11:50:21
+2017-03-29T11:50:21-06:00 INFO (6): MENSAJE: UUGIGUNGHUGIUGUIGIUGIYUGUIGUGIUGUIGIUGUIGIUGUGUIGUIGUIGIU
+2017-03-29T11:50:21-06:00 INFO (6): CAMPANIA: Administrador
+2017-03-29T11:50:21-06:00 INFO (6): SI REQUESITO TODOS LOS CAMPOS
+2017-03-29T11:50:21-06:00 INFO (6): DATOS A INSERTAR EN LA BASE MENSAJES PROGRAMADOS: Array
+(
+    [mensaje_horario] => 13af965aa3a11cfc7514dcfa9497551a
+    [mensaje_horarionombre] => 11:50:21
+    [mensaje_mensaje] => UUGIGUNGHUGIUGUIGIUGIYUGUIGUGIUGUIGIUGUIGIUGUGUIGUIGUIGIU
+    [mensaje_nombre] => Administrador
+    [mensaje_fechaenvio] => 2017-03-29 11:50:21
+    [mensaje_descripcion] => Administrador
+    [mensaje_fechaalta] => 2017/03/29 11:50:21
+    [mensaje_activo] => 1
+    [mensaje_region] => nueva
+    [mensaje_ocupacion] => nueva
+    [mensaje_procesado] => 1
+    [bandera_masivo] => 0
+    [mensaje_usuario] => 1
+)
+
+2017-03-29T11:50:21-06:00 INFO (6): SE INSERTO: 1
+2017-03-29T11:50:21-06:00 INFO (6): FIN:::...
+2017-03-29T11:53:57-06:00 INFO (6): ------------------------------------------------
+2017-03-29T11:53:57-06:00 INFO (6): ------------------------------------------------
+2017-03-29T11:53:57-06:00 INFO (6): ------------------------------------------------
+2017-03-29T11:53:57-06:00 INFO (6): ---- ENVIO MASIVO - FN GUARDAR ------------
+2017-03-29T11:53:57-06:00 INFO (6): REQUESTArray
+(
+    [selectCategoria] => nueva
+    [sms] => ew!!!
+    [caracteres] => 5
+    [accion] => enviar
+    [retenido] => 1.16
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T11:53:57-06:00 INFO (6): CATEGORIA: nueva
+2017-03-29T11:53:57-06:00 INFO (6): HORA DE ENVIO: 11:53:57
+2017-03-29T11:53:57-06:00 INFO (6): FECHA DE ENVIO: 2017-03-29 11:53:57
+2017-03-29T11:53:57-06:00 INFO (6): MENSAJE: ew!!!
+2017-03-29T11:53:57-06:00 INFO (6): CAMPANIA: Administrador
+2017-03-29T11:53:57-06:00 INFO (6): SI REQUESITO TODOS LOS CAMPOS
+2017-03-29T11:53:57-06:00 INFO (6): DATOS A INSERTAR EN LA BASE MENSAJES PROGRAMADOS: Array
+(
+    [mensaje_horario] => cb116f43fbc2cfd7011cdaa611f9d79e
+    [mensaje_horarionombre] => 11:53:57
+    [mensaje_mensaje] => ew!!!
+    [mensaje_nombre] => Administrador
+    [mensaje_fechaenvio] => 2017-03-29 11:53:57
+    [mensaje_descripcion] => Administrador
+    [mensaje_fechaalta] => 2017/03/29 11:53:57
+    [mensaje_activo] => 1
+    [mensaje_region] => nueva
+    [mensaje_ocupacion] => nueva
+    [mensaje_procesado] => 1
+    [bandera_masivo] => 0
+    [mensaje_usuario] => 1
+)
+
+2017-03-29T11:53:57-06:00 INFO (6): SE INSERTO: 1
+2017-03-29T11:53:57-06:00 INFO (6): FIN:::...
+2017-03-29T12:20:46-06:00 INFO (6): ------------------------------------------------
+2017-03-29T12:20:46-06:00 INFO (6): ------------------------------------------------
+2017-03-29T12:20:46-06:00 INFO (6): ------------------------------------------------
+2017-03-29T12:20:46-06:00 INFO (6): ---- ENVIO MASIVO - FN GUARDAR ------------
+2017-03-29T12:20:46-06:00 INFO (6): REQUESTArray
+(
+    [selectCategoria] => nueva
+    [sms] => Hey you
+    [caracteres] => 7
+    [accion] => enviar
+    [retenido] => 1.16
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T12:20:46-06:00 INFO (6): CATEGORIA: nueva
+2017-03-29T12:20:46-06:00 INFO (6): HORA DE ENVIO: 12:20:46
+2017-03-29T12:20:46-06:00 INFO (6): FECHA DE ENVIO: 2017-03-29 12:20:46
+2017-03-29T12:20:46-06:00 INFO (6): MENSAJE: Hey you
+2017-03-29T12:20:46-06:00 INFO (6): CAMPANIA: Administrador
+2017-03-29T12:20:46-06:00 INFO (6): SI REQUESITO TODOS LOS CAMPOS
+2017-03-29T12:20:46-06:00 INFO (6): DATOS A INSERTAR EN LA BASE MENSAJES PROGRAMADOS: Array
+(
+    [mensaje_horario] => f7af0a793ad218b655b1fde91a9fcfcf
+    [mensaje_horarionombre] => 12:20:46
+    [mensaje_mensaje] => Hey you
+    [mensaje_nombre] => Administrador
+    [mensaje_fechaenvio] => 2017-03-29 12:20:46
+    [mensaje_descripcion] => Administrador
+    [mensaje_fechaalta] => 2017/03/29 12:20:46
+    [mensaje_activo] => 1
+    [mensaje_region] => nueva
+    [mensaje_ocupacion] => nueva
+    [mensaje_procesado] => 1
+    [bandera_masivo] => 0
+    [mensaje_usuario] => 1
+)
+
+2017-03-29T12:20:46-06:00 INFO (6): SE INSERTO: 1
+2017-03-29T12:20:48-06:00 INFO (6): FIN:::...
+2017-03-29T12:40:11-06:00 INFO (6): ------------------------------------------------
+2017-03-29T12:40:11-06:00 INFO (6): ------------------------------------------------
+2017-03-29T12:40:11-06:00 INFO (6): ------------------------------------------------
+2017-03-29T12:40:11-06:00 INFO (6): ---- ENVIO MASIVO - FN GUARDAR ------------
+2017-03-29T12:40:11-06:00 INFO (6): REQUESTArray
+(
+    [selectCategoria] => nueva
+    [sms] => la collage la collage
+    [caracteres] => 21
+    [accion] => enviar
+    [retenido] => 1.16
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T12:40:11-06:00 INFO (6): CATEGORIA: nueva
+2017-03-29T12:40:11-06:00 INFO (6): HORA DE ENVIO: 12:40:11
+2017-03-29T12:40:11-06:00 INFO (6): FECHA DE ENVIO: 2017-03-29 12:40:11
+2017-03-29T12:40:11-06:00 INFO (6): MENSAJE: la collage la collage
+2017-03-29T12:40:11-06:00 INFO (6): CAMPANIA: Administrador
+2017-03-29T12:40:11-06:00 INFO (6): SI REQUESITO TODOS LOS CAMPOS
+2017-03-29T12:40:11-06:00 INFO (6): DATOS A INSERTAR EN LA BASE MENSAJES PROGRAMADOS: Array
+(
+    [mensaje_horario] => 577d8e92eb328fe3ba13f1b63ac52ae4
+    [mensaje_horarionombre] => 12:40:11
+    [mensaje_mensaje] => la collage la collage
+    [mensaje_nombre] => Administrador
+    [mensaje_fechaenvio] => 2017-03-29 12:40:11
+    [mensaje_descripcion] => Administrador
+    [mensaje_fechaalta] => 2017/03/29 12:40:11
+    [mensaje_activo] => 1
+    [mensaje_region] => nueva
+    [mensaje_ocupacion] => nueva
+    [mensaje_procesado] => 1
+    [bandera_masivo] => 0
+    [mensaje_usuario] => 1
+)
+
+2017-03-29T12:40:11-06:00 INFO (6): SE INSERTO: 1
+2017-03-29T12:40:12-06:00 INFO (6): FIN:::...
+2017-03-29T14:02:16-06:00 INFO (6): ------------------------------------------------
+2017-03-29T14:02:16-06:00 INFO (6): ------------------------------------------------
+2017-03-29T14:02:16-06:00 INFO (6): ------------------------------------------------
+2017-03-29T14:02:16-06:00 INFO (6): ---- ENVIO MASIVO - FN GUARDAR ------------
+2017-03-29T14:02:16-06:00 INFO (6): REQUESTArray
+(
+    [selectCategoria] => nueva
+    [sms] => hello goodbye
+    [caracteres] => 13
+    [accion] => enviar
+    [retenido] => 1.16
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T14:02:16-06:00 INFO (6): CATEGORIA: nueva
+2017-03-29T14:02:16-06:00 INFO (6): HORA DE ENVIO: 14:02:16
+2017-03-29T14:02:16-06:00 INFO (6): FECHA DE ENVIO: 2017-03-29 14:02:16
+2017-03-29T14:02:16-06:00 INFO (6): MENSAJE: hello goodbye
+2017-03-29T14:02:16-06:00 INFO (6): CAMPANIA: Administrador
+2017-03-29T14:02:16-06:00 INFO (6): SI REQUESITO TODOS LOS CAMPOS
+2017-03-29T14:02:16-06:00 INFO (6): DATOS A INSERTAR EN LA BASE MENSAJES PROGRAMADOS: Array
+(
+    [mensaje_horario] => 940d433a0f97e877aa2c65f54b96e5e8
+    [mensaje_horarionombre] => 14:02:16
+    [mensaje_mensaje] => hello goodbye
+    [mensaje_nombre] => Administrador
+    [mensaje_fechaenvio] => 2017-03-29 14:02:16
+    [mensaje_descripcion] => Administrador
+    [mensaje_fechaalta] => 2017/03/29 14:02:16
+    [mensaje_activo] => 1
+    [mensaje_region] => nueva
+    [mensaje_ocupacion] => nueva
+    [mensaje_procesado] => 1
+    [bandera_masivo] => 0
+    [mensaje_usuario] => 1
+)
+
+2017-03-29T14:02:16-06:00 INFO (6): SE INSERTO: 1
+2017-03-29T14:02:16-06:00 INFO (6): FIN:::...
+2017-03-29T14:13:12-06:00 INFO (6): ------------------------------------------------
+2017-03-29T14:13:12-06:00 INFO (6): ------------------------------------------------
+2017-03-29T14:13:12-06:00 INFO (6): ------------------------------------------------
+2017-03-29T14:13:12-06:00 INFO (6): ---- ENVIO MASIVO - FN GUARDAR ------------
+2017-03-29T14:13:12-06:00 INFO (6): REQUESTArray
+(
+    [selectCategoria] => nueva
+    [sms] => hey judith
+    [caracteres] => 10
+    [accion] => enviar
+    [retenido] => 1.16
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T14:13:12-06:00 INFO (6): CATEGORIA: nueva
+2017-03-29T14:13:12-06:00 INFO (6): HORA DE ENVIO: 14:13:12
+2017-03-29T14:13:12-06:00 INFO (6): FECHA DE ENVIO: 2017-03-29 14:13:12
+2017-03-29T14:13:12-06:00 INFO (6): MENSAJE: hey judith
+2017-03-29T14:13:12-06:00 INFO (6): CAMPANIA: Administrador
+2017-03-29T14:13:12-06:00 INFO (6): SI REQUESITO TODOS LOS CAMPOS
+2017-03-29T14:13:12-06:00 INFO (6): DATOS A INSERTAR EN LA BASE MENSAJES PROGRAMADOS: Array
+(
+    [mensaje_horario] => 7d3b0d60b7939f09d0eaf1762ec58175
+    [mensaje_horarionombre] => 14:13:12
+    [mensaje_mensaje] => hey judith
+    [mensaje_nombre] => Administrador
+    [mensaje_fechaenvio] => 2017-03-29 14:13:12
+    [mensaje_descripcion] => Administrador
+    [mensaje_fechaalta] => 2017/03/29 14:13:12
+    [mensaje_activo] => 1
+    [mensaje_region] => nueva
+    [mensaje_ocupacion] => nueva
+    [mensaje_procesado] => 1
+    [bandera_masivo] => 0
+    [mensaje_usuario] => 1
+)
+
+2017-03-29T14:13:12-06:00 INFO (6): SE INSERTO: 1
+2017-03-29T14:13:13-06:00 INFO (6): FIN:::...
+2017-03-29T14:53:46-06:00 INFO (6): ------------------------------------------------
+2017-03-29T14:53:46-06:00 INFO (6): ------------------------------------------------
+2017-03-29T14:53:46-06:00 INFO (6): ------------------------------------------------
+2017-03-29T14:53:46-06:00 INFO (6): ---- ENVIO MASIVO - FN GUARDAR ------------
+2017-03-29T14:53:46-06:00 INFO (6): REQUESTArray
+(
+    [selectCategoria] => nueva
+    [sms] => dadcaca
+    [caracteres] => 7
+    [accion] => enviar
+    [retenido] => 1.16
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T14:53:46-06:00 INFO (6): CATEGORIA: nueva
+2017-03-29T14:53:46-06:00 INFO (6): HORA DE ENVIO: 14:53:46
+2017-03-29T14:53:46-06:00 INFO (6): FECHA DE ENVIO: 2017-03-29 14:53:46
+2017-03-29T14:53:46-06:00 INFO (6): MENSAJE: dadcaca
+2017-03-29T14:53:46-06:00 INFO (6): CAMPANIA: Administrador
+2017-03-29T14:53:46-06:00 INFO (6): SI REQUESITO TODOS LOS CAMPOS
+2017-03-29T14:53:46-06:00 INFO (6): DATOS A INSERTAR EN LA BASE MENSAJES PROGRAMADOS: Array
+(
+    [mensaje_horario] => 2b7472fb6e1fe88cf25aa93d5fc1e61e
+    [mensaje_horarionombre] => 14:53:46
+    [mensaje_mensaje] => dadcaca
+    [mensaje_nombre] => Administrador
+    [mensaje_fechaenvio] => 2017-03-29 14:53:46
+    [mensaje_descripcion] => Administrador
+    [mensaje_fechaalta] => 2017/03/29 14:53:46
+    [mensaje_activo] => 1
+    [mensaje_region] => nueva
+    [mensaje_ocupacion] => nueva
+    [mensaje_procesado] => 1
+    [bandera_masivo] => 0
+    [mensaje_usuario] => 1
+)
+
+2017-03-29T14:53:46-06:00 INFO (6): SE INSERTO: 1
+2017-03-29T14:53:46-06:00 INFO (6): FIN:::...
+2017-03-29T14:54:22-06:00 INFO (6): ------------------------------------------------
+2017-03-29T14:54:22-06:00 INFO (6): ------------------------------------------------
+2017-03-29T14:54:22-06:00 INFO (6): ------------------------------------------------
+2017-03-29T14:54:22-06:00 INFO (6): ---- ENVIO MASIVO - FN GUARDAR ------------
+2017-03-29T14:54:22-06:00 INFO (6): REQUESTArray
+(
+    [selectCategoria] => nueva
+    [sms] => asa%&/();
+    [caracteres] => 9
+    [accion] => enviar
+    [retenido] => 1.16
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T14:54:22-06:00 INFO (6): CATEGORIA: nueva
+2017-03-29T14:54:22-06:00 INFO (6): HORA DE ENVIO: 14:54:22
+2017-03-29T14:54:22-06:00 INFO (6): FECHA DE ENVIO: 2017-03-29 14:54:22
+2017-03-29T14:54:22-06:00 INFO (6): MENSAJE: asa%&/();
+2017-03-29T14:54:22-06:00 INFO (6): CAMPANIA: Administrador
+2017-03-29T14:54:22-06:00 INFO (6): SI REQUESITO TODOS LOS CAMPOS
+2017-03-29T14:54:22-06:00 INFO (6): DATOS A INSERTAR EN LA BASE MENSAJES PROGRAMADOS: Array
+(
+    [mensaje_horario] => f199c8d7f7446acfbad13368965a86f9
+    [mensaje_horarionombre] => 14:54:22
+    [mensaje_mensaje] => asa%&/();
+    [mensaje_nombre] => Administrador
+    [mensaje_fechaenvio] => 2017-03-29 14:54:22
+    [mensaje_descripcion] => Administrador
+    [mensaje_fechaalta] => 2017/03/29 14:54:22
+    [mensaje_activo] => 1
+    [mensaje_region] => nueva
+    [mensaje_ocupacion] => nueva
+    [mensaje_procesado] => 1
+    [bandera_masivo] => 0
+    [mensaje_usuario] => 1
+)
+
+2017-03-29T14:54:22-06:00 INFO (6): SE INSERTO: 1
+2017-03-29T14:54:22-06:00 INFO (6): FIN:::...
+2017-03-29T14:56:15-06:00 INFO (6): ------------------------------------------------
+2017-03-29T14:56:15-06:00 INFO (6): ------------------------------------------------
+2017-03-29T14:56:15-06:00 INFO (6): ------------------------------------------------
+2017-03-29T14:56:15-06:00 INFO (6): ---- ENVIO MASIVO - FN GUARDAR ------------
+2017-03-29T14:56:15-06:00 INFO (6): REQUESTArray
+(
+    [selectCategoria] => nueva
+    [sms] => FEO
+    [caracteres] => 3
+    [accion] => enviar
+    [retenido] => 1.16
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T14:56:15-06:00 INFO (6): CATEGORIA: nueva
+2017-03-29T14:56:15-06:00 INFO (6): HORA DE ENVIO: 14:56:15
+2017-03-29T14:56:15-06:00 INFO (6): FECHA DE ENVIO: 2017-03-29 14:56:15
+2017-03-29T14:56:15-06:00 INFO (6): MENSAJE: FEO
+2017-03-29T14:56:15-06:00 INFO (6): CAMPANIA: Administrador
+2017-03-29T14:56:15-06:00 INFO (6): SI REQUESITO TODOS LOS CAMPOS
+2017-03-29T14:56:15-06:00 INFO (6): DATOS A INSERTAR EN LA BASE MENSAJES PROGRAMADOS: Array
+(
+    [mensaje_horario] => 681fbea32a86be01ca587315323b9e23
+    [mensaje_horarionombre] => 14:56:15
+    [mensaje_mensaje] => FEO
+    [mensaje_nombre] => Administrador
+    [mensaje_fechaenvio] => 2017-03-29 14:56:15
+    [mensaje_descripcion] => Administrador
+    [mensaje_fechaalta] => 2017/03/29 14:56:15
+    [mensaje_activo] => 1
+    [mensaje_region] => nueva
+    [mensaje_ocupacion] => nueva
+    [mensaje_procesado] => 1
+    [bandera_masivo] => 0
+    [mensaje_usuario] => 1
+)
+
+2017-03-29T14:56:15-06:00 INFO (6): SE INSERTO: 1
+2017-03-29T14:56:15-06:00 INFO (6): FIN:::...
+2017-03-29T14:57:04-06:00 INFO (6): ------------------------------------------------
+2017-03-29T14:57:04-06:00 INFO (6): ------------------------------------------------
+2017-03-29T14:57:04-06:00 INFO (6): ------------------------------------------------
+2017-03-29T14:57:04-06:00 INFO (6): ---- ENVIO MASIVO - FN GUARDAR ------------
+2017-03-29T14:57:04-06:00 INFO (6): REQUESTArray
+(
+    [selectCategoria] => nueva
+    [sms] => AXSA$%&/()
+    [caracteres] => 10
+    [accion] => enviar
+    [retenido] => 1.16
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T14:57:04-06:00 INFO (6): CATEGORIA: nueva
+2017-03-29T14:57:04-06:00 INFO (6): HORA DE ENVIO: 14:57:04
+2017-03-29T14:57:04-06:00 INFO (6): FECHA DE ENVIO: 2017-03-29 14:57:04
+2017-03-29T14:57:04-06:00 INFO (6): MENSAJE: AXSA$%&/()
+2017-03-29T14:57:04-06:00 INFO (6): CAMPANIA: Administrador
+2017-03-29T14:57:04-06:00 INFO (6): SI REQUESITO TODOS LOS CAMPOS
+2017-03-29T14:57:04-06:00 INFO (6): DATOS A INSERTAR EN LA BASE MENSAJES PROGRAMADOS: Array
+(
+    [mensaje_horario] => b403c7d7503510d957b2c97fcf75234a
+    [mensaje_horarionombre] => 14:57:04
+    [mensaje_mensaje] => AXSA$%&/()
+    [mensaje_nombre] => Administrador
+    [mensaje_fechaenvio] => 2017-03-29 14:57:04
+    [mensaje_descripcion] => Administrador
+    [mensaje_fechaalta] => 2017/03/29 14:57:04
+    [mensaje_activo] => 1
+    [mensaje_region] => nueva
+    [mensaje_ocupacion] => nueva
+    [mensaje_procesado] => 1
+    [bandera_masivo] => 0
+    [mensaje_usuario] => 1
+)
+
+2017-03-29T14:57:04-06:00 INFO (6): SE INSERTO: 1
+2017-03-29T14:57:04-06:00 INFO (6): FIN:::...
+2017-03-29T15:12:28-06:00 INFO (6): ------------------------------------------------
+2017-03-29T15:12:28-06:00 INFO (6): ------------------------------------------------
+2017-03-29T15:12:28-06:00 INFO (6): ------------------------------------------------
+2017-03-29T15:12:28-06:00 INFO (6): ---- ENVIO MASIVO - FN GUARDAR ------------
+2017-03-29T15:12:28-06:00 INFO (6): REQUESTArray
+(
+    [selectCategoria] => nueva
+    [sms] => Yes sir, I can boogie
+    [caracteres] => 21
+    [accion] => enviar
+    [retenido] => 1.16
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T15:12:28-06:00 INFO (6): CATEGORIA: nueva
+2017-03-29T15:12:28-06:00 INFO (6): HORA DE ENVIO: 15:12:28
+2017-03-29T15:12:28-06:00 INFO (6): FECHA DE ENVIO: 2017-03-29 15:12:28
+2017-03-29T15:12:28-06:00 INFO (6): MENSAJE: Yes sir, I can boogie
+2017-03-29T15:12:28-06:00 INFO (6): CAMPANIA: Administrador
+2017-03-29T15:12:28-06:00 INFO (6): SI REQUESITO TODOS LOS CAMPOS
+2017-03-29T15:12:28-06:00 INFO (6): DATOS A INSERTAR EN LA BASE MENSAJES PROGRAMADOS: Array
+(
+    [mensaje_horario] => dac52eab2d045b9dfbd8e051e57bd71f
+    [mensaje_horarionombre] => 15:12:28
+    [mensaje_mensaje] => Yes sir, I can boogie
+    [mensaje_nombre] => Administrador
+    [mensaje_fechaenvio] => 2017-03-29 15:12:28
+    [mensaje_descripcion] => Administrador
+    [mensaje_fechaalta] => 2017/03/29 15:12:28
+    [mensaje_activo] => 1
+    [mensaje_region] => nueva
+    [mensaje_ocupacion] => nueva
+    [mensaje_procesado] => 1
+    [bandera_masivo] => 0
+    [mensaje_usuario] => 1
+)
+
+2017-03-29T15:12:28-06:00 INFO (6): SE INSERTO: 1
+2017-03-29T15:12:29-06:00 INFO (6): FIN:::...
+2017-03-29T15:22:23-06:00 INFO (6): ------------------------------------------------
+2017-03-29T15:22:23-06:00 INFO (6): ------------------------------------------------
+2017-03-29T15:22:23-06:00 INFO (6): ------------------------------------------------
+2017-03-29T15:22:23-06:00 INFO (6): ---- ENVIO MASIVO - FN GUARDAR ------------
+2017-03-29T15:22:23-06:00 INFO (6): REQUESTArray
+(
+    [selectCategoria] => nueva
+    [sms] => z<xz<xz<
+    [caracteres] => 8
+    [accion] => enviar
+    [retenido] => 1.16
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T15:22:23-06:00 INFO (6): CATEGORIA: nueva
+2017-03-29T15:22:23-06:00 INFO (6): HORA DE ENVIO: 15:22:23
+2017-03-29T15:22:23-06:00 INFO (6): FECHA DE ENVIO: 2017-03-29 15:22:23
+2017-03-29T15:22:23-06:00 INFO (6): MENSAJE: z<xz<xz<
+2017-03-29T15:22:23-06:00 INFO (6): CAMPANIA: Administrador
+2017-03-29T15:22:23-06:00 INFO (6): SI REQUESITO TODOS LOS CAMPOS
+2017-03-29T15:22:23-06:00 INFO (6): DATOS A INSERTAR EN LA BASE MENSAJES PROGRAMADOS: Array
+(
+    [mensaje_horario] => e34aba95a17f6893db04e8a92c71696b
+    [mensaje_horarionombre] => 15:22:23
+    [mensaje_mensaje] => z<xz<xz<
+    [mensaje_nombre] => Administrador
+    [mensaje_fechaenvio] => 2017-03-29 15:22:23
+    [mensaje_descripcion] => Administrador
+    [mensaje_fechaalta] => 2017/03/29 15:22:23
+    [mensaje_activo] => 1
+    [mensaje_region] => nueva
+    [mensaje_ocupacion] => nueva
+    [mensaje_procesado] => 1
+    [bandera_masivo] => 0
+    [mensaje_usuario] => 1
+)
+
+2017-03-29T15:22:23-06:00 INFO (6): SE INSERTO: 1
+2017-03-29T15:22:24-06:00 INFO (6): FIN:::...
+2017-03-29T15:25:07-06:00 INFO (6): ------------------------------------------------
+2017-03-29T15:25:07-06:00 INFO (6): ------------------------------------------------
+2017-03-29T15:25:07-06:00 INFO (6): ------------------------------------------------
+2017-03-29T15:25:07-06:00 INFO (6): ---- ENVIO MASIVO - FN GUARDAR ------------
+2017-03-29T15:25:07-06:00 INFO (6): REQUESTArray
+(
+    [selectCategoria] => nueva
+    [sms] => yeah baby yeah
+    [caracteres] => 14
+    [accion] => enviar
+    [retenido] => 1.16
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T15:25:07-06:00 INFO (6): CATEGORIA: nueva
+2017-03-29T15:25:07-06:00 INFO (6): HORA DE ENVIO: 15:25:07
+2017-03-29T15:25:07-06:00 INFO (6): FECHA DE ENVIO: 2017-03-29 15:25:07
+2017-03-29T15:25:07-06:00 INFO (6): MENSAJE: yeah baby yeah
+2017-03-29T15:25:07-06:00 INFO (6): CAMPANIA: Administrador
+2017-03-29T15:25:07-06:00 INFO (6): SI REQUESITO TODOS LOS CAMPOS
+2017-03-29T15:25:07-06:00 INFO (6): DATOS A INSERTAR EN LA BASE MENSAJES PROGRAMADOS: Array
+(
+    [mensaje_horario] => 1f6b7dfe7d7ad1e61703cc711f404d61
+    [mensaje_horarionombre] => 15:25:07
+    [mensaje_mensaje] => yeah baby yeah
+    [mensaje_nombre] => Administrador
+    [mensaje_fechaenvio] => 2017-03-29 15:25:07
+    [mensaje_descripcion] => Administrador
+    [mensaje_fechaalta] => 2017/03/29 15:25:07
+    [mensaje_activo] => 1
+    [mensaje_region] => nueva
+    [mensaje_ocupacion] => nueva
+    [mensaje_procesado] => 1
+    [bandera_masivo] => 0
+    [mensaje_usuario] => 1
+)
+
+2017-03-29T15:25:07-06:00 INFO (6): SE INSERTO: 1
+2017-03-29T15:25:07-06:00 INFO (6): FIN:::...
+2017-03-29T15:25:46-06:00 INFO (6): ------------------------------------------------
+2017-03-29T15:25:46-06:00 INFO (6): ------------------------------------------------
+2017-03-29T15:25:46-06:00 INFO (6): ------------------------------------------------
+2017-03-29T15:25:46-06:00 INFO (6): ---- ENVIO MASIVO - FN GUARDAR ------------
+2017-03-29T15:25:46-06:00 INFO (6): REQUESTArray
+(
+    [selectCategoria] => nueva
+    [sms] => no baby no
+    [caracteres] => 10
+    [accion] => enviar
+    [retenido] => 1.16
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T15:25:46-06:00 INFO (6): CATEGORIA: nueva
+2017-03-29T15:25:46-06:00 INFO (6): HORA DE ENVIO: 15:25:46
+2017-03-29T15:25:46-06:00 INFO (6): FECHA DE ENVIO: 2017-03-29 15:25:46
+2017-03-29T15:25:46-06:00 INFO (6): MENSAJE: no baby no
+2017-03-29T15:25:46-06:00 INFO (6): CAMPANIA: Administrador
+2017-03-29T15:25:46-06:00 INFO (6): SI REQUESITO TODOS LOS CAMPOS
+2017-03-29T15:25:46-06:00 INFO (6): DATOS A INSERTAR EN LA BASE MENSAJES PROGRAMADOS: Array
+(
+    [mensaje_horario] => dbfde9b5dcdfebc83741f3ff762d898f
+    [mensaje_horarionombre] => 15:25:46
+    [mensaje_mensaje] => no baby no
+    [mensaje_nombre] => Administrador
+    [mensaje_fechaenvio] => 2017-03-29 15:25:46
+    [mensaje_descripcion] => Administrador
+    [mensaje_fechaalta] => 2017/03/29 15:25:46
+    [mensaje_activo] => 1
+    [mensaje_region] => nueva
+    [mensaje_ocupacion] => nueva
+    [mensaje_procesado] => 1
+    [bandera_masivo] => 0
+    [mensaje_usuario] => 1
+)
+
+2017-03-29T15:25:46-06:00 INFO (6): SE INSERTO: 1
+2017-03-29T15:25:47-06:00 INFO (6): FIN:::...
+2017-03-29T15:27:58-06:00 INFO (6): ------------------------------------------------
+2017-03-29T15:27:58-06:00 INFO (6): ------------------------------------------------
+2017-03-29T15:27:58-06:00 INFO (6): ------------------------------------------------
+2017-03-29T15:27:58-06:00 INFO (6): ---- ENVIO MASIVO - FN GUARDAR ------------
+2017-03-29T15:27:58-06:00 INFO (6): REQUESTArray
+(
+    [selectCategoria] => nueva
+    [sms] => asdksamdksamdklasmdlkasmdklasmdklasmd
+    [caracteres] => 37
+    [accion] => enviar
+    [retenido] => 1.16
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T15:27:58-06:00 INFO (6): CATEGORIA: nueva
+2017-03-29T15:27:58-06:00 INFO (6): HORA DE ENVIO: 15:27:58
+2017-03-29T15:27:58-06:00 INFO (6): FECHA DE ENVIO: 2017-03-29 15:27:58
+2017-03-29T15:27:58-06:00 INFO (6): MENSAJE: asdksamdksamdklasmdlkasmdklasmdklasmd
+2017-03-29T15:27:58-06:00 INFO (6): CAMPANIA: Administrador
+2017-03-29T15:27:58-06:00 INFO (6): SI REQUESITO TODOS LOS CAMPOS
+2017-03-29T15:27:58-06:00 INFO (6): DATOS A INSERTAR EN LA BASE MENSAJES PROGRAMADOS: Array
+(
+    [mensaje_horario] => 3fa1387709e02d8f3498f6024b128c99
+    [mensaje_horarionombre] => 15:27:58
+    [mensaje_mensaje] => asdksamdksamdklasmdlkasmdklasmdklasmd
+    [mensaje_nombre] => Administrador
+    [mensaje_fechaenvio] => 2017-03-29 15:27:58
+    [mensaje_descripcion] => Administrador
+    [mensaje_fechaalta] => 2017/03/29 15:27:58
+    [mensaje_activo] => 1
+    [mensaje_region] => nueva
+    [mensaje_ocupacion] => nueva
+    [mensaje_procesado] => 1
+    [bandera_masivo] => 0
+    [mensaje_usuario] => 1
+)
+
+2017-03-29T15:27:58-06:00 INFO (6): SE INSERTO: 1
+2017-03-29T15:27:58-06:00 INFO (6): FIN:::...
+2017-03-29T15:28:07-06:00 INFO (6): ------------------------------------------------
+2017-03-29T15:28:07-06:00 INFO (6): ------------------------------------------------
+2017-03-29T15:28:07-06:00 INFO (6): ------------------------------------------------
+2017-03-29T15:28:07-06:00 INFO (6): ---- ENVIO MASIVO - FN GUARDAR ------------
+2017-03-29T15:28:07-06:00 INFO (6): REQUESTArray
+(
+    [selectCategoria] => nueva
+    [sms] => yes
+    [caracteres] => 3
+    [accion] => enviar
+    [retenido] => 1.16
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T15:28:07-06:00 INFO (6): CATEGORIA: nueva
+2017-03-29T15:28:07-06:00 INFO (6): HORA DE ENVIO: 15:28:07
+2017-03-29T15:28:07-06:00 INFO (6): FECHA DE ENVIO: 2017-03-29 15:28:07
+2017-03-29T15:28:07-06:00 INFO (6): MENSAJE: yes
+2017-03-29T15:28:07-06:00 INFO (6): CAMPANIA: Administrador
+2017-03-29T15:28:07-06:00 INFO (6): SI REQUESITO TODOS LOS CAMPOS
+2017-03-29T15:28:07-06:00 INFO (6): DATOS A INSERTAR EN LA BASE MENSAJES PROGRAMADOS: Array
+(
+    [mensaje_horario] => 24a701eaa8a18ffc9f7182e80f7c20e0
+    [mensaje_horarionombre] => 15:28:07
+    [mensaje_mensaje] => yes
+    [mensaje_nombre] => Administrador
+    [mensaje_fechaenvio] => 2017-03-29 15:28:07
+    [mensaje_descripcion] => Administrador
+    [mensaje_fechaalta] => 2017/03/29 15:28:07
+    [mensaje_activo] => 1
+    [mensaje_region] => nueva
+    [mensaje_ocupacion] => nueva
+    [mensaje_procesado] => 1
+    [bandera_masivo] => 0
+    [mensaje_usuario] => 1
+)
+
+2017-03-29T15:28:07-06:00 INFO (6): SE INSERTO: 1
+2017-03-29T15:28:07-06:00 INFO (6): FIN:::...
+2017-03-29T15:29:38-06:00 INFO (6): ------------------------------------------------
+2017-03-29T15:29:38-06:00 INFO (6): ------------------------------------------------
+2017-03-29T15:29:38-06:00 INFO (6): ------------------------------------------------
+2017-03-29T15:29:38-06:00 INFO (6): ---- ENVIO MASIVO - FN GUARDAR ------------
+2017-03-29T15:29:38-06:00 INFO (6): REQUESTArray
+(
+    [selectCategoria] => dummy2
+    [sms] => yes
+    [caracteres] => 3
+    [accion] => enviar
+    [retenido] => 40.6
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T15:29:38-06:00 INFO (6): CATEGORIA: dummy2
+2017-03-29T15:29:38-06:00 INFO (6): HORA DE ENVIO: 15:29:38
+2017-03-29T15:29:38-06:00 INFO (6): FECHA DE ENVIO: 2017-03-29 15:29:38
+2017-03-29T15:29:38-06:00 INFO (6): MENSAJE: yes
+2017-03-29T15:29:38-06:00 INFO (6): CAMPANIA: Administrador
+2017-03-29T15:29:38-06:00 INFO (6): SI REQUESITO TODOS LOS CAMPOS
+2017-03-29T15:29:38-06:00 INFO (6): DATOS A INSERTAR EN LA BASE MENSAJES PROGRAMADOS: Array
+(
+    [mensaje_horario] => 33e4b5b9175d7fb121f4ae20ec4aa26d
+    [mensaje_horarionombre] => 15:29:38
+    [mensaje_mensaje] => yes
+    [mensaje_nombre] => Administrador
+    [mensaje_fechaenvio] => 2017-03-29 15:29:38
+    [mensaje_descripcion] => Administrador
+    [mensaje_fechaalta] => 2017/03/29 15:29:38
+    [mensaje_activo] => 1
+    [mensaje_region] => dummy2
+    [mensaje_ocupacion] => dummy2
+    [mensaje_procesado] => 1
+    [bandera_masivo] => 0
+    [mensaje_usuario] => 1
+)
+
+2017-03-29T15:29:38-06:00 INFO (6): SE INSERTO: 1
+2017-03-29T15:29:38-06:00 INFO (6): FIN:::...
+2017-03-29T15:29:55-06:00 INFO (6): ------------------------------------------------
+2017-03-29T15:29:55-06:00 INFO (6): ------------------------------------------------
+2017-03-29T15:29:55-06:00 INFO (6): ------------------------------------------------
+2017-03-29T15:29:55-06:00 INFO (6): ---- ENVIO MASIVO - FN GUARDAR ------------
+2017-03-29T15:29:55-06:00 INFO (6): REQUESTArray
+(
+    [selectCategoria] => nueva
+    [sms] => yess
+    [caracteres] => 4
+    [accion] => enviar
+    [retenido] => 1.16
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T15:29:55-06:00 INFO (6): CATEGORIA: nueva
+2017-03-29T15:29:55-06:00 INFO (6): HORA DE ENVIO: 15:29:55
+2017-03-29T15:29:55-06:00 INFO (6): FECHA DE ENVIO: 2017-03-29 15:29:55
+2017-03-29T15:29:55-06:00 INFO (6): MENSAJE: yess
+2017-03-29T15:29:55-06:00 INFO (6): CAMPANIA: Administrador
+2017-03-29T15:29:55-06:00 INFO (6): SI REQUESITO TODOS LOS CAMPOS
+2017-03-29T15:29:55-06:00 INFO (6): DATOS A INSERTAR EN LA BASE MENSAJES PROGRAMADOS: Array
+(
+    [mensaje_horario] => 4a923bd90e6379464fafcb354c95647a
+    [mensaje_horarionombre] => 15:29:55
+    [mensaje_mensaje] => yess
+    [mensaje_nombre] => Administrador
+    [mensaje_fechaenvio] => 2017-03-29 15:29:55
+    [mensaje_descripcion] => Administrador
+    [mensaje_fechaalta] => 2017/03/29 15:29:55
+    [mensaje_activo] => 1
+    [mensaje_region] => nueva
+    [mensaje_ocupacion] => nueva
+    [mensaje_procesado] => 1
+    [bandera_masivo] => 0
+    [mensaje_usuario] => 1
+)
+
+2017-03-29T15:29:55-06:00 INFO (6): SE INSERTO: 1
+2017-03-29T15:29:55-06:00 INFO (6): FIN:::...

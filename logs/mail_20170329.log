@@ -1,0 +1,748 @@
+2017-03-29T14:44:12-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-29T14:44:12-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-29T14:44:12-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-29T14:44:12-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>FUNCION CODERE: 2017/03/29 14:44:12
+2017-03-29T14:44:12-06:00 INFO (6): _REQUEST::Array
+(
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T14:44:12-06:00 INFO (6): HOSTNAME: {imap.gmail.com:993/ssl/novalidate-cert}INBOX
+2017-03-29T14:44:12-06:00 INFO (6): USERNAME: sms@conceptomovil.com
+2017-03-29T14:44:13-06:00 INFO (6): EMAILS: 
+2017-03-29T14:44:31-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-29T14:44:31-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-29T14:44:31-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-29T14:44:31-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>FUNCION CODERE: 2017/03/29 14:44:31
+2017-03-29T14:44:31-06:00 INFO (6): _REQUEST::Array
+(
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T14:44:31-06:00 INFO (6): HOSTNAME: {imap.gmail.com:993/ssl/novalidate-cert}INBOX
+2017-03-29T14:44:31-06:00 INFO (6): USERNAME: sms@conceptomovil.com
+2017-03-29T14:44:31-06:00 INFO (6): EMAILS: Array
+(
+    [0] => 10706
+)
+
+2017-03-29T14:44:31-06:00 INFO (6): OVERVIEW : Array
+(
+    [0] => stdClass Object
+        (
+            [subject] => 5549444527;5549444527;5549444527;5549444527;5549444527;5549444527;5549444527;5549444527;5549444527;5549444527;
+            [from] => SMS Concepto <sms@conceptomovil.com>
+            [to] => SMS Concepto <sms@conceptomovil.com>
+            [date] => Wed, 29 Mar 2017 14:43:09 -0600
+            [message_id] => <CAFuQDOpj73z=ofhUL-Y5fw=4BxZY5N7hDig_wZ7q3N=C=jWKEQ@mail.gmail.com>
+            [size] => 792
+            [uid] => 11140
+            [msgno] => 10706
+            [recent] => 0
+            [flagged] => 0
+            [answered] => 0
+            [deleted] => 0
+            [seen] => 0
+            [draft] => 0
+        )
+
+)
+
+2017-03-29T14:44:31-06:00 INFO (6): OVERVIEW SUBJECT MSISDN : 5549444527;5549444527;5549444527;5549444527;5549444527;5549444527;5549444527;5549444527;5549444527;5549444527;
+2017-03-29T14:44:32-06:00 INFO (6): MESAGE DECODE: 1-Hola mau como te va
+
+2017-03-29T14:44:32-06:00 INFO (6): MESAGE ENCODE: 1-Hola mau como te va
+
+2017-03-29T14:44:32-06:00 INFO (6): MESAGE DECODE 2: Hola mau como te va
+
+2017-03-29T14:44:32-06:00 INFO (6): LONGITUD DE MSISDN: 10
+2017-03-29T14:44:32-06:00 INFO (6): ES UN MSISDN VALIDO.
+2017-03-29T14:44:32-06:00 INFO (6): NO TRAE OPERADOR.
+2017-03-29T14:44:32-06:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN LA BASE mt_sms FUERON::: 3008
+2017-03-29T14:44:32-06:00 INFO (6): SI SE ENCONTRO EN BASE::..
+2017-03-29T14:44:32-06:00 INFO (6): LAS COINCIDENCIAS  FUERON::: Array
+(
+    [0] => Array
+        (
+            [mt_id] => 51
+            [mt_medio] => BaseMadre
+            [mt_servicio] => 
+            [mt_marcacion] => 26262
+            [mt_operador] => Telcel
+            [mt_complejo] => 
+            [mt_folio] => 4589a57169f45f9
+            [mt_msisdn] => 5549444527
+            [mt_contenido] => pruebas
+            [mt_fecha] => 2017-02-07 17:24:06
+            [mt_tag] => UNICO
+            [usuario_id] => 1
+            [mt_categoria] => 
+        )
+
+)
+
+2017-03-29T14:44:32-06:00 INFO (6): EL OPERADOR QUE ARROJO LA BASE DE DATOS ES::: Telcel
+2017-03-29T14:44:32-06:00 INFO (6): CARRIER  ::Telcel
+2017-03-29T14:44:32-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=Hola+mau+como+te+va%0D%0A
+2017-03-29T14:44:32-06:00 INFO (6): LONGITUD DE MSISDN: 10
+2017-03-29T14:44:32-06:00 INFO (6): ES UN MSISDN VALIDO.
+2017-03-29T14:44:32-06:00 INFO (6): NO TRAE OPERADOR.
+2017-03-29T14:44:32-06:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN LA BASE mt_sms FUERON::: 3008
+2017-03-29T14:44:32-06:00 INFO (6): SI SE ENCONTRO EN BASE::..
+2017-03-29T14:44:32-06:00 INFO (6): LAS COINCIDENCIAS  FUERON::: Array
+(
+    [0] => Array
+        (
+            [mt_id] => 51
+            [mt_medio] => BaseMadre
+            [mt_servicio] => 
+            [mt_marcacion] => 26262
+            [mt_operador] => Telcel
+            [mt_complejo] => 
+            [mt_folio] => 4589a57169f45f9
+            [mt_msisdn] => 5549444527
+            [mt_contenido] => pruebas
+            [mt_fecha] => 2017-02-07 17:24:06
+            [mt_tag] => UNICO
+            [usuario_id] => 1
+            [mt_categoria] => 
+        )
+
+)
+
+2017-03-29T14:44:32-06:00 INFO (6): EL OPERADOR QUE ARROJO LA BASE DE DATOS ES::: Telcel
+2017-03-29T14:44:32-06:00 INFO (6): CARRIER  ::Telcel
+2017-03-29T14:44:32-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=Hola+mau+como+te+va%0D%0A
+2017-03-29T14:44:32-06:00 INFO (6): LONGITUD DE MSISDN: 10
+2017-03-29T14:44:32-06:00 INFO (6): ES UN MSISDN VALIDO.
+2017-03-29T14:44:32-06:00 INFO (6): NO TRAE OPERADOR.
+2017-03-29T14:44:32-06:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN LA BASE mt_sms FUERON::: 3008
+2017-03-29T14:44:32-06:00 INFO (6): SI SE ENCONTRO EN BASE::..
+2017-03-29T14:44:32-06:00 INFO (6): LAS COINCIDENCIAS  FUERON::: Array
+(
+    [0] => Array
+        (
+            [mt_id] => 51
+            [mt_medio] => BaseMadre
+            [mt_servicio] => 
+            [mt_marcacion] => 26262
+            [mt_operador] => Telcel
+            [mt_complejo] => 
+            [mt_folio] => 4589a57169f45f9
+            [mt_msisdn] => 5549444527
+            [mt_contenido] => pruebas
+            [mt_fecha] => 2017-02-07 17:24:06
+            [mt_tag] => UNICO
+            [usuario_id] => 1
+            [mt_categoria] => 
+        )
+
+)
+
+2017-03-29T14:44:32-06:00 INFO (6): EL OPERADOR QUE ARROJO LA BASE DE DATOS ES::: Telcel
+2017-03-29T14:44:32-06:00 INFO (6): CARRIER  ::Telcel
+2017-03-29T14:44:32-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=Hola+mau+como+te+va%0D%0A
+2017-03-29T14:44:32-06:00 INFO (6): LONGITUD DE MSISDN: 10
+2017-03-29T14:44:32-06:00 INFO (6): ES UN MSISDN VALIDO.
+2017-03-29T14:44:32-06:00 INFO (6): NO TRAE OPERADOR.
+2017-03-29T14:44:32-06:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN LA BASE mt_sms FUERON::: 3008
+2017-03-29T14:44:32-06:00 INFO (6): SI SE ENCONTRO EN BASE::..
+2017-03-29T14:44:32-06:00 INFO (6): LAS COINCIDENCIAS  FUERON::: Array
+(
+    [0] => Array
+        (
+            [mt_id] => 51
+            [mt_medio] => BaseMadre
+            [mt_servicio] => 
+            [mt_marcacion] => 26262
+            [mt_operador] => Telcel
+            [mt_complejo] => 
+            [mt_folio] => 4589a57169f45f9
+            [mt_msisdn] => 5549444527
+            [mt_contenido] => pruebas
+            [mt_fecha] => 2017-02-07 17:24:06
+            [mt_tag] => UNICO
+            [usuario_id] => 1
+            [mt_categoria] => 
+        )
+
+)
+
+2017-03-29T14:44:32-06:00 INFO (6): EL OPERADOR QUE ARROJO LA BASE DE DATOS ES::: Telcel
+2017-03-29T14:44:32-06:00 INFO (6): CARRIER  ::Telcel
+2017-03-29T14:44:32-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=Hola+mau+como+te+va%0D%0A
+2017-03-29T14:44:32-06:00 INFO (6): LONGITUD DE MSISDN: 10
+2017-03-29T14:44:32-06:00 INFO (6): ES UN MSISDN VALIDO.
+2017-03-29T14:44:32-06:00 INFO (6): NO TRAE OPERADOR.
+2017-03-29T14:44:32-06:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN LA BASE mt_sms FUERON::: 3008
+2017-03-29T14:44:32-06:00 INFO (6): SI SE ENCONTRO EN BASE::..
+2017-03-29T14:44:32-06:00 INFO (6): LAS COINCIDENCIAS  FUERON::: Array
+(
+    [0] => Array
+        (
+            [mt_id] => 51
+            [mt_medio] => BaseMadre
+            [mt_servicio] => 
+            [mt_marcacion] => 26262
+            [mt_operador] => Telcel
+            [mt_complejo] => 
+            [mt_folio] => 4589a57169f45f9
+            [mt_msisdn] => 5549444527
+            [mt_contenido] => pruebas
+            [mt_fecha] => 2017-02-07 17:24:06
+            [mt_tag] => UNICO
+            [usuario_id] => 1
+            [mt_categoria] => 
+        )
+
+)
+
+2017-03-29T14:44:32-06:00 INFO (6): EL OPERADOR QUE ARROJO LA BASE DE DATOS ES::: Telcel
+2017-03-29T14:44:32-06:00 INFO (6): CARRIER  ::Telcel
+2017-03-29T14:44:32-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=Hola+mau+como+te+va%0D%0A
+2017-03-29T14:44:32-06:00 INFO (6): LONGITUD DE MSISDN: 10
+2017-03-29T14:44:32-06:00 INFO (6): ES UN MSISDN VALIDO.
+2017-03-29T14:44:32-06:00 INFO (6): NO TRAE OPERADOR.
+2017-03-29T14:44:32-06:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN LA BASE mt_sms FUERON::: 3008
+2017-03-29T14:44:32-06:00 INFO (6): SI SE ENCONTRO EN BASE::..
+2017-03-29T14:44:32-06:00 INFO (6): LAS COINCIDENCIAS  FUERON::: Array
+(
+    [0] => Array
+        (
+            [mt_id] => 51
+            [mt_medio] => BaseMadre
+            [mt_servicio] => 
+            [mt_marcacion] => 26262
+            [mt_operador] => Telcel
+            [mt_complejo] => 
+            [mt_folio] => 4589a57169f45f9
+            [mt_msisdn] => 5549444527
+            [mt_contenido] => pruebas
+            [mt_fecha] => 2017-02-07 17:24:06
+            [mt_tag] => UNICO
+            [usuario_id] => 1
+            [mt_categoria] => 
+        )
+
+)
+
+2017-03-29T14:44:32-06:00 INFO (6): EL OPERADOR QUE ARROJO LA BASE DE DATOS ES::: Telcel
+2017-03-29T14:44:32-06:00 INFO (6): CARRIER  ::Telcel
+2017-03-29T14:44:32-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=Hola+mau+como+te+va%0D%0A
+2017-03-29T14:44:32-06:00 INFO (6): LONGITUD DE MSISDN: 10
+2017-03-29T14:44:32-06:00 INFO (6): ES UN MSISDN VALIDO.
+2017-03-29T14:44:32-06:00 INFO (6): NO TRAE OPERADOR.
+2017-03-29T14:44:32-06:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN LA BASE mt_sms FUERON::: 3008
+2017-03-29T14:44:32-06:00 INFO (6): SI SE ENCONTRO EN BASE::..
+2017-03-29T14:44:32-06:00 INFO (6): LAS COINCIDENCIAS  FUERON::: Array
+(
+    [0] => Array
+        (
+            [mt_id] => 51
+            [mt_medio] => BaseMadre
+            [mt_servicio] => 
+            [mt_marcacion] => 26262
+            [mt_operador] => Telcel
+            [mt_complejo] => 
+            [mt_folio] => 4589a57169f45f9
+            [mt_msisdn] => 5549444527
+            [mt_contenido] => pruebas
+            [mt_fecha] => 2017-02-07 17:24:06
+            [mt_tag] => UNICO
+            [usuario_id] => 1
+            [mt_categoria] => 
+        )
+
+)
+
+2017-03-29T14:44:32-06:00 INFO (6): EL OPERADOR QUE ARROJO LA BASE DE DATOS ES::: Telcel
+2017-03-29T14:44:32-06:00 INFO (6): CARRIER  ::Telcel
+2017-03-29T14:44:32-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=Hola+mau+como+te+va%0D%0A
+2017-03-29T14:44:32-06:00 INFO (6): LONGITUD DE MSISDN: 10
+2017-03-29T14:44:32-06:00 INFO (6): ES UN MSISDN VALIDO.
+2017-03-29T14:44:32-06:00 INFO (6): NO TRAE OPERADOR.
+2017-03-29T14:44:32-06:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN LA BASE mt_sms FUERON::: 3008
+2017-03-29T14:44:32-06:00 INFO (6): SI SE ENCONTRO EN BASE::..
+2017-03-29T14:44:32-06:00 INFO (6): LAS COINCIDENCIAS  FUERON::: Array
+(
+    [0] => Array
+        (
+            [mt_id] => 51
+            [mt_medio] => BaseMadre
+            [mt_servicio] => 
+            [mt_marcacion] => 26262
+            [mt_operador] => Telcel
+            [mt_complejo] => 
+            [mt_folio] => 4589a57169f45f9
+            [mt_msisdn] => 5549444527
+            [mt_contenido] => pruebas
+            [mt_fecha] => 2017-02-07 17:24:06
+            [mt_tag] => UNICO
+            [usuario_id] => 1
+            [mt_categoria] => 
+        )
+
+)
+
+2017-03-29T14:44:32-06:00 INFO (6): EL OPERADOR QUE ARROJO LA BASE DE DATOS ES::: Telcel
+2017-03-29T14:44:32-06:00 INFO (6): CARRIER  ::Telcel
+2017-03-29T14:44:32-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=Hola+mau+como+te+va%0D%0A
+2017-03-29T14:44:32-06:00 INFO (6): LONGITUD DE MSISDN: 10
+2017-03-29T14:44:32-06:00 INFO (6): ES UN MSISDN VALIDO.
+2017-03-29T14:44:32-06:00 INFO (6): NO TRAE OPERADOR.
+2017-03-29T14:44:32-06:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN LA BASE mt_sms FUERON::: 3008
+2017-03-29T14:44:32-06:00 INFO (6): SI SE ENCONTRO EN BASE::..
+2017-03-29T14:44:32-06:00 INFO (6): LAS COINCIDENCIAS  FUERON::: Array
+(
+    [0] => Array
+        (
+            [mt_id] => 51
+            [mt_medio] => BaseMadre
+            [mt_servicio] => 
+            [mt_marcacion] => 26262
+            [mt_operador] => Telcel
+            [mt_complejo] => 
+            [mt_folio] => 4589a57169f45f9
+            [mt_msisdn] => 5549444527
+            [mt_contenido] => pruebas
+            [mt_fecha] => 2017-02-07 17:24:06
+            [mt_tag] => UNICO
+            [usuario_id] => 1
+            [mt_categoria] => 
+        )
+
+)
+
+2017-03-29T14:44:32-06:00 INFO (6): EL OPERADOR QUE ARROJO LA BASE DE DATOS ES::: Telcel
+2017-03-29T14:44:32-06:00 INFO (6): CARRIER  ::Telcel
+2017-03-29T14:44:32-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=Hola+mau+como+te+va%0D%0A
+2017-03-29T14:44:32-06:00 INFO (6): LONGITUD DE MSISDN: 10
+2017-03-29T14:44:32-06:00 INFO (6): ES UN MSISDN VALIDO.
+2017-03-29T14:44:32-06:00 INFO (6): NO TRAE OPERADOR.
+2017-03-29T14:44:32-06:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN LA BASE mt_sms FUERON::: 3008
+2017-03-29T14:44:32-06:00 INFO (6): SI SE ENCONTRO EN BASE::..
+2017-03-29T14:44:32-06:00 INFO (6): LAS COINCIDENCIAS  FUERON::: Array
+(
+    [0] => Array
+        (
+            [mt_id] => 51
+            [mt_medio] => BaseMadre
+            [mt_servicio] => 
+            [mt_marcacion] => 26262
+            [mt_operador] => Telcel
+            [mt_complejo] => 
+            [mt_folio] => 4589a57169f45f9
+            [mt_msisdn] => 5549444527
+            [mt_contenido] => pruebas
+            [mt_fecha] => 2017-02-07 17:24:06
+            [mt_tag] => UNICO
+            [usuario_id] => 1
+            [mt_categoria] => 
+        )
+
+)
+
+2017-03-29T14:44:32-06:00 INFO (6): EL OPERADOR QUE ARROJO LA BASE DE DATOS ES::: Telcel
+2017-03-29T14:44:32-06:00 INFO (6): CARRIER  ::Telcel
+2017-03-29T14:44:32-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=Hola+mau+como+te+va%0D%0A
+2017-03-29T14:44:32-06:00 INFO (6): LONGITUD DE MSISDN: 0
+2017-03-29T14:44:32-06:00 INFO (6): ES UN MSISDN NO VALIDO MENOR DE 10.
+2017-03-29T14:44:32-06:00 INFO (6): response:: 0: Accepted for delivery
+2017-03-29T14:44:32-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-29T14:44:32-06:00 INFO (6): Array data_mt:: Array
+(
+    [mt_medio] => Base
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_folio] => 958dc1cb0358f82
+    [mt_msisdn] => 5549444527
+    [mt_contenido] => Hola mau como te va
+
+    [mt_fecha] => 2017-03-29 14:44:32
+    [mt_tag] => mail
+    [mt_categoria] => SIN CATEGORIA
+    [usuario_id] => 1
+)
+
+2017-03-29T14:44:32-06:00 INFO (6): SE INSERTO:: 1
+2017-03-29T14:44:32-06:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 5,9
+)
+
+2017-03-29T14:44:32-06:00 INFO (6): SE ACTUALIZO:: 1
+2017-03-29T14:44:32-06:00 INFO (6): response:: 0: Accepted for delivery
+2017-03-29T14:44:32-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-29T14:44:32-06:00 INFO (6): Array data_mt:: Array
+(
+    [mt_medio] => Base
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_folio] => 758dc1cb03829e7
+    [mt_msisdn] => 5549444527
+    [mt_contenido] => Hola mau como te va
+
+    [mt_fecha] => 2017-03-29 14:44:32
+    [mt_tag] => mail
+    [mt_categoria] => SIN CATEGORIA
+    [usuario_id] => 1
+)
+
+2017-03-29T14:44:32-06:00 INFO (6): SE INSERTO:: 1
+2017-03-29T14:44:32-06:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 5,9
+)
+
+2017-03-29T14:44:32-06:00 INFO (6): SE ACTUALIZO:: 0
+2017-03-29T14:44:32-06:00 INFO (6): response:: 0: Accepted for delivery
+2017-03-29T14:44:32-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-29T14:44:32-06:00 INFO (6): Array data_mt:: Array
+(
+    [mt_medio] => Base
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_folio] => 058dc1cb03928d8
+    [mt_msisdn] => 5549444527
+    [mt_contenido] => Hola mau como te va
+
+    [mt_fecha] => 2017-03-29 14:44:32
+    [mt_tag] => mail
+    [mt_categoria] => SIN CATEGORIA
+    [usuario_id] => 1
+)
+
+2017-03-29T14:44:32-06:00 INFO (6): SE INSERTO:: 1
+2017-03-29T14:44:32-06:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 5,9
+)
+
+2017-03-29T14:44:32-06:00 INFO (6): SE ACTUALIZO:: 0
+2017-03-29T14:44:32-06:00 INFO (6): response:: 0: Accepted for delivery
+2017-03-29T14:44:32-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-29T14:44:32-06:00 INFO (6): Array data_mt:: Array
+(
+    [mt_medio] => Base
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_folio] => 658dc1cb03a1654
+    [mt_msisdn] => 5549444527
+    [mt_contenido] => Hola mau como te va
+
+    [mt_fecha] => 2017-03-29 14:44:32
+    [mt_tag] => mail
+    [mt_categoria] => SIN CATEGORIA
+    [usuario_id] => 1
+)
+
+2017-03-29T14:44:32-06:00 INFO (6): SE INSERTO:: 1
+2017-03-29T14:44:32-06:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 5,9
+)
+
+2017-03-29T14:44:32-06:00 INFO (6): SE ACTUALIZO:: 0
+2017-03-29T14:44:32-06:00 INFO (6): response:: 0: Accepted for delivery
+2017-03-29T14:44:32-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-29T14:44:32-06:00 INFO (6): Array data_mt:: Array
+(
+    [mt_medio] => Base
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_folio] => 958dc1cb03af800
+    [mt_msisdn] => 5549444527
+    [mt_contenido] => Hola mau como te va
+
+    [mt_fecha] => 2017-03-29 14:44:32
+    [mt_tag] => mail
+    [mt_categoria] => SIN CATEGORIA
+    [usuario_id] => 1
+)
+
+2017-03-29T14:44:32-06:00 INFO (6): SE INSERTO:: 1
+2017-03-29T14:44:32-06:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 5,9
+)
+
+2017-03-29T14:44:32-06:00 INFO (6): SE ACTUALIZO:: 0
+2017-03-29T14:44:32-06:00 INFO (6): response:: 0: Accepted for delivery
+2017-03-29T14:44:32-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-29T14:44:32-06:00 INFO (6): Array data_mt:: Array
+(
+    [mt_medio] => Base
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_folio] => 658dc1cb03bdf77
+    [mt_msisdn] => 5549444527
+    [mt_contenido] => Hola mau como te va
+
+    [mt_fecha] => 2017-03-29 14:44:32
+    [mt_tag] => mail
+    [mt_categoria] => SIN CATEGORIA
+    [usuario_id] => 1
+)
+
+2017-03-29T14:44:32-06:00 INFO (6): SE INSERTO:: 1
+2017-03-29T14:44:32-06:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 5,9
+)
+
+2017-03-29T14:44:32-06:00 INFO (6): SE ACTUALIZO:: 0
+2017-03-29T14:44:32-06:00 INFO (6): response:: 0: Accepted for delivery
+2017-03-29T14:44:32-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-29T14:44:32-06:00 INFO (6): Array data_mt:: Array
+(
+    [mt_medio] => Base
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_folio] => 358dc1cb03cd052
+    [mt_msisdn] => 5549444527
+    [mt_contenido] => Hola mau como te va
+
+    [mt_fecha] => 2017-03-29 14:44:32
+    [mt_tag] => mail
+    [mt_categoria] => SIN CATEGORIA
+    [usuario_id] => 1
+)
+
+2017-03-29T14:44:32-06:00 INFO (6): SE INSERTO:: 1
+2017-03-29T14:44:32-06:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 5,9
+)
+
+2017-03-29T14:44:32-06:00 INFO (6): SE ACTUALIZO:: 0
+2017-03-29T14:44:32-06:00 INFO (6): response:: 0: Accepted for delivery
+2017-03-29T14:44:32-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-29T14:44:32-06:00 INFO (6): Array data_mt:: Array
+(
+    [mt_medio] => Base
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_folio] => 658dc1cb03dbd83
+    [mt_msisdn] => 5549444527
+    [mt_contenido] => Hola mau como te va
+
+    [mt_fecha] => 2017-03-29 14:44:32
+    [mt_tag] => mail
+    [mt_categoria] => SIN CATEGORIA
+    [usuario_id] => 1
+)
+
+2017-03-29T14:44:32-06:00 INFO (6): SE INSERTO:: 1
+2017-03-29T14:44:32-06:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 5,9
+)
+
+2017-03-29T14:44:32-06:00 INFO (6): SE ACTUALIZO:: 0
+2017-03-29T14:44:32-06:00 INFO (6): response:: 0: Accepted for delivery
+2017-03-29T14:44:32-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-29T14:44:32-06:00 INFO (6): Array data_mt:: Array
+(
+    [mt_medio] => Base
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_folio] => 658dc1cb03ea1b2
+    [mt_msisdn] => 5549444527
+    [mt_contenido] => Hola mau como te va
+
+    [mt_fecha] => 2017-03-29 14:44:32
+    [mt_tag] => mail
+    [mt_categoria] => SIN CATEGORIA
+    [usuario_id] => 1
+)
+
+2017-03-29T14:44:32-06:00 INFO (6): SE INSERTO:: 1
+2017-03-29T14:44:32-06:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 5,9
+)
+
+2017-03-29T14:44:32-06:00 INFO (6): SE ACTUALIZO:: 0
+2017-03-29T14:44:32-06:00 INFO (6): response:: 0: Accepted for delivery
+2017-03-29T14:44:32-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-29T14:44:32-06:00 INFO (6): Array data_mt:: Array
+(
+    [mt_medio] => Base
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_folio] => 158dc1cb03f8ca8
+    [mt_msisdn] => 5549444527
+    [mt_contenido] => Hola mau como te va
+
+    [mt_fecha] => 2017-03-29 14:44:32
+    [mt_tag] => mail
+    [mt_categoria] => SIN CATEGORIA
+    [usuario_id] => 1
+)
+
+2017-03-29T14:44:32-06:00 INFO (6): SE INSERTO:: 1
+2017-03-29T14:44:32-06:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 5,9
+)
+
+2017-03-29T14:44:32-06:00 INFO (6): SE ACTUALIZO:: 0
+2017-03-29T14:45:47-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-29T14:45:47-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-29T14:45:47-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-29T14:45:47-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>FUNCION CODERE: 2017/03/29 14:45:47
+2017-03-29T14:45:47-06:00 INFO (6): _REQUEST::Array
+(
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T14:45:47-06:00 INFO (6): HOSTNAME: {imap.gmail.com:993/ssl/novalidate-cert}INBOX
+2017-03-29T14:45:47-06:00 INFO (6): USERNAME: sms@conceptomovil.com
+2017-03-29T14:45:48-06:00 INFO (6): EMAILS: Array
+(
+    [0] => 10706
+)
+
+2017-03-29T14:45:48-06:00 INFO (6): OVERVIEW : Array
+(
+    [0] => stdClass Object
+        (
+            [subject] => 5549444527;5549444527;5549444527;5549444527;5549444527;5549444527;5549444527;5549444527;5549444527;5549444527;
+            [from] => SMS Concepto <sms@conceptomovil.com>
+            [to] => SMS Concepto <sms@conceptomovil.com>
+            [date] => Wed, 29 Mar 2017 14:43:09 -0600
+            [message_id] => <CAFuQDOpj73z=ofhUL-Y5fw=4BxZY5N7hDig_wZ7q3N=C=jWKEQ@mail.gmail.com>
+            [size] => 792
+            [uid] => 11140
+            [msgno] => 10706
+            [recent] => 0
+            [flagged] => 0
+            [answered] => 0
+            [deleted] => 0
+            [seen] => 0
+            [draft] => 0
+        )
+
+)
+
+2017-03-29T14:45:48-06:00 INFO (6): OVERVIEW SUBJECT MSISDN : 5549444527;5549444527;5549444527;5549444527;5549444527;5549444527;5549444527;5549444527;5549444527;5549444527;
+2017-03-29T14:45:48-06:00 INFO (6): MESAGE DECODE: 1-Hola mau como te va
+
+2017-03-29T14:45:48-06:00 INFO (6): MESAGE ENCODE: 1-Hola mau como te va
+
+2017-03-29T14:45:48-06:00 INFO (6): MESAGE DECODE 2: Hola mau como te va
+
+2017-03-29T14:47:27-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-29T14:47:27-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-29T14:47:27-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-29T14:47:27-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>FUNCION CODERE: 2017/03/29 14:47:27
+2017-03-29T14:47:27-06:00 INFO (6): _REQUEST::Array
+(
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T14:47:27-06:00 INFO (6): HOSTNAME: {imap.gmail.com:993/ssl/novalidate-cert}INBOX
+2017-03-29T14:47:27-06:00 INFO (6): USERNAME: sms@conceptomovil.com
+2017-03-29T14:47:28-06:00 INFO (6): EMAILS: 
+2017-03-29T14:47:38-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-29T14:47:38-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-29T14:47:38-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-29T14:47:38-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>FUNCION CODERE: 2017/03/29 14:47:38
+2017-03-29T14:47:38-06:00 INFO (6): _REQUEST::Array
+(
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T14:47:38-06:00 INFO (6): HOSTNAME: {imap.gmail.com:993/ssl/novalidate-cert}INBOX
+2017-03-29T14:47:38-06:00 INFO (6): USERNAME: sms@conceptomovil.com
+2017-03-29T14:47:38-06:00 INFO (6): EMAILS: Array
+(
+    [0] => 10706
+)
+
+2017-03-29T14:47:38-06:00 INFO (6): OVERVIEW : Array
+(
+    [0] => stdClass Object
+        (
+            [subject] => 5549444527;5549444527;5549444527;5549444527;5549444527;5549444527;5549444527;5549444527;5549444527;5549444527;
+            [from] => SMS Concepto <sms@conceptomovil.com>
+            [to] => SMS Concepto <sms@conceptomovil.com>
+            [date] => Wed, 29 Mar 2017 14:43:09 -0600
+            [message_id] => <CAFuQDOpj73z=ofhUL-Y5fw=4BxZY5N7hDig_wZ7q3N=C=jWKEQ@mail.gmail.com>
+            [size] => 792
+            [uid] => 11140
+            [msgno] => 10706
+            [recent] => 0
+            [flagged] => 0
+            [answered] => 0
+            [deleted] => 0
+            [seen] => 0
+            [draft] => 0
+        )
+
+)
+
+2017-03-29T14:47:38-06:00 INFO (6): OVERVIEW SUBJECT MSISDN : 5549444527;5549444527;5549444527;5549444527;5549444527;5549444527;5549444527;5549444527;5549444527;5549444527;
+2017-03-29T14:47:39-06:00 INFO (6): MESAGE DECODE: 1-Hola mau como te va
+
+2017-03-29T14:47:39-06:00 INFO (6): MESAGE ENCODE: 1-Hola mau como te va
+
+2017-03-29T14:47:39-06:00 INFO (6): MESAGE DECODE 2: Hola mau como te va
+
+2017-03-29T14:49:04-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-29T14:49:04-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-29T14:49:04-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-29T14:49:04-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>FUNCION CODERE: 2017/03/29 14:49:04
+2017-03-29T14:49:04-06:00 INFO (6): _REQUEST::Array
+(
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T14:49:04-06:00 INFO (6): HOSTNAME: {imap.gmail.com:993/ssl/novalidate-cert}INBOX
+2017-03-29T14:49:04-06:00 INFO (6): USERNAME: sms@conceptomovil.com
+2017-03-29T14:49:05-06:00 INFO (6): EMAILS: 
+2017-03-29T14:49:16-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-29T14:49:16-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-29T14:49:16-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-29T14:49:16-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>FUNCION CODERE: 2017/03/29 14:49:16
+2017-03-29T14:49:16-06:00 INFO (6): _REQUEST::Array
+(
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-29T14:49:16-06:00 INFO (6): HOSTNAME: {imap.gmail.com:993/ssl/novalidate-cert}INBOX
+2017-03-29T14:49:16-06:00 INFO (6): USERNAME: sms@conceptomovil.com
+2017-03-29T14:49:17-06:00 INFO (6): EMAILS: Array
+(
+    [0] => 10706
+)
+
+2017-03-29T14:49:17-06:00 INFO (6): OVERVIEW : Array
+(
+    [0] => stdClass Object
+        (
+            [subject] => 5549444527;5549444527;5549444527;5549444527;5549444527;5549444527;5549444527;5549444527;5549444527;5549444527;
+            [from] => SMS Concepto <sms@conceptomovil.com>
+            [to] => SMS Concepto <sms@conceptomovil.com>
+            [date] => Wed, 29 Mar 2017 14:43:09 -0600
+            [message_id] => <CAFuQDOpj73z=ofhUL-Y5fw=4BxZY5N7hDig_wZ7q3N=C=jWKEQ@mail.gmail.com>
+            [size] => 792
+            [uid] => 11140
+            [msgno] => 10706
+            [recent] => 0
+            [flagged] => 0
+            [answered] => 0
+            [deleted] => 0
+            [seen] => 0
+            [draft] => 0
+        )
+
+)
+
+2017-03-29T14:49:17-06:00 INFO (6): OVERVIEW SUBJECT MSISDN : 5549444527;5549444527;5549444527;5549444527;5549444527;5549444527;5549444527;5549444527;5549444527;5549444527;
+2017-03-29T14:49:17-06:00 INFO (6): MESAGE DECODE: 1-Hola mau como te va
+
+2017-03-29T14:49:17-06:00 INFO (6): MESAGE ENCODE: 1-Hola mau como te va
+
+2017-03-29T14:49:17-06:00 INFO (6): MESAGE DECODE 2: Hola mau como te va
+

@@ -1,0 +1,87 @@
+2017-03-24T11:37:35-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-24T11:37:35-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-24T11:37:35-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-24T11:37:35-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>INICIO REGISTRO DE USUARIOS: 2017/03/24 11:37:35
+2017-03-24T11:37:35-06:00 INFO (6): REQUESTArray
+(
+    [usuarioURL] => 
+    [accion] => guardar
+    [PHPSESSID] => q06abqoelqg9sj1qv4fu30dt40
+)
+
+2017-03-24T11:37:35-06:00 INFO (6): NOMBRE: gaby
+2017-03-24T11:37:35-06:00 INFO (6): DESCRIPCION:  
+2017-03-24T11:37:35-06:00 INFO (6): USUARIOgaby
+2017-03-24T11:37:35-06:00 INFO (6): USUARIO FORMADO: gaby
+2017-03-24T11:37:35-06:00 INFO (6): URL GENERADA: http://repositorio.cm-operations.com/proyectemail/bin/tu_empresa.php?msisdn=XXXXXXXXXX&message=MESSAGE&tag=TAG&user=gaby
+2017-03-24T11:37:35-06:00 INFO (6): DATOS A INSERTAR EN LA BASE CLIENTES DEMO: Array
+(
+    [cliente_nombre] => gaby
+    [cliente_descripcion] =>  
+    [cliente_url] => http://repositorio.cm-operations.com/proyectemail/bin/tu_empresa.php?msisdn=XXXXXXXXXX&message=MESSAGE&tag=TAG&user=gaby
+    [cliente_usuario] => gaby
+    [cliente_agente] => gaby
+    [cliente_fecha] => 2017/03/24 11:37:35
+    [cliente_activo] => 1
+)
+
+2017-03-24T11:37:35-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T11:37:35-06:00 INFO (6): Fin: 2017/03/24 11:37:35
+2017-03-24T17:07:09-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-24T17:07:09-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-24T17:07:09-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-24T17:07:09-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>INICIO REGISTRO DE USUARIOS: 2017/03/24 17:07:09
+2017-03-24T17:07:09-06:00 INFO (6): REQUESTArray
+(
+    [usuarioURL] => 
+    [accion] => guardar
+    [PHPSESSID] => je1vgcb0h0qj8lkpdoegoi3o90
+)
+
+2017-03-24T17:07:09-06:00 INFO (6): NOMBRE: Administrador
+2017-03-24T17:07:09-06:00 INFO (6): DESCRIPCION:  
+2017-03-24T17:07:09-06:00 INFO (6): USUARIOAdministrador
+2017-03-24T17:07:09-06:00 INFO (6): USUARIO FORMADO: Administrador
+2017-03-24T17:07:09-06:00 INFO (6): URL GENERADA: http://repositorio.cm-operations.com/proyectemail/bin/tu_empresa.php?msisdn=XXXXXXXXXX&message=MESSAGE&tag=58d5a69d99582&user=Administrador
+2017-03-24T17:07:09-06:00 INFO (6): DATOS A INSERTAR EN LA BASE CLIENTES DEMO: Array
+(
+    [cliente_nombre] => Administrador
+    [cliente_descripcion] =>  
+    [cliente_url] => http://repositorio.cm-operations.com/proyectemail/bin/tu_empresa.php?msisdn=XXXXXXXXXX&message=MESSAGE&tag=58d5a69d99582&user=Administrador
+    [cliente_usuario] => Administrador
+    [cliente_agente] => Administrador
+    [cliente_fecha] => 2017/03/24 17:07:09
+    [cliente_activo] => 1
+)
+
+2017-03-24T17:07:09-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T17:07:09-06:00 INFO (6): Fin: 2017/03/24 17:07:09
+2017-03-24T17:07:49-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-24T17:07:49-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-24T17:07:49-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-24T17:07:49-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>INICIO REGISTRO DE USUARIOS: 2017/03/24 17:07:49
+2017-03-24T17:07:49-06:00 INFO (6): REQUESTArray
+(
+    [usuarioURL] => 
+    [accion] => guardar
+    [PHPSESSID] => q06abqoelqg9sj1qv4fu30dt40
+)
+
+2017-03-24T17:07:49-06:00 INFO (6): NOMBRE: gaby
+2017-03-24T17:07:49-06:00 INFO (6): DESCRIPCION:  
+2017-03-24T17:07:49-06:00 INFO (6): USUARIOgaby
+2017-03-24T17:07:49-06:00 INFO (6): USUARIO FORMADO: gaby
+2017-03-24T17:07:49-06:00 INFO (6): URL GENERADA: http://repositorio.cm-operations.com/proyectemail/bin/tu_empresa.php?msisdn=XXXXXXXXXX&message=MESSAGE&tag=58d5a6c5e557f&user=gaby
+2017-03-24T17:07:49-06:00 INFO (6): DATOS A INSERTAR EN LA BASE CLIENTES DEMO: Array
+(
+    [cliente_nombre] => gaby
+    [cliente_descripcion] =>  
+    [cliente_url] => http://repositorio.cm-operations.com/proyectemail/bin/tu_empresa.php?msisdn=XXXXXXXXXX&message=MESSAGE&tag=58d5a6c5e557f&user=gaby
+    [cliente_usuario] => gaby
+    [cliente_agente] => gaby
+    [cliente_fecha] => 2017/03/24 17:07:49
+    [cliente_activo] => 1
+)
+
+2017-03-24T17:07:49-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T17:07:49-06:00 INFO (6): Fin: 2017/03/24 17:07:49

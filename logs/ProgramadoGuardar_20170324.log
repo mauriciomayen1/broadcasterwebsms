@@ -1,0 +1,123 @@
+2017-03-24T10:30:14-06:00 INFO (6): ------------------------------------------------
+2017-03-24T10:30:14-06:00 INFO (6): ------------------------------------------------
+2017-03-24T10:30:14-06:00 INFO (6): ------------------------------------------------
+2017-03-24T10:30:14-06:00 INFO (6): ---- ENVIO PROGRAMADOS - FN GUARDAR ------------
+2017-03-24T10:30:14-06:00 INFO (6): REQUESTArray
+(
+    [categoria] => prueba1
+    [fechaenvio] => 2017-03-24
+    [horaenvio] => 24c03b5364d69a4
+    [msgtxt] => hola
+    [caracteres] => 4
+    [accion] => guardar
+    [PHPSESSID] => q06abqoelqg9sj1qv4fu30dt40
+)
+
+2017-03-24T10:30:14-06:00 INFO (6): CATEGORIA: prueba1
+2017-03-24T10:30:14-06:00 INFO (6): HORA DE ENVIO: 24c03b5364d69a4
+2017-03-24T10:30:14-06:00 INFO (6): FECHA DE ENVIO: 2017-03-24
+2017-03-24T10:30:14-06:00 INFO (6): MENSAJE: hola
+2017-03-24T10:30:14-06:00 INFO (6): CAMPANIA: gaby
+2017-03-24T10:30:14-06:00 INFO (6): SI REQUESITO TODOS LOS CAMPOS
+2017-03-24T10:30:14-06:00 INFO (6): DIFERENCIA: 0
+2017-03-24T10:30:14-06:00 INFO (6): ES UNA FECHA VALIDAD, AUN NO HA PASADO
+2017-03-24T10:30:14-06:00 INFO (6): DATOS A INSERTAR EN LA BASE MENSAJES PROGRAMADOS: Array
+(
+    [mensaje_horario] => 24c03b5364d69a4
+    [mensaje_horarionombre] => 11:00:00
+    [mensaje_mensaje] => hola
+    [mensaje_nombre] => gaby
+    [mensaje_fechaenvio] => 2017-03-24
+    [mensaje_descripcion] => gaby
+    [mensaje_fechaalta] => 2017/03/24 10:30:14
+    [mensaje_activo] => 1
+    [mensaje_region] => prueba1
+    [mensaje_ocupacion] => prueba1
+    [mensaje_procesado] => 1
+    [mensaje_usuario] => 55
+)
+
+2017-03-24T10:30:14-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T10:30:14-06:00 INFO (6): FIN:::...
+2017-03-24T12:26:55-06:00 INFO (6): ------------------------------------------------
+2017-03-24T12:26:55-06:00 INFO (6): ------------------------------------------------
+2017-03-24T12:26:55-06:00 INFO (6): ------------------------------------------------
+2017-03-24T12:26:55-06:00 INFO (6): ---- ENVIO PROGRAMADOS - FN GUARDAR ------------
+2017-03-24T12:26:55-06:00 INFO (6): REQUESTArray
+(
+    [categoria] => yes
+    [fechaenvio] => 2017-03-24
+    [horaenvio] => 34c03b5b1d80906
+    [msgtxt] => fewfewfewfewfewfewfewfewferwfrwfrwfrfwrfwrf
+    [caracteres] => 43
+    [accion] => guardar
+    [PHPSESSID] => je1vgcb0h0qj8lkpdoegoi3o90
+)
+
+2017-03-24T12:26:55-06:00 INFO (6): CATEGORIA: yes
+2017-03-24T12:26:55-06:00 INFO (6): HORA DE ENVIO: 34c03b5b1d80906
+2017-03-24T12:26:55-06:00 INFO (6): FECHA DE ENVIO: 2017-03-24
+2017-03-24T12:26:55-06:00 INFO (6): MENSAJE: fewfewfewfewfewfewfewfewferwfrwfrwfrfwrfwrf
+2017-03-24T12:26:55-06:00 INFO (6): CAMPANIA: Administrador
+2017-03-24T12:26:55-06:00 INFO (6): SI REQUESITO TODOS LOS CAMPOS
+2017-03-24T12:26:55-06:00 INFO (6): DIFERENCIA: 0
+2017-03-24T12:26:55-06:00 INFO (6): ES UNA FECHA VALIDAD, AUN NO HA PASADO
+2017-03-24T12:26:55-06:00 INFO (6): DATOS A INSERTAR EN LA BASE MENSAJES PROGRAMADOS: Array
+(
+    [mensaje_horario] => 34c03b5b1d80906
+    [mensaje_horarionombre] => 12:30:00
+    [mensaje_mensaje] => fewfewfewfewfewfewfewfewferwfrwfrwfrfwrfwrf
+    [mensaje_nombre] => Administrador
+    [mensaje_fechaenvio] => 2017-03-24
+    [mensaje_descripcion] => Administrador
+    [mensaje_fechaalta] => 2017/03/24 12:26:55
+    [mensaje_activo] => 1
+    [mensaje_region] => yes
+    [mensaje_ocupacion] => yes
+    [mensaje_procesado] => 1
+    [mensaje_usuario] => 1
+)
+
+2017-03-24T12:26:55-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:26:55-06:00 INFO (6): FIN:::...
+2017-03-24T12:42:50-06:00 INFO (6): ------------------------------------------------
+2017-03-24T12:42:50-06:00 INFO (6): ------------------------------------------------
+2017-03-24T12:42:50-06:00 INFO (6): ------------------------------------------------
+2017-03-24T12:42:50-06:00 INFO (6): ---- ENVIO PROGRAMADOS - FN GUARDAR ------------
+2017-03-24T12:42:50-06:00 INFO (6): REQUESTArray
+(
+    [categoria] => yes
+    [fechaenvio] => 2017-03-24
+    [horaenvio] => 44c056202798260
+    [msgtxt] => bjbbjbbbjjb
+    [caracteres] => 11
+    [accion] => guardar
+    [PHPSESSID] => je1vgcb0h0qj8lkpdoegoi3o90
+)
+
+2017-03-24T12:42:50-06:00 INFO (6): CATEGORIA: yes
+2017-03-24T12:42:50-06:00 INFO (6): HORA DE ENVIO: 44c056202798260
+2017-03-24T12:42:50-06:00 INFO (6): FECHA DE ENVIO: 2017-03-24
+2017-03-24T12:42:50-06:00 INFO (6): MENSAJE: bjbbjbbbjjb
+2017-03-24T12:42:50-06:00 INFO (6): CAMPANIA: Administrador
+2017-03-24T12:42:50-06:00 INFO (6): SI REQUESITO TODOS LOS CAMPOS
+2017-03-24T12:42:50-06:00 INFO (6): DIFERENCIA: 0
+2017-03-24T12:42:50-06:00 INFO (6): ES UNA FECHA VALIDAD, AUN NO HA PASADO
+2017-03-24T12:42:50-06:00 INFO (6): DATOS A INSERTAR EN LA BASE MENSAJES PROGRAMADOS: Array
+(
+    [mensaje_horario] => 44c056202798260
+    [mensaje_horarionombre] => 13:00:00
+    [mensaje_mensaje] => bjbbjbbbjjb
+    [mensaje_nombre] => Administrador
+    [mensaje_fechaenvio] => 2017-03-24
+    [mensaje_descripcion] => Administrador
+    [mensaje_fechaalta] => 2017/03/24 12:42:50
+    [mensaje_activo] => 1
+    [mensaje_region] => yes
+    [mensaje_ocupacion] => yes
+    [mensaje_procesado] => 1
+    [mensaje_usuario] => 1
+)
+
+2017-03-24T12:42:50-06:00 INFO (6): SE INSERTO: 1
+2017-03-24T12:42:50-06:00 INFO (6): FIN:::...

@@ -1,0 +1,29 @@
+2017-04-07T11:26:22-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-04-07T11:26:22-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-04-07T11:26:22-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-04-07T11:26:22-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>INICIO REGISTRO DE USUARIOS: 2017/04/07 11:26:22
+2017-04-07T11:26:22-05:00 INFO (6): REQUESTArray
+(
+    [usuarioURL] => 
+    [accion] => guardar
+    [PHPSESSID] => omj399hbfsilsfdp9qk5vsojk2
+)
+
+2017-04-07T11:26:22-05:00 INFO (6): NOMBRE: Administrador
+2017-04-07T11:26:22-05:00 INFO (6): DESCRIPCION:  
+2017-04-07T11:26:22-05:00 INFO (6): USUARIOAdministrador
+2017-04-07T11:26:22-05:00 INFO (6): USUARIO FORMADO: Administrador
+2017-04-07T11:26:22-05:00 INFO (6): URL GENERADA: http://broadcaster.cm-operations.com/dashboard/broadcasterwebsms/bin/tu_empresa.php?msisdn=XXXXXXXXXX&message=MESSAGE&tag=EXAMPLE&idu=58e7bdae111cd&user=Administrador
+2017-04-07T11:26:22-05:00 INFO (6): DATOS A INSERTAR EN LA BASE CLIENTES DEMO: Array
+(
+    [cliente_nombre] => Administrador
+    [cliente_descripcion] =>  
+    [cliente_url] => http://broadcaster.cm-operations.com/dashboard/broadcasterwebsms/bin/tu_empresa.php?msisdn=XXXXXXXXXX&message=MESSAGE&tag=EXAMPLE&idu=58e7bdae111cd&user=Administrador
+    [cliente_usuario] => Administrador
+    [cliente_agente] => Administrador
+    [cliente_fecha] => 2017/04/07 11:26:22
+    [cliente_activo] => 1
+)
+
+2017-04-07T11:26:22-05:00 INFO (6): SE INSERTO: 1
+2017-04-07T11:26:22-05:00 INFO (6): Fin: 2017/04/07 11:26:22

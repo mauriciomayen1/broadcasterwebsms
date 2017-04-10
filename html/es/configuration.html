@@ -1,0 +1,136 @@
+<div class="right_col" role="main">
+    <div class="">
+        
+        <div class="clearfix"></div>
+
+        <div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="col-md-12 col-xs-12">
+                    <div class="x_panel">
+                        <div class="x_title">
+                            <h2>Configuración <small>Campañas</small></h2>
+                            <div class="clearfix"></div>
+                        </div>
+                        <div class="x_content">
+                            <!-- start form for validation -->
+                            <form id="demo-form" data-parsley-validate>
+                                <label for="msisdn">¿Deseas asignar un nombre de campaña general para todos los envíos masivos?</label>
+
+                                    <br>
+
+                                    <input type="radio" name="answer" value="Si">Sí<br>
+                                    <input type="radio" name="answer" value="No"> No<br>
+
+                                
+
+                                <label for="message">Nombre de la campaña</label>
+                                <input type="text" id="name" class="form-control" name="name" value="{{$cat}}"/><br>
+
+                                <!-- <label for="message">Costo por mensaje a pedir</label>
+                                <input type="text" name="quantity" maxlength="4" size="4" value="{{$costo}}">
+
+                                <input type="text" name="otro" value="{{$aprobado}}" readonly="">
+
+                                <br/>
+
+                                <label for="message">Costo por perfilamiento a pedir</label>
+                                <input type="text" name="lookup" maxlength="4" size="4" value="{{$costo2}}">
+
+                                <input type="text" name="otro2" value="{{$aprobado2}}" readonly="">
+
+                                <br/> -->
+                                <button type="submit" class="btn btn-dark" name="accion" value="agregar">Enviar</button>
+
+                            </form>
+                                    <!-- end form for validations -->
+
+                                </div>
+                            </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+    
+
+</div><!-- /page content -->
+</div>
+</div>
+
+<div id="custom_notifications" class="custom-notifications dsp_none">
+    <ul class="list-unstyled notifications clearfix" data-tabbed_notifications="notif-group"></ul>
+    <div class="clearfix"></div>
+    <div id="notif-group" class="tabbed_notifications"></div>
+</div>
+
+<script src="../html/es/js/bootstrap.min.js"></script>
+<!-- <script src="../html/es/js/jquery.js"></script> -->
+<!-- chart js -->
+<script src="../html/es/js/chartjs/chart.min.js"></script>
+<!-- bootstrap progress js -->
+<script src="../html/es/js/progressbar/bootstrap-progressbar.min.js"></script>
+<script src="../html/es/js/nicescroll/jquery.nicescroll.min.js"></script>
+<!-- icheck -->
+<script src="../html/es/js/icheck/icheck.min.js"></script>
+
+<script src="../html/es/js/custom.js"></script>
+
+<!-- moris js -->
+<script src="../html/es/js/moris/raphael-min.js"></script>
+<script src="../html/es/js/moris/morris.js"></script>
+<script src="../html/es/js/moris/example.js"></script>
+
+
+<!-- form validation -->
+<script type="text/javascript" src="../html/es/js/parsley/parsley.min.js"></script>
+<!-- textarea resize -->
+<script src="../html/es/js/textarea/autosize.min.js"></script>
+
+<script type="text/javascript">
+            $(document).ready(function () {
+                $.listen('parsley:field:validate', function () {
+                    validateFront();
+                });
+                $('#demo-form .btn').on('click', function () {
+                    $('#demo-form').parsley().validate();
+                    validateFront();
+                });
+                var validateFront = function () {
+                    if (true === $('#demo-form').parsley().isValid()) {
+                        $('.bs-callout-info').removeClass('hidden');
+                        $('.bs-callout-warning').addClass('hidden');
+                    } else {
+                        $('.bs-callout-info').addClass('hidden');
+                        $('.bs-callout-warning').removeClass('hidden');
+                    }
+                };
+            });
+
+            $(document).ready(function () {
+                $.listen('parsley:field:validate', function () {
+                    validateFront();
+                });
+                $('#demo-form2 .btn').on('click', function () {
+                    $('#demo-form2').parsley().validate();
+                    validateFront();
+                });
+                var validateFront = function () {
+                    if (true === $('#demo-form2').parsley().isValid()) {
+                        $('.bs-callout-info').removeClass('hidden');
+                        $('.bs-callout-warning').addClass('hidden');
+                    } else {
+                        $('.bs-callout-info').addClass('hidden');
+                        $('.bs-callout-warning').removeClass('hidden');
+                    }
+                };
+            });
+            try {
+                hljs.initHighlightingOnLoad();
+            } catch (err) {}
+        </script>
+
+</body>
+
+</html>

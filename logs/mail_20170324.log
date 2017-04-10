@@ -1,0 +1,347 @@
+2017-03-24T15:56:02-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-24T15:56:02-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-24T15:56:02-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-24T15:56:02-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>FUNCION CODERE: 2017/03/24 15:56:02
+2017-03-24T15:56:02-06:00 INFO (6): _REQUEST::Array
+(
+    [PHPSESSID] => je1vgcb0h0qj8lkpdoegoi3o90
+)
+
+2017-03-24T15:56:02-06:00 INFO (6): HOSTNAME: {imap.gmail.com:993/ssl/novalidate-cert}INBOX
+2017-03-24T15:56:02-06:00 INFO (6): USERNAME: smspagos@conceptomovil.com
+2017-03-24T15:56:03-06:00 INFO (6): EMAILS: 
+2017-03-24T15:58:47-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-24T15:58:47-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-24T15:58:47-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-24T15:58:47-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>FUNCION CODERE: 2017/03/24 15:58:47
+2017-03-24T15:58:47-06:00 INFO (6): _REQUEST::Array
+(
+    [PHPSESSID] => je1vgcb0h0qj8lkpdoegoi3o90
+)
+
+2017-03-24T15:58:47-06:00 INFO (6): HOSTNAME: {imap.gmail.com:993/ssl/novalidate-cert}INBOX
+2017-03-24T15:58:47-06:00 INFO (6): USERNAME: smspagos@conceptomovil.com
+2017-03-24T15:58:47-06:00 INFO (6): EMAILS: 
+2017-03-24T15:59:12-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-24T15:59:12-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-24T15:59:12-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-24T15:59:12-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>FUNCION CODERE: 2017/03/24 15:59:12
+2017-03-24T15:59:12-06:00 INFO (6): _REQUEST::Array
+(
+    [PHPSESSID] => je1vgcb0h0qj8lkpdoegoi3o90
+)
+
+2017-03-24T15:59:12-06:00 INFO (6): HOSTNAME: {imap.gmail.com:993/ssl/novalidate-cert}INBOX
+2017-03-24T15:59:12-06:00 INFO (6): USERNAME: smspagos@conceptomovil.com
+2017-03-24T15:59:13-06:00 INFO (6): EMAILS: Array
+(
+    [0] => 97
+)
+
+2017-03-24T15:59:13-06:00 INFO (6): OVERVIEW : Array
+(
+    [0] => stdClass Object
+        (
+            [subject] => Fwd: 5547870016;
+            [from] => Gabriela Altamirano <gabriela.altamirano@conceptomovil.com>
+            [to] => SMS Pagos <smspagos@conceptomovil.com>
+            [date] => Fri, 24 Mar 2017 15:58:33 -0600
+            [message_id] => <CAKDGWQEO+hBHnqhignXkSRNOssAo7rUGPKWcOxAw8yJu+Q9QWA@mail.gmail.com>
+            [references] => <CAKDGWQGq2vRRk3HThjCV39=dCKoJcHQUJXyNc-1Ljp2GwBm2fg@mail.gmail.com>
+            [in_reply_to] => <CAKDGWQGq2vRRk3HThjCV39=dCKoJcHQUJXyNc-1Ljp2GwBm2fg@mail.gmail.com>
+            [size] => 4505
+            [uid] => 97
+            [msgno] => 97
+            [recent] => 0
+            [flagged] => 0
+            [answered] => 0
+            [deleted] => 0
+            [seen] => 0
+            [draft] => 0
+        )
+
+)
+
+2017-03-24T15:59:13-06:00 INFO (6): OVERVIEW SUBJECT MSISDN : Fwd: 5547870016;
+2017-03-24T15:59:13-06:00 INFO (6): MESAGE DECODE: 55-Hola esto es una prueba de mensaje de texto mayor a 160 caracteres. En
+teor=C3=ADa este mensaje debe llegar cortado, veamos dijo un ciego. Aunque =
+mas
+sabe un viejo por viejo que por ciego por lo que un cojo cae mas r=C3=A1pid=
+o que
+un tuerto.
+
+2017-03-24T15:59:13-06:00 INFO (6): MESAGE ENCODE: 55-Hola esto es una prueba de mensaje de texto mayor a 160 caracteres. En
+teor=C3=ADa este mensaje debe llegar cortado, veamos dijo un ciego. Aunque =
+mas
+sabe un viejo por viejo que por ciego por lo que un cojo cae mas r=C3=A1pid=
+o que
+un tuerto.
+
+2017-03-24T15:59:13-06:00 INFO (6): MESAGE DECODE 2: Hola esto es una prueba de mensaje de texto mayor a 160 caracteres. En
+teor=C3=ADa este mensaje debe llegar cortado, veamos dijo un ciego. Aunque =
+mas
+sabe un viejo por viejo que por ciego por lo que un cojo cae mas r=C3=A1pid=
+o que
+un tuerto.
+
+2017-03-24T15:59:13-06:00 INFO (6): LONGITUD DE MSISDN: 15
+2017-03-24T15:59:13-06:00 INFO (6): ES UN MSISDN NO VALIDO MAYOR DE 10.
+2017-03-24T15:59:13-06:00 INFO (6): LONGITUD DE MSISDN: 0
+2017-03-24T15:59:13-06:00 INFO (6): ES UN MSISDN NO VALIDO MENOR DE 10.
+2017-03-24T16:03:59-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-24T16:03:59-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-24T16:03:59-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-24T16:03:59-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>FUNCION CODERE: 2017/03/24 16:03:59
+2017-03-24T16:03:59-06:00 INFO (6): _REQUEST::Array
+(
+    [PHPSESSID] => je1vgcb0h0qj8lkpdoegoi3o90
+)
+
+2017-03-24T16:03:59-06:00 INFO (6): HOSTNAME: {imap.gmail.com:993/ssl/novalidate-cert}INBOX
+2017-03-24T16:03:59-06:00 INFO (6): USERNAME: smspagos@conceptomovil.com
+2017-03-24T16:04:00-06:00 INFO (6): EMAILS: Array
+(
+    [0] => 99
+)
+
+2017-03-24T16:04:00-06:00 INFO (6): OVERVIEW : Array
+(
+    [0] => stdClass Object
+        (
+            [subject] => 5547870016
+            [from] => Gabriela Altamirano <gabriela.altamirano@conceptomovil.com>
+            [to] => SMS Pagos <smspagos@conceptomovil.com>
+            [date] => Fri, 24 Mar 2017 16:03:23 -0600
+            [message_id] => <CAKDGWQHtztFox_gkDVtc9Q66scM4vDhi0DURc7mPaPstpDDnQA@mail.gmail.com>
+            [size] => 4275
+            [uid] => 99
+            [msgno] => 99
+            [recent] => 0
+            [flagged] => 0
+            [answered] => 0
+            [deleted] => 0
+            [seen] => 0
+            [draft] => 0
+        )
+
+)
+
+2017-03-24T16:04:00-06:00 INFO (6): OVERVIEW SUBJECT MSISDN : 5547870016
+2017-03-24T16:04:00-06:00 INFO (6): MESAGE DECODE: 55-Hola esto es una prueba de mensaje de texto mayor a 160 caracteres. En
+teor=C3=ADa este mensaje debe llegar cortado, veamos dijo un ciego. Aunque =
+mas
+sabe un viejo por viejo que por ciego por lo que un cojo cae mas r=C3=A1pid=
+o que
+un tuerto.
+
+2017-03-24T16:04:00-06:00 INFO (6): MESAGE ENCODE: 55-Hola esto es una prueba de mensaje de texto mayor a 160 caracteres. En
+teor=C3=ADa este mensaje debe llegar cortado, veamos dijo un ciego. Aunque =
+mas
+sabe un viejo por viejo que por ciego por lo que un cojo cae mas r=C3=A1pid=
+o que
+un tuerto.
+
+2017-03-24T16:04:00-06:00 INFO (6): MESAGE DECODE 2: Hola esto es una prueba de mensaje de texto mayor a 160 caracteres. En
+teor=C3=ADa este mensaje debe llegar cortado, veamos dijo un ciego. Aunque =
+mas
+sabe un viejo por viejo que por ciego por lo que un cojo cae mas r=C3=A1pid=
+o que
+un tuerto.
+
+2017-03-24T16:04:01-06:00 INFO (6): LONGITUD DE MSISDN: 10
+2017-03-24T16:04:01-06:00 INFO (6): ES UN MSISDN VALIDO.
+2017-03-24T16:04:01-06:00 INFO (6): NO TRAE OPERADOR.
+2017-03-24T16:04:01-06:00 INFO (6): LAS COINCIDENCIAS QUE SE ENCONTRARON EN LA BASE mt_sms FUERON::: 29
+2017-03-24T16:04:01-06:00 INFO (6): SI SE ENCONTRO EN BASE::..
+2017-03-24T16:04:01-06:00 INFO (6): LAS COINCIDENCIAS  FUERON::: Array
+(
+    [0] => Array
+        (
+            [mt_id] => 58
+            [mt_medio] => Data24
+            [mt_servicio] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5
+            [mt_marcacion] => 26262
+            [mt_operador] => Telcel
+            [mt_complejo] => 
+            [mt_folio] => 0589ba20f00c1c7
+            [mt_msisdn] => 5547870016
+            [mt_contenido] => lfwefnwEFNEWf
+
+            [mt_fecha] => 2017-02-08 16:56:15
+            [mt_tag] => mail
+            [usuario_id] => 1
+            [mt_categoria] => 
+        )
+
+)
+
+2017-03-24T16:04:01-06:00 INFO (6): EL OPERADOR QUE ARROJO LA BASE DE DATOS ES::: Telcel
+2017-03-24T16:04:01-06:00 INFO (6): CARRIER  ::Telcel
+2017-03-24T16:04:01-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525547870016&text=Hola+esto+es+una+prueba+de+mensaje+de+texto+mayor+a+160+caracteres.+En%0D%0Ateor%3DC3%3DADa+este+mensaje+debe+llegar+cortado%2C+veamos+dijo+un+ciego.+Aunque+%3D%0D%0Amas%0D%0Asabe+un+viejo+por+viejo+que+por+ciego+por+lo+que+un+cojo+cae+mas+r%3DC3%3DA1pid%3D%0D%0Ao+que%0D%0Aun+tuerto.%0D%0A
+2017-03-24T16:04:10-06:00 INFO (6): response:: 0: Accepted for delivery
+2017-03-24T16:04:10-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-24T16:04:10-06:00 INFO (6): Array data_mt:: Array
+(
+    [mt_medio] => Base
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_folio] => 658d597dacf3b55
+    [mt_msisdn] => 5547870016
+    [mt_contenido] => Hola esto es una prueba de mensaje de texto mayor a 160 caracteres. En
+teor=C3=ADa este mensaje debe llegar cortado, veamos dijo un ciego. Aunque =
+mas
+sabe un viejo por viejo que por ciego por lo que un cojo cae mas r=C3=A1pid=
+o que
+un tuerto.
+
+    [mt_fecha] => 2017-03-24 16:04:10
+    [mt_tag] => mail
+    [mt_categoria] => SIN CATEGORIA
+    [usuario_id] => 55
+)
+
+2017-03-24T16:04:10-06:00 INFO (6): SE INSERTO:: 1
+2017-03-24T16:04:10-06:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 98,84
+)
+
+2017-03-24T16:04:10-06:00 INFO (6): SE ACTUALIZO:: 1
+2017-03-24T17:20:32-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-24T17:20:32-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-24T17:20:32-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-24T17:20:32-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>FUNCION CODERE: 2017/03/24 17:20:32
+2017-03-24T17:20:32-06:00 INFO (6): _REQUEST::Array
+(
+    [PHPSESSID] => je1vgcb0h0qj8lkpdoegoi3o90
+)
+
+2017-03-24T17:20:32-06:00 INFO (6): HOSTNAME: {imap.gmail.com:993/ssl/novalidate-cert}INBOX
+2017-03-24T17:20:32-06:00 INFO (6): USERNAME: sms@conceptomovil.com
+2017-03-24T17:20:32-06:00 INFO (6): EMAILS: Array
+(
+    [0] => 10301
+)
+
+2017-03-24T17:20:32-06:00 INFO (6): OVERVIEW : Array
+(
+    [0] => stdClass Object
+        (
+            [subject] => 4424519959
+            [from] => Codere apuestas <apuestas@codere.com>
+            [to] => =?UTF-8?Q?Env=C3=ADo_SMS_Mexico?= <sms@conceptomovil.com>
+            [date] => 25 Mar 2017 00:09:54 +0100
+            [message_id] => <ESAZSMTP1LSAQV6uPDV0000bbf1@ESAZSMTP1.cdrsbg.COM>
+            [size] => 1874
+            [uid] => 10735
+            [msgno] => 10301
+            [recent] => 0
+            [flagged] => 0
+            [answered] => 0
+            [deleted] => 0
+            [seen] => 0
+            [draft] => 0
+        )
+
+)
+
+2017-03-24T17:20:32-06:00 INFO (6): OVERVIEW SUBJECT MSISDN : 4424519959
+2017-03-24T17:20:32-06:00 INFO (6): MESAGE DECODE: PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OiBUYWhvbWEsIFZlcmRhbmEsIEFyaWFsOyBm
+b250LXNpemU6IDEycHg7Ij4gUmVzdGFibGVjZSB0dSBjb250cmFzZcOxYSBkZSBDb2Rl
+cmUgQXB1ZXN0YXMgb25saW5lIHB1bHNhbmRvIGFxdcOtOiBodHRwOi8vbS5jb2RlcmUu
+bXgvY3NiZ29ubGluZS9FeHRlcm5hbExpbmtQYWdlL3Jlc2V0UGFzc3dvcmQ/dG9rZW49
+NTVFQzA0SlImdXNlcm5hbWU9TmV4dHNpZGUgPGJyPjxkaXYgc3R5bGU9ImZvbnQtZmFt
+aWx5OiBUYWhvbWEsIFZlcmRhbmEsIEFyaWFsOyBmb250LXNpemU6IDEycHg7Ij48L2Rp
+dj48L3NwYW4+
+
+
+2017-03-24T17:20:32-06:00 INFO (6): MESAGE ENCODE: PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OiBUYWhvbWEsIFZlcmRhbmEsIEFyaWFsOyBm
+b250LXNpemU6IDEycHg7Ij4gUmVzdGFibGVjZSB0dSBjb250cmFzZcOxYSBkZSBDb2Rl
+cmUgQXB1ZXN0YXMgb25saW5lIHB1bHNhbmRvIGFxdcOtOiBodHRwOi8vbS5jb2RlcmUu
+bXgvY3NiZ29ubGluZS9FeHRlcm5hbExpbmtQYWdlL3Jlc2V0UGFzc3dvcmQ/dG9rZW49
+NTVFQzA0SlImdXNlcm5hbWU9TmV4dHNpZGUgPGJyPjxkaXYgc3R5bGU9ImZvbnQtZmFt
+aWx5OiBUYWhvbWEsIFZlcmRhbmEsIEFyaWFsOyBmb250LXNpemU6IDEycHg7Ij48L2Rp
+dj48L3NwYW4+
+
+
+2017-03-24T17:20:32-06:00 INFO (6): MESAGE DECODE 2: HNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OiBUYWhvbWEsIFZlcmRhbmEsIEFyaWFsOyBm
+b250LXNpemU6IDEycHg7Ij4gUmVzdGFibGVjZSB0dSBjb250cmFzZcOxYSBkZSBDb2Rl
+cmUgQXB1ZXN0YXMgb25saW5lIHB1bHNhbmRvIGFxdcOtOiBodHRwOi8vbS5jb2RlcmUu
+bXgvY3NiZ29ubGluZS9FeHRlcm5hbExpbmtQYWdlL3Jlc2V0UGFzc3dvcmQ/dG9rZW49
+NTVFQzA0SlImdXNlcm5hbWU9TmV4dHNpZGUgPGJyPjxkaXYgc3R5bGU9ImZvbnQtZmFt
+aWx5OiBUYWhvbWEsIFZlcmRhbmEsIEFyaWFsOyBmb250LXNpemU6IDEycHg7Ij48L2Rp
+dj48L3NwYW4 
+
+
+2017-03-24T17:29:22-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-24T17:29:22-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-24T17:29:22-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-24T17:29:22-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>FUNCION CODERE: 2017/03/24 17:29:22
+2017-03-24T17:29:22-06:00 INFO (6): _REQUEST::Array
+(
+    [PHPSESSID] => je1vgcb0h0qj8lkpdoegoi3o90
+)
+
+2017-03-24T17:29:22-06:00 INFO (6): HOSTNAME: {imap.gmail.com:993/ssl/novalidate-cert}INBOX
+2017-03-24T17:29:22-06:00 INFO (6): USERNAME: sms@conceptomovil.com
+2017-03-24T17:29:23-06:00 INFO (6): EMAILS: 
+2017-03-24T17:29:39-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-24T17:29:39-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-24T17:29:39-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-24T17:29:39-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>FUNCION CODERE: 2017/03/24 17:29:39
+2017-03-24T17:29:39-06:00 INFO (6): _REQUEST::Array
+(
+    [PHPSESSID] => je1vgcb0h0qj8lkpdoegoi3o90
+)
+
+2017-03-24T17:29:39-06:00 INFO (6): HOSTNAME: {imap.gmail.com:993/ssl/novalidate-cert}INBOX
+2017-03-24T17:29:39-06:00 INFO (6): USERNAME: sms@conceptomovil.com
+2017-03-24T17:29:40-06:00 INFO (6): EMAILS: Array
+(
+    [0] => 10304
+)
+
+2017-03-24T17:29:40-06:00 INFO (6): OVERVIEW : Array
+(
+    [0] => stdClass Object
+        (
+            [subject] => 7772154015
+            [from] => Codere apuestas <apuestas@codere.com>
+            [to] => =?UTF-8?Q?Env=C3=ADo_SMS_Mexico?= <sms@conceptomovil.com>
+            [date] => 25 Mar 2017 00:26:38 +0100
+            [message_id] => <ESAZSMTP1MfPfj2OW7M0000bc28@ESAZSMTP1.cdrsbg.COM>
+            [size] => 1760
+            [uid] => 10738
+            [msgno] => 10304
+            [recent] => 0
+            [flagged] => 0
+            [answered] => 0
+            [deleted] => 0
+            [seen] => 0
+            [draft] => 0
+        )
+
+)
+
+2017-03-24T17:29:40-06:00 INFO (6): OVERVIEW SUBJECT MSISDN : 7772154015
+2017-03-24T17:29:40-06:00 INFO (6): MESAGE DECODE: PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OiBUYWhvbWEsIFZlcmRhbmEsIEFyaWFsOyBm
+b250LXNpemU6IDEycHg7Ij4gRWzCoGNvYnJvIGRlIDQwLDAwwqBwZXNvcyBlbiB0dSBj
+dWVudGEgb25saW5lIGhhIHNpZG8gY29tcGxldGFkbyBjb24gw6l4aXRvLiA8YnI+PGRp
+diBzdHlsZT0iZm9udC1mYW1pbHk6IFRhaG9tYSwgVmVyZGFuYSwgQXJpYWw7IGZvbnQt
+c2l6ZTogMTJweDsiPjwvZGl2Pjwvc3Bhbj4=
+
+
+2017-03-24T17:29:40-06:00 INFO (6): MESAGE ENCODE: PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OiBUYWhvbWEsIFZlcmRhbmEsIEFyaWFsOyBm
+b250LXNpemU6IDEycHg7Ij4gRWzCoGNvYnJvIGRlIDQwLDAwwqBwZXNvcyBlbiB0dSBj
+dWVudGEgb25saW5lIGhhIHNpZG8gY29tcGxldGFkbyBjb24gw6l4aXRvLiA8YnI+PGRp
+diBzdHlsZT0iZm9udC1mYW1pbHk6IFRhaG9tYSwgVmVyZGFuYSwgQXJpYWw7IGZvbnQt
+c2l6ZTogMTJweDsiPjwvZGl2Pjwvc3Bhbj4=
+
+
+2017-03-24T17:29:40-06:00 INFO (6): MESAGE DECODE 2: HNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OiBUYWhvbWEsIFZlcmRhbmEsIEFyaWFsOyBm
+b250LXNpemU6IDEycHg7Ij4gRWzCoGNvYnJvIGRlIDQwLDAwwqBwZXNvcyBlbiB0dSBj
+dWVudGEgb25saW5lIGhhIHNpZG8gY29tcGxldGFkbyBjb24gw6l4aXRvLiA8YnI PGRp
+diBzdHlsZT0iZm9udC1mYW1pbHk6IFRhaG9tYSwgVmVyZGFuYSwgQXJpYWw7IGZvbnQt
+c2l6ZTogMTJweDsiPjwvZGl2Pjwvc3Bhbj4=
+
+

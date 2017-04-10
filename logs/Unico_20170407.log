@@ -1,0 +1,369 @@
+2017-04-07T10:04:46-05:00 INFO (6): ----------------------------------------------------
+2017-04-07T10:04:46-05:00 INFO (6): ----------------------------------------------------
+2017-04-07T10:04:46-05:00 INFO (6): ----------------------------------------------------
+2017-04-07T10:04:46-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-07T10:04:46-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5549444527
+    [message] => qwdqwdwqd
+    [caracteres] => 9
+    [accion] => enviar
+    [PHPSESSID] => omj399hbfsilsfdp9qk5vsojk2
+)
+
+2017-04-07T10:04:46-05:00 INFO (6): MSISDN: 5549444527
+2017-04-07T10:04:46-05:00 INFO (6): SMS: qwdqwdwqd
+2017-04-07T10:04:46-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-07T10:04:46-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-07T10:04:46-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-07T10:04:46-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: qwdqwdwqd
+2017-04-07T10:04:46-05:00 INFO (6): .
+2017-04-07T10:04:46-05:00 INFO (6): .
+2017-04-07T10:04:46-05:00 INFO (6): .
+2017-04-07T10:04:46-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: qwdqwdwqd
+2017-04-07T10:04:46-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: qwdqwdwqd
+2017-04-07T10:04:46-05:00 INFO (6): URL: http://administrador.cm-operations.com/telcel/router/router_mt.php?SOA=5549444527&dial=26262&message=qwdqwdwqd&service=WEBSMS&subservice=UNICO&username=sendsmsmt_26262
+2017-04-07T10:04:46-05:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-04-07T10:04:46-05:00 INFO (6): response:: 0: Accepted for delivery
+2017-04-07T10:04:46-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-07T10:04:46-05:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-04-07T10:04:46-05:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => BaseMadre
+    [mt_folio] => 758e7aa8e8d20e5
+    [mt_contenido] => qwdqwdwqd
+    [mt_fecha] => 2017-04-07 10:04:46
+    [mt_tag] => UNICO
+    [usuario_id] => 1
+)
+
+2017-04-07T10:04:46-05:00 INFO (6): SE INSERTO:: 1
+2017-04-07T10:04:46-05:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-04-07T10:04:46-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 107,54
+)
+
+2017-04-07T10:04:46-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-07T10:49:11-05:00 INFO (6): ----------------------------------------------------
+2017-04-07T10:49:11-05:00 INFO (6): ----------------------------------------------------
+2017-04-07T10:49:11-05:00 INFO (6): ----------------------------------------------------
+2017-04-07T10:49:11-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-07T10:49:11-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5549444527
+    [message] => sdadsad
+    [caracteres] => 7
+    [accion] => enviar
+    [PHPSESSID] => omj399hbfsilsfdp9qk5vsojk2
+)
+
+2017-04-07T10:49:11-05:00 INFO (6): MSISDN: 5549444527
+2017-04-07T10:49:11-05:00 INFO (6): SMS: sdadsad
+2017-04-07T10:49:11-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-07T10:49:11-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-07T10:49:11-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-07T10:49:11-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: sdadsad
+2017-04-07T10:49:11-05:00 INFO (6): .
+2017-04-07T10:49:11-05:00 INFO (6): .
+2017-04-07T10:49:11-05:00 INFO (6): .
+2017-04-07T10:49:11-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: sdadsad
+2017-04-07T10:49:11-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: sdadsad
+2017-04-07T10:49:11-05:00 INFO (6): URL: http://administrador.cm-operations.com/telcel/router/router_mt.php?SOA=5549444527&dial=26262&message=sdadsad&service=WEBSMS&subservice=UNICO&username=sendsmsmt_26262
+2017-04-07T10:49:11-05:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-04-07T10:49:12-05:00 INFO (6): response:: 0: Accepted for delivery
+2017-04-07T10:49:12-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-07T10:49:12-05:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-04-07T10:49:12-05:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => BaseMadre
+    [mt_folio] => 958e7b4f8099ad6
+    [mt_contenido] => sdadsad
+    [mt_fecha] => 2017-04-07 10:49:12
+    [mt_tag] => UNICO
+    [usuario_id] => 1
+)
+
+2017-04-07T10:49:12-05:00 INFO (6): SE INSERTO:: 1
+2017-04-07T10:49:12-05:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-04-07T10:49:12-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 113,92
+)
+
+2017-04-07T10:49:12-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-07T12:46:37-05:00 INFO (6): ----------------------------------------------------
+2017-04-07T12:46:37-05:00 INFO (6): ----------------------------------------------------
+2017-04-07T12:46:37-05:00 INFO (6): ----------------------------------------------------
+2017-04-07T12:46:37-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-07T12:46:37-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 4626536918
+    [message] => Prueba plataforma Broadcaster SMS masivos.
+Saludos, Francisco.
+    [caracteres] => 62
+    [accion] => enviar
+    [PHPSESSID] => sff894kp84aoemnefdgcatam61
+)
+
+2017-04-07T12:46:37-05:00 INFO (6): MSISDN: 4626536918
+2017-04-07T12:46:37-05:00 INFO (6): SMS: Prueba plataforma Broadcaster SMS masivos.
+Saludos, Francisco.
+2017-04-07T12:46:37-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-07T12:46:37-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-07T12:46:37-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-07T12:46:37-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: Prueba plataforma Broadcaster SMS masivos.
+Saludos, Francisco.
+2017-04-07T12:46:37-05:00 INFO (6): .
+2017-04-07T12:46:37-05:00 INFO (6): .
+2017-04-07T12:46:37-05:00 INFO (6): .
+2017-04-07T12:46:37-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: Prueba plataforma Broadcaster SMS masivos.
+Saludos, Francisco.
+2017-04-07T12:46:37-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: Prueba+plataforma+Broadcaster+SMS+masivos.%0D%0ASaludos%2C+Francisco.
+2017-04-07T12:46:37-05:00 INFO (6): ENTRO A DATA24
+2017-04-07T12:46:37-05:00 INFO (6): URL ARMADA   ::https://api.data24-7.com/v/2.0?api=C&user=miguel.pacheco&pass=operations2015&p1=524626536918
+2017-04-07T12:46:38-05:00 INFO (6): Respuesta del Consumo URL: SimpleXMLElement Object
+(
+    [results] => SimpleXMLElement Object
+        (
+            [result] => SimpleXMLElement Object
+                (
+                    [@attributes] => Array
+                        (
+                            [item] => 1
+                        )
+
+                    [status] => OK
+                    [number] => 524626536918
+                    [wless] => y
+                    [carrier_name] => AT+T Comercializacion Movil (Iusacell/Unefon)
+                    [carrier_id] => 115405
+                    [country] => Mexico
+                )
+
+        )
+
+)
+
+2017-04-07T12:46:38-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-07T12:46:38-05:00 INFO (6): NOMBRE DE LA EMPRESA DATA24   ::AT+T Comercializacion Movil (Iusacell/Unefon)
+2017-04-07T12:46:38-05:00 INFO (6): ID OPERADOR DATA24  ::
+2017-04-07T12:46:38-05:00 INFO (6): URL: http://administrador.cm-operations.com/iusacell/router/router_mt.php?SOA=4626536918&dial=26262&message=Prueba+plataforma+Broadcaster+SMS+masivos.%0D%0ASaludos%2C+Francisco.&service=WEBSMS&subservice=UNICO&username=sendsmsatt_26262
+2017-04-07T12:46:38-05:00 INFO (6): No tiene crédito suficiente
+2017-04-07T12:48:24-05:00 INFO (6): ----------------------------------------------------
+2017-04-07T12:48:24-05:00 INFO (6): ----------------------------------------------------
+2017-04-07T12:48:24-05:00 INFO (6): ----------------------------------------------------
+2017-04-07T12:48:24-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-07T12:48:24-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 4626536918
+    [message] => Prueba Broadcaster SMS masivos.
+Saludos, Francisco.
+    [caracteres] => 51
+    [accion] => enviar
+    [PHPSESSID] => sff894kp84aoemnefdgcatam61
+)
+
+2017-04-07T12:48:24-05:00 INFO (6): MSISDN: 4626536918
+2017-04-07T12:48:24-05:00 INFO (6): SMS: Prueba Broadcaster SMS masivos.
+Saludos, Francisco.
+2017-04-07T12:48:24-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-07T12:48:24-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-07T12:48:24-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-07T12:48:24-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: Prueba Broadcaster SMS masivos.
+Saludos, Francisco.
+2017-04-07T12:48:24-05:00 INFO (6): .
+2017-04-07T12:48:24-05:00 INFO (6): .
+2017-04-07T12:48:24-05:00 INFO (6): .
+2017-04-07T12:48:24-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: Prueba Broadcaster SMS masivos.
+Saludos, Francisco.
+2017-04-07T12:48:24-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: Prueba+Broadcaster+SMS+masivos.%0D%0ASaludos%2C+Francisco.
+2017-04-07T12:48:24-05:00 INFO (6): ENTRO A DATA24
+2017-04-07T12:48:24-05:00 INFO (6): URL ARMADA   ::https://api.data24-7.com/v/2.0?api=C&user=miguel.pacheco&pass=operations2015&p1=524626536918
+2017-04-07T12:48:24-05:00 INFO (6): Respuesta del Consumo URL: SimpleXMLElement Object
+(
+    [results] => SimpleXMLElement Object
+        (
+            [result] => SimpleXMLElement Object
+                (
+                    [@attributes] => Array
+                        (
+                            [item] => 1
+                        )
+
+                    [status] => OK
+                    [number] => 524626536918
+                    [wless] => y
+                    [carrier_name] => AT+T Comercializacion Movil (Iusacell/Unefon)
+                    [carrier_id] => 115405
+                    [country] => Mexico
+                )
+
+        )
+
+)
+
+2017-04-07T12:48:24-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-07T12:48:24-05:00 INFO (6): NOMBRE DE LA EMPRESA DATA24   ::AT+T Comercializacion Movil (Iusacell/Unefon)
+2017-04-07T12:48:24-05:00 INFO (6): ID OPERADOR DATA24  ::
+2017-04-07T12:48:24-05:00 INFO (6): URL: http://administrador.cm-operations.com/iusacell/router/router_mt.php?SOA=4626536918&dial=26262&message=Prueba+Broadcaster+SMS+masivos.%0D%0ASaludos%2C+Francisco.&service=WEBSMS&subservice=UNICO&username=sendsmsatt_26262
+2017-04-07T12:48:24-05:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-04-07T12:48:24-05:00 INFO (6): response:: 0: Accepted for delivery
+2017-04-07T12:48:24-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-07T12:48:24-05:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-04-07T12:48:24-05:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Iusacell
+    [mt_msisdn] => 4626536918
+    [mt_medio] => Data24
+    [mt_folio] => 958e7d0e897d341
+    [mt_contenido] => Prueba Broadcaster SMS masivos.
+Saludos, Francisco.
+    [mt_fecha] => 2017-04-07 12:48:24
+    [mt_tag] => UNICO
+    [usuario_id] => 1
+)
+
+2017-04-07T12:48:24-05:00 INFO (6): SE INSERTO:: 1
+2017-04-07T12:48:24-05:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-04-07T12:48:24-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 118,56
+)
+
+2017-04-07T12:48:24-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-07T19:21:02-05:00 INFO (6): ----------------------------------------------------
+2017-04-07T19:21:02-05:00 INFO (6): ----------------------------------------------------
+2017-04-07T19:21:02-05:00 INFO (6): ----------------------------------------------------
+2017-04-07T19:21:02-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-07T19:21:02-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5565735298
+    [message] =>  Handy Firma te informa que tienes una sorpresa, entra el sitio web y ingresa los datos que se te piden para reclamarla XXXXXX5298
+    [caracteres] => 130
+    [accion] => enviar
+    [PHPSESSID] => b3md4qnvlhiev1v9l9gggan4s3
+)
+
+2017-04-07T19:21:02-05:00 INFO (6): MSISDN: 5565735298
+2017-04-07T19:21:02-05:00 INFO (6): SMS:  Handy Firma te informa que tienes una sorpresa, entra el sitio web y ingresa los datos que se te piden para reclamarla XXXXXX5298
+2017-04-07T19:21:02-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-07T19:21:02-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-07T19:21:02-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-07T19:21:02-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS:  Handy Firma te informa que tienes una sorpresa, entra el sitio web y ingresa los datos que se te piden para reclamarla XXXXXX5298
+2017-04-07T19:21:02-05:00 INFO (6): .
+2017-04-07T19:21:02-05:00 INFO (6): .
+2017-04-07T19:21:02-05:00 INFO (6): .
+2017-04-07T19:21:02-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR:  Handy Firma te informa que tienes una sorpresa, entra el sitio web y ingresa los datos que se te piden para reclamarla XXXXXX5298
+2017-04-07T19:21:02-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: +Handy+Firma+te+informa+que+tienes+una+sorpresa%2C+entra+el+sitio+web+y+ingresa+los+datos+que+se+te+piden+para+reclamarla+XXXXXX5298
+2017-04-07T19:21:02-05:00 INFO (6): ENTRO A DATA24
+2017-04-07T19:21:02-05:00 INFO (6): URL ARMADA   ::https://api.data24-7.com/v/2.0?api=C&user=miguel.pacheco&pass=operations2015&p1=525565735298
+2017-04-07T19:21:02-05:00 INFO (6): Respuesta del Consumo URL: SimpleXMLElement Object
+(
+    [results] => SimpleXMLElement Object
+        (
+            [result] => SimpleXMLElement Object
+                (
+                    [@attributes] => Array
+                        (
+                            [item] => 1
+                        )
+
+                    [status] => OK
+                    [number] => 525565735298
+                    [wless] => y
+                    [carrier_name] => AT+T Comercializacion Movil (Iusacell/Unefon)
+                    [carrier_id] => 115405
+                    [country] => Mexico
+                )
+
+        )
+
+)
+
+2017-04-07T19:21:02-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-07T19:21:02-05:00 INFO (6): NOMBRE DE LA EMPRESA DATA24   ::AT+T Comercializacion Movil (Iusacell/Unefon)
+2017-04-07T19:21:02-05:00 INFO (6): ID OPERADOR DATA24  ::
+2017-04-07T19:21:02-05:00 INFO (6): URL: http://administrador.cm-operations.com/iusacell/router/router_mt.php?SOA=5565735298&dial=26262&message=+Handy+Firma+te+informa+que+tienes+una+sorpresa%2C+entra+el+sitio+web+y+ingresa+los+datos+que+se+te+piden+para+reclamarla+XXXXXX5298&service=WEBSMS&subservice=UNICO&username=sendsmsatt_26262
+2017-04-07T19:21:02-05:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-04-07T19:21:04-05:00 INFO (6): response:: 0: Accepted for delivery
+2017-04-07T19:21:04-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-07T19:21:04-05:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-04-07T19:21:04-05:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Iusacell
+    [mt_msisdn] => 5565735298
+    [mt_medio] => Data24
+    [mt_folio] => 758e82cf06f5030
+    [mt_contenido] =>  Handy Firma te informa que tienes una sorpresa, entra el sitio web y ingresa los datos que se te piden para reclamarla XXXXXX5298
+    [mt_fecha] => 2017-04-07 19:21:04
+    [mt_tag] => UNICO
+    [usuario_id] => 1
+)
+
+2017-04-07T19:21:04-05:00 INFO (6): SE INSERTO:: 1
+2017-04-07T19:21:04-05:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-04-07T19:21:04-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 117,98
+)
+
+2017-04-07T19:21:05-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-07T19:21:40-05:00 INFO (6): ----------------------------------------------------
+2017-04-07T19:21:40-05:00 INFO (6): ----------------------------------------------------
+2017-04-07T19:21:40-05:00 INFO (6): ----------------------------------------------------
+2017-04-07T19:21:40-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-07T19:21:40-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5554995994
+    [message] =>  Handy Firma te informa que tienes una sorpresa, entra el sitio web y ingresa los datos que se te piden para reclamarla XXXXXX6453
+    [caracteres] => 130
+    [accion] => enviar
+    [PHPSESSID] => b3md4qnvlhiev1v9l9gggan4s3
+)
+
+2017-04-07T19:21:40-05:00 INFO (6): MSISDN: 5554995994
+2017-04-07T19:21:40-05:00 INFO (6): SMS:  Handy Firma te informa que tienes una sorpresa, entra el sitio web y ingresa los datos que se te piden para reclamarla XXXXXX6453
+2017-04-07T19:21:40-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-07T19:21:40-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-07T19:21:40-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-07T19:21:40-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS:  Handy Firma te informa que tienes una sorpresa, entra el sitio web y ingresa los datos que se te piden para reclamarla XXXXXX6453
+2017-04-07T19:21:40-05:00 INFO (6): .
+2017-04-07T19:21:40-05:00 INFO (6): .
+2017-04-07T19:21:40-05:00 INFO (6): .
+2017-04-07T19:21:40-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR:  Handy Firma te informa que tienes una sorpresa, entra el sitio web y ingresa los datos que se te piden para reclamarla XXXXXX6453
+2017-04-07T19:21:40-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: +Handy+Firma+te+informa+que+tienes+una+sorpresa%2C+entra+el+sitio+web+y+ingresa+los+datos+que+se+te+piden+para+reclamarla+XXXXXX6453
+2017-04-07T19:21:40-05:00 INFO (6): URL: http://administrador.cm-operations.com/telcel/router/router_mt.php?SOA=5554995994&dial=26262&message=+Handy+Firma+te+informa+que+tienes+una+sorpresa%2C+entra+el+sitio+web+y+ingresa+los+datos+que+se+te+piden+para+reclamarla+XXXXXX6453&service=WEBSMS&subservice=UNICO&username=sendsmsmt_26262
+2017-04-07T19:21:40-05:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-04-07T19:21:48-05:00 INFO (6): response:: 0: Accepted for delivery
+2017-04-07T19:21:48-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-07T19:21:48-05:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-04-07T19:21:48-05:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5554995994
+    [mt_medio] => BaseMadre
+    [mt_folio] => 258e82d1c97b4d7
+    [mt_contenido] =>  Handy Firma te informa que tienes una sorpresa, entra el sitio web y ingresa los datos que se te piden para reclamarla XXXXXX6453
+    [mt_fecha] => 2017-04-07 19:21:48
+    [mt_tag] => UNICO
+    [usuario_id] => 1
+)
+
+2017-04-07T19:21:48-05:00 INFO (6): SE INSERTO:: 1
+2017-04-07T19:21:48-05:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-04-07T19:21:48-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 117,4
+)
+
+2017-04-07T19:21:48-05:00 INFO (6): SE ACTUALIZO:: 1

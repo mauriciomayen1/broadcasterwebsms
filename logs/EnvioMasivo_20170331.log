@@ -1,0 +1,117 @@
+2017-03-31T12:34:57-06:00 INFO (6): ------------------------------------------------
+2017-03-31T12:34:57-06:00 INFO (6): ------------------------------------------------
+2017-03-31T12:34:57-06:00 INFO (6): ------------------------------------------------
+2017-03-31T12:34:57-06:00 INFO (6): ---- ENVIO MASIVO - FN GUARDAR ------------
+2017-03-31T12:34:57-06:00 INFO (6): REQUESTArray
+(
+    [selectCategoria] => dummy
+    [sms] => oij
+    [caracteres] => 3
+    [accion] => enviar
+    [retenido] => 40.6
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-31T12:34:57-06:00 INFO (6): CATEGORIA: dummy
+2017-03-31T12:34:57-06:00 INFO (6): HORA DE ENVIO: 12:34:57
+2017-03-31T12:34:57-06:00 INFO (6): FECHA DE ENVIO: 2017-03-31 12:34:57
+2017-03-31T12:34:57-06:00 INFO (6): MENSAJE: oij
+2017-03-31T12:34:57-06:00 INFO (6): CAMPANIA: Administrador
+2017-03-31T12:34:57-06:00 INFO (6): SI REQUESITO TODOS LOS CAMPOS
+2017-03-31T12:34:57-06:00 INFO (6): DATOS A INSERTAR EN LA BASE MENSAJES PROGRAMADOS: Array
+(
+    [mensaje_horario] => df082b6de6637a33e750f7111b7bd336
+    [mensaje_horarionombre] => 12:34:57
+    [mensaje_mensaje] => oij
+    [mensaje_nombre] => Administrador
+    [mensaje_fechaenvio] => 2017-03-31 12:34:57
+    [mensaje_descripcion] => Administrador
+    [mensaje_fechaalta] => 2017/03/31 12:34:57
+    [mensaje_activo] => 1
+    [mensaje_region] => dummy
+    [mensaje_ocupacion] => dummy
+    [mensaje_procesado] => 1
+    [bandera_masivo] => 0
+    [mensaje_usuario] => 1
+)
+
+2017-03-31T12:34:57-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T12:34:57-06:00 INFO (6): FIN:::...
+2017-03-31T13:06:34-06:00 INFO (6): ------------------------------------------------
+2017-03-31T13:06:34-06:00 INFO (6): ------------------------------------------------
+2017-03-31T13:06:34-06:00 INFO (6): ------------------------------------------------
+2017-03-31T13:06:34-06:00 INFO (6): ---- ENVIO MASIVO - FN GUARDAR ------------
+2017-03-31T13:06:34-06:00 INFO (6): REQUESTArray
+(
+    [selectCategoria] => nueva
+    [sms] => we
+    [caracteres] => 2
+    [accion] => enviar
+    [retenido] => 0.58
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-31T13:06:34-06:00 INFO (6): CATEGORIA: nueva
+2017-03-31T13:06:34-06:00 INFO (6): HORA DE ENVIO: 13:06:34
+2017-03-31T13:06:34-06:00 INFO (6): FECHA DE ENVIO: 2017-03-31 13:06:34
+2017-03-31T13:06:34-06:00 INFO (6): MENSAJE: we
+2017-03-31T13:06:34-06:00 INFO (6): CAMPANIA: Administrador
+2017-03-31T13:06:34-06:00 INFO (6): SI REQUESITO TODOS LOS CAMPOS
+2017-03-31T13:06:34-06:00 INFO (6): DATOS A INSERTAR EN LA BASE MENSAJES PROGRAMADOS: Array
+(
+    [mensaje_horario] => 8b81df22064079a9056516f43c178527
+    [mensaje_horarionombre] => 13:06:34
+    [mensaje_mensaje] => we
+    [mensaje_nombre] => Administrador
+    [mensaje_fechaenvio] => 2017-03-31 13:06:34
+    [mensaje_descripcion] => Administrador
+    [mensaje_fechaalta] => 2017/03/31 13:06:34
+    [mensaje_activo] => 1
+    [mensaje_region] => nueva
+    [mensaje_ocupacion] => nueva
+    [mensaje_procesado] => 1
+    [bandera_masivo] => 0
+    [mensaje_usuario] => 1
+)
+
+2017-03-31T13:06:34-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:06:34-06:00 INFO (6): FIN:::...
+2017-03-31T16:20:05-06:00 INFO (6): ------------------------------------------------
+2017-03-31T16:20:05-06:00 INFO (6): ------------------------------------------------
+2017-03-31T16:20:05-06:00 INFO (6): ------------------------------------------------
+2017-03-31T16:20:05-06:00 INFO (6): ---- ENVIO MASIVO - FN GUARDAR ------------
+2017-03-31T16:20:05-06:00 INFO (6): REQUESTArray
+(
+    [selectCategoria] => nueva
+    [sms] => todo hombre que sabe querer lo que come 
+    [caracteres] => 40
+    [accion] => enviar
+    [retenido] => 0.58
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-31T16:20:05-06:00 INFO (6): CATEGORIA: nueva
+2017-03-31T16:20:05-06:00 INFO (6): HORA DE ENVIO: 16:20:05
+2017-03-31T16:20:05-06:00 INFO (6): FECHA DE ENVIO: 2017-03-31 16:20:05
+2017-03-31T16:20:05-06:00 INFO (6): MENSAJE: todo hombre que sabe querer lo que come 
+2017-03-31T16:20:05-06:00 INFO (6): CAMPANIA: Administrador
+2017-03-31T16:20:05-06:00 INFO (6): SI REQUESITO TODOS LOS CAMPOS
+2017-03-31T16:20:05-06:00 INFO (6): DATOS A INSERTAR EN LA BASE MENSAJES PROGRAMADOS: Array
+(
+    [mensaje_horario] => 4595d0802ddfd105403e3aa04aa0b858
+    [mensaje_horarionombre] => 16:20:05
+    [mensaje_mensaje] => todo hombre que sabe querer lo que come 
+    [mensaje_nombre] => Administrador
+    [mensaje_fechaenvio] => 2017-03-31 16:20:05
+    [mensaje_descripcion] => Administrador
+    [mensaje_fechaalta] => 2017/03/31 16:20:05
+    [mensaje_activo] => 1
+    [mensaje_region] => nueva
+    [mensaje_ocupacion] => nueva
+    [mensaje_procesado] => 1
+    [bandera_masivo] => 0
+    [mensaje_usuario] => 1
+)
+
+2017-03-31T16:20:05-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T16:20:05-06:00 INFO (6): FIN:::...

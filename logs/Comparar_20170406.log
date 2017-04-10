@@ -1,0 +1,18 @@
+2017-04-06T18:02:09-05:00 INFO (6): ------------------------------------------------
+2017-04-06T18:02:09-05:00 INFO (6): ------------------------------------------------
+2017-04-06T18:02:09-05:00 INFO (6): ------------------------------------------------
+2017-04-06T18:02:09-05:00 INFO (6): ---- ENVIO PROGRAMADOS - FN COMPARAR FECHAS ----
+2017-04-06T18:02:09-05:00 INFO (6): REQUESTArray
+(
+    [categoria] => real
+    [fechaenvio] => 2017-04-06
+    [horaenvio] => 22de77ffb0f2990
+    [msgtxt] => hola
+    [caracteres] => 4
+    [accion] => guardar
+    [retenido] => 1.74
+    [PHPSESSID] => omj399hbfsilsfdp9qk5vsojk2
+)
+
+2017-04-06T18:02:09-05:00 INFO (6): PRIMERA FECHA:: 2017-04-06
+2017-04-06T18:02:09-05:00 INFO (6): SEGUNDA FECHA:: 2017-04-06

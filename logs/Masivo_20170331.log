@@ -1,0 +1,2630 @@
+2017-03-31T12:34:49-06:00 INFO (6): ------------------------------------------------
+2017-03-31T12:34:49-06:00 INFO (6): ------------------------------------------------
+2017-03-31T12:34:49-06:00 INFO (6): ------------------------------------------------
+2017-03-31T12:34:49-06:00 INFO (6): ---- ENVIO MASIVO PREPARAR - FN PREPARAR -------
+2017-03-31T12:34:49-06:00 INFO (6): REQUEST: Array
+(
+    [selectCategoria] => dummy
+    [sms] => oij
+    [caracteres] => 
+    [accion] => preparar
+    [retenido] => 
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-31T12:34:49-06:00 INFO (6): LA CATEGORIA A PREPARAR ES: dummy
+2017-03-31T12:34:49-06:00 INFO (6): SI SELECCIONO CATEGORIA
+2017-03-31T12:34:49-06:00 INFO (6): DATOS A UPDATE EN LA BASE: Array
+(
+    [usuario_enviado] => 0
+)
+
+2017-03-31T12:34:49-06:00 INFO (6): WHERE: 
+2017-03-31T12:34:49-06:00 INFO (6): SE ACTUALIZARON: 70
+2017-03-31T12:58:18-06:00 INFO (6): ------------------------------------------------
+2017-03-31T12:58:18-06:00 INFO (6): ------------------------------------------------
+2017-03-31T12:58:18-06:00 INFO (6): ------------------------------------------------
+2017-03-31T12:58:18-06:00 INFO (6): ---- ENVIO MASIVO PREPARAR - FN PREPARAR -------
+2017-03-31T12:58:18-06:00 INFO (6): REQUEST: Array
+(
+    [selectCategoria] => nueva
+    [sms] => 
+    [caracteres] => 
+    [accion] => preparar
+    [retenido] => 
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-31T12:58:18-06:00 INFO (6): LA CATEGORIA A PREPARAR ES: nueva
+2017-03-31T12:58:18-06:00 INFO (6): SI SELECCIONO CATEGORIA
+2017-03-31T12:58:18-06:00 INFO (6): DATOS A UPDATE EN LA BASE: Array
+(
+    [usuario_enviado] => 0
+)
+
+2017-03-31T12:58:18-06:00 INFO (6): WHERE: 
+2017-03-31T12:58:18-06:00 INFO (6): SE ACTUALIZARON: 1
+2017-03-31T13:02:42-06:00 INFO (6): ------------------------------------------------
+2017-03-31T13:02:42-06:00 INFO (6): ------------------------------------------------
+2017-03-31T13:02:42-06:00 INFO (6): ------------------------------------------------
+2017-03-31T13:02:42-06:00 INFO (6): ---- ENVIO MASIVO PREPARAR - FN PREPARAR -------
+2017-03-31T13:02:42-06:00 INFO (6): REQUEST: Array
+(
+    [selectCategoria] => nueva
+    [sms] => 
+    [caracteres] => 
+    [accion] => preparar
+    [retenido] => 
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-31T13:02:42-06:00 INFO (6): LA CATEGORIA A PREPARAR ES: nueva
+2017-03-31T13:02:42-06:00 INFO (6): SI SELECCIONO CATEGORIA
+2017-03-31T13:02:42-06:00 INFO (6): DATOS A UPDATE EN LA BASE: Array
+(
+    [usuario_enviado] => 0
+)
+
+2017-03-31T13:02:42-06:00 INFO (6): WHERE: 
+2017-03-31T13:02:42-06:00 INFO (6): SE ACTUALIZARON: 0
+2017-03-31T13:02:47-06:00 INFO (6): ------------------------------------------------
+2017-03-31T13:02:47-06:00 INFO (6): ------------------------------------------------
+2017-03-31T13:02:47-06:00 INFO (6): ------------------------------------------------
+2017-03-31T13:02:47-06:00 INFO (6): ---- ENVIO MASIVO PREPARAR - FN PREPARAR -------
+2017-03-31T13:02:47-06:00 INFO (6): REQUEST: Array
+(
+    [selectCategoria] => nueva
+    [sms] => 
+    [caracteres] => 
+    [accion] => preparar
+    [retenido] => 
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-31T13:02:47-06:00 INFO (6): LA CATEGORIA A PREPARAR ES: nueva
+2017-03-31T13:02:47-06:00 INFO (6): SI SELECCIONO CATEGORIA
+2017-03-31T13:02:47-06:00 INFO (6): DATOS A UPDATE EN LA BASE: Array
+(
+    [usuario_enviado] => 0
+)
+
+2017-03-31T13:02:47-06:00 INFO (6): WHERE: 
+2017-03-31T13:02:47-06:00 INFO (6): SE ACTUALIZARON: 0
+2017-03-31T13:04:35-06:00 INFO (6): ------------------------------------------------
+2017-03-31T13:04:35-06:00 INFO (6): ------------------------------------------------
+2017-03-31T13:04:35-06:00 INFO (6): ------------------------------------------------
+2017-03-31T13:04:35-06:00 INFO (6): ---- ENVIO MASIVO PREPARAR - FN PREPARAR -------
+2017-03-31T13:04:35-06:00 INFO (6): REQUEST: Array
+(
+    [selectCategoria] => nueva
+    [sms] => 
+    [caracteres] => 
+    [accion] => preparar
+    [retenido] => 
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-31T13:04:35-06:00 INFO (6): LA CATEGORIA A PREPARAR ES: nueva
+2017-03-31T13:04:35-06:00 INFO (6): SI SELECCIONO CATEGORIA
+2017-03-31T13:04:35-06:00 INFO (6): DATOS A UPDATE EN LA BASE: Array
+(
+    [usuario_enviado] => 0
+)
+
+2017-03-31T13:04:35-06:00 INFO (6): WHERE: 
+2017-03-31T13:04:35-06:00 INFO (6): SE ACTUALIZARON: 0
+2017-03-31T13:04:38-06:00 INFO (6): ------------------------------------------------
+2017-03-31T13:04:38-06:00 INFO (6): ------------------------------------------------
+2017-03-31T13:04:38-06:00 INFO (6): ------------------------------------------------
+2017-03-31T13:04:38-06:00 INFO (6): ---- ENVIO MASIVO PREPARAR - FN PREPARAR -------
+2017-03-31T13:04:38-06:00 INFO (6): REQUEST: Array
+(
+    [selectCategoria] => nueva
+    [sms] => 
+    [caracteres] => 
+    [accion] => preparar
+    [retenido] => 
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-31T13:04:38-06:00 INFO (6): LA CATEGORIA A PREPARAR ES: nueva
+2017-03-31T13:04:38-06:00 INFO (6): SI SELECCIONO CATEGORIA
+2017-03-31T13:04:38-06:00 INFO (6): DATOS A UPDATE EN LA BASE: Array
+(
+    [usuario_enviado] => 0
+)
+
+2017-03-31T13:04:38-06:00 INFO (6): WHERE: 
+2017-03-31T13:04:38-06:00 INFO (6): SE ACTUALIZARON: 0
+2017-03-31T13:05:11-06:00 INFO (6): ------------------------------------------------
+2017-03-31T13:05:11-06:00 INFO (6): ------------------------------------------------
+2017-03-31T13:05:11-06:00 INFO (6): ------------------------------------------------
+2017-03-31T13:05:11-06:00 INFO (6): ---- ENVIO MASIVO PREPARAR - FN PREPARAR -------
+2017-03-31T13:05:11-06:00 INFO (6): REQUEST: Array
+(
+    [selectCategoria] => nueva
+    [sms] => 
+    [caracteres] => 
+    [accion] => preparar
+    [retenido] => 
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-31T13:05:11-06:00 INFO (6): LA CATEGORIA A PREPARAR ES: nueva
+2017-03-31T13:05:11-06:00 INFO (6): SI SELECCIONO CATEGORIA
+2017-03-31T13:05:11-06:00 INFO (6): DATOS A UPDATE EN LA BASE: Array
+(
+    [usuario_enviado] => 0
+)
+
+2017-03-31T13:05:11-06:00 INFO (6): WHERE: 
+2017-03-31T13:05:11-06:00 INFO (6): SE ACTUALIZARON: 0
+2017-03-31T13:05:43-06:00 INFO (6): ------------------------------------------------
+2017-03-31T13:05:43-06:00 INFO (6): ------------------------------------------------
+2017-03-31T13:05:43-06:00 INFO (6): ------------------------------------------------
+2017-03-31T13:05:43-06:00 INFO (6): ---- ENVIO MASIVO PREPARAR - FN PREPARAR -------
+2017-03-31T13:05:43-06:00 INFO (6): REQUEST: Array
+(
+    [selectCategoria] => nueva
+    [sms] => 
+    [caracteres] => 
+    [accion] => preparar
+    [retenido] => 
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-31T13:05:43-06:00 INFO (6): LA CATEGORIA A PREPARAR ES: nueva
+2017-03-31T13:05:43-06:00 INFO (6): SI SELECCIONO CATEGORIA
+2017-03-31T13:05:43-06:00 INFO (6): DATOS A UPDATE EN LA BASE: Array
+(
+    [usuario_enviado] => 0
+)
+
+2017-03-31T13:05:43-06:00 INFO (6): WHERE: 
+2017-03-31T13:05:43-06:00 INFO (6): SE ACTUALIZARON: 0
+2017-03-31T13:06:22-06:00 INFO (6): ------------------------------------------------
+2017-03-31T13:06:22-06:00 INFO (6): ------------------------------------------------
+2017-03-31T13:06:22-06:00 INFO (6): ------------------------------------------------
+2017-03-31T13:06:22-06:00 INFO (6): ---- ENVIO MASIVO PREPARAR - FN PREPARAR -------
+2017-03-31T13:06:22-06:00 INFO (6): REQUEST: Array
+(
+    [selectCategoria] => nueva
+    [sms] => 
+    [caracteres] => 
+    [accion] => preparar
+    [retenido] => 
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-31T13:06:22-06:00 INFO (6): LA CATEGORIA A PREPARAR ES: nueva
+2017-03-31T13:06:22-06:00 INFO (6): SI SELECCIONO CATEGORIA
+2017-03-31T13:06:22-06:00 INFO (6): DATOS A UPDATE EN LA BASE: Array
+(
+    [usuario_enviado] => 0
+)
+
+2017-03-31T13:06:22-06:00 INFO (6): WHERE: 
+2017-03-31T13:06:22-06:00 INFO (6): SE ACTUALIZARON: 0
+2017-03-31T13:07:33-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-31T13:07:33-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-31T13:07:33-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-31T13:07:33-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>FUNCION CODERE: 2017/03/31 13:07:33
+2017-03-31T13:07:33-06:00 INFO (6): _REQUEST::Array
+(
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 0
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 2
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 158dea8f535c108
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 1
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 3
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 858dea8f57b6ed8
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 2
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 4
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 058dea8f580c755
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 3
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 5
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 358dea8f58293c0
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 4
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 6
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 858dea8f584b647
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 5
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 7
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 558dea8f586bb88
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 6
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 8
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 558dea8f5882ad1
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 7
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 9
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 558dea8f58a56d4
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 8
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 10
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 358dea8f58c89e3
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 9
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 11
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 058dea8f58df483
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 10
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 12
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 658dea8f5923980
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 11
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 13
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 558dea8f5933b91
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 12
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 14
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 658dea8f595b785
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 13
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 15
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 858dea8f596f383
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 14
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 16
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 858dea8f598f8d7
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 15
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 17
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 158dea8f59a4060
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 16
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 18
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 558dea8f59c1119
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 17
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 19
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 958dea8f59d35f5
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 18
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 20
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 458dea8f59fb8a2
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 19
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 21
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 658dea8f5a10a93
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 20
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 22
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 058dea8f5a4a6d1
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 21
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 23
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 158dea8f5a69ce6
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 22
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 24
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 358dea8f5a81c17
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 23
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 25
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 058dea8f5a98e46
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 24
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 26
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 058dea8f5ab7241
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 25
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 27
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 058dea8f5ae7746
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 26
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 28
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 158dea8f5b0da35
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 27
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 29
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 858dea8f5b74ba8
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 28
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 30
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 158dea8f5b91c17
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 29
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 31
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 258dea8f5bd0e80
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 30
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 32
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 458dea8f5bffb63
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 31
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 33
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 058dea8f5c0fb10
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 32
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 34
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 358dea8f5c28870
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 33
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 35
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 658dea8f5c43968
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 34
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 36
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 258dea8f5c53ed2
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 35
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 37
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 158dea8f5c6d6f2
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 36
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 38
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 358dea8f5c9f2a2
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 37
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 39
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 958dea8f5ce9c86
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 38
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 40
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 058dea8f5d003b9
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 39
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 41
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 258dea8f5d23e90
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 40
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 42
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 058dea8f5d5c792
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 41
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 43
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 758dea8f5d6b872
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 42
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 44
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 858dea8f5d9e906
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 43
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 45
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 158dea8f5de6b60
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 44
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 46
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 358dea8f5e07e53
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 45
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 47
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 058dea8f5e17b78
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 46
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 48
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 658dea8f5e2cf61
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 47
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 49
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 858dea8f5e3e1a9
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 48
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 50
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 158dea8f5e51564
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 49
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 51
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 758dea8f5e638b4
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 50
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 52
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 658dea8f5e7cd49
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 99726,24
+    [credito_retenido] => 93,38
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO:: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 0
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 1
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=we
+2017-03-31T13:07:33-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:33-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:33-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:33-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:33-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 758dea8f5ee9e80
+    [mt_contenido] => we
+    [mt_fecha] => 2017-03-31 13:07:33
+    [mt_tag] => MASIVO
+    [mt_categoria] => nueva
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:33-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:33-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:33-06:00 INFO (6): CONTADOR i: 1
+2017-03-31T13:07:33-06:00 INFO (6): ID:: 
+2017-03-31T13:07:33-06:00 INFO (6): MSISDN:: 
+2017-03-31T13:07:33-06:00 INFO (6): OPERADOR:: 
+2017-03-31T13:07:33-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:33-06:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 99725,66
+    [credito_retenido] => 92,8
+)
+
+2017-03-31T13:07:33-06:00 INFO (6): SE ACTUALIZO:: 1
+2017-03-31T13:07:33-06:00 INFO (6): Fin::..
+2017-03-31T13:07:33-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-31T13:07:33-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-31T13:07:33-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-31T13:07:33-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>FUNCION CODERE: 2017/03/31 13:07:33
+2017-03-31T13:07:33-06:00 INFO (6): _REQUEST::Array
+(
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-31T13:07:34-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:34-06:00 INFO (6): CONTADOR i: 0
+2017-03-31T13:07:34-06:00 INFO (6): ID:: 53
+2017-03-31T13:07:34-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:34-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:34-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:34-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:34-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:34-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:34-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:34-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:34-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 558dea8f6031b46
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:34
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:34-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:34-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:34-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:34-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:34-06:00 INFO (6): CONTADOR i: 1
+2017-03-31T13:07:34-06:00 INFO (6): ID:: 54
+2017-03-31T13:07:34-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:34-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:34-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:34-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:34-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:34-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:34-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:34-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:34-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 658dea8f604e280
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:34
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:34-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:34-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:34-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:34-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:34-06:00 INFO (6): CONTADOR i: 2
+2017-03-31T13:07:34-06:00 INFO (6): ID:: 55
+2017-03-31T13:07:34-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:34-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:34-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:34-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:34-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:34-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:34-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:34-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:34-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 858dea8f606fba6
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:34
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:34-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:34-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:34-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:34-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:34-06:00 INFO (6): CONTADOR i: 3
+2017-03-31T13:07:34-06:00 INFO (6): ID:: 56
+2017-03-31T13:07:34-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:34-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:34-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:34-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:34-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:34-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:34-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:34-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:34-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 458dea8f608baf4
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:34
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:34-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:34-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:34-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:34-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:34-06:00 INFO (6): CONTADOR i: 4
+2017-03-31T13:07:34-06:00 INFO (6): ID:: 57
+2017-03-31T13:07:34-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:34-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:34-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:34-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:34-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:34-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:34-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:34-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:34-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 358dea8f60aa176
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:34
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:34-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:34-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:34-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:34-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:34-06:00 INFO (6): CONTADOR i: 5
+2017-03-31T13:07:34-06:00 INFO (6): ID:: 58
+2017-03-31T13:07:34-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:34-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:34-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:34-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:34-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:34-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:34-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:34-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:34-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 858dea8f60c3f54
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:34
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:34-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:34-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:34-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:34-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:34-06:00 INFO (6): CONTADOR i: 6
+2017-03-31T13:07:34-06:00 INFO (6): ID:: 59
+2017-03-31T13:07:34-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:34-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:34-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:34-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:34-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:34-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:34-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:34-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:34-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 158dea8f60d87b8
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:34
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:34-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:34-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:34-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:34-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:34-06:00 INFO (6): CONTADOR i: 7
+2017-03-31T13:07:34-06:00 INFO (6): ID:: 60
+2017-03-31T13:07:34-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:34-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:34-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:34-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:34-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:34-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:34-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:34-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:34-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 958dea8f6106f56
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:34
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:34-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:34-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:34-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:34-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:34-06:00 INFO (6): CONTADOR i: 8
+2017-03-31T13:07:34-06:00 INFO (6): ID:: 61
+2017-03-31T13:07:34-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:34-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:34-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:34-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:34-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:34-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:34-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:34-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:34-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 158dea8f6121ae4
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:34
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:34-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:34-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:34-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:34-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:34-06:00 INFO (6): CONTADOR i: 9
+2017-03-31T13:07:34-06:00 INFO (6): ID:: 62
+2017-03-31T13:07:34-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:34-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:34-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:34-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:34-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:34-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:34-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:34-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:34-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 358dea8f613cdc1
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:34
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:34-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:34-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:34-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:34-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:34-06:00 INFO (6): CONTADOR i: 10
+2017-03-31T13:07:34-06:00 INFO (6): ID:: 63
+2017-03-31T13:07:34-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:34-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:34-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:34-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:34-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:34-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:34-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:34-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:34-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 058dea8f6151215
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:34
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:34-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:34-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:34-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:34-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:34-06:00 INFO (6): CONTADOR i: 11
+2017-03-31T13:07:34-06:00 INFO (6): ID:: 64
+2017-03-31T13:07:34-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:34-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:34-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:34-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:34-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:34-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:34-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:34-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:34-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 758dea8f616a6d2
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:34
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:34-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:34-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:34-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:34-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:34-06:00 INFO (6): CONTADOR i: 12
+2017-03-31T13:07:34-06:00 INFO (6): ID:: 65
+2017-03-31T13:07:34-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:34-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:34-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:34-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:34-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:34-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:34-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:34-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:34-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 758dea8f6186fa7
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:34
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:34-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:34-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:34-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:34-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:34-06:00 INFO (6): CONTADOR i: 13
+2017-03-31T13:07:34-06:00 INFO (6): ID:: 66
+2017-03-31T13:07:34-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:34-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:34-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:34-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:34-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:34-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:34-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:34-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:34-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 158dea8f61a39e0
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:34
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:34-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:34-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:34-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:34-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:34-06:00 INFO (6): CONTADOR i: 14
+2017-03-31T13:07:34-06:00 INFO (6): ID:: 67
+2017-03-31T13:07:34-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:34-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:34-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:34-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:34-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:34-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:34-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:34-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:34-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 358dea8f61c3627
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:34
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:34-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:34-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:34-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:34-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:34-06:00 INFO (6): CONTADOR i: 15
+2017-03-31T13:07:34-06:00 INFO (6): ID:: 68
+2017-03-31T13:07:34-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:34-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:34-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:34-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:34-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:34-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:34-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:34-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:34-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 658dea8f61d55e9
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:34
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:34-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:34-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:34-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:34-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:34-06:00 INFO (6): CONTADOR i: 16
+2017-03-31T13:07:34-06:00 INFO (6): ID:: 69
+2017-03-31T13:07:34-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:34-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:34-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:34-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:34-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:34-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:34-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:34-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:34-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 358dea8f61f2dc2
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:34
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:34-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:34-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:34-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:34-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:34-06:00 INFO (6): CONTADOR i: 17
+2017-03-31T13:07:34-06:00 INFO (6): ID:: 70
+2017-03-31T13:07:34-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:34-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:34-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:34-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:34-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:34-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:34-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:34-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:34-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 958dea8f6209dd2
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:34
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:34-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:34-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:34-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:34-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:34-06:00 INFO (6): CONTADOR i: 18
+2017-03-31T13:07:34-06:00 INFO (6): ID:: 71
+2017-03-31T13:07:34-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T13:07:34-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T13:07:34-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:34-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=oij
+2017-03-31T13:07:34-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T13:07:34-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T13:07:34-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T13:07:34-06:00 INFO (6): SE ENVIO
+2017-03-31T13:07:34-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 858dea8f62227f3
+    [mt_contenido] => oij
+    [mt_fecha] => 2017-03-31 13:07:34
+    [mt_tag] => MASIVO
+    [mt_categoria] => dummy
+    [usuario_id] => 1
+)
+
+2017-03-31T13:07:34-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T13:07:34-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T13:07:34-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T13:07:34-06:00 INFO (6): -------------------------------------->
+2017-03-31T13:07:34-06:00 INFO (6): CONTADOR i: 19
+2017-03-31T13:07:34-06:00 INFO (6): ID:: 
+2017-03-31T13:07:34-06:00 INFO (6): MSISDN:: 
+2017-03-31T13:07:34-06:00 INFO (6): OPERADOR:: 
+2017-03-31T13:07:34-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T13:07:34-06:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 99714,64
+    [credito_retenido] => 81,78
+)
+
+2017-03-31T13:07:34-06:00 INFO (6): SE ACTUALIZO:: 1
+2017-03-31T13:07:34-06:00 INFO (6): Fin::..
+2017-03-31T13:07:39-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-31T13:07:39-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-31T13:07:39-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-31T13:07:39-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>FUNCION CODERE: 2017/03/31 13:07:39
+2017-03-31T13:07:39-06:00 INFO (6): _REQUEST::Array
+(
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-31T13:07:39-06:00 INFO (6): Fin::..
+2017-03-31T16:19:29-06:00 INFO (6): ------------------------------------------------
+2017-03-31T16:19:29-06:00 INFO (6): ------------------------------------------------
+2017-03-31T16:19:29-06:00 INFO (6): ------------------------------------------------
+2017-03-31T16:19:29-06:00 INFO (6): ---- ENVIO MASIVO PREPARAR - FN PREPARAR -------
+2017-03-31T16:19:29-06:00 INFO (6): REQUEST: Array
+(
+    [selectCategoria] => nueva
+    [sms] => Todo lo que me quieras dar, quiero que me lo des wqeeqweqweqweqweqweqweqweqweqweqweqweqweqweqweqweqweqweqweqwe
+    [caracteres] => 
+    [accion] => preparar
+    [retenido] => 
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-31T16:19:29-06:00 INFO (6): LA CATEGORIA A PREPARAR ES: nueva
+2017-03-31T16:19:29-06:00 INFO (6): SI SELECCIONO CATEGORIA
+2017-03-31T16:19:29-06:00 INFO (6): DATOS A UPDATE EN LA BASE: Array
+(
+    [usuario_enviado] => 0
+)
+
+2017-03-31T16:19:29-06:00 INFO (6): WHERE: 
+2017-03-31T16:19:29-06:00 INFO (6): SE ACTUALIZARON: 1
+2017-03-31T16:20:31-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-31T16:20:31-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-31T16:20:31-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-31T16:20:31-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>FUNCION CODERE: 2017/03/31 16:20:31
+2017-03-31T16:20:31-06:00 INFO (6): _REQUEST::Array
+(
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-31T16:20:31-06:00 INFO (6): -------------------------------------->
+2017-03-31T16:20:31-06:00 INFO (6): CONTADOR i: 0
+2017-03-31T16:20:31-06:00 INFO (6): ID:: 1
+2017-03-31T16:20:31-06:00 INFO (6): MSISDN:: 5549444527
+2017-03-31T16:20:31-06:00 INFO (6): OPERADOR:: Telcel
+2017-03-31T16:20:31-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T16:20:31-06:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmsmt_26262&password=kaiser&to=525549444527&text=todo+hombre+que+sabe+querer+lo+que+come+
+2017-03-31T16:20:31-06:00 INFO (6): SI SE ARMO LA URL, SE VA A EJECUTAR
+2017-03-31T16:20:31-06:00 INFO (6): RESPUESTA::.. 0: Accepted for delivery
+2017-03-31T16:20:31-06:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-03-31T16:20:31-06:00 INFO (6): SE ENVIO
+2017-03-31T16:20:31-06:00 INFO (6): INSERTA MT: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => Base
+    [mt_folio] => 558ded62f123861
+    [mt_contenido] => todo hombre que sabe querer lo que come 
+    [mt_fecha] => 2017-03-31 16:20:31
+    [mt_tag] => MASIVO
+    [mt_categoria] => nueva
+    [usuario_id] => 1
+)
+
+2017-03-31T16:20:31-06:00 INFO (6): SE INSERTO: 1
+2017-03-31T16:20:31-06:00 INFO (6): DATOS A UPDATE EN LA BASE DEMO PERU: Array
+(
+    [usuario_enviado] => 1
+)
+
+2017-03-31T16:20:31-06:00 INFO (6): SE ACTUALIZO: 1
+2017-03-31T16:20:31-06:00 INFO (6): -------------------------------------->
+2017-03-31T16:20:31-06:00 INFO (6): CONTADOR i: 1
+2017-03-31T16:20:31-06:00 INFO (6): ID:: 
+2017-03-31T16:20:31-06:00 INFO (6): MSISDN:: 
+2017-03-31T16:20:31-06:00 INFO (6): OPERADOR:: 
+2017-03-31T16:20:31-06:00 INFO (6): MENSAJE A ENVIAR::..
+2017-03-31T16:20:31-06:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 99714,06
+    [credito_retenido] => 81,78
+)
+
+2017-03-31T16:20:31-06:00 INFO (6): SE ACTUALIZO:: 1
+2017-03-31T16:20:31-06:00 INFO (6): Fin::..
+2017-03-31T16:21:22-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-31T16:21:22-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-31T16:21:22-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-31T16:21:22-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>FUNCION CODERE: 2017/03/31 16:21:22
+2017-03-31T16:21:22-06:00 INFO (6): _REQUEST::Array
+(
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-31T16:21:22-06:00 INFO (6): Fin::..

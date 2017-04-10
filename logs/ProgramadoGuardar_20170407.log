@@ -1,0 +1,42 @@
+2017-04-07T10:08:26-05:00 INFO (6): ------------------------------------------------
+2017-04-07T10:08:26-05:00 INFO (6): ------------------------------------------------
+2017-04-07T10:08:26-05:00 INFO (6): ------------------------------------------------
+2017-04-07T10:08:26-05:00 INFO (6): ---- ENVIO PROGRAMADOS - FN GUARDAR ------------
+2017-04-07T10:08:26-05:00 INFO (6): REQUESTArray
+(
+    [categoria] => real
+    [fechaenvio] => 2017-04-07
+    [horaenvio] => 64c03b50e85e7d1
+    [msgtxt] => nnn
+    [caracteres] => 3
+    [accion] => guardar
+    [retenido] => 1.74
+    [PHPSESSID] => omj399hbfsilsfdp9qk5vsojk2
+)
+
+2017-04-07T10:08:26-05:00 INFO (6): CATEGORIA: real
+2017-04-07T10:08:26-05:00 INFO (6): HORA DE ENVIO: 64c03b50e85e7d1
+2017-04-07T10:08:26-05:00 INFO (6): FECHA DE ENVIO: 2017-04-07
+2017-04-07T10:08:26-05:00 INFO (6): MENSAJE: nnn
+2017-04-07T10:08:26-05:00 INFO (6): CAMPANIA: Administrador
+2017-04-07T10:08:26-05:00 INFO (6): SI REQUESITO TODOS LOS CAMPOS
+2017-04-07T10:08:26-05:00 INFO (6): DIFERENCIA: 0
+2017-04-07T10:08:26-05:00 INFO (6): ES UNA FECHA VALIDAD, AUN NO HA PASADO
+2017-04-07T10:08:26-05:00 INFO (6): DATOS A INSERTAR EN LA BASE MENSAJES PROGRAMADOS: Array
+(
+    [mensaje_horario] => 64c03b50e85e7d1
+    [mensaje_horarionombre] => 10:00:00
+    [mensaje_mensaje] => nnn
+    [mensaje_nombre] => Administrador
+    [mensaje_fechaenvio] => 2017-04-07
+    [mensaje_descripcion] => Administrador
+    [mensaje_fechaalta] => 2017/04/07 10:08:26
+    [mensaje_activo] => 1
+    [mensaje_region] => real
+    [mensaje_ocupacion] => real
+    [mensaje_procesado] => 1
+    [mensaje_usuario] => 1
+)
+
+2017-04-07T10:08:26-05:00 INFO (6): SE INSERTO: 1
+2017-04-07T10:08:26-05:00 INFO (6): FIN:::...

@@ -1,0 +1,918 @@
+2017-03-23T17:29:18-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-23T17:29:18-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-23T17:29:18-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-23T17:29:18-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>FUNCION CODERE: 2017/03/23 17:29:18
+2017-03-23T17:29:18-06:00 INFO (6): _REQUEST::Array
+(
+    [PHPSESSID] => je1vgcb0h0qj8lkpdoegoi3o90
+)
+
+2017-03-23T17:29:18-06:00 INFO (6): HOSTNAME: {imap.gmail.com:993/ssl/novalidate-cert}INBOX
+2017-03-23T17:29:18-06:00 INFO (6): USERNAME: smspagos@conceptomovil.com
+2017-03-23T17:29:18-06:00 INFO (6): EMAILS: Array
+(
+    [0] => 94
+)
+
+2017-03-23T17:29:18-06:00 INFO (6): OVERVIEW : Array
+(
+    [0] => stdClass Object
+        (
+            [subject] => =?UTF-8?Q?Transacci=C3=B3n_Empresarial_en_PagoFacil.net?=
+            [from] => Notificaciones PagoFacil <notificaciones@pagofacil.net>
+            [to] => smspagos@conceptomovil.com
+            [date] => Thu, 23 Mar 2017 23:28:42 +0000
+            [message_id] => <20170323232841.34366.18178.E4442AEB@delivery.pagofacil.net>
+            [size] => 15450
+            [uid] => 94
+            [msgno] => 94
+            [recent] => 0
+            [flagged] => 0
+            [answered] => 0
+            [deleted] => 0
+            [seen] => 0
+            [draft] => 0
+        )
+
+)
+
+2017-03-23T17:29:18-06:00 INFO (6): OVERVIEW SUBJECT MSISDN : =?UTF-8?Q?Transacci=C3=B3n_Empresarial_en_PagoFacil.net?=
+2017-03-23T17:29:19-06:00 INFO (6): MESAGE DECODE: 
+
+    
+        Notificaci=C3=B3n Pago
+        
+        
+        
+.vinculo a:link,.vinculo a:visited,.vinculo a:hover,.vinculo a:active {
+text-decoration: none;
+color:#ffffff;=20
+margin : 0;=20
+padding : 0;=20
+font-size : 18px;=20
+font-family:arial,sans-serif;
+}
+
+    
+    
+            
+            
+                                                
+                    
+                
+                                
+                    
+                        =C2=
+=A1Gracias por tu compra en  Concepto M=C3=B3vil!
+                    
+                
+                
+                    &nbsp;
+                
+                
+                    &nbsp;
+                
+                
+                    
+                        Por la siguiente cantidad
+                    
+                
+               =20
+               =20
+                
+                                                                    
+                    
+                        $ 5.00mxn 
+                    
+                
+                
+                    &nbsp;
+                
+                
+                    &nbsp;
+                
+                
+                    
+                        Para cualquier aclaraci=C3=B3n de tu compra contacta a Concep=
+to M=C3=B3vil                                                            al=
+ tel=C3=A9fono 11015630                                                    =
+
+                    
+                    
+                
+                
+                    &nbsp;
+                
+
+                
+                    
+                                                    La transacci=C3=B3n fue pagada=
+ a trav=C3=A9s de  ,y con e=
+se nombre podr=C3=ADa aparecer listado en tu estado de cuenta.
+                                            
+                
+               =20
+               =20
+                
+                    
+                
+                                
+                
+                    &nbsp;
+                
+                
+                    Informaci=C3=B3n del pedido
+                
+                
+                    
+                        
+                            
+                            
+                                Id-Pedido:
+                                1372109726
+                            
+                            
+                                N=C3=BAmero de transacci=C3=B3n:
+                                PFE5493S5696I419585
+                            
+                                                            
+                                N=C3=BAmero de autorizaci=C3=B3n:
+                                148797
+                            
+                           =20
+                                                        Fecha:
+                            2017-03-23 17:28:36
+                                                       =20
+                            
+                                Tarjeta:
+                                XXXX-XXXX-XXXX-0457
+                            
+                           =20
+                            
+                                Fecha de Vencimiento:
+                                01/19
+                            
+                                                                           =
+             
+                                    Direcci=C3=B3n Ip del Cliente:
+                                    201.149.88.206
+                                
+                                                    
+        
+    
+
+
+
+    &nbsp;
+
+
+    Informaci=C3=B3n del cliente
+
+
+    
+        
+            
+                
+                    Nombre :Mauricio Gabriel Mayen Mendoza
+                    Direcc=
+i=C3=B3n:
+                        F=
+resno 58 San Miguel Amantla Azcapotzalco Ciudad de M=C3=A9xico 02700
+                    
+                
+                
+                    Email :mayenmadero@gmail.com
+                
+                
+                    Tel=C3=A9fono :5549444527
+                
+                
+                    M=C3=B3vil :5549444527
+                
+            
+        
+    
+
+                                
+                    
+                        
+                    
+                
+               =20
+
+    
+        
+            
+                
+                    &nbsp;
+                
+                
+                    
+                    
+                    
+                
+            
+        
+    
+
+
+    
+        
+            
+                
+                    &nbsp;
+                
+                
+                    
+                        
+                                                            Este pago fue p=
+rocesado
+                            para Concepto M=C3=B3vil v=C3=ADa PagoF=C3=A1cil, la me=
+jor plataforma de pagos en M=C3=A9xico para tu negocio.Si necesitas opc=
+iones de cobro llamanos al 52 (55) 50220999 o escribenos a info@pagofacil.net.
+                    
+                
+                
+                    &nbsp;
+                
+            
+        
+    
+
+
+
+
+
+
+2017-03-23T17:29:19-06:00 INFO (6): MESAGE ENCODE: 
+
+    
+        Notificaci=C3=B3n Pago
+        
+        
+        
+.vinculo a:link,.vinculo a:visited,.vinculo a:hover,.vinculo a:active {
+text-decoration: none;
+color:#ffffff;=20
+margin : 0;=20
+padding : 0;=20
+font-size : 18px;=20
+font-family:arial,sans-serif;
+}
+
+    
+    
+            
+            
+                                                
+                    
+                
+                                
+                    
+                        =C2=
+=A1Gracias por tu compra en  Concepto M=C3=B3vil!
+                    
+                
+                
+                    &nbsp;
+                
+                
+                    &nbsp;
+                
+                
+                    
+                        Por la siguiente cantidad
+                    
+                
+               =20
+               =20
+                
+                                                                    
+                    
+                        $ 5.00mxn 
+                    
+                
+                
+                    &nbsp;
+                
+                
+                    &nbsp;
+                
+                
+                    
+                        Para cualquier aclaraci=C3=B3n de tu compra contacta a Concep=
+to M=C3=B3vil                                                            al=
+ tel=C3=A9fono 11015630                                                    =
+
+                    
+                    
+                
+                
+                    &nbsp;
+                
+
+                
+                    
+                                                    La transacci=C3=B3n fue pagada=
+ a trav=C3=A9s de  ,y con e=
+se nombre podr=C3=ADa aparecer listado en tu estado de cuenta.
+                                            
+                
+               =20
+               =20
+                
+                    
+                
+                                
+                
+                    &nbsp;
+                
+                
+                    Informaci=C3=B3n del pedido
+                
+                
+                    
+                        
+                            
+                            
+                                Id-Pedido:
+                                1372109726
+                            
+                            
+                                N=C3=BAmero de transacci=C3=B3n:
+                                PFE5493S5696I419585
+                            
+                                                            
+                                N=C3=BAmero de autorizaci=C3=B3n:
+                                148797
+                            
+                           =20
+                                                        Fecha:
+                            2017-03-23 17:28:36
+                                                       =20
+                            
+                                Tarjeta:
+                                XXXX-XXXX-XXXX-0457
+                            
+                           =20
+                            
+                                Fecha de Vencimiento:
+                                01/19
+                            
+                                                                           =
+             
+                                    Direcci=C3=B3n Ip del Cliente:
+                                    201.149.88.206
+                                
+                                                    
+        
+    
+
+
+
+    &nbsp;
+
+
+    Informaci=C3=B3n del cliente
+
+
+    
+        
+            
+                
+                    Nombre :Mauricio Gabriel Mayen Mendoza
+                    Direcc=
+i=C3=B3n:
+                        F=
+resno 58 San Miguel Amantla Azcapotzalco Ciudad de M=C3=A9xico 02700
+                    
+                
+                
+                    Email :mayenmadero@gmail.com
+                
+                
+                    Tel=C3=A9fono :5549444527
+                
+                
+                    M=C3=B3vil :5549444527
+                
+            
+        
+    
+
+                                
+                    
+                        
+                    
+                
+               =20
+
+    
+        
+            
+                
+                    &nbsp;
+                
+                
+                    
+                    
+                    
+                
+            
+        
+    
+
+
+    
+        
+            
+                
+                    &nbsp;
+                
+                
+                    
+                        
+                                                            Este pago fue p=
+rocesado
+                            para Concepto M=C3=B3vil v=C3=ADa PagoF=C3=A1cil, la me=
+jor plataforma de pagos en M=C3=A9xico para tu negocio.Si necesitas opc=
+iones de cobro llamanos al 52 (55) 50220999 o escribenos a info@pagofacil.net.
+                    
+                
+                
+                    &nbsp;
+                
+            
+        
+    
+
+
+
+
+
+
+2017-03-23T17:29:19-06:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 1008,66
+)
+
+2017-03-23T17:29:19-06:00 INFO (6): SE ACTUALIZO:: 1
+2017-03-23T17:33:26-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-23T17:33:26-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-23T17:33:26-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-03-23T17:33:26-06:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>FUNCION CODERE: 2017/03/23 17:33:26
+2017-03-23T17:33:26-06:00 INFO (6): _REQUEST::Array
+(
+    [PHPSESSID] => je1vgcb0h0qj8lkpdoegoi3o90
+)
+
+2017-03-23T17:33:26-06:00 INFO (6): HOSTNAME: {imap.gmail.com:993/ssl/novalidate-cert}INBOX
+2017-03-23T17:33:26-06:00 INFO (6): USERNAME: smspagos@conceptomovil.com
+2017-03-23T17:33:26-06:00 INFO (6): EMAILS: Array
+(
+    [0] => 95
+)
+
+2017-03-23T17:33:26-06:00 INFO (6): OVERVIEW : Array
+(
+    [0] => stdClass Object
+        (
+            [subject] => =?UTF-8?Q?Transacci=C3=B3n_Empresarial_en_PagoFacil.net?=
+            [from] => Notificaciones PagoFacil <notificaciones@pagofacil.net>
+            [to] => smspagos@conceptomovil.com
+            [date] => Thu, 23 Mar 2017 23:33:15 +0000
+            [message_id] => <20170323233314.53045.42333.B560FCA2@delivery.pagofacil.net>
+            [size] => 15450
+            [uid] => 95
+            [msgno] => 95
+            [recent] => 0
+            [flagged] => 0
+            [answered] => 0
+            [deleted] => 0
+            [seen] => 0
+            [draft] => 0
+        )
+
+)
+
+2017-03-23T17:33:26-06:00 INFO (6): OVERVIEW SUBJECT MSISDN : =?UTF-8?Q?Transacci=C3=B3n_Empresarial_en_PagoFacil.net?=
+2017-03-23T17:33:26-06:00 INFO (6): MESAGE DECODE: 
+
+    
+        Notificaci=C3=B3n Pago
+        
+        
+        
+.vinculo a:link,.vinculo a:visited,.vinculo a:hover,.vinculo a:active {
+text-decoration: none;
+color:#ffffff;=20
+margin : 0;=20
+padding : 0;=20
+font-size : 18px;=20
+font-family:arial,sans-serif;
+}
+
+    
+    
+            
+            
+                                                
+                    
+                
+                                
+                    
+                        =C2=
+=A1Gracias por tu compra en  Concepto M=C3=B3vil!
+                    
+                
+                
+                    &nbsp;
+                
+                
+                    &nbsp;
+                
+                
+                    
+                        Por la siguiente cantidad
+                    
+                
+               =20
+               =20
+                
+                                                                    
+                    
+                        $ 1.00mxn 
+                    
+                
+                
+                    &nbsp;
+                
+                
+                    &nbsp;
+                
+                
+                    
+                        Para cualquier aclaraci=C3=B3n de tu compra contacta a Concep=
+to M=C3=B3vil                                                            al=
+ tel=C3=A9fono 11015630                                                    =
+
+                    
+                    
+                
+                
+                    &nbsp;
+                
+
+                
+                    
+                                                    La transacci=C3=B3n fue pagada=
+ a trav=C3=A9s de  ,y con e=
+se nombre podr=C3=ADa aparecer listado en tu estado de cuenta.
+                                            
+                
+               =20
+               =20
+                
+                    
+                
+                                
+                
+                    &nbsp;
+                
+                
+                    Informaci=C3=B3n del pedido
+                
+                
+                    
+                        
+                            
+                            
+                                Id-Pedido:
+                                1372109726
+                            
+                            
+                                N=C3=BAmero de transacci=C3=B3n:
+                                PFE5493S5696I419600
+                            
+                                                            
+                                N=C3=BAmero de autorizaci=C3=B3n:
+                                014055
+                            
+                           =20
+                                                        Fecha:
+                            2017-03-23 17:33:10
+                                                       =20
+                            
+                                Tarjeta:
+                                XXXX-XXXX-XXXX-0457
+                            
+                           =20
+                            
+                                Fecha de Vencimiento:
+                                01/19
+                            
+                                                                           =
+             
+                                    Direcci=C3=B3n Ip del Cliente:
+                                    201.149.88.206
+                                
+                                                    
+        
+    
+
+
+
+    &nbsp;
+
+
+    Informaci=C3=B3n del cliente
+
+
+    
+        
+            
+                
+                    Nombre :Mauricio Gabriel Mayen Mendoza
+                    Direcc=
+i=C3=B3n:
+                        F=
+resno 58 San Miguel Amantla Azcapotzalco Ciudad de M=C3=A9xico 02700
+                    
+                
+                
+                    Email :mayenmadero@gmail.com
+                
+                
+                    Tel=C3=A9fono :5549444527
+                
+                
+                    M=C3=B3vil :5549444527
+                
+            
+        
+    
+
+                                
+                    
+                        
+                    
+                
+               =20
+
+    
+        
+            
+                
+                    &nbsp;
+                
+                
+                    
+                    
+                    
+                
+            
+        
+    
+
+
+    
+        
+            
+                
+                    &nbsp;
+                
+                
+                    
+                        
+                                                            Este pago fue p=
+rocesado
+                            para Concepto M=C3=B3vil v=C3=ADa PagoF=C3=A1cil, la me=
+jor plataforma de pagos en M=C3=A9xico para tu negocio.Si necesitas opc=
+iones de cobro llamanos al 52 (55) 50220999 o escribenos a info@pagofacil.net.
+                    
+                
+                
+                    &nbsp;
+                
+            
+        
+    
+
+
+
+
+
+
+2017-03-23T17:33:26-06:00 INFO (6): MESAGE ENCODE: 
+
+    
+        Notificaci=C3=B3n Pago
+        
+        
+        
+.vinculo a:link,.vinculo a:visited,.vinculo a:hover,.vinculo a:active {
+text-decoration: none;
+color:#ffffff;=20
+margin : 0;=20
+padding : 0;=20
+font-size : 18px;=20
+font-family:arial,sans-serif;
+}
+
+    
+    
+            
+            
+                                                
+                    
+                
+                                
+                    
+                        =C2=
+=A1Gracias por tu compra en  Concepto M=C3=B3vil!
+                    
+                
+                
+                    &nbsp;
+                
+                
+                    &nbsp;
+                
+                
+                    
+                        Por la siguiente cantidad
+                    
+                
+               =20
+               =20
+                
+                                                                    
+                    
+                        $ 1.00mxn 
+                    
+                
+                
+                    &nbsp;
+                
+                
+                    &nbsp;
+                
+                
+                    
+                        Para cualquier aclaraci=C3=B3n de tu compra contacta a Concep=
+to M=C3=B3vil                                                            al=
+ tel=C3=A9fono 11015630                                                    =
+
+                    
+                    
+                
+                
+                    &nbsp;
+                
+
+                
+                    
+                                                    La transacci=C3=B3n fue pagada=
+ a trav=C3=A9s de  ,y con e=
+se nombre podr=C3=ADa aparecer listado en tu estado de cuenta.
+                                            
+                
+               =20
+               =20
+                
+                    
+                
+                                
+                
+                    &nbsp;
+                
+                
+                    Informaci=C3=B3n del pedido
+                
+                
+                    
+                        
+                            
+                            
+                                Id-Pedido:
+                                1372109726
+                            
+                            
+                                N=C3=BAmero de transacci=C3=B3n:
+                                PFE5493S5696I419600
+                            
+                                                            
+                                N=C3=BAmero de autorizaci=C3=B3n:
+                                014055
+                            
+                           =20
+                                                        Fecha:
+                            2017-03-23 17:33:10
+                                                       =20
+                            
+                                Tarjeta:
+                                XXXX-XXXX-XXXX-0457
+                            
+                           =20
+                            
+                                Fecha de Vencimiento:
+                                01/19
+                            
+                                                                           =
+             
+                                    Direcci=C3=B3n Ip del Cliente:
+                                    201.149.88.206
+                                
+                                                    
+        
+    
+
+
+
+    &nbsp;
+
+
+    Informaci=C3=B3n del cliente
+
+
+    
+        
+            
+                
+                    Nombre :Mauricio Gabriel Mayen Mendoza
+                    Direcc=
+i=C3=B3n:
+                        F=
+resno 58 San Miguel Amantla Azcapotzalco Ciudad de M=C3=A9xico 02700
+                    
+                
+                
+                    Email :mayenmadero@gmail.com
+                
+                
+                    Tel=C3=A9fono :5549444527
+                
+                
+                    M=C3=B3vil :5549444527
+                
+            
+        
+    
+
+                                
+                    
+                        
+                    
+                
+               =20
+
+    
+        
+            
+                
+                    &nbsp;
+                
+                
+                    
+                    
+                    
+                
+            
+        
+    
+
+
+    
+        
+            
+                
+                    &nbsp;
+                
+                
+                    
+                        
+                                                            Este pago fue p=
+rocesado
+                            para Concepto M=C3=B3vil v=C3=ADa PagoF=C3=A1cil, la me=
+jor plataforma de pagos en M=C3=A9xico para tu negocio.Si necesitas opc=
+iones de cobro llamanos al 52 (55) 50220999 o escribenos a info@pagofacil.net.
+                    
+                
+                
+                    &nbsp;
+                
+            
+        
+    
+
+
+
+
+
+
+2017-03-23T17:33:26-06:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 1014,88
+)
+
+2017-03-23T17:33:26-06:00 INFO (6): SE ACTUALIZO:: 1

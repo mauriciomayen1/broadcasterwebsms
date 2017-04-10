@@ -1,0 +1,1056 @@
+2017-04-06T16:22:05-05:00 INFO (6): -----------------------------------------------------------------------------
+2017-04-06T16:22:05-05:00 INFO (6): -----------------------------------------------------------------------------
+2017-04-06T16:22:05-05:00 INFO (6): --------------- INICIO DE RECARGA-----------------------
+2017-04-06T16:22:05-05:00 INFO (6): INICIO: 2017/04/06 16:22:05
+2017-04-06T16:22:05-05:00 INFO (6): REQUEST: Array
+(
+    [SOA] => 5549444527
+    [carrier] => Telcel
+    [smscId] => smscId=telcel_77700
+    [content] => SMS 60
+    [PHPSESSID] => omj399hbfsilsfdp9qk5vsojk2
+)
+
+2017-04-06T16:22:05-05:00 INFO (6): DATOS MO:: Array
+(
+    [msisdn] => 5549444527
+    [fecha] => 2017-04-06 16:22:05
+    [contenido] => 
+    [operador] => Telcel
+)
+
+2017-04-06T16:22:05-05:00 INFO (6): INSERTO MO:: 1
+2017-04-06T16:22:05-05:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmstelcel_77700&password=kaiser&to=525549444527&text=La+recarga+no+se+pudo+hacer.+Contacte+a+su+administrador
+2017-04-06T16:22:05-05:00 INFO (6): response:: 0: Accepted for delivery
+2017-04-06T16:22:05-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-06T16:22:05-05:00 INFO (6): Array data_mt:: Array
+(
+    [mt_servicio] => RECARGA
+    [mt_marcacion] => 77700
+    [mt_operador] => Telcel
+    [mt_folio] => 658e6b17def68e8
+    [mt_msisdn] => 5549444527
+    [mt_contenido] => La recarga no se pudo hacer. Contacte a su administrador
+    [mt_fecha] => 2017-04-06 16:22:05
+    [mt_tag] => mail
+    [usuario_id] => 
+)
+
+2017-04-06T16:22:05-05:00 INFO (6): ExceptionZend_Db_Statement_Exception Object
+(
+    [message:protected] => SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'usuario_id' cannot be null
+    [string:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/broadcaster.cm-operations.com/pub_html/dashboard/broadcasterwebsms/lib/Zend/Db/Statement/Pdo.php
+    [line:protected] => 238
+    [trace:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/broadcaster.cm-operations.com/pub_html/dashboard/broadcasterwebsms/lib/Zend/Db/Statement.php
+                    [line] => 283
+                    [function] => _execute
+                    [class] => Zend_Db_Statement_Pdo
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => RECARGA
+                                    [1] => 77700
+                                    [2] => Telcel
+                                    [3] => 658e6b17def68e8
+                                    [4] => 5549444527
+                                    [5] => La recarga no se pudo hacer. Contacte a su administrador
+                                    [6] => 2017-04-06 16:22:05
+                                    [7] => mail
+                                    [8] => 
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/broadcaster.cm-operations.com/pub_html/dashboard/broadcasterwebsms/lib/Zend/Db/Adapter/Abstract.php
+                    [line] => 433
+                    [function] => execute
+                    [class] => Zend_Db_Statement
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => RECARGA
+                                    [1] => 77700
+                                    [2] => Telcel
+                                    [3] => 658e6b17def68e8
+                                    [4] => 5549444527
+                                    [5] => La recarga no se pudo hacer. Contacte a su administrador
+                                    [6] => 2017-04-06 16:22:05
+                                    [7] => mail
+                                    [8] => 
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/broadcaster.cm-operations.com/pub_html/dashboard/broadcasterwebsms/lib/Zend/Db/Adapter/Pdo/Abstract.php
+                    [line] => 230
+                    [function] => query
+                    [class] => Zend_Db_Adapter_Abstract
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => INSERT INTO `mt_sms` (`mt_servicio`, `mt_marcacion`, `mt_operador`, `mt_folio`, `mt_msisdn`, `mt_contenido`, `mt_fecha`, `mt_tag`, `usuario_id`) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+                            [1] => Array
+                                (
+                                    [0] => RECARGA
+                                    [1] => 77700
+                                    [2] => Telcel
+                                    [3] => 658e6b17def68e8
+                                    [4] => 5549444527
+                                    [5] => La recarga no se pudo hacer. Contacte a su administrador
+                                    [6] => 2017-04-06 16:22:05
+                                    [7] => mail
+                                    [8] => 
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/broadcaster.cm-operations.com/pub_html/dashboard/broadcasterwebsms/lib/Zend/Db/Adapter/Abstract.php
+                    [line] => 511
+                    [function] => query
+                    [class] => Zend_Db_Adapter_Pdo_Abstract
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => INSERT INTO `mt_sms` (`mt_servicio`, `mt_marcacion`, `mt_operador`, `mt_folio`, `mt_msisdn`, `mt_contenido`, `mt_fecha`, `mt_tag`, `usuario_id`) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+                            [1] => Array
+                                (
+                                    [0] => RECARGA
+                                    [1] => 77700
+                                    [2] => Telcel
+                                    [3] => 658e6b17def68e8
+                                    [4] => 5549444527
+                                    [5] => La recarga no se pudo hacer. Contacte a su administrador
+                                    [6] => 2017-04-06 16:22:05
+                                    [7] => mail
+                                    [8] => 
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [file] => /home/broadcaster.cm-operations.com/pub_html/dashboard/broadcasterwebsms/router/router.php
+                    [line] => 162
+                    [function] => insert
+                    [class] => Zend_Db_Adapter_Abstract
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => mt_sms
+                            [1] => Array
+                                (
+                                    [mt_servicio] => RECARGA
+                                    [mt_marcacion] => 77700
+                                    [mt_operador] => Telcel
+                                    [mt_folio] => 658e6b17def68e8
+                                    [mt_msisdn] => 5549444527
+                                    [mt_contenido] => La recarga no se pudo hacer. Contacte a su administrador
+                                    [mt_fecha] => 2017-04-06 16:22:05
+                                    [mt_tag] => mail
+                                    [usuario_id] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+2017-04-06T16:22:05-05:00 INFO (6): FIN::::::... 
+2017-04-06T16:22:48-05:00 INFO (6): -----------------------------------------------------------------------------
+2017-04-06T16:22:48-05:00 INFO (6): -----------------------------------------------------------------------------
+2017-04-06T16:22:48-05:00 INFO (6): --------------- INICIO DE RECARGA-----------------------
+2017-04-06T16:22:48-05:00 INFO (6): INICIO: 2017/04/06 16:22:48
+2017-04-06T16:22:48-05:00 INFO (6): REQUEST: Array
+(
+    [SOA] => 5549444527
+    [carrier] => Telcel
+    [smscId] => smscId=telcel_77700
+    [content] => SMS 60
+    [PHPSESSID] => omj399hbfsilsfdp9qk5vsojk2
+)
+
+2017-04-06T16:22:48-05:00 INFO (6): DATOS MO:: Array
+(
+    [msisdn] => 5549444527
+    [fecha] => 2017-04-06 16:22:48
+    [contenido] => 
+    [operador] => Telcel
+)
+
+2017-04-06T16:22:48-05:00 INFO (6): INSERTO MO:: 1
+2017-04-06T16:22:48-05:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmstelcel_77700&password=kaiser&to=525549444527&text=La+recarga+no+se+pudo+hacer.+Contacte+a+su+administrador
+2017-04-06T16:22:48-05:00 INFO (6): response:: 0: Accepted for delivery
+2017-04-06T16:22:48-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-06T16:22:48-05:00 INFO (6): Array data_mt:: Array
+(
+    [mt_servicio] => RECARGA
+    [mt_marcacion] => 77700
+    [mt_operador] => Telcel
+    [mt_folio] => 358e6b1a84202c8
+    [mt_msisdn] => 5549444527
+    [mt_contenido] => La recarga no se pudo hacer. Contacte a su administrador
+    [mt_fecha] => 2017-04-06 16:22:48
+    [mt_tag] => mail
+    [usuario_id] => 
+)
+
+2017-04-06T16:22:48-05:00 INFO (6): ExceptionZend_Db_Statement_Exception Object
+(
+    [message:protected] => SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'usuario_id' cannot be null
+    [string:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/broadcaster.cm-operations.com/pub_html/dashboard/broadcasterwebsms/lib/Zend/Db/Statement/Pdo.php
+    [line:protected] => 238
+    [trace:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/broadcaster.cm-operations.com/pub_html/dashboard/broadcasterwebsms/lib/Zend/Db/Statement.php
+                    [line] => 283
+                    [function] => _execute
+                    [class] => Zend_Db_Statement_Pdo
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => RECARGA
+                                    [1] => 77700
+                                    [2] => Telcel
+                                    [3] => 358e6b1a84202c8
+                                    [4] => 5549444527
+                                    [5] => La recarga no se pudo hacer. Contacte a su administrador
+                                    [6] => 2017-04-06 16:22:48
+                                    [7] => mail
+                                    [8] => 
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/broadcaster.cm-operations.com/pub_html/dashboard/broadcasterwebsms/lib/Zend/Db/Adapter/Abstract.php
+                    [line] => 433
+                    [function] => execute
+                    [class] => Zend_Db_Statement
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => RECARGA
+                                    [1] => 77700
+                                    [2] => Telcel
+                                    [3] => 358e6b1a84202c8
+                                    [4] => 5549444527
+                                    [5] => La recarga no se pudo hacer. Contacte a su administrador
+                                    [6] => 2017-04-06 16:22:48
+                                    [7] => mail
+                                    [8] => 
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/broadcaster.cm-operations.com/pub_html/dashboard/broadcasterwebsms/lib/Zend/Db/Adapter/Pdo/Abstract.php
+                    [line] => 230
+                    [function] => query
+                    [class] => Zend_Db_Adapter_Abstract
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => INSERT INTO `mt_sms` (`mt_servicio`, `mt_marcacion`, `mt_operador`, `mt_folio`, `mt_msisdn`, `mt_contenido`, `mt_fecha`, `mt_tag`, `usuario_id`) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+                            [1] => Array
+                                (
+                                    [0] => RECARGA
+                                    [1] => 77700
+                                    [2] => Telcel
+                                    [3] => 358e6b1a84202c8
+                                    [4] => 5549444527
+                                    [5] => La recarga no se pudo hacer. Contacte a su administrador
+                                    [6] => 2017-04-06 16:22:48
+                                    [7] => mail
+                                    [8] => 
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/broadcaster.cm-operations.com/pub_html/dashboard/broadcasterwebsms/lib/Zend/Db/Adapter/Abstract.php
+                    [line] => 511
+                    [function] => query
+                    [class] => Zend_Db_Adapter_Pdo_Abstract
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => INSERT INTO `mt_sms` (`mt_servicio`, `mt_marcacion`, `mt_operador`, `mt_folio`, `mt_msisdn`, `mt_contenido`, `mt_fecha`, `mt_tag`, `usuario_id`) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+                            [1] => Array
+                                (
+                                    [0] => RECARGA
+                                    [1] => 77700
+                                    [2] => Telcel
+                                    [3] => 358e6b1a84202c8
+                                    [4] => 5549444527
+                                    [5] => La recarga no se pudo hacer. Contacte a su administrador
+                                    [6] => 2017-04-06 16:22:48
+                                    [7] => mail
+                                    [8] => 
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [file] => /home/broadcaster.cm-operations.com/pub_html/dashboard/broadcasterwebsms/router/router.php
+                    [line] => 162
+                    [function] => insert
+                    [class] => Zend_Db_Adapter_Abstract
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => mt_sms
+                            [1] => Array
+                                (
+                                    [mt_servicio] => RECARGA
+                                    [mt_marcacion] => 77700
+                                    [mt_operador] => Telcel
+                                    [mt_folio] => 358e6b1a84202c8
+                                    [mt_msisdn] => 5549444527
+                                    [mt_contenido] => La recarga no se pudo hacer. Contacte a su administrador
+                                    [mt_fecha] => 2017-04-06 16:22:48
+                                    [mt_tag] => mail
+                                    [usuario_id] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+2017-04-06T16:22:48-05:00 INFO (6): FIN::::::... 
+2017-04-06T16:25:11-05:00 INFO (6): -----------------------------------------------------------------------------
+2017-04-06T16:25:11-05:00 INFO (6): -----------------------------------------------------------------------------
+2017-04-06T16:25:11-05:00 INFO (6): --------------- INICIO DE RECARGA-----------------------
+2017-04-06T16:25:11-05:00 INFO (6): INICIO: 2017/04/06 16:25:11
+2017-04-06T16:25:11-05:00 INFO (6): REQUEST: Array
+(
+    [SOA] => 5549444527
+    [carrier] => Telcel
+    [smscId] => smscId=telcel_77700
+    [content] => SMS 60
+    [PHPSESSID] => omj399hbfsilsfdp9qk5vsojk2
+)
+
+2017-04-06T16:25:11-05:00 INFO (6): DATOS MO:: Array
+(
+    [msisdn] => 5549444527
+    [fecha] => 2017-04-06 16:25:11
+    [contenido] => 
+    [operador] => Telcel
+)
+
+2017-04-06T16:25:11-05:00 INFO (6): INSERTO MO:: 1
+2017-04-06T16:25:11-05:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmstelcel_77700&password=kaiser&to=525549444527&text=La+recarga+no+se+pudo+hacer.+Contacte+a+su+administrador
+2017-04-06T16:25:11-05:00 INFO (6): response:: 0: Accepted for delivery
+2017-04-06T16:25:11-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-06T16:25:11-05:00 INFO (6): Array data_mt:: Array
+(
+    [mt_servicio] => RECARGA
+    [mt_marcacion] => 77700
+    [mt_operador] => Telcel
+    [mt_folio] => 658e6b237ad8e65
+    [mt_msisdn] => 5549444527
+    [mt_contenido] => La recarga no se pudo hacer. Contacte a su administrador
+    [mt_fecha] => 2017-04-06 16:25:11
+    [mt_tag] => mail
+    [usuario_id] => 
+)
+
+2017-04-06T16:25:11-05:00 INFO (6): ExceptionZend_Db_Statement_Exception Object
+(
+    [message:protected] => SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'usuario_id' cannot be null
+    [string:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/broadcaster.cm-operations.com/pub_html/dashboard/broadcasterwebsms/lib/Zend/Db/Statement/Pdo.php
+    [line:protected] => 238
+    [trace:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/broadcaster.cm-operations.com/pub_html/dashboard/broadcasterwebsms/lib/Zend/Db/Statement.php
+                    [line] => 283
+                    [function] => _execute
+                    [class] => Zend_Db_Statement_Pdo
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => RECARGA
+                                    [1] => 77700
+                                    [2] => Telcel
+                                    [3] => 658e6b237ad8e65
+                                    [4] => 5549444527
+                                    [5] => La recarga no se pudo hacer. Contacte a su administrador
+                                    [6] => 2017-04-06 16:25:11
+                                    [7] => mail
+                                    [8] => 
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/broadcaster.cm-operations.com/pub_html/dashboard/broadcasterwebsms/lib/Zend/Db/Adapter/Abstract.php
+                    [line] => 433
+                    [function] => execute
+                    [class] => Zend_Db_Statement
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => RECARGA
+                                    [1] => 77700
+                                    [2] => Telcel
+                                    [3] => 658e6b237ad8e65
+                                    [4] => 5549444527
+                                    [5] => La recarga no se pudo hacer. Contacte a su administrador
+                                    [6] => 2017-04-06 16:25:11
+                                    [7] => mail
+                                    [8] => 
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/broadcaster.cm-operations.com/pub_html/dashboard/broadcasterwebsms/lib/Zend/Db/Adapter/Pdo/Abstract.php
+                    [line] => 230
+                    [function] => query
+                    [class] => Zend_Db_Adapter_Abstract
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => INSERT INTO `mt_sms` (`mt_servicio`, `mt_marcacion`, `mt_operador`, `mt_folio`, `mt_msisdn`, `mt_contenido`, `mt_fecha`, `mt_tag`, `usuario_id`) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+                            [1] => Array
+                                (
+                                    [0] => RECARGA
+                                    [1] => 77700
+                                    [2] => Telcel
+                                    [3] => 658e6b237ad8e65
+                                    [4] => 5549444527
+                                    [5] => La recarga no se pudo hacer. Contacte a su administrador
+                                    [6] => 2017-04-06 16:25:11
+                                    [7] => mail
+                                    [8] => 
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/broadcaster.cm-operations.com/pub_html/dashboard/broadcasterwebsms/lib/Zend/Db/Adapter/Abstract.php
+                    [line] => 511
+                    [function] => query
+                    [class] => Zend_Db_Adapter_Pdo_Abstract
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => INSERT INTO `mt_sms` (`mt_servicio`, `mt_marcacion`, `mt_operador`, `mt_folio`, `mt_msisdn`, `mt_contenido`, `mt_fecha`, `mt_tag`, `usuario_id`) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+                            [1] => Array
+                                (
+                                    [0] => RECARGA
+                                    [1] => 77700
+                                    [2] => Telcel
+                                    [3] => 658e6b237ad8e65
+                                    [4] => 5549444527
+                                    [5] => La recarga no se pudo hacer. Contacte a su administrador
+                                    [6] => 2017-04-06 16:25:11
+                                    [7] => mail
+                                    [8] => 
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [file] => /home/broadcaster.cm-operations.com/pub_html/dashboard/broadcasterwebsms/router/router.php
+                    [line] => 162
+                    [function] => insert
+                    [class] => Zend_Db_Adapter_Abstract
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => mt_sms
+                            [1] => Array
+                                (
+                                    [mt_servicio] => RECARGA
+                                    [mt_marcacion] => 77700
+                                    [mt_operador] => Telcel
+                                    [mt_folio] => 658e6b237ad8e65
+                                    [mt_msisdn] => 5549444527
+                                    [mt_contenido] => La recarga no se pudo hacer. Contacte a su administrador
+                                    [mt_fecha] => 2017-04-06 16:25:11
+                                    [mt_tag] => mail
+                                    [usuario_id] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+2017-04-06T16:25:11-05:00 INFO (6): FIN::::::... 
+2017-04-06T16:28:27-05:00 INFO (6): -----------------------------------------------------------------------------
+2017-04-06T16:28:27-05:00 INFO (6): -----------------------------------------------------------------------------
+2017-04-06T16:28:27-05:00 INFO (6): --------------- INICIO DE RECARGA-----------------------
+2017-04-06T16:28:27-05:00 INFO (6): INICIO: 2017/04/06 16:28:27
+2017-04-06T16:28:27-05:00 INFO (6): REQUEST: Array
+(
+    [SOA] => 5549444527
+    [carrier] => Telcel
+    [smscId] => smscId=telcel_77700
+    [content] => SMS 60
+    [PHPSESSID] => omj399hbfsilsfdp9qk5vsojk2
+)
+
+2017-04-06T16:28:27-05:00 INFO (6): DATOS MO:: Array
+(
+    [msisdn] => 5549444527
+    [fecha] => 2017-04-06 16:28:27
+    [contenido] => 
+    [operador] => Telcel
+)
+
+2017-04-06T16:28:27-05:00 INFO (6): INSERTO MO:: 1
+2017-04-06T16:28:27-05:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmstelcel_77700&password=kaiser&to=525549444527&text=La+recarga+no+se+pudo+hacer.+Contacte+a+su+administrador
+2017-04-06T16:28:27-05:00 INFO (6): response:: 0: Accepted for delivery
+2017-04-06T16:28:27-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-06T16:28:27-05:00 INFO (6): Array data_mt:: Array
+(
+    [mt_servicio] => RECARGA
+    [mt_marcacion] => 77700
+    [mt_operador] => Telcel
+    [mt_folio] => 858e6b2fb85a6b4
+    [mt_msisdn] => 5549444527
+    [mt_contenido] => La recarga no se pudo hacer. Contacte a su administrador
+    [mt_fecha] => 2017-04-06 16:28:27
+    [mt_tag] => mail
+    [usuario_id] => 
+)
+
+2017-04-06T16:28:27-05:00 INFO (6): ExceptionZend_Db_Statement_Exception Object
+(
+    [message:protected] => SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'usuario_id' cannot be null
+    [string:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/broadcaster.cm-operations.com/pub_html/dashboard/broadcasterwebsms/lib/Zend/Db/Statement/Pdo.php
+    [line:protected] => 238
+    [trace:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/broadcaster.cm-operations.com/pub_html/dashboard/broadcasterwebsms/lib/Zend/Db/Statement.php
+                    [line] => 283
+                    [function] => _execute
+                    [class] => Zend_Db_Statement_Pdo
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => RECARGA
+                                    [1] => 77700
+                                    [2] => Telcel
+                                    [3] => 858e6b2fb85a6b4
+                                    [4] => 5549444527
+                                    [5] => La recarga no se pudo hacer. Contacte a su administrador
+                                    [6] => 2017-04-06 16:28:27
+                                    [7] => mail
+                                    [8] => 
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/broadcaster.cm-operations.com/pub_html/dashboard/broadcasterwebsms/lib/Zend/Db/Adapter/Abstract.php
+                    [line] => 433
+                    [function] => execute
+                    [class] => Zend_Db_Statement
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => RECARGA
+                                    [1] => 77700
+                                    [2] => Telcel
+                                    [3] => 858e6b2fb85a6b4
+                                    [4] => 5549444527
+                                    [5] => La recarga no se pudo hacer. Contacte a su administrador
+                                    [6] => 2017-04-06 16:28:27
+                                    [7] => mail
+                                    [8] => 
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/broadcaster.cm-operations.com/pub_html/dashboard/broadcasterwebsms/lib/Zend/Db/Adapter/Pdo/Abstract.php
+                    [line] => 230
+                    [function] => query
+                    [class] => Zend_Db_Adapter_Abstract
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => INSERT INTO `mt_sms` (`mt_servicio`, `mt_marcacion`, `mt_operador`, `mt_folio`, `mt_msisdn`, `mt_contenido`, `mt_fecha`, `mt_tag`, `usuario_id`) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+                            [1] => Array
+                                (
+                                    [0] => RECARGA
+                                    [1] => 77700
+                                    [2] => Telcel
+                                    [3] => 858e6b2fb85a6b4
+                                    [4] => 5549444527
+                                    [5] => La recarga no se pudo hacer. Contacte a su administrador
+                                    [6] => 2017-04-06 16:28:27
+                                    [7] => mail
+                                    [8] => 
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/broadcaster.cm-operations.com/pub_html/dashboard/broadcasterwebsms/lib/Zend/Db/Adapter/Abstract.php
+                    [line] => 511
+                    [function] => query
+                    [class] => Zend_Db_Adapter_Pdo_Abstract
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => INSERT INTO `mt_sms` (`mt_servicio`, `mt_marcacion`, `mt_operador`, `mt_folio`, `mt_msisdn`, `mt_contenido`, `mt_fecha`, `mt_tag`, `usuario_id`) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+                            [1] => Array
+                                (
+                                    [0] => RECARGA
+                                    [1] => 77700
+                                    [2] => Telcel
+                                    [3] => 858e6b2fb85a6b4
+                                    [4] => 5549444527
+                                    [5] => La recarga no se pudo hacer. Contacte a su administrador
+                                    [6] => 2017-04-06 16:28:27
+                                    [7] => mail
+                                    [8] => 
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [file] => /home/broadcaster.cm-operations.com/pub_html/dashboard/broadcasterwebsms/router/router.php
+                    [line] => 162
+                    [function] => insert
+                    [class] => Zend_Db_Adapter_Abstract
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => mt_sms
+                            [1] => Array
+                                (
+                                    [mt_servicio] => RECARGA
+                                    [mt_marcacion] => 77700
+                                    [mt_operador] => Telcel
+                                    [mt_folio] => 858e6b2fb85a6b4
+                                    [mt_msisdn] => 5549444527
+                                    [mt_contenido] => La recarga no se pudo hacer. Contacte a su administrador
+                                    [mt_fecha] => 2017-04-06 16:28:27
+                                    [mt_tag] => mail
+                                    [usuario_id] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+2017-04-06T16:28:27-05:00 INFO (6): FIN::::::... 
+2017-04-06T16:28:29-05:00 INFO (6): -----------------------------------------------------------------------------
+2017-04-06T16:28:29-05:00 INFO (6): -----------------------------------------------------------------------------
+2017-04-06T16:28:29-05:00 INFO (6): --------------- INICIO DE RECARGA-----------------------
+2017-04-06T16:28:29-05:00 INFO (6): INICIO: 2017/04/06 16:28:29
+2017-04-06T16:28:29-05:00 INFO (6): REQUEST: Array
+(
+    [SOA] => 5549444527
+    [carrier] => Telcel
+    [smscId] => smscId=telcel_77700
+    [content] => SMS 60
+    [PHPSESSID] => omj399hbfsilsfdp9qk5vsojk2
+)
+
+2017-04-06T16:28:29-05:00 INFO (6): DATOS MO:: Array
+(
+    [msisdn] => 5549444527
+    [fecha] => 2017-04-06 16:28:29
+    [contenido] => 
+    [operador] => Telcel
+)
+
+2017-04-06T16:28:29-05:00 INFO (6): INSERTO MO:: 1
+2017-04-06T16:29:01-05:00 INFO (6): -----------------------------------------------------------------------------
+2017-04-06T16:29:01-05:00 INFO (6): -----------------------------------------------------------------------------
+2017-04-06T16:29:01-05:00 INFO (6): --------------- INICIO DE RECARGA-----------------------
+2017-04-06T16:29:01-05:00 INFO (6): INICIO: 2017/04/06 16:29:01
+2017-04-06T16:29:01-05:00 INFO (6): REQUEST: Array
+(
+    [SOA] => 5549444527
+    [carrier] => Telcel
+    [smscId] => smscId=telcel_77700
+    [content] => SMS 60
+    [PHPSESSID] => omj399hbfsilsfdp9qk5vsojk2
+)
+
+2017-04-06T16:29:01-05:00 INFO (6): DATOS MO:: Array
+(
+    [msisdn] => 5549444527
+    [fecha] => 2017-04-06 16:29:01
+    [contenido] => 
+    [operador] => Telcel
+)
+
+2017-04-06T16:29:01-05:00 INFO (6): INSERTO MO:: 1
+2017-04-06T16:29:17-05:00 INFO (6): -----------------------------------------------------------------------------
+2017-04-06T16:29:17-05:00 INFO (6): -----------------------------------------------------------------------------
+2017-04-06T16:29:17-05:00 INFO (6): --------------- INICIO DE RECARGA-----------------------
+2017-04-06T16:29:17-05:00 INFO (6): INICIO: 2017/04/06 16:29:17
+2017-04-06T16:29:17-05:00 INFO (6): REQUEST: Array
+(
+    [SOA] => 5549444527
+    [carrier] => Telcel
+    [smscId] => smscId=telcel_77700
+    [content] => SMS 60
+    [PHPSESSID] => omj399hbfsilsfdp9qk5vsojk2
+)
+
+2017-04-06T16:29:17-05:00 INFO (6): DATOS MO:: Array
+(
+    [msisdn] => 5549444527
+    [fecha] => 2017-04-06 16:29:17
+    [contenido] => 
+    [operador] => Telcel
+)
+
+2017-04-06T16:29:17-05:00 INFO (6): INSERTO MO:: 1
+2017-04-06T16:29:26-05:00 INFO (6): -----------------------------------------------------------------------------
+2017-04-06T16:29:26-05:00 INFO (6): -----------------------------------------------------------------------------
+2017-04-06T16:29:26-05:00 INFO (6): --------------- INICIO DE RECARGA-----------------------
+2017-04-06T16:29:26-05:00 INFO (6): INICIO: 2017/04/06 16:29:26
+2017-04-06T16:29:26-05:00 INFO (6): REQUEST: Array
+(
+    [SOA] => 5549444527
+    [carrier] => Telcel
+    [smscId] => smscId=telcel_77700
+    [content] => SMS 60
+    [PHPSESSID] => omj399hbfsilsfdp9qk5vsojk2
+)
+
+2017-04-06T16:29:26-05:00 INFO (6): DATOS MO:: Array
+(
+    [msisdn] => 5549444527
+    [fecha] => 2017-04-06 16:29:26
+    [contenido] => 
+    [operador] => Telcel
+)
+
+2017-04-06T16:29:26-05:00 INFO (6): INSERTO MO:: 1
+2017-04-06T16:30:30-05:00 INFO (6): -----------------------------------------------------------------------------
+2017-04-06T16:30:30-05:00 INFO (6): -----------------------------------------------------------------------------
+2017-04-06T16:30:30-05:00 INFO (6): --------------- INICIO DE RECARGA-----------------------
+2017-04-06T16:30:30-05:00 INFO (6): INICIO: 2017/04/06 16:30:30
+2017-04-06T16:30:30-05:00 INFO (6): REQUEST: Array
+(
+    [SOA] => 5549444527
+    [carrier] => Telcel
+    [smscId] => smscId=telcel_77700
+    [content] => SMS 60
+    [PHPSESSID] => omj399hbfsilsfdp9qk5vsojk2
+)
+
+2017-04-06T16:30:30-05:00 INFO (6): DATOS MO:: Array
+(
+    [msisdn] => 5549444527
+    [fecha] => 2017-04-06 16:30:30
+    [contenido] => 
+    [operador] => Telcel
+)
+
+2017-04-06T16:30:30-05:00 INFO (6): INSERTO MO:: 1
+2017-04-06T16:30:39-05:00 INFO (6): -----------------------------------------------------------------------------
+2017-04-06T16:30:39-05:00 INFO (6): -----------------------------------------------------------------------------
+2017-04-06T16:30:39-05:00 INFO (6): --------------- INICIO DE RECARGA-----------------------
+2017-04-06T16:30:39-05:00 INFO (6): INICIO: 2017/04/06 16:30:39
+2017-04-06T16:30:39-05:00 INFO (6): REQUEST: Array
+(
+    [SOA] => 5549444527
+    [carrier] => Telcel
+    [smscId] => smscId=telcel_77700
+    [content] => SMS 60
+    [PHPSESSID] => omj399hbfsilsfdp9qk5vsojk2
+)
+
+2017-04-06T16:30:39-05:00 INFO (6): DATOS MO:: Array
+(
+    [msisdn] => 5549444527
+    [fecha] => 2017-04-06 16:30:39
+    [contenido] => 
+    [operador] => Telcel
+)
+
+2017-04-06T16:30:39-05:00 INFO (6): INSERTO MO:: 1
+2017-04-06T16:32:26-05:00 INFO (6): -----------------------------------------------------------------------------
+2017-04-06T16:32:26-05:00 INFO (6): -----------------------------------------------------------------------------
+2017-04-06T16:32:26-05:00 INFO (6): --------------- INICIO DE RECARGA-----------------------
+2017-04-06T16:32:26-05:00 INFO (6): INICIO: 2017/04/06 16:32:26
+2017-04-06T16:32:26-05:00 INFO (6): REQUEST: Array
+(
+    [Content] => sms 60
+    [DA] => telcel_77700
+    [SOA] => 5549444527
+    [smscId] => telcel_77700
+    [carrier] => Telcel
+)
+
+2017-04-06T16:32:26-05:00 INFO (6): DATOS MO:: Array
+(
+    [msisdn] => 5549444527
+    [fecha] => 2017-04-06 16:32:26
+    [contenido] => sms 60
+    [operador] => Telcel
+)
+
+2017-04-06T16:32:26-05:00 INFO (6): INSERTO MO:: 1
+2017-04-06T16:32:26-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 915,68
+)
+
+2017-04-06T16:32:26-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-06T16:32:26-05:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmstelcel_77700&password=kaiser&to=525549444527&text=La+recarga+de+su+credito+fue+existosa.+Se+han+a%C3%B1adido+5.22+MXN+a+tu+saldo
+2017-04-06T16:32:26-05:00 INFO (6): response:: 0: Accepted for delivery
+2017-04-06T16:32:26-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-06T16:32:26-05:00 INFO (6): Array data_mt:: Array
+(
+    [mt_servicio] => RECARGA
+    [mt_marcacion] => 77700
+    [mt_operador] => Telcel
+    [mt_folio] => 958e6b3ea07e317
+    [mt_msisdn] => 5549444527
+    [mt_contenido] => La recarga de su crédito fue existosa
+    [mt_fecha] => 2017-04-06 16:32:26
+    [mt_tag] => mail
+    [usuario_id] => 60
+)
+
+2017-04-06T16:32:26-05:00 INFO (6): SE INSERTO:: 1
+2017-04-06T16:32:26-05:00 INFO (6): FIN::::::... 
+2017-04-06T17:32:29-05:00 INFO (6): -----------------------------------------------------------------------------
+2017-04-06T17:32:29-05:00 INFO (6): -----------------------------------------------------------------------------
+2017-04-06T17:32:29-05:00 INFO (6): --------------- INICIO DE RECARGA-----------------------
+2017-04-06T17:32:29-05:00 INFO (6): INICIO: 2017/04/06 17:32:29
+2017-04-06T17:32:29-05:00 INFO (6): REQUEST: Array
+(
+    [Content] => sms 1
+    [DA] => telcel_77700
+    [SOA] => 5554995994
+    [smscId] => telcel_77700
+    [carrier] => Telcel
+)
+
+2017-04-06T17:32:29-05:00 INFO (6): DATOS MO:: Array
+(
+    [msisdn] => 5554995994
+    [fecha] => 2017-04-06 17:32:29
+    [contenido] => sms 1
+    [operador] => Telcel
+)
+
+2017-04-06T17:32:29-05:00 INFO (6): INSERTO MO:: 1
+2017-04-06T17:32:29-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 5,22
+)
+
+2017-04-06T17:32:29-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-06T17:32:29-05:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmstelcel_77700&password=kaiser&to=525554995994&text=La+recarga+de+su+credito+fue+existosa.+Se+han+a%C3%B1adido+5.22+MXN+a+tu+saldo
+2017-04-06T17:32:29-05:00 INFO (6): response:: 0: Accepted for delivery
+2017-04-06T17:32:29-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-06T17:32:29-05:00 INFO (6): Array data_mt:: Array
+(
+    [mt_servicio] => RECARGA
+    [mt_marcacion] => 77700
+    [mt_operador] => Telcel
+    [mt_folio] => 158e6c1fd05c779
+    [mt_msisdn] => 5554995994
+    [mt_contenido] => La recarga de su crédito fue existosa
+    [mt_fecha] => 2017-04-06 17:32:29
+    [mt_tag] => mail
+    [usuario_id] => 1
+)
+
+2017-04-06T17:32:29-05:00 INFO (6): SE INSERTO:: 1
+2017-04-06T17:32:29-05:00 INFO (6): FIN::::::... 
+2017-04-06T17:32:33-05:00 INFO (6): -----------------------------------------------------------------------------
+2017-04-06T17:32:33-05:00 INFO (6): -----------------------------------------------------------------------------
+2017-04-06T17:32:33-05:00 INFO (6): --------------- INICIO DE RECARGA-----------------------
+2017-04-06T17:32:33-05:00 INFO (6): INICIO: 2017/04/06 17:32:33
+2017-04-06T17:32:33-05:00 INFO (6): REQUEST: Array
+(
+    [Content] => sms 1
+    [DA] => telcel_77700
+    [SOA] => 5554995994
+    [smscId] => telcel_77700
+    [carrier] => Telcel
+)
+
+2017-04-06T17:32:33-05:00 INFO (6): DATOS MO:: Array
+(
+    [msisdn] => 5554995994
+    [fecha] => 2017-04-06 17:32:33
+    [contenido] => sms 1
+    [operador] => Telcel
+)
+
+2017-04-06T17:32:33-05:00 INFO (6): INSERTO MO:: 1
+2017-04-06T17:32:33-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 10,44
+)
+
+2017-04-06T17:32:33-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-06T17:32:33-05:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmstelcel_77700&password=kaiser&to=525554995994&text=La+recarga+de+su+credito+fue+existosa.+Se+han+a%C3%B1adido+5.22+MXN+a+tu+saldo
+2017-04-06T17:32:33-05:00 INFO (6): response:: 0: Accepted for delivery
+2017-04-06T17:32:33-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-06T17:32:33-05:00 INFO (6): Array data_mt:: Array
+(
+    [mt_servicio] => RECARGA
+    [mt_marcacion] => 77700
+    [mt_operador] => Telcel
+    [mt_folio] => 558e6c20190be09
+    [mt_msisdn] => 5554995994
+    [mt_contenido] => La recarga de su crédito fue existosa
+    [mt_fecha] => 2017-04-06 17:32:33
+    [mt_tag] => mail
+    [usuario_id] => 1
+)
+
+2017-04-06T17:32:33-05:00 INFO (6): SE INSERTO:: 1
+2017-04-06T17:32:33-05:00 INFO (6): FIN::::::... 
+2017-04-06T17:33:13-05:00 INFO (6): -----------------------------------------------------------------------------
+2017-04-06T17:33:13-05:00 INFO (6): -----------------------------------------------------------------------------
+2017-04-06T17:33:13-05:00 INFO (6): --------------- INICIO DE RECARGA-----------------------
+2017-04-06T17:33:13-05:00 INFO (6): INICIO: 2017/04/06 17:33:13
+2017-04-06T17:33:13-05:00 INFO (6): REQUEST: Array
+(
+    [Content] => sms 1
+    [DA] => telcel_77700
+    [SOA] => 5554995994
+    [smscId] => telcel_77700
+    [carrier] => Telcel
+)
+
+2017-04-06T17:33:13-05:00 INFO (6): DATOS MO:: Array
+(
+    [msisdn] => 5554995994
+    [fecha] => 2017-04-06 17:33:13
+    [contenido] => sms 1
+    [operador] => Telcel
+)
+
+2017-04-06T17:33:13-05:00 INFO (6): INSERTO MO:: 1
+2017-04-06T17:33:13-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 15,66
+)
+
+2017-04-06T17:33:13-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-06T17:33:13-05:00 INFO (6): URL: http://localhost:13013/cgi-bin/sendsms?username=sendsmstelcel_77700&password=kaiser&to=525554995994&text=La+recarga+de+su+credito+fue+existosa.+Se+han+a%C3%B1adido+5.22+MXN+a+tu+saldo
+2017-04-06T17:33:13-05:00 INFO (6): response:: 0: Accepted for delivery
+2017-04-06T17:33:13-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-06T17:33:13-05:00 INFO (6): Array data_mt:: Array
+(
+    [mt_servicio] => RECARGA
+    [mt_marcacion] => 77700
+    [mt_operador] => Telcel
+    [mt_folio] => 658e6c2295336d6
+    [mt_msisdn] => 5554995994
+    [mt_contenido] => La recarga de su crédito fue existosa
+    [mt_fecha] => 2017-04-06 17:33:13
+    [mt_tag] => mail
+    [usuario_id] => 1
+)
+
+2017-04-06T17:33:13-05:00 INFO (6): SE INSERTO:: 1
+2017-04-06T17:33:13-05:00 INFO (6): FIN::::::... 

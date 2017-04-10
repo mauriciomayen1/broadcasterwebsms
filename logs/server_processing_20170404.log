@@ -1,0 +1,530 @@
+2017-04-04T09:57:35-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-04-04T09:57:35-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-04-04T09:57:35-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-04-04T09:57:35-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>FUNCION Navegador.php: 2017/04/04 09:57:35
+2017-04-04T09:57:35-05:00 INFO (6): _REQUEST::Array
+(
+    [fechaInicial] => 2017-04-04
+    [fechaFinal] => 2017-04-04
+    [draw] => 1
+    [columns] => Array
+        (
+            [0] => Array
+                (
+                    [data] => 0
+                    [name] => 
+                    [searchable] => true
+                    [orderable] => false
+                    [search] => Array
+                        (
+                            [value] => 
+                            [regex] => false
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [data] => 1
+                    [name] => 
+                    [searchable] => true
+                    [orderable] => false
+                    [search] => Array
+                        (
+                            [value] => 
+                            [regex] => false
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [data] => 2
+                    [name] => 
+                    [searchable] => true
+                    [orderable] => true
+                    [search] => Array
+                        (
+                            [value] => 
+                            [regex] => false
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [data] => 3
+                    [name] => 
+                    [searchable] => true
+                    [orderable] => true
+                    [search] => Array
+                        (
+                            [value] => 
+                            [regex] => false
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [data] => 4
+                    [name] => 
+                    [searchable] => true
+                    [orderable] => true
+                    [search] => Array
+                        (
+                            [value] => 
+                            [regex] => false
+                        )
+
+                )
+
+        )
+
+    [order] => Array
+        (
+            [0] => Array
+                (
+                    [column] => 3
+                    [dir] => asc
+                )
+
+        )
+
+    [start] => 0
+    [length] => 10
+    [search] => Array
+        (
+            [value] => 
+            [regex] => false
+        )
+
+    [_] => 1491317854588
+    [PHPSESSID] => b8gpmclkc7l4rjs4jfsv1rhau0
+)
+
+2017-04-04T09:57:35-05:00 INFO (6): WHERE::  mt_fecha BETWEEN '2017-04-04 00:00:00' AND '2017-04-04 23:59:59' AND usuario_id=1
+2017-04-04T11:44:32-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-04-04T11:44:32-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-04-04T11:44:32-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-04-04T11:44:32-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>FUNCION Navegador.php: 2017/04/04 11:44:32
+2017-04-04T11:44:32-05:00 INFO (6): _REQUEST::Array
+(
+    [fechaInicial] => 2017-04-04
+    [fechaFinal] => 2017-04-04
+    [draw] => 1
+    [columns] => Array
+        (
+            [0] => Array
+                (
+                    [data] => 0
+                    [name] => 
+                    [searchable] => true
+                    [orderable] => false
+                    [search] => Array
+                        (
+                            [value] => 
+                            [regex] => false
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [data] => 1
+                    [name] => 
+                    [searchable] => true
+                    [orderable] => false
+                    [search] => Array
+                        (
+                            [value] => 
+                            [regex] => false
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [data] => 2
+                    [name] => 
+                    [searchable] => true
+                    [orderable] => true
+                    [search] => Array
+                        (
+                            [value] => 
+                            [regex] => false
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [data] => 3
+                    [name] => 
+                    [searchable] => true
+                    [orderable] => true
+                    [search] => Array
+                        (
+                            [value] => 
+                            [regex] => false
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [data] => 4
+                    [name] => 
+                    [searchable] => true
+                    [orderable] => true
+                    [search] => Array
+                        (
+                            [value] => 
+                            [regex] => false
+                        )
+
+                )
+
+        )
+
+    [order] => Array
+        (
+            [0] => Array
+                (
+                    [column] => 3
+                    [dir] => asc
+                )
+
+        )
+
+    [start] => 0
+    [length] => 10
+    [search] => Array
+        (
+            [value] => 
+            [regex] => false
+        )
+
+    [_] => 1491324271663
+    [PHPSESSID] => b8gpmclkc7l4rjs4jfsv1rhau0
+)
+
+2017-04-04T11:44:32-05:00 INFO (6): WHERE::  mt_fecha BETWEEN '2017-04-04 00:00:00' AND '2017-04-04 23:59:59' AND usuario_id=1
+2017-04-04T12:59:19-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-04-04T12:59:19-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-04-04T12:59:19-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-04-04T12:59:19-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>FUNCION Navegador.php: 2017/04/04 12:59:19
+2017-04-04T12:59:19-05:00 INFO (6): _REQUEST::Array
+(
+    [fechaInicial] => 2017-04-04
+    [fechaFinal] => 2017-04-04
+    [draw] => 1
+    [columns] => Array
+        (
+            [0] => Array
+                (
+                    [data] => 0
+                    [name] => 
+                    [searchable] => true
+                    [orderable] => false
+                    [search] => Array
+                        (
+                            [value] => 
+                            [regex] => false
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [data] => 1
+                    [name] => 
+                    [searchable] => true
+                    [orderable] => false
+                    [search] => Array
+                        (
+                            [value] => 
+                            [regex] => false
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [data] => 2
+                    [name] => 
+                    [searchable] => true
+                    [orderable] => true
+                    [search] => Array
+                        (
+                            [value] => 
+                            [regex] => false
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [data] => 3
+                    [name] => 
+                    [searchable] => true
+                    [orderable] => true
+                    [search] => Array
+                        (
+                            [value] => 
+                            [regex] => false
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [data] => 4
+                    [name] => 
+                    [searchable] => true
+                    [orderable] => true
+                    [search] => Array
+                        (
+                            [value] => 
+                            [regex] => false
+                        )
+
+                )
+
+        )
+
+    [order] => Array
+        (
+            [0] => Array
+                (
+                    [column] => 3
+                    [dir] => asc
+                )
+
+        )
+
+    [start] => 0
+    [length] => 10
+    [search] => Array
+        (
+            [value] => 
+            [regex] => false
+        )
+
+    [_] => 1491328758564
+    [PHPSESSID] => b8gpmclkc7l4rjs4jfsv1rhau0
+)
+
+2017-04-04T12:59:19-05:00 INFO (6): WHERE::  mt_fecha BETWEEN '2017-04-04 00:00:00' AND '2017-04-04 23:59:59' AND usuario_id=1
+2017-04-04T13:02:43-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-04-04T13:02:43-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-04-04T13:02:43-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-04-04T13:02:43-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>FUNCION Navegador.php: 2017/04/04 13:02:43
+2017-04-04T13:02:43-05:00 INFO (6): _REQUEST::Array
+(
+    [fechaInicial] => 2017-04-04
+    [fechaFinal] => 2017-04-04
+    [draw] => 1
+    [columns] => Array
+        (
+            [0] => Array
+                (
+                    [data] => 0
+                    [name] => 
+                    [searchable] => true
+                    [orderable] => false
+                    [search] => Array
+                        (
+                            [value] => 
+                            [regex] => false
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [data] => 1
+                    [name] => 
+                    [searchable] => true
+                    [orderable] => false
+                    [search] => Array
+                        (
+                            [value] => 
+                            [regex] => false
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [data] => 2
+                    [name] => 
+                    [searchable] => true
+                    [orderable] => true
+                    [search] => Array
+                        (
+                            [value] => 
+                            [regex] => false
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [data] => 3
+                    [name] => 
+                    [searchable] => true
+                    [orderable] => true
+                    [search] => Array
+                        (
+                            [value] => 
+                            [regex] => false
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [data] => 4
+                    [name] => 
+                    [searchable] => true
+                    [orderable] => true
+                    [search] => Array
+                        (
+                            [value] => 
+                            [regex] => false
+                        )
+
+                )
+
+        )
+
+    [order] => Array
+        (
+            [0] => Array
+                (
+                    [column] => 3
+                    [dir] => asc
+                )
+
+        )
+
+    [start] => 0
+    [length] => 10
+    [search] => Array
+        (
+            [value] => 
+            [regex] => false
+        )
+
+    [_] => 1491328961979
+    [PHPSESSID] => b8gpmclkc7l4rjs4jfsv1rhau0
+)
+
+2017-04-04T13:02:43-05:00 INFO (6): WHERE::  mt_fecha BETWEEN '2017-04-04 00:00:00' AND '2017-04-04 23:59:59' AND usuario_id=1
+2017-04-04T13:03:04-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-04-04T13:03:04-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-04-04T13:03:04-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2017-04-04T13:03:04-05:00 INFO (6): >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>FUNCION Navegador.php: 2017/04/04 13:03:04
+2017-04-04T13:03:04-05:00 INFO (6): _REQUEST::Array
+(
+    [fechaInicial] => 2017-04-04
+    [fechaFinal] => 2017-04-04
+    [draw] => 1
+    [columns] => Array
+        (
+            [0] => Array
+                (
+                    [data] => 0
+                    [name] => 
+                    [searchable] => true
+                    [orderable] => false
+                    [search] => Array
+                        (
+                            [value] => 
+                            [regex] => false
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [data] => 1
+                    [name] => 
+                    [searchable] => true
+                    [orderable] => false
+                    [search] => Array
+                        (
+                            [value] => 
+                            [regex] => false
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [data] => 2
+                    [name] => 
+                    [searchable] => true
+                    [orderable] => true
+                    [search] => Array
+                        (
+                            [value] => 
+                            [regex] => false
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [data] => 3
+                    [name] => 
+                    [searchable] => true
+                    [orderable] => true
+                    [search] => Array
+                        (
+                            [value] => 
+                            [regex] => false
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [data] => 4
+                    [name] => 
+                    [searchable] => true
+                    [orderable] => true
+                    [search] => Array
+                        (
+                            [value] => 
+                            [regex] => false
+                        )
+
+                )
+
+        )
+
+    [order] => Array
+        (
+            [0] => Array
+                (
+                    [column] => 3
+                    [dir] => asc
+                )
+
+        )
+
+    [start] => 0
+    [length] => 10
+    [search] => Array
+        (
+            [value] => 
+            [regex] => false
+        )
+
+    [_] => 1491328983591
+    [PHPSESSID] => b8gpmclkc7l4rjs4jfsv1rhau0
+)
+
+2017-04-04T13:03:04-05:00 INFO (6): WHERE::  mt_fecha BETWEEN '2017-04-04 00:00:00' AND '2017-04-04 23:59:59' AND usuario_id=1

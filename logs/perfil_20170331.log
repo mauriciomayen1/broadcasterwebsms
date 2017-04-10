@@ -1,0 +1,853 @@
+2017-03-31T10:41:52-06:00 INFO (6): ****************************************
+2017-03-31T10:41:52-06:00 INFO (6): ****************************************
+2017-03-31T10:41:52-06:00 INFO (6): ****************************************
+2017-03-31T10:41:52-06:00 INFO (6): ****************************************FUNCION NOTIFICACIONES.php: 2017/03/31 10:41:52
+2017-03-31T10:41:52-06:00 INFO (6): REQUEST: Array
+(
+    [PHPSESSID] => ult1oglvptm271j5gs3lj6g9t0
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): Resultado queryArray
+(
+    [0] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 2
+        )
+
+    [1] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 3
+        )
+
+    [2] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 4
+        )
+
+    [3] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 5
+        )
+
+    [4] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 6
+        )
+
+    [5] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 7
+        )
+
+    [6] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 8
+        )
+
+    [7] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 9
+        )
+
+    [8] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 10
+        )
+
+    [9] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 11
+        )
+
+    [10] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 12
+        )
+
+    [11] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 13
+        )
+
+    [12] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 14
+        )
+
+    [13] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 15
+        )
+
+    [14] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 16
+        )
+
+    [15] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 17
+        )
+
+    [16] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 18
+        )
+
+    [17] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 19
+        )
+
+    [18] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 20
+        )
+
+    [19] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 21
+        )
+
+    [20] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 22
+        )
+
+    [21] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 23
+        )
+
+    [22] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 24
+        )
+
+    [23] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 25
+        )
+
+    [24] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 26
+        )
+
+    [25] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 27
+        )
+
+    [26] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 28
+        )
+
+    [27] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 29
+        )
+
+    [28] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 30
+        )
+
+    [29] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 31
+        )
+
+    [30] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 32
+        )
+
+    [31] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 33
+        )
+
+    [32] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 34
+        )
+
+    [33] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 35
+        )
+
+    [34] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 36
+        )
+
+    [35] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 37
+        )
+
+    [36] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 38
+        )
+
+    [37] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 39
+        )
+
+    [38] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 40
+        )
+
+    [39] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 41
+        )
+
+    [40] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 42
+        )
+
+    [41] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 43
+        )
+
+    [42] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 44
+        )
+
+    [43] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 45
+        )
+
+    [44] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 46
+        )
+
+    [45] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 47
+        )
+
+    [46] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 48
+        )
+
+    [47] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 49
+        )
+
+    [48] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 50
+        )
+
+    [49] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 51
+        )
+
+    [50] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 52
+        )
+
+    [51] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 53
+        )
+
+    [52] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 54
+        )
+
+    [53] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 55
+        )
+
+    [54] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 56
+        )
+
+    [55] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 57
+        )
+
+    [56] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 58
+        )
+
+    [57] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 59
+        )
+
+    [58] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 60
+        )
+
+    [59] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 61
+        )
+
+    [60] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 62
+        )
+
+    [61] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 63
+        )
+
+    [62] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 64
+        )
+
+    [63] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 65
+        )
+
+    [64] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 66
+        )
+
+    [65] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 67
+        )
+
+    [66] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 68
+        )
+
+    [67] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 69
+        )
+
+    [68] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 70
+        )
+
+    [69] => Array
+        (
+            [usuario_msisdn] => 5549444527
+            [usuario_id] => 71
+        )
+
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:52-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:52-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:53-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:53-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:53-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:53-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:53-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:53-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:53-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:53-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:53-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:53-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:53-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:53-06:00 INFO (6): ACTUALIZO:: 1
+2017-03-31T10:41:53-06:00 INFO (6): ARRAY DATOS USUARIO:: Array
+(
+    [usuario_operador] => Telcel
+)
+
+2017-03-31T10:41:53-06:00 INFO (6): ACTUALIZO:: 1

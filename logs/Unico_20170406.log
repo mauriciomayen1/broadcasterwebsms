@@ -1,0 +1,892 @@
+2017-04-06T11:58:02-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T11:58:02-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T11:58:02-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T11:58:02-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-06T11:58:02-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 2411168869
+    [message] => TEST MARCACION
+    [caracteres] => 14
+    [accion] => enviar
+    [PHPSESSID] => isoj1vndlaflfnu14l941hmon1
+)
+
+2017-04-06T11:58:02-05:00 INFO (6): MSISDN: 2411168869
+2017-04-06T11:58:02-05:00 INFO (6): SMS: TEST MARCACION
+2017-04-06T11:58:02-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-06T11:58:02-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-06T11:58:02-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-06T11:58:02-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: TEST MARCACION
+2017-04-06T11:58:02-05:00 INFO (6): .
+2017-04-06T11:58:02-05:00 INFO (6): .
+2017-04-06T11:58:02-05:00 INFO (6): .
+2017-04-06T11:58:02-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: TEST MARCACION
+2017-04-06T11:58:02-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: TEST+MARCACION
+2017-04-06T11:58:02-05:00 INFO (6): URL: http://administrador.cm-operations.com/iusacell/router/router_mt.php?SOA=2411168869&dial=26262&message=TEST+MARCACION&service=WEBSMS&subservice=UNICO&username=sendsmsatt_26262
+2017-04-06T11:58:03-05:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-04-06T11:58:03-05:00 INFO (6): response:: 0: Accepted for delivery
+2017-04-06T11:58:03-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-06T11:58:03-05:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-04-06T11:58:03-05:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Att
+    [mt_msisdn] => 2411168869
+    [mt_medio] => BaseMadre
+    [mt_folio] => 858e6739b17ca41
+    [mt_contenido] => TEST MARCACION
+    [mt_fecha] => 2017-04-06 11:58:03
+    [mt_tag] => UNICO
+    [usuario_id] => 23
+)
+
+2017-04-06T11:58:03-05:00 INFO (6): SE INSERTO:: 1
+2017-04-06T11:58:03-05:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-04-06T11:58:03-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 19,58
+)
+
+2017-04-06T11:58:03-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-06T11:58:36-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T11:58:36-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T11:58:36-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T11:58:36-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-06T11:58:36-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 2411167016
+    [message] => TEST MARCACION
+    [caracteres] => 14
+    [accion] => enviar
+    [PHPSESSID] => isoj1vndlaflfnu14l941hmon1
+)
+
+2017-04-06T11:58:36-05:00 INFO (6): MSISDN: 2411167016
+2017-04-06T11:58:36-05:00 INFO (6): SMS: TEST MARCACION
+2017-04-06T11:58:36-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-06T11:58:36-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-06T11:58:36-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-06T11:58:36-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: TEST MARCACION
+2017-04-06T11:58:36-05:00 INFO (6): .
+2017-04-06T11:58:36-05:00 INFO (6): .
+2017-04-06T11:58:36-05:00 INFO (6): .
+2017-04-06T11:58:36-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: TEST MARCACION
+2017-04-06T11:58:36-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: TEST+MARCACION
+2017-04-06T11:58:37-05:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-04-06T11:58:37-05:00 INFO (6): response:: <br />
+<b>Parse error</b>:  syntax error, unexpected T_STRING in <b>/home/administrador.cm-operations.com/pub_html/mother_base/mx/lib/quiubas.php</b> on line <b>3</b><br />
+
+2017-04-06T11:58:37-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>ERROR</status>
+2017-04-06T11:58:37-05:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-04-06T11:58:37-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 19,58
+)
+
+2017-04-06T11:58:37-05:00 INFO (6): SE ACTUALIZO:: 0
+2017-04-06T11:59:59-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T11:59:59-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T11:59:59-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T11:59:59-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-06T11:59:59-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 2411167016
+    [message] => TEST MARCACION
+    [caracteres] => 14
+    [accion] => enviar
+    [PHPSESSID] => isoj1vndlaflfnu14l941hmon1
+)
+
+2017-04-06T11:59:59-05:00 INFO (6): MSISDN: 2411167016
+2017-04-06T11:59:59-05:00 INFO (6): SMS: TEST MARCACION
+2017-04-06T11:59:59-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-06T11:59:59-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-06T11:59:59-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-06T11:59:59-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: TEST MARCACION
+2017-04-06T11:59:59-05:00 INFO (6): .
+2017-04-06T11:59:59-05:00 INFO (6): .
+2017-04-06T11:59:59-05:00 INFO (6): .
+2017-04-06T11:59:59-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: TEST MARCACION
+2017-04-06T11:59:59-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: TEST+MARCACION
+2017-04-06T11:59:59-05:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-04-06T11:59:59-05:00 INFO (6): response:: <br />
+<b>Parse error</b>:  syntax error, unexpected T_STRING in <b>/home/administrador.cm-operations.com/pub_html/mother_base/mx/lib/quiubas.php</b> on line <b>3</b><br />
+
+2017-04-06T11:59:59-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>ERROR</status>
+2017-04-06T11:59:59-05:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-04-06T11:59:59-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 19,58
+)
+
+2017-04-06T11:59:59-05:00 INFO (6): SE ACTUALIZO:: 0
+2017-04-06T12:01:28-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T12:01:28-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T12:01:28-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T12:01:28-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-06T12:01:28-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 2411167016
+    [message] => TEST MARCACION
+    [caracteres] => 14
+    [accion] => enviar
+    [PHPSESSID] => isoj1vndlaflfnu14l941hmon1
+)
+
+2017-04-06T12:01:28-05:00 INFO (6): MSISDN: 2411167016
+2017-04-06T12:01:28-05:00 INFO (6): SMS: TEST MARCACION
+2017-04-06T12:01:28-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-06T12:01:28-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-06T12:01:28-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-06T12:01:28-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: TEST MARCACION
+2017-04-06T12:01:28-05:00 INFO (6): .
+2017-04-06T12:01:28-05:00 INFO (6): .
+2017-04-06T12:01:28-05:00 INFO (6): .
+2017-04-06T12:01:28-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: TEST MARCACION
+2017-04-06T12:01:28-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: TEST+MARCACION
+2017-04-06T12:01:28-05:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-04-06T12:01:28-05:00 INFO (6): response:: <br />
+<b>Parse error</b>:  syntax error, unexpected T_STRING in <b>/home/administrador.cm-operations.com/pub_html/mother_base/mx/lib/quiubas.php</b> on line <b>3</b><br />
+
+2017-04-06T12:01:28-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>ERROR</status>
+2017-04-06T12:01:28-05:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-04-06T12:01:28-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 19,58
+)
+
+2017-04-06T12:01:28-05:00 INFO (6): SE ACTUALIZO:: 0
+2017-04-06T12:01:52-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T12:01:52-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T12:01:52-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T12:01:52-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-06T12:01:52-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 2223624407
+    [message] => TEST MARCACION
+    [caracteres] => 14
+    [accion] => enviar
+    [PHPSESSID] => isoj1vndlaflfnu14l941hmon1
+)
+
+2017-04-06T12:01:52-05:00 INFO (6): MSISDN: 2223624407
+2017-04-06T12:01:52-05:00 INFO (6): SMS: TEST MARCACION
+2017-04-06T12:01:52-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-06T12:01:52-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-06T12:01:52-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-06T12:01:52-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: TEST MARCACION
+2017-04-06T12:01:52-05:00 INFO (6): .
+2017-04-06T12:01:52-05:00 INFO (6): .
+2017-04-06T12:01:52-05:00 INFO (6): .
+2017-04-06T12:01:52-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: TEST MARCACION
+2017-04-06T12:01:52-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: TEST+MARCACION
+2017-04-06T12:01:52-05:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-04-06T12:01:52-05:00 INFO (6): response:: <br />
+<b>Parse error</b>:  syntax error, unexpected T_STRING in <b>/home/administrador.cm-operations.com/pub_html/mother_base/mx/lib/quiubas.php</b> on line <b>3</b><br />
+
+2017-04-06T12:01:52-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>ERROR</status>
+2017-04-06T12:01:52-05:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-04-06T12:01:52-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 19,58
+)
+
+2017-04-06T12:01:52-05:00 INFO (6): SE ACTUALIZO:: 0
+2017-04-06T12:02:34-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T12:02:34-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T12:02:34-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T12:02:34-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-06T12:02:34-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 2411167016
+    [message] => TEST MARCACION
+    [caracteres] => 14
+    [accion] => enviar
+    [PHPSESSID] => isoj1vndlaflfnu14l941hmon1
+)
+
+2017-04-06T12:02:34-05:00 INFO (6): MSISDN: 2411167016
+2017-04-06T12:02:34-05:00 INFO (6): SMS: TEST MARCACION
+2017-04-06T12:02:34-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-06T12:02:34-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-06T12:02:34-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-06T12:02:34-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: TEST MARCACION
+2017-04-06T12:02:34-05:00 INFO (6): .
+2017-04-06T12:02:34-05:00 INFO (6): .
+2017-04-06T12:02:34-05:00 INFO (6): .
+2017-04-06T12:02:34-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: TEST MARCACION
+2017-04-06T12:02:34-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: TEST+MARCACION
+2017-04-06T12:02:34-05:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-04-06T12:02:34-05:00 INFO (6): response:: <br />
+<b>Parse error</b>:  syntax error, unexpected T_STRING in <b>/home/administrador.cm-operations.com/pub_html/mother_base/mx/lib/quiubas.php</b> on line <b>3</b><br />
+
+2017-04-06T12:02:34-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>ERROR</status>
+2017-04-06T12:02:34-05:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-04-06T12:02:34-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 19,58
+)
+
+2017-04-06T12:02:34-05:00 INFO (6): SE ACTUALIZO:: 0
+2017-04-06T12:03:30-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T12:03:30-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T12:03:30-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T12:03:30-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-06T12:03:30-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 2411167016
+    [message] => TEST MARCACION
+    [caracteres] => 14
+    [accion] => enviar
+    [PHPSESSID] => 4lmhm6k576q3hjququl066nip4
+)
+
+2017-04-06T12:03:30-05:00 INFO (6): MSISDN: 2411167016
+2017-04-06T12:03:30-05:00 INFO (6): SMS: TEST MARCACION
+2017-04-06T12:03:30-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-06T12:03:30-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-06T12:03:30-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-06T12:03:30-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: TEST MARCACION
+2017-04-06T12:03:30-05:00 INFO (6): .
+2017-04-06T12:03:30-05:00 INFO (6): .
+2017-04-06T12:03:30-05:00 INFO (6): .
+2017-04-06T12:03:30-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: TEST MARCACION
+2017-04-06T12:03:30-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: TEST+MARCACION
+2017-04-06T12:03:30-05:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-04-06T12:03:30-05:00 INFO (6): response:: <br />
+<b>Parse error</b>:  syntax error, unexpected T_STRING in <b>/home/administrador.cm-operations.com/pub_html/mother_base/mx/lib/quiubas.php</b> on line <b>3</b><br />
+
+2017-04-06T12:03:30-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>ERROR</status>
+2017-04-06T12:03:30-05:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-04-06T12:03:30-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 19,58
+)
+
+2017-04-06T12:03:30-05:00 INFO (6): SE ACTUALIZO:: 0
+2017-04-06T12:05:55-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T12:05:55-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T12:05:55-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T12:05:55-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-06T12:05:55-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 2411167016
+    [message] => TEST CM
+    [caracteres] => 7
+    [accion] => enviar
+    [PHPSESSID] => 4lmhm6k576q3hjququl066nip4
+)
+
+2017-04-06T12:05:55-05:00 INFO (6): MSISDN: 2411167016
+2017-04-06T12:05:55-05:00 INFO (6): SMS: TEST CM
+2017-04-06T12:05:55-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-06T12:05:55-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-06T12:05:55-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-06T12:05:55-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: TEST CM
+2017-04-06T12:05:55-05:00 INFO (6): .
+2017-04-06T12:05:55-05:00 INFO (6): .
+2017-04-06T12:05:55-05:00 INFO (6): .
+2017-04-06T12:05:55-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: TEST CM
+2017-04-06T12:05:55-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: TEST+CM
+2017-04-06T12:05:56-05:00 INFO (6): URL: http://administrador.cm-operations.com/iusacell/router/router_mt.php?SOA=2411167016&dial=26262&message=TEST+CM&service=WEBSMS&subservice=UNICO&username=sendsmsatt_26262
+2017-04-06T12:05:56-05:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-04-06T12:05:56-05:00 INFO (6): response:: 0: Accepted for delivery
+2017-04-06T12:05:56-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-06T12:05:56-05:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-04-06T12:05:56-05:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Att
+    [mt_msisdn] => 2411167016
+    [mt_medio] => Perfilado
+    [mt_folio] => 358e67574d58718
+    [mt_contenido] => TEST CM
+    [mt_fecha] => 2017-04-06 12:05:56
+    [mt_tag] => UNICO
+    [usuario_id] => 23
+)
+
+2017-04-06T12:05:56-05:00 INFO (6): SE INSERTO:: 1
+2017-04-06T12:05:56-05:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-04-06T12:05:56-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 19
+)
+
+2017-04-06T12:05:56-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-06T12:06:40-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T12:06:40-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T12:06:40-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T12:06:40-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-06T12:06:40-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 2223624407
+    [message] => TEST MARCACION
+    [caracteres] => 14
+    [accion] => enviar
+    [PHPSESSID] => 4lmhm6k576q3hjququl066nip4
+)
+
+2017-04-06T12:06:40-05:00 INFO (6): MSISDN: 2223624407
+2017-04-06T12:06:41-05:00 INFO (6): SMS: TEST MARCACION
+2017-04-06T12:06:41-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-06T12:06:41-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-06T12:06:41-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-06T12:06:41-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: TEST MARCACION
+2017-04-06T12:06:41-05:00 INFO (6): .
+2017-04-06T12:06:41-05:00 INFO (6): .
+2017-04-06T12:06:41-05:00 INFO (6): .
+2017-04-06T12:06:41-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: TEST MARCACION
+2017-04-06T12:06:41-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: TEST+MARCACION
+2017-04-06T12:06:41-05:00 INFO (6): URL: http://administrador.cm-operations.com/iusacell/router/router_mt.php?SOA=2223624407&dial=26262&message=TEST+MARCACION&service=WEBSMS&subservice=UNICO&username=sendsmsatt_26262
+2017-04-06T12:06:41-05:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-04-06T12:06:48-05:00 INFO (6): response:: 0: Accepted for delivery
+2017-04-06T12:06:48-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-06T12:06:48-05:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-04-06T12:06:48-05:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Att
+    [mt_msisdn] => 2223624407
+    [mt_medio] => Perfilado
+    [mt_folio] => 558e675a8f039b8
+    [mt_contenido] => TEST MARCACION
+    [mt_fecha] => 2017-04-06 12:06:48
+    [mt_tag] => UNICO
+    [usuario_id] => 23
+)
+
+2017-04-06T12:06:48-05:00 INFO (6): SE INSERTO:: 1
+2017-04-06T12:06:48-05:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-04-06T12:06:48-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 18,42
+)
+
+2017-04-06T12:06:48-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-06T14:06:20-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T14:06:20-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T14:06:20-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T14:06:20-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-06T14:06:20-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 2411168869
+    [message] => TEST MARCACION
+    [caracteres] => 14
+    [accion] => enviar
+    [PHPSESSID] => 4lmhm6k576q3hjququl066nip4
+)
+
+2017-04-06T14:06:20-05:00 INFO (6): MSISDN: 2411168869
+2017-04-06T14:06:20-05:00 INFO (6): SMS: TEST MARCACION
+2017-04-06T14:06:20-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-06T14:06:20-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-06T14:06:20-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-06T14:06:20-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: TEST MARCACION
+2017-04-06T14:06:20-05:00 INFO (6): .
+2017-04-06T14:06:20-05:00 INFO (6): .
+2017-04-06T14:06:20-05:00 INFO (6): .
+2017-04-06T14:06:20-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: TEST MARCACION
+2017-04-06T14:06:20-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: TEST+MARCACION
+2017-04-06T14:06:20-05:00 INFO (6): URL: http://administrador.cm-operations.com/iusacell/router/router_mt.php?SOA=2411168869&dial=26262&message=TEST+MARCACION&service=WEBSMS&subservice=UNICO&username=sendsmsatt_26262
+2017-04-06T14:06:20-05:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-04-06T14:06:21-05:00 INFO (6): response:: 0: Accepted for delivery
+2017-04-06T14:06:21-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-06T14:06:21-05:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-04-06T14:06:21-05:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Att
+    [mt_msisdn] => 2411168869
+    [mt_medio] => BaseMadre
+    [mt_folio] => 058e691ad4a0235
+    [mt_contenido] => TEST MARCACION
+    [mt_fecha] => 2017-04-06 14:06:21
+    [mt_tag] => UNICO
+    [usuario_id] => 23
+)
+
+2017-04-06T14:06:21-05:00 INFO (6): SE INSERTO:: 1
+2017-04-06T14:06:21-05:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-04-06T14:06:21-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 17,84
+)
+
+2017-04-06T14:06:21-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-06T14:06:46-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T14:06:46-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T14:06:46-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T14:06:46-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-06T14:06:46-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 2411167016
+    [message] => TEST MARCACION
+    [caracteres] => 14
+    [accion] => enviar
+    [PHPSESSID] => 4lmhm6k576q3hjququl066nip4
+)
+
+2017-04-06T14:06:46-05:00 INFO (6): MSISDN: 2411167016
+2017-04-06T14:06:46-05:00 INFO (6): SMS: TEST MARCACION
+2017-04-06T14:06:46-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-06T14:06:46-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-06T14:06:46-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-06T14:06:46-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: TEST MARCACION
+2017-04-06T14:06:46-05:00 INFO (6): .
+2017-04-06T14:06:46-05:00 INFO (6): .
+2017-04-06T14:06:46-05:00 INFO (6): .
+2017-04-06T14:06:46-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: TEST MARCACION
+2017-04-06T14:06:46-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: TEST+MARCACION
+2017-04-06T14:06:46-05:00 INFO (6): URL: http://administrador.cm-operations.com/iusacell/router/router_mt.php?SOA=2411167016&dial=26262&message=TEST+MARCACION&service=WEBSMS&subservice=UNICO&username=sendsmsatt_26262
+2017-04-06T14:06:46-05:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-04-06T14:06:51-05:00 INFO (6): response:: 0: Accepted for delivery
+2017-04-06T14:06:51-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-06T14:06:51-05:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-04-06T14:06:51-05:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Att
+    [mt_msisdn] => 2411167016
+    [mt_medio] => BaseMadre
+    [mt_folio] => 158e691cb7dd234
+    [mt_contenido] => TEST MARCACION
+    [mt_fecha] => 2017-04-06 14:06:51
+    [mt_tag] => UNICO
+    [usuario_id] => 23
+)
+
+2017-04-06T14:06:51-05:00 INFO (6): SE INSERTO:: 1
+2017-04-06T14:06:51-05:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-04-06T14:06:51-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 17,26
+)
+
+2017-04-06T14:06:51-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-06T14:07:09-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T14:07:09-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T14:07:09-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T14:07:09-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-06T14:07:09-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 2223624407
+    [message] => TEST MARCACION
+    [caracteres] => 14
+    [accion] => enviar
+    [PHPSESSID] => 4lmhm6k576q3hjququl066nip4
+)
+
+2017-04-06T14:07:09-05:00 INFO (6): MSISDN: 2223624407
+2017-04-06T14:07:09-05:00 INFO (6): SMS: TEST MARCACION
+2017-04-06T14:07:09-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-06T14:07:09-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-06T14:07:09-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-06T14:07:09-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: TEST MARCACION
+2017-04-06T14:07:09-05:00 INFO (6): .
+2017-04-06T14:07:09-05:00 INFO (6): .
+2017-04-06T14:07:09-05:00 INFO (6): .
+2017-04-06T14:07:09-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: TEST MARCACION
+2017-04-06T14:07:09-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: TEST+MARCACION
+2017-04-06T14:07:09-05:00 INFO (6): URL: http://administrador.cm-operations.com/iusacell/router/router_mt.php?SOA=2223624407&dial=26262&message=TEST+MARCACION&service=WEBSMS&subservice=UNICO&username=sendsmsatt_26262
+2017-04-06T14:07:09-05:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-04-06T14:07:09-05:00 INFO (6): response:: 0: Accepted for delivery
+2017-04-06T14:07:09-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-06T14:07:09-05:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-04-06T14:07:09-05:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Att
+    [mt_msisdn] => 2223624407
+    [mt_medio] => BaseMadre
+    [mt_folio] => 158e691dd1d7cb3
+    [mt_contenido] => TEST MARCACION
+    [mt_fecha] => 2017-04-06 14:07:09
+    [mt_tag] => UNICO
+    [usuario_id] => 23
+)
+
+2017-04-06T14:07:09-05:00 INFO (6): SE INSERTO:: 1
+2017-04-06T14:07:09-05:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-04-06T14:07:09-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 16,68
+)
+
+2017-04-06T14:07:09-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-06T15:19:47-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T15:19:47-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T15:19:47-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T15:19:47-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-06T15:19:47-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5549444527
+    [message] => cdscdscds
+    [caracteres] => 9
+    [accion] => enviar
+    [PHPSESSID] => omj399hbfsilsfdp9qk5vsojk2
+)
+
+2017-04-06T15:19:47-05:00 INFO (6): MSISDN: 5549444527
+2017-04-06T15:19:47-05:00 INFO (6): SMS: cdscdscds
+2017-04-06T15:19:47-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-06T15:19:47-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-06T15:19:47-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-06T15:19:47-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: cdscdscds
+2017-04-06T15:19:47-05:00 INFO (6): .
+2017-04-06T15:19:47-05:00 INFO (6): .
+2017-04-06T15:19:47-05:00 INFO (6): .
+2017-04-06T15:19:47-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: cdscdscds
+2017-04-06T15:19:47-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: cdscdscds
+2017-04-06T15:19:47-05:00 INFO (6): URL: http://administrador.cm-operations.com/telcel/router/router_mt.php?SOA=5549444527&dial=26262&message=cdscdscds&service=WEBSMS&subservice=UNICO&username=sendsmsmt_26262
+2017-04-06T15:19:47-05:00 INFO (6): No tiene crédito suficiente
+2017-04-06T15:52:41-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T15:52:41-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T15:52:41-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T15:52:41-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-06T15:52:41-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5549444527
+    [message] => fhwkef()/
+    [caracteres] => 9
+    [accion] => enviar
+    [PHPSESSID] => omj399hbfsilsfdp9qk5vsojk2
+)
+
+2017-04-06T15:52:41-05:00 INFO (6): MSISDN: 5549444527
+2017-04-06T15:52:41-05:00 INFO (6): SMS: fhwkef()/
+2017-04-06T15:52:41-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-06T15:52:41-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-06T15:52:41-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-06T15:52:41-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: fhwkef()/
+2017-04-06T15:52:41-05:00 INFO (6): .
+2017-04-06T15:52:41-05:00 INFO (6): .
+2017-04-06T15:52:41-05:00 INFO (6): .
+2017-04-06T15:52:41-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: fhwkef()/
+2017-04-06T15:52:41-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: fhwkef%28%29%2F
+2017-04-06T15:52:41-05:00 INFO (6): URL: http://administrador.cm-operations.com/telcel/router/router_mt.php?SOA=5549444527&dial=26262&message=fhwkef%28%29%2F&service=WEBSMS&subservice=UNICO&username=sendsmsmt_26262
+2017-04-06T15:52:41-05:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-04-06T15:52:41-05:00 INFO (6): response:: 0: Accepted for delivery
+2017-04-06T15:52:41-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-06T15:52:41-05:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-04-06T15:52:41-05:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => BaseMadre
+    [mt_folio] => 558e6aa99bbfa53
+    [mt_contenido] => fhwkef()/
+    [mt_fecha] => 2017-04-06 15:52:41
+    [mt_tag] => UNICO
+    [usuario_id] => 60
+)
+
+2017-04-06T15:52:41-05:00 INFO (6): SE INSERTO:: 1
+2017-04-06T15:52:41-05:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-04-06T15:52:41-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 6,52
+)
+
+2017-04-06T15:52:41-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-06T16:37:17-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T16:37:17-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T16:37:17-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T16:37:17-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-06T16:37:17-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5547870016
+    [message] => prueba cm
+    [caracteres] => 9
+    [accion] => enviar
+    [PHPSESSID] => odmdnvf9vp65obvs016b0s5cd7
+)
+
+2017-04-06T16:37:17-05:00 INFO (6): MSISDN: 5547870016
+2017-04-06T16:37:17-05:00 INFO (6): SMS: prueba cm
+2017-04-06T16:37:17-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-06T16:37:17-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-06T16:37:17-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-06T16:37:17-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: prueba cm
+2017-04-06T16:37:17-05:00 INFO (6): .
+2017-04-06T16:37:17-05:00 INFO (6): .
+2017-04-06T16:37:17-05:00 INFO (6): .
+2017-04-06T16:37:17-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: prueba cm
+2017-04-06T16:37:17-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: prueba+cm
+2017-04-06T16:37:17-05:00 INFO (6): URL: http://administrador.cm-operations.com/telcel/router/router_mt.php?SOA=5547870016&dial=26262&message=prueba+cm&service=WEBSMS&subservice=UNICO&username=sendsmsmt_26262
+2017-04-06T16:37:17-05:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-04-06T16:37:17-05:00 INFO (6): response:: 0: Accepted for delivery
+2017-04-06T16:37:17-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-06T16:37:17-05:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-04-06T16:37:17-05:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5547870016
+    [mt_medio] => BaseMadre
+    [mt_folio] => 658e6b50d6c5d69
+    [mt_contenido] => prueba cm
+    [mt_fecha] => 2017-04-06 16:37:17
+    [mt_tag] => UNICO
+    [usuario_id] => 55
+)
+
+2017-04-06T16:37:17-05:00 INFO (6): SE INSERTO:: 1
+2017-04-06T16:37:17-05:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-04-06T16:37:17-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 95,94
+)
+
+2017-04-06T16:37:17-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-06T17:03:44-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T17:03:44-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T17:03:44-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T17:03:44-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-06T17:03:44-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5549444527
+    [message] => werwe
+    [caracteres] => 5
+    [accion] => enviar
+    [PHPSESSID] => 5f2jqa2o41ueqjun3ehbt4har6
+)
+
+2017-04-06T17:03:44-05:00 INFO (6): MSISDN: 5549444527
+2017-04-06T17:03:44-05:00 INFO (6): SMS: werwe
+2017-04-06T17:03:44-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-06T17:03:44-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-06T17:03:44-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-06T17:03:44-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: werwe
+2017-04-06T17:03:44-05:00 INFO (6): .
+2017-04-06T17:03:44-05:00 INFO (6): .
+2017-04-06T17:03:44-05:00 INFO (6): .
+2017-04-06T17:03:44-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: werwe
+2017-04-06T17:03:44-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: werwe
+2017-04-06T17:03:44-05:00 INFO (6): URL: http://administrador.cm-operations.com/telcel/router/router_mt.php?SOA=5549444527&dial=26262&message=werwe&service=WEBSMS&subservice=UNICO&username=sendsmsmt_26262
+2017-04-06T17:03:44-05:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-04-06T17:03:44-05:00 INFO (6): response:: 0: Accepted for delivery
+2017-04-06T17:03:44-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-06T17:03:44-05:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-04-06T17:03:44-05:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => BaseMadre
+    [mt_folio] => 458e6bb40a6b225
+    [mt_contenido] => werwe
+    [mt_fecha] => 2017-04-06 17:03:44
+    [mt_tag] => UNICO
+    [usuario_id] => 1
+)
+
+2017-04-06T17:03:44-05:00 INFO (6): SE INSERTO:: 1
+2017-04-06T17:03:44-05:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-04-06T17:03:44-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 95026,04
+)
+
+2017-04-06T17:03:44-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-06T17:05:14-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T17:05:14-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T17:05:14-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T17:05:14-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-06T17:05:14-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5554995994
+    [message] => Testttttsts t test sts
+    [caracteres] => 22
+    [accion] => enviar
+    [PHPSESSID] => isoj1vndlaflfnu14l941hmon1
+)
+
+2017-04-06T17:05:14-05:00 INFO (6): MSISDN: 5554995994
+2017-04-06T17:05:14-05:00 INFO (6): SMS: Testttttsts t test sts
+2017-04-06T17:05:14-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-06T17:05:14-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-06T17:05:14-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-06T17:05:14-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: Testttttsts t test sts
+2017-04-06T17:05:14-05:00 INFO (6): .
+2017-04-06T17:05:14-05:00 INFO (6): .
+2017-04-06T17:05:14-05:00 INFO (6): .
+2017-04-06T17:05:14-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: Testttttsts t test sts
+2017-04-06T17:05:14-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: Testttttsts+t+test+sts
+2017-04-06T17:05:14-05:00 INFO (6): URL: http://administrador.cm-operations.com/telcel/router/router_mt.php?SOA=5554995994&dial=26262&message=Testttttsts+t+test+sts&service=WEBSMS&subservice=UNICO&username=sendsmsmt_26262
+2017-04-06T17:05:14-05:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-04-06T17:05:14-05:00 INFO (6): response:: 0: Accepted for delivery
+2017-04-06T17:05:14-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-06T17:05:14-05:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-04-06T17:05:14-05:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5554995994
+    [mt_medio] => BaseMadre
+    [mt_folio] => 758e6bb9a3424b1
+    [mt_contenido] => Testttttsts t test sts
+    [mt_fecha] => 2017-04-06 17:05:14
+    [mt_tag] => UNICO
+    [usuario_id] => 23
+)
+
+2017-04-06T17:05:14-05:00 INFO (6): SE INSERTO:: 1
+2017-04-06T17:05:14-05:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-04-06T17:05:14-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 15,52
+)
+
+2017-04-06T17:05:14-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-06T17:11:10-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T17:11:10-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T17:11:10-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T17:11:10-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-06T17:11:10-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5549444527
+    [message] => EFWF
+    [caracteres] => 4
+    [accion] => enviar
+    [PHPSESSID] => omj399hbfsilsfdp9qk5vsojk2
+)
+
+2017-04-06T17:11:10-05:00 INFO (6): MSISDN: 5549444527
+2017-04-06T17:11:10-05:00 INFO (6): SMS: EFWF
+2017-04-06T17:11:10-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-06T17:11:10-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-06T17:11:10-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-06T17:11:10-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: EFWF
+2017-04-06T17:11:10-05:00 INFO (6): .
+2017-04-06T17:11:10-05:00 INFO (6): .
+2017-04-06T17:11:10-05:00 INFO (6): .
+2017-04-06T17:11:10-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: EFWF
+2017-04-06T17:11:10-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: EFWF
+2017-04-06T17:11:10-05:00 INFO (6): URL: http://administrador.cm-operations.com/telcel/router/router_mt.php?SOA=5549444527&dial=26262&message=EFWF&service=WEBSMS&subservice=UNICO&username=sendsmsmt_26262
+2017-04-06T17:11:10-05:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-04-06T17:11:14-05:00 INFO (6): response:: 0: Accepted for delivery
+2017-04-06T17:11:14-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-06T17:11:14-05:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-04-06T17:11:14-05:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => BaseMadre
+    [mt_folio] => 258e6bd028152b5
+    [mt_contenido] => EFWF
+    [mt_fecha] => 2017-04-06 17:11:14
+    [mt_tag] => UNICO
+    [usuario_id] => 1
+)
+
+2017-04-06T17:11:14-05:00 INFO (6): SE INSERTO:: 1
+2017-04-06T17:11:14-05:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-04-06T17:11:14-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 95025,36
+)
+
+2017-04-06T17:11:14-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-06T17:14:14-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T17:14:14-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T17:14:14-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T17:14:14-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-06T17:14:14-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5549444527
+    [message] => SADDAS
+    [caracteres] => 6
+    [accion] => enviar
+    [PHPSESSID] => 5f2jqa2o41ueqjun3ehbt4har6
+)
+
+2017-04-06T17:14:14-05:00 INFO (6): MSISDN: 5549444527
+2017-04-06T17:14:14-05:00 INFO (6): SMS: SADDAS
+2017-04-06T17:14:14-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-06T17:14:14-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-06T17:14:14-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-06T17:14:14-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: SADDAS
+2017-04-06T17:14:14-05:00 INFO (6): .
+2017-04-06T17:14:14-05:00 INFO (6): .
+2017-04-06T17:14:14-05:00 INFO (6): .
+2017-04-06T17:14:14-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: SADDAS
+2017-04-06T17:14:14-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: SADDAS
+2017-04-06T17:14:14-05:00 INFO (6): URL: http://administrador.cm-operations.com/telcel/router/router_mt.php?SOA=5549444527&dial=26262&message=SADDAS&service=WEBSMS&subservice=UNICO&username=sendsmsmt_26262
+2017-04-06T17:14:14-05:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-04-06T17:14:14-05:00 INFO (6): response:: 0: Accepted for delivery
+2017-04-06T17:14:14-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-06T17:14:14-05:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-04-06T17:14:14-05:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5549444527
+    [mt_medio] => BaseMadre
+    [mt_folio] => 658e6bdb62447d5
+    [mt_contenido] => SADDAS
+    [mt_fecha] => 2017-04-06 17:14:14
+    [mt_tag] => UNICO
+    [usuario_id] => 1
+)
+
+2017-04-06T17:14:14-05:00 INFO (6): SE INSERTO:: 1
+2017-04-06T17:14:14-05:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-04-06T17:14:14-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 95024,68
+)
+
+2017-04-06T17:14:14-05:00 INFO (6): SE ACTUALIZO:: 1
+2017-04-06T17:14:40-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T17:14:40-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T17:14:40-05:00 INFO (6): ----------------------------------------------------
+2017-04-06T17:14:40-05:00 INFO (6): ---- ENVIO UNICO - FN ENVIAR -----------------------
+2017-04-06T17:14:40-05:00 INFO (6): REQUEST: Array
+(
+    [msisdn] => 5554995994
+    [message] => TEST TEST TEST
+    [caracteres] => 14
+    [accion] => enviar
+    [PHPSESSID] => isoj1vndlaflfnu14l941hmon1
+)
+
+2017-04-06T17:14:40-05:00 INFO (6): MSISDN: 5554995994
+2017-04-06T17:14:40-05:00 INFO (6): SMS: TEST TEST TEST
+2017-04-06T17:14:40-05:00 INFO (6): SI PUSO UN MSISDN Y UN MENSAJE
+2017-04-06T17:14:40-05:00 INFO (6): SI ES UN MSISDN VALIDO
+2017-04-06T17:14:40-05:00 INFO (6): POSICON SIGNO DE PESOS: 
+2017-04-06T17:14:40-05:00 INFO (6): SUSTITUYENDO EL SIGNO DE PESOS: TEST TEST TEST
+2017-04-06T17:14:40-05:00 INFO (6): .
+2017-04-06T17:14:40-05:00 INFO (6): .
+2017-04-06T17:14:40-05:00 INFO (6): .
+2017-04-06T17:14:40-05:00 INFO (6): CONTENIDO A ENVIAR SIN CODIFICAR: TEST TEST TEST
+2017-04-06T17:14:40-05:00 INFO (6): CONTENIDO A ENVIAR CODIFICADO: TEST+TEST+TEST
+2017-04-06T17:14:41-05:00 INFO (6): URL: http://administrador.cm-operations.com/telcel/router/router_mt.php?SOA=5554995994&dial=26262&message=TEST+TEST+TEST&service=WEBSMS&subservice=UNICO&username=sendsmsmt_26262
+2017-04-06T17:14:41-05:00 INFO (6): SE SE ARMO LA URL SE VA A EJECUTAR
+2017-04-06T17:14:41-05:00 INFO (6): response:: 0: Accepted for delivery
+2017-04-06T17:14:41-05:00 INFO (6): return: <?xml version="1.0" encoding="UTF-8"?><status>OK</status>
+2017-04-06T17:14:41-05:00 INFO (6): SE VA A GUARDAR EN BASE DE DATOS:::...
+2017-04-06T17:14:41-05:00 INFO (6): DATOS MT:: Array
+(
+    [mt_marcacion] => 26262
+    [mt_operador] => Telcel
+    [mt_msisdn] => 5554995994
+    [mt_medio] => BaseMadre
+    [mt_folio] => 058e6bdd140dd84
+    [mt_contenido] => TEST TEST TEST
+    [mt_fecha] => 2017-04-06 17:14:41
+    [mt_tag] => UNICO
+    [usuario_id] => 23
+)
+
+2017-04-06T17:14:41-05:00 INFO (6): SE INSERTO:: 1
+2017-04-06T17:14:41-05:00 INFO (6): CODIGO DE RESPUESTA 200
+2017-04-06T17:14:41-05:00 INFO (6): Array data_cr:: Array
+(
+    [credito_valor] => 14,94
+)
+
+2017-04-06T17:14:41-05:00 INFO (6): SE ACTUALIZO:: 1
